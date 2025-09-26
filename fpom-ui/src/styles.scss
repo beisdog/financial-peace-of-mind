@@ -1,1 +1,125 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Angular Material Core Theme */
+@use '@angular/material' as mat;
+
+/* Define custom theme colors */
+$primary-palette: mat.m2-define-palette(mat.$m2-blue-palette, 600);
+$accent-palette: mat.m2-define-palette(mat.$m2-green-palette, 500);
+$warn-palette: mat.m2-define-palette(mat.$m2-red-palette, 500);
+
+/* Create the theme */
+$theme: mat.m2-define-light-theme((
+  color: (
+    primary: $primary-palette,
+    accent: $accent-palette,
+    warn: $warn-palette,
+  ),
+  typography: mat.m2-define-typography-config(),
+  density: 0,
+));
+
+/* Include core styles */
+@include mat.core();
+
+/* Include theme styles for all components */
+@include mat.all-component-themes($theme);
+
+/* Global styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+
+/* Custom utility classes */
+.full-width {
+  width: 100%;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.mat-elevation-z8 {
+  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2),
+              0px 8px 10px 1px rgba(0, 0, 0, 0.14),
+              0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+
+/* Portfolio specific styles */
+.portfolio-container {
+  padding: 24px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.account-selector {
+  margin-bottom: 24px;
+}
+
+.portfolio-table {
+  margin-top: 16px;
+}
+
+.currency-column {
+  text-align: right;
+}
+
+.risk-low {
+  color: #4caf50;
+  font-weight: 500;
+}
+
+.risk-medium {
+  color: #ff9800;
+  font-weight: 500;
+}
+
+.risk-high {
+  color: #f44336;
+  font-weight: 500;
+}
+
+.loading-shade {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 56px;
+  right: 0;
+  background: rgba(0, 0, 0, 0.15);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.summary-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.summary-card {
+  padding: 16px;
+}
+
+.summary-card h3 {
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.summary-card .value {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.summary-card .subtitle {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+}
