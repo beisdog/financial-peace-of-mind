@@ -2,8 +2,6 @@ import { Component, OnInit, signal, computed, effect, inject, DestroyRef } from 
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule, FormControl } from '@angular/forms';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
-
-// Material Design Imports
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSelectModule } from '@angular/material/select';
 import { MatFormFieldModule } from '@angular/material/form-field';
@@ -16,8 +14,6 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSnackBarModule, MatSnackBar } from '@angular/material/snack-bar';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatDividerModule } from '@angular/material/divider';
-
-// Service and Models
 import { PortfolioService } from '../../services/portfolio.service';
 import {
   AccountSummary,
@@ -56,85 +52,7 @@ interface PositionTableRow {
     MatDividerModule
   ],
   templateUrl: './portfolio-dashboard.component.html',
-  styles: [`
-    .account-option {
-      padding: 4px 0;
-    }
-
-    .account-main {
-      font-weight: 500;
-      font-size: 16px;
-    }
-
-    .account-details {
-      font-size: 12px;
-      color: rgba(0, 0, 0, 0.6);
-      margin-top: 2px;
-    }
-
-    .instrument-cell {
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-    }
-
-    .instrument-name {
-      font-weight: 500;
-    }
-
-    .instrument-isin {
-      font-size: 12px;
-      color: rgba(0, 0, 0, 0.6);
-    }
-
-    .value-cell {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 2px;
-    }
-
-    .amount {
-      font-weight: 500;
-    }
-
-    .currency {
-      font-size: 12px;
-      color: rgba(0, 0, 0, 0.6);
-    }
-
-    .no-data {
-      text-align: center;
-      padding: 48px;
-      color: rgba(0, 0, 0, 0.6);
-    }
-
-    .no-data mat-icon {
-      font-size: 48px;
-      width: 48px;
-      height: 48px;
-      margin-bottom: 16px;
-    }
-
-    .currency-chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    .loading-shade {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(255, 255, 255, 0.8);
-      z-index: 1000;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-  `]
+  styleUrl: './portfolio-dashboard.component.scss'
 })
 export class PortfolioDashboardComponent implements OnInit {
   // Inject services
@@ -192,9 +110,7 @@ export class PortfolioDashboardComponent implements OnInit {
     // Setup form control listener
     this.accountControl.valueChanges
       .pipe(takeUntilDestroyed(this.destroyRef))
-      .subscribe(accountId => {
-        // This will trigger the effect above
-      });
+      .subscribe();
   }
 
   ngOnInit(): void {
