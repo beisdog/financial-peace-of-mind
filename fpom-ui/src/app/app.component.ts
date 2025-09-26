@@ -1,15 +1,13 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import { PortfolioDashboardComponent } from './components/portfolio-dashboard.component';
+import { PortfolioDashboardComponent } from './components/portfolio-dashboard/portfolio-dashboard.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, PortfolioDashboardComponent],
+  imports: [PortfolioDashboardComponent],
   template: `
     <main>
-      <app-portfolio-dashboard></app-portfolio-dashboard>
+      <app-portfolio-dashboard />
     </main>
-    <router-outlet />
   `,
   styles: [`
     main {

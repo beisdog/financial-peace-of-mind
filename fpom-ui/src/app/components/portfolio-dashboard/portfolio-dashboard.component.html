@@ -1,0 +1,199 @@
+<div class="portfolio-container">
+    <!-- Header -->
+    <mat-toolbar color="primary" class="mat-elevation-z4">
+        <span>Portfolio Dashboard</span>
+    </mat-toolbar>
+
+    <!-- Account Selector -->
+    <mat-card class="account-selector mat-elevation-z2">
+        <mat-card-header>
+            <mat-card-title>Select Account</mat-card-title>
+            <mat-card-subtitle>Choose an account to view its portfolio positions</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+            <mat-form-field class="full-width">
+                <mat-label>Account</mat-label>
+                <mat-select [formControl]="accountControl" [disabled]="isLoadingAccounts()" placeholder="Select an
+                    account...">
+                    <mat-option *ngFor="let account of availableAccounts(); trackBy: trackByAccountId"
+                        [value]="account.accountIdFake">
+                        <div class="account-option">
+                            <div class="account-main">{{ account.accountIdFake }}</div>
+                            <div class="account-details">
+                                Partner: {{ account.partnerIdFake }} |
+                                {{ account.positionCount }} positions |
+                                {{ formatCurrency(account.totalValue, account.currency) }}
+                            </div>
+                        </div>
+                    </mat-option>
+                </mat-select>
+                @if (isLoadingAccounts()) {
+                <mat-icon matPrefix>hourglass_empty</mat-icon>
+                }
+            </mat-form-field>
+        </mat-card-content>
+    </mat-card>
+
+    <!-- Account Summary Cards -->
+    @if (selectedAccountDetails()) {
+    <div class="summary-cards">
+        <mat-card class="summary-card mat-elevation-z2">
+            <h3>Total Positions</h3>
+            <div class="value">{{ selectedAccountDetails()?.positionCount | number }}</div>
+            <div class="subtitle">Active positions in portfolio</div>
+        </mat-card>
+
+        <mat-card class="summary-card mat-elevation-z2">
+            <h3>Primary Currency</h3>
+            <div class="value">{{ selectedAccountDetails()?.primaryCurrency || 'N/A' }}</div>
+            <div class="subtitle">Most common currency</div>
+        </mat-card>
+
+        <mat-card class="summary-card mat-elevation-z2">
+            <h3>Risk Level</h3>
+            <div class="value" [class]="getRiskLevelClass(selectedAccountDetails()?.riskMetrics?.riskLevel)">
+                {{ selectedAccountDetails()?.riskMetrics?.riskLevel || 'N/A' }}
+            </div>
+            <div class="subtitle">Portfolio risk assessment</div>
+        </mat-card>
+
+        <mat-card class="summary-card mat-elevation-z2">
+            <h3>Asset Diversification</h3>
+            <div class="value">{{ selectedAccountDetails()?.riskMetrics?.assetClassCount || 0 }}</div>
+            <div class="subtitle">Different asset classes</div>
+        </mat-card>
+
+        <mat-card class="summary-card mat-elevation-z2">
+            <h3>Currency Exposure</h3>
+            <div class="value">{{ selectedAccountDetails()?.riskMetrics?.currencyCount || 0 }}</div>
+            <div class="subtitle">Different currencies</div>
+        </mat-card>
+
+        <mat-card class="summary-card mat-elevation-z2">
+            <h3>Concentration Risk</h3>
+            <div class="value"
+                [class]="getConcentrationRiskClass(selectedAccountDetails()?.riskMetrics?.concentrationRisk)">
+                {{ (selectedAccountDetails()?.riskMetrics?.concentrationRisk || 0).toFixed(1) }}%
+            </div>
+            <div class="subtitle">Largest single position</div>
+        </mat-card>
+    </div>
+
+    <!-- Currency Breakdown -->
+    <mat-card class="mat-elevation-z2" style="margin-bottom: 24px;">
+        <mat-card-header>
+            <mat-card-title>Currency Breakdown</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+            <div class="currency-chips">
+                @for (currency of currencyBreakdown(); track currency.code) {
+                <mat-chip-set>
+                    <mat-chip>{{ currency.code }}: {{ formatCurrency(currency.amount, currency.code) }}</mat-chip>
+                </mat-chip-set>
+                }
+            </div>
+        </mat-card-content>
+    </mat-card>
+    }
+
+    <!-- Positions Table -->
+    @if (selectedAccountId() && !isLoadingPositions()) {
+    <mat-card class="portfolio-table mat-elevation-z4">
+        <mat-card-header>
+            <mat-card-title>
+                <mat-icon>table_chart</mat-icon>
+                Portfolio Positions ({{ tableData().length }})
+            </mat-card-title>
+            <mat-card-subtitle>{{ selectedAccountId() }} - All Positions</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+            @if (tableData().length > 0) {
+            <div class="mat-elevation-z8">
+                <table mat-table [dataSource]="tableData()" class="full-width">
+                    <!-- Instrument Name Column -->
+                    <ng-container matColumnDef="instrumentName">
+                        <th mat-header-cell *matHeaderCellDef>Instrument</th>
+                        <td mat-cell *matCellDef="let position">
+                            <div class="instrument-cell">
+                                <div class="instrument-name">{{ position.instrumentName || 'N/A' }}</div>
+                                <div class="instrument-isin">{{ position.isin || 'No ISIN' }}</div>
+                            </div>
+                        </td>
+                    </ng-container>
+
+                    <!-- Asset Class Column -->
+                    <ng-container matColumnDef="assetClass">
+                        <th mat-header-cell *matHeaderCellDef>Asset Class</th>
+                        <td mat-cell *matCellDef="let position">
+                            <mat-chip>{{ position.assetClass || 'N/A' }}</mat-chip>
+                        </td>
+                    </ng-container>
+
+                    <!-- Value Amount Column -->
+                    <ng-container matColumnDef="valueAmount">
+                        <th mat-header-cell *matHeaderCellDef class="currency-column">Value Amount</th>
+                        <td mat-cell *matCellDef="let position" class="currency-column">
+                            <div class="value-cell">
+                                <div class="amount">{{ formatCurrency(position.valueAmount, position.valueCurrency) }}
+                                </div>
+                                <div class="currency">{{ position.valueCurrency }}</div>
+                            </div>
+                        </td>
+                    </ng-container>
+
+                    <!-- Market Value Column -->
+                    <ng-container matColumnDef="marketValue">
+                        <th mat-header-cell *matHeaderCellDef class="currency-column">Market Value</th>
+                        <td mat-cell *matCellDef="let position" class="currency-column">
+                            {{ position.marketValue ? formatNumber(position.marketValue) : 'N/A' }}
+                        </td>
+                    </ng-container>
+
+                    <!-- FX Rate Column -->
+                    <ng-container matColumnDef="fxRate">
+                        <th mat-header-cell *matHeaderCellDef class="currency-column">FX Rate</th>
+                        <td mat-cell *matCellDef="let position" class="currency-column">
+                            {{ position.fxRate ? position.fxRate.toFixed(4) : 'N/A' }}
+                        </td>
+                    </ng-container>
+
+                    <!-- Actions Column -->
+                    <ng-container matColumnDef="actions">
+                        <th mat-header-cell *matHeaderCellDef>Actions</th>
+                        <td mat-cell *matCellDef="let position">
+                            <button mat-icon-button (click)="viewPositionDetails(position.id)" matTooltip="View
+                                Details">
+                                <mat-icon>visibility</mat-icon>
+                            </button>
+                            <button mat-icon-button (click)="editPosition(position.id)" matTooltip="Edit">
+                                <mat-icon>edit</mat-icon>
+                            </button>
+                        </td>
+                    </ng-container>
+
+                    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+                </table>
+            </div>
+            } @else {
+            <div class="no-data">
+                <mat-icon>inbox</mat-icon>
+                <h3>No positions found</h3>
+                <p>This account doesn't have any positions.</p>
+            </div>
+            }
+        </mat-card-content>
+    </mat-card>
+    }
+
+    <!-- Loading States -->
+    @if (isLoadingPositions()) {
+    <div class="loading-shade">
+        <mat-progress-spinner mode="indeterminate" diameter="50" />
+    </div>
+    }
+
+    @if (isLoadingAccounts()) {
+    <mat-progress-bar mode="indeterminate"></mat-progress-bar>
+    }
+</div>
