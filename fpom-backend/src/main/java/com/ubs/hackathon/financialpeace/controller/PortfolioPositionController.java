@@ -1,5 +1,7 @@
 package com.ubs.hackathon.financialpeace.controller;
 
+import com.ubs.hackathon.financialpeace.dto.AccountDetailsDTO;
+import com.ubs.hackathon.financialpeace.dto.AccountSummaryDTO;
 import com.ubs.hackathon.financialpeace.model.PortfolioPosition;
 import com.ubs.hackathon.financialpeace.repository.PortfolioPositionRepository;
 import com.ubs.hackathon.financialpeace.service.PortfolioPositionImportService;
@@ -214,20 +216,12 @@ public class PortfolioPositionController {
      * Get a list of all unique accounts with position counts and total values.
      */
     @GetMapping("/accounts")
-    public ResponseEntity<List<Map<String, Object>>> getAllAccounts() {
+    public ResponseEntity<List<AccountSummaryDTO>> getAllAccounts() {
         try {
             List<Object[]> accountSummary = repository.getAccountSummary();
             
-            List<Map<String, Object>> accounts = accountSummary.stream()
-                    .map(row -> {
-                        Map<String, Object> account = new HashMap<>();
-                        account.put("accountIdFake", row[0]);
-                        account.put("partnerIdFake", row[1]);
-                        account.put("positionCount", row[2]);
-                        account.put("totalValue", row[3]);
-                        account.put("currency", row[4]);
-                        return account;
-                    })
+            List<AccountSummaryDTO> accounts = accountSummary.stream()
+                    .map(this::mapToAccountSummaryDTO)
                     .toList();
             
             logger.info("Retrieved {} unique accounts", accounts.size());
@@ -258,7 +252,7 @@ public class PortfolioPositionController {
      * Get account details with positions summary.
      */
     @GetMapping("/accounts/{accountIdFake}/details")
-    public ResponseEntity<Map<String, Object>> getAccountDetails(@PathVariable String accountIdFake) {
+    public ResponseEntity<AccountDetailsDTO> getAccountDetails(@PathVariable String accountIdFake) {
         try {
             List<PortfolioPosition> positions = repository.findByAccountIdFake(accountIdFake);
             
@@ -267,32 +261,7 @@ public class PortfolioPositionController {
                 return ResponseEntity.notFound().build();
             }
             
-            Map<String, Object> accountDetails = new HashMap<>();
-            accountDetails.put("accountIdFake", accountIdFake);
-            accountDetails.put("partnerIdFake", positions.get(0).getPartnerIdFake());
-            accountDetails.put("positionCount", positions.size());
-            
-            // Calculate total values by currency
-            Map<String, BigDecimal> totalsByCurrency = positions.stream()
-                    .collect(java.util.stream.Collectors.groupingBy(
-                            PortfolioPosition::getValueCurrency,
-                            java.util.stream.Collectors.reducing(
-                                    BigDecimal.ZERO,
-                                    PortfolioPosition::getValueAmount,
-                                    BigDecimal::add
-                            )
-                    ));
-            
-            // Asset class breakdown
-            Map<String, Long> assetClassCounts = positions.stream()
-                    .collect(java.util.stream.Collectors.groupingBy(
-                            PortfolioPosition::getAssetClassDescriptionShort,
-                            java.util.stream.Collectors.counting()
-                    ));
-            
-            accountDetails.put("totalsByCurrency", totalsByCurrency);
-            accountDetails.put("assetClassBreakdown", assetClassCounts);
-            accountDetails.put("positions", positions);
+            AccountDetailsDTO accountDetails = buildAccountDetailsDTO(accountIdFake, positions);
             
             return ResponseEntity.ok(accountDetails);
             
@@ -551,6 +520,149 @@ public class PortfolioPositionController {
     }
     
     // ==================== HELPER METHODS ====================
+    
+    /**
+     * Map Object array from repository query to AccountSummaryDTO.
+     */
+    private AccountSummaryDTO mapToAccountSummaryDTO(Object[] row) {
+        return new AccountSummaryDTO(
+            (String) row[0],              // accountIdFake
+            (String) row[1],              // partnerIdFake  
+            ((Number) row[2]).longValue(), // positionCount
+            (BigDecimal) row[3],          // totalValue
+            (String) row[4]               // currency
+        );
+    }
+    
+    /**
+     * Build AccountDetailsDTO from account ID and positions list.
+     */
+    private AccountDetailsDTO buildAccountDetailsDTO(String accountIdFake, List<PortfolioPosition> positions) {
+        if (positions.isEmpty()) {
+            return AccountDetailsDTO.builder()
+                    .accountIdFake(accountIdFake)
+                    .positionCount(0)
+                    .build();
+        }
+        
+        String partnerIdFake = positions.get(0).getPartnerIdFake();
+        
+        // Calculate total values by currency
+        Map<String, BigDecimal> totalsByCurrency = positions.stream()
+                .collect(java.util.stream.Collectors.groupingBy(
+                        PortfolioPosition::getValueCurrency,
+                        java.util.stream.Collectors.reducing(
+                                BigDecimal.ZERO,
+                                pos -> pos.getValueAmount() != null ? pos.getValueAmount() : BigDecimal.ZERO,
+                                BigDecimal::add
+                        )
+                ));
+        
+        // Asset class breakdown
+        Map<String, Long> assetClassBreakdown = positions.stream()
+                .filter(pos -> pos.getAssetClassDescriptionShort() != null)
+                .collect(java.util.stream.Collectors.groupingBy(
+                        PortfolioPosition::getAssetClassDescriptionShort,
+                        java.util.stream.Collectors.counting()
+                ));
+        
+        // Convert positions to summary DTOs
+        List<AccountDetailsDTO.PositionSummaryDTO> positionSummaries = positions.stream()
+                .map(this::mapToPositionSummaryDTO)
+                .toList();
+        
+        // Calculate CHF total (simplified - using FX rates if available)
+        BigDecimal totalValueChf = positions.stream()
+                .filter(pos -> pos.getValueAmount() != null && pos.getFxRate() != null)
+                .map(pos -> pos.getValueAmount().multiply(pos.getFxRate()))
+                .reduce(BigDecimal.ZERO, BigDecimal::add);
+        
+        // Determine primary currency (most common)
+        String primaryCurrency = totalsByCurrency.entrySet().stream()
+                .max(Map.Entry.comparingByValue())
+                .map(Map.Entry::getKey)
+                .orElse(null);
+        
+        // Build risk metrics
+        AccountDetailsDTO.AccountRiskMetricsDTO riskMetrics = buildRiskMetrics(positions, totalsByCurrency);
+        
+        return AccountDetailsDTO.builder()
+                .accountIdFake(accountIdFake)
+                .partnerIdFake(partnerIdFake)
+                .positionCount(positions.size())
+                .totalsByCurrency(totalsByCurrency)
+                .assetClassBreakdown(assetClassBreakdown)
+                .positions(positionSummaries)
+                .totalValueChf(totalValueChf.compareTo(BigDecimal.ZERO) > 0 ? totalValueChf : null)
+                .primaryCurrency(primaryCurrency)
+                .riskMetrics(riskMetrics)
+                .build();
+    }
+    
+    /**
+     * Map PortfolioPosition to PositionSummaryDTO.
+     */
+    private AccountDetailsDTO.PositionSummaryDTO mapToPositionSummaryDTO(PortfolioPosition position) {
+        return AccountDetailsDTO.PositionSummaryDTO.builder()
+                .id(position.getId())
+                .instrumentNameShort(position.getInstrumentNameShort())
+                .isin(position.getIsin())
+                .valueAmount(position.getValueAmount())
+                .valueCurrency(position.getValueCurrency())
+                .assetClassDescriptionShort(position.getAssetClassDescriptionShort())
+                .fxRate(position.getFxRate())
+                .build();
+    }
+    
+    /**
+     * Build risk metrics for an account.
+     */
+    private AccountDetailsDTO.AccountRiskMetricsDTO buildRiskMetrics(List<PortfolioPosition> positions, 
+                                                                     Map<String, BigDecimal> totalsByCurrency) {
+        int currencyCount = totalsByCurrency.size();
+        int assetClassCount = (int) positions.stream()
+                .map(PortfolioPosition::getAssetClassDescriptionShort)
+                .filter(ac -> ac != null)
+                .distinct()
+                .count();
+        
+        // Calculate concentration risk (largest single position as % of total)
+        BigDecimal totalValue = totalsByCurrency.values().stream()
+                .reduce(BigDecimal.ZERO, BigDecimal::add);
+        
+        BigDecimal largestPosition = positions.stream()
+                .map(PortfolioPosition::getValueAmount)
+                .filter(amount -> amount != null)
+                .max(BigDecimal::compareTo)
+                .orElse(BigDecimal.ZERO);
+        
+        BigDecimal concentrationRisk = totalValue.compareTo(BigDecimal.ZERO) > 0 
+                ? largestPosition.divide(totalValue, 4, BigDecimal.ROUND_HALF_UP).multiply(new BigDecimal("100"))
+                : BigDecimal.ZERO;
+        
+        // Check for FX exposure
+        boolean hasFxExposure = positions.stream()
+                .anyMatch(pos -> pos.getValueCurrency() != null && pos.getSourceCurrency() != null 
+                        && !pos.getValueCurrency().equals(pos.getSourceCurrency()));
+        
+        // Determine risk level
+        String riskLevel;
+        if (concentrationRisk.compareTo(new BigDecimal("50")) > 0 || currencyCount > 5) {
+            riskLevel = "HIGH";
+        } else if (concentrationRisk.compareTo(new BigDecimal("25")) > 0 || currencyCount > 3) {
+            riskLevel = "MEDIUM";
+        } else {
+            riskLevel = "LOW";
+        }
+        
+        return AccountDetailsDTO.AccountRiskMetricsDTO.builder()
+                .currencyCount(currencyCount)
+                .assetClassCount(assetClassCount)
+                .concentrationRisk(concentrationRisk)
+                .hasFxExposure(hasFxExposure)
+                .riskLevel(riskLevel)
+                .build();
+    }
     
     /**
      * Update all fields from source to target position.
