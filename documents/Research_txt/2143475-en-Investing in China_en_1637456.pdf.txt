@@ -1,0 +1,945 @@
+
+29 April 2025, 07:54PM UTC
+Chief Investment Office GWM
+Investment Research
+
+Tariff Q&A
+Investing in China
+ 
+ Authors: Yifan Hu, CIO Greater China and Head Macroeconomics APAC, UBS AG Hong Kong Branch; Eva Lee, CFA, Strategist, UBS AG Hong Kong
+Branch; Kathy Li, CFA, Macro Strategist, UBS AG Hong Kong Branch; Allen Pu, CFA, Analyst, UBS AG Hong Kong Branch; Teck Leng Tan, CFA, Strategist,
+UBS AG Singapore Branch; Sundeep Gantori, CFA, CAIA, CIO Equity Strategist, UBS AG Singapore Branch; Eve Li, CFA, Credit Strategist, UBS AG Hong
+Kong Branch; Stephanie Choi, CIO Sustainable and Impact Investing Strategist, UBS AG Hong Kong Branch; Jessie Ren, Strategist, UBS AG Hong Kong
+Branch
+
+• It may take time for China and the US to reach an
+agreement if any talks restart, as their gap on tariffs
+could remain large. China is expected to ramp up
+policy support to mitigate tariff impact.
+
+• We recommend a defensive positioning towards
+select SOEs in financials, energy, utilities, and
+telecom sectors. Within China tech, we prefer online
+gaming and travel platforms with robust cash flow.
+
+• On fixed income, we think Asia IG offers an
+attractive carry and prefer an average duration of
+five years.
+
+• We expect USDCNY to trade in a narrow band and
+reach 7.2 by year-end. Source: UBS Database
+
+Special contribution:
+Julian Wee, Investment Writer
+
+ 
+
+This report has been prepared by UBS AG Hong Kong Branch, UBS AG Singapore Branch. Please see important
+disclaimers and disclosures at the end of the document.
+
+
+
+Investing in China
+
+Tariff Q&A
+Yifan Hu, Regional CIO & Head Macroeconomics APAC
+Eva Lee, CFA, Head CIO Equities Greater China
+Kathy Li, CFA, CIO Macro Strategist
+Allen Pu, CFA, CIO Equity Strategist
+
+After the aggressive tit-for-tat tariff rate hikes earlier this
+month, investors are still nervously watching the standoff
+between China and the US. Below, we address some
+frequently asked questions about how the China-US trade
+dispute might evolve, and how this could affect China
+equities.
+
+Are US and China even talking yet? Will they reach a
+deal soon?
+China appears to be in no hurry to enter into trade talks with
+the US yet. Beijing’s stance is clear: “if there is a fight, we
+are ready; if there is an opportunity to talk, we are open”.
+In our view, this implies it prefers “letting the bullet fly for a
+while”—i.e., waiting for the US to back down from its tariffs
+first. China has officially denied formal negotiations with the
+US thus far. In our view, we think the US tariffs should at
+least fall to sub-34% as a reasonable starting point before
+China comes to the table to talk.
+
+Negotiations are also impacted by trade dependencies. The
+US heavily depends on China’s electronic imports, especially
+smartphones, PC monitors and laptops, which account for
+over 65% of total US imports. That is likely why the US has
+thus exempted most of these products—worth near USD
+100bn, or 20% of total imports from China.
+
+In contrast, it seems easier for China to diversify its imports
+from the US. Two items stood out: for large imports of US
+aircraft, China may incrementally increase the share of EU
+aircraft instead. For agricultural imports like soybeans, China
+may shift more purchases to other suppliers like Brazil and
+Argentina.
+
+Altogether, the gap between the US and China on tariffs
+could remain large. Thus, in our view, it will likely take time
+to reach an agreement if any talks start. As a whole, we do
+
+We think the US tariffs should at least
+fall to sub-34% as a reasonable starting
+point before China comes to the table
+to talk.
+
+not expect a deal soon despite Trump’s back-and-forth
+positioning over tariffs.
+
+Who will be hit more by tariffs: the US or China?
+The current tariffs could hurt the US more than China, in
+our view. For the US, we now expect economic growth of
+1.5% for 2025, down from 2.8% in 2024. Inflation may
+rise by 1-2ppts (from the current level of around 3%) if the
+proposed tariffs are sustained. Consumer confidence has
+marked the fourth consecutive month of decline in April,
+adding to investor fears that this will spill over to weaker
+actual spending and labor market. The Federal Reserve may
+cut 75-100bps this year in response to signs of economic
+weakness, in our view.
+
+For China, we expect a GDP growth hit of about 200bps for
+2025-26, making the official 2025 growth target of “around
+5%” more challenging. The Politburo has called for faster
+policy implementation, timely reserve requirement ratio
+(RRR) and interest rate cuts, and signaled an incremental
+stimulus plan for worst-case scenarios. China will also likely
+provide policy support in both the short and long term,
+which has been termed the ‘self-betterment’ strategy. In
+the short term, 1) Beijing could cut the RRR by 100-200bps
+and interest rates by 30-50bps; 2) there could also be
+an incremental CNY 1-3tr in fiscal stimulus to support
+consumption and cushion the property market; 3) we expect
+intervention from the ‘national team’ to soften potential
+blows on the equity market. Stronger policy support will
+likely cushion GDP growth to about 4% in 2025, in our
+view. In the long term, China plans to continue emphasizing
+tech innovation, with the new open-source AI-related
+infrastructure and cheap hardware, supported by a strong
+manufacturing capability.
+
+What other tools does China have in its toolbox?
+China has several key tools at its disposal, in our view.
+First, the ability to keep the CNY stable via strong fixing
+and no supply-chain cuts, which means that US corporates
+and consumers will have to shoulder tariff costs. Second,
+the country’s willingness to purchase more energy and
+agriculture goods if needed. Third, tighter rare earth control,
+with China representing around 70%-80% of global
+production. Finally, Beijing still retains several negotiation
+
+2
+
+
+
+Investing in China
+
+tools, including fentanyl control, the repatriation of illegal
+immigrants, and cooperation on geopolitical flash points
+including Ukraine-Russia and Middle East issues.
+
+Moreover, China also visibly plans to build on its past efforts
+to strengthen non-US trade and investment relationships.
+Direct investment and supply chain localization may be
+further enhanced between China and the EU, Middle East
+and ASEAN etc. Indeed, President Xi has just completed
+a visit to Vietnam, Malaysia, and Cambodia on 14-18
+April, signing several cooperation agreements. Also, China
+and the EU have planned a July summit, and initiated
+negotiations to suspend the EU's tariffs on Chinese electric
+vehicles (EVs).
+
+Over the medium to long term, we think China would likely
+promote CNY globalization and increase the CNY’s role in
+global reserves and trade settlement, with more currency
+swaps and CNY-denominated trade blocs. To diversify from
+USD holdings, Beijing appears poised to accelerate plans to
+develop the digital CNY-based SWIFT system.
+
+US reliance on imports from China is high for
+some consumer goods
+Key US imports from China (2024 value)
+
+Source: US International Trade Commission, Bloomberg
+
+Are China equities attractive?
+We remain Neutral on China equities in the near term,
+largely on account of the ongoing volatility and uncertainty
+from US-China trade tensions. Although China equities have
+outperformed year-to-date and current valuations remain
+attractive (with the forward P/E stll well below historical
+average), we advise patience until there is clear progress
+on trade talks. After all, negotiations with the US could be
+prolonged and difficult, with Beijing unlikely to make major
+concessions early.
+
+Despite this cautious stance, selective opportunities
+exist. We prefer skewing towards defensive state-owned
+enterprises (SOEs) in financials, energy, telecom, and
+utilities, which offer yields above 6% and resilience amid
+tariff and growth risks. Within China tech, we prefer online
+gaming and travel platforms with robust cash flows. Over
+
+the medium to long term, leading EV manufacturers appear
+attractive for their superior technology features and pricing
+advantages.
+
+How high is the risk of ADR delisting? Will Hong
+Kong’s market benefit?
+The risk of American Depository Receipts (ADR) delisting
+remains heavily dependent on whether elevated US-China
+tensions escalate, especially with the potential for additional
+tech restrictions and secondary tariffs. In a downside
+scenario involving forced ADR de-listings, China’s equities
+could see an 8-14% derating, highlighting the need for
+investors to stay alert to policy shifts and geopolitical
+developments.
+
+That said, we believe the overall impact of a delisting is likely
+to be contained. Most major mainland Chinese firms have
+already secured dual or secondary listings in Hong Kong,
+with over 80% of mainland Chinese ADRs in the MSCI China
+basket now tradable in Hong Kong. Since the ADR issue
+was raised in 2020, leading internet names listed in the US
+have started moving their secondary or even primary listings
+to Hong Kong. Over 60% of their shareholdings are now
+traded in Hong Kong, an increase of 30 percentage points
+over the past three years. As a result, even if delistings occur,
+we think shareholders will for the most part have a clear
+alternative avenue to access their holdings. Such an event
+could prove beneficial to the Hong Kong market as it would
+increase liquidity and trading activity.
+
+The greater risk lies in potential US restrictions on general
+US investors' ownership of mainland Chinese companies,
+which could have broader implications. Overall, while the
+ADR delisting risk is real, it is largely mitigated by the robust
+Hong Kong listing infrastructure, in our view.
+
+MSCI China now trading 10.7x forward PE vs. the
+average of 11.6x
+Historical trend of MSCI China forward PE
+
+Source: Bloomberg
+
+3
+
+
+
+Investing in China
+
+1Q GDP beat ahead of tariff hit
+Yifan Hu, Regional CIO & Head Macroeconomics APAC
+Kathy Li, CFA, Macro Strategist
+
+Key data trends
+• 1Q GDP grew 5.4% y/y, beating expectations, driven by
+
+export front-loading and consumption recovery.
+
+• March retail sales growth improved further to 5.9% y/y,
+helped by trade-in subsidies. Investment growth steadied
+at 4.2% y/y, with manufacturing strong (9.1% y/y) and
+infrastructure resilient (5.8%); property remained a drag
+(-9.9%). Exports grew by 12.4% y/y on front-loading.
+
+• CPI is likely to stay near muted (1Q: -0.1% y/y), while PPI
+is likely to stay negative for most of the year (1Q: -2.3%).
+
+Key policy trends
+• On the fiscal front, we expect additional CNY 1-3tr
+
+worth of stimulus measures, on top of the ~CNY 2tr
+funding unveiled at the NPC for 2025. The package may
+involve consumption support, including the expansion
+of trade-in subsidies, nationwide subsidies to newborns,
+and targeted support for service and export-oriented
+business.
+
+• Monetary policy could see more easing. We expect
+100-200bps of RRR cuts and 30-50bps of policy rate cuts
+within 12 months, with the next cut likely restarting in
+2Q.
+
+Key highlights
+• The April Politburo meeting had a pro-growth tone but
+
+lacked concrete measures or details. Top leaders urged
+accelerating existing policy implementation and called
+for timely cuts to RRR and policy rates. They also talked
+about the need to stabilize the housing market, resolve
+local debt risk, and roll out incremental countercyclical
+measures when needed, signaling a reactive and patient
+policy approach to tariff developments and the economic
+situation.
+
+Tariff pressure is expected to prompt
+incremental policy support.
+
+Recent reports
+• China's 1Q GDP beat expectations ahead of tariff hit, 17
+
+Apr 2025
+
+• China's March export growth beat on frontloading, 14
+Apr 2025
+
+• China's March credit growth beat expectations, 14 Apr
+2025
+
+1Q GDP beat with export frontloading and
+consumption recovery
+GDP growth breakdown
+
+Source: CEIC, NBS
+
+4
+
+
+
+Investing in China
+
+Stay defensive in the near term
+Eva Lee, CFA, Head CIO Equities Greater China
+Arafat Alafate, Analyst
+
+Performance
+• The MSCI China Index has declined 5% month-to-date
+
+in April, primarily due to a higher equity risk premium
+stemming from escalating uncertainties surrounding the
+China-US trade conflict.
+
+Key trends
+• Delisting threat could drive more homecoming.
+
+Although China and the US settled the auditing issue
+back in late 2022, ADR delisting risks have resurfaced
+amid intensifying China-US tensions. However, mainland
+China ADRs are now more prepared for the delisting
+threat compared to three years ago as over 80% of
+mainland China ADRs in the MSCI China basket are
+already listed in Hong Kong; and more importantly,
+already over 60% of the trade in the shares is done
+in Hong Kong. The key concern is whether the US
+government would place restrictions on US investors’
+ownership, which we would clearly see hurting US
+investors the most.
+
+• Near-term impact of H20 restrictions is limited. The
+US has introduced new rules restricting the sale of
+NVIDIA’s H20 GPU to China, closing previous loopholes
+that allowed downgraded “compliant” chips to bypass
+export controls. The new rules require companies to
+obtain licenses from the US government to build up
+computing capacity in select countries. While these
+measures aim to limit China’s access to advanced
+AI hardware, the near-term impact on China’s major
+tech companies is expected to be limited as they
+have already stockpiled significant quantities of high
+performance chips in anticipation of tighter regulations.
+Additionally, as AI demand shifts more to inference,
+the deployment of domestically-made chips is increasing
+among hyperscalers’ infrastructure build-up.
+
+We recommend maintaining a
+defensive positioning stance, with
+a preference for select state-owned
+enterprises in the financial, energy,
+utilities, and telecom sectors.
+
+• Be patient and stay defensive. We anticipate that
+the dispute between the US and China will persist, and
+investors should prepare for continued high volatility.
+In light of ongoing uncertainties, we recommend
+maintaining a defensive positioning stance, with a
+preference for select state-owned enterprises in the
+financial, energy, utilities, and telecom sectors. Within the
+China tech space, we favor leading digital entertainment
+companies, whose earnings tend to be more resilient and
+counter-cyclical compared to those of e-commerce and
+advertising-focused online portals.
+
+Recent reports
+• Most asked questions on China's internet stocks, 22 Apr
+
+2025
+
+• Surfing through the tariff challenge, 3 Apr 2025
+
+Some reports may not be available to investors of UBS
+Financial Services Inc.
+
+China internet sector forward PE now below -1
+STD from the average since 2021
+Historical trend of China internet forward PE
+
+Source: Refinitiv Eikon, UBS
+
+5
+
+
+
+Investing in China
+
+Positioning in light of tariffs
+Eve Li, CFA, CIO Credit Strategist
+
+Performance
+• China IG bonds have lost 0.6% month-to-date (+1.8%
+
+YTD, 5.0% yield-to-worst), driven by both a wider spread
+and higher US Treasury yields. China HY bonds have been
+largely unchanged, up 0.1% (+4.6% YTD, 17.4% YTW)
+as property bonds continued to grind higher. The 10-year
+US Treasury yield is up 9bps year-to-date at 4.30%.
+
+Key trends
+• China credit has experienced volatile trade since the 2
+
+April “Liberation Day” as the market digested the initial
+worse-than-expected reciprocal tariffs and subsequent
+signs of easing trade war escalation. The space saw
+credit spread widen by 25bps at one time due to risk-
+off sentiment and preparation for potential redemption
+by fund managers. It has since experienced some spread
+tightening following the temporary reciprocal tariff
+exemption on electronics products. That said, month-to-
+date, China credit is still around 20bps wider, with the
+fluid trade situation preventing investors from turning to
+an immediate risk-on mode.
+
+• Chinese USD bond issuers, similar to their Asian peers, are
+overall resilient amid the tariff risk. By sector, sovereign,
+quasi-sovereign, and financial account for 70% of China
+IG index, followed by TMT (16%). For HY, financial (42%),
+real estate (37%), and quasi-sovereign (7%) together
+make up 86% of the index. The overall domestic-oriented
+business profile and state support largely point to a
+manageable direct shock from tariffs, except for a few
+tech hardware names. However, the second-order impact
+from the tariffs has yet to be observed, which could weigh
+on sectors such as financial, discretionary consumption,
+and real estate if the economy experiences a broad
+slowdown.
+
+Investment ideas
+• Given the still evolving tariff situation, we think it makes
+
+sense to position portfolios in a defensive manner. We
+
+We think Asia IG offers an attractive
+carry opportunity and continue to
+prefer an average duration of five
+years.
+
+continue to favor IG over HY, and think the current
+yield level of 5.5% represents attractive carry opportunities
+forAsia IG. For investors with a higher risk appetite, select
+short-tenor bonds of Asia BB names that have sold off
+disproportionately also offer value. We still prefer an average
+duration of five years.
+
+Recent reports
+• Indonesia credit: Position defensively, 17 April 2025
+
+• Positioning in light of tariffs, 16 April 2025
+
+• SGD bonds: A shelter in turbulent times, 9 April 2025
+
+Some reports may not be available to US-onshore investors.
+
+China credit’s spreads are still wider following
+tariff announcements
+
+Source: JP Morgan, UBS, as of 23 April 2025
+
+6
+
+
+
+Investing in China
+
+Poised for gradual recovery
+Teck Leng Tan, CFA, CIO FX Strategist
+Jessie Ren, Analyst
+
+April brought dramatic twists and turns in the US-China
+tariff saga, yet the CNY has stood its ground with
+remarkable stability. As broad USD weakness sets in and
+optimism over US-China trade relations gains traction, we
+believe the most challenging period for the CNY against
+the USD is now behind us. In response to these shifts,
+we are revising our USDCNY forecasts to 7.30, 7.25, 7.20,
+and 7.15 for June 2025, September 2025, December 2025,
+and March 2026, respectively—down from our previous
+projections of 7.40, 7.40, 7.30, and 7.30.
+
+Multiple forces are shaping our expectation for a gradual
+downward trajectory in USDCNY. To begin with, the
+People’s Bank of China (PBoC) has maintained a notably
+stable daily fixing since the escalation of the trade
+war, underscoring a clear commitment to anchor market
+expectations. In effect, with tariffs likely at their peak, this
+approach from the central bank should act as a ceiling for
+USDCNY. Additionally, the prospect of a US-China trade
+deal is back in focus. With tariffs appearing to have peaked
+and President Trump signaling a renewed urgency to reach
+an agreement, we believe the environment is turning more
+constructive for the CNY.
+
+Furthermore, the backdrop for the US dollar has
+shifted dramatically. The once-dominant narrative of US
+exceptionalism has faded in the last few weeks, replaced by
+a rotation as global investors amid mounting uncertainty.
+Deteriorating PMIs and waning business confidence signal
+that the economic tide may be turning. With the Fed now
+expected to deliver 100bps of rate cuts this year, according
+to market pricing, further narrowing the US-China yield gap,
+and global investors increasingly hedging or reallocating
+away from US assets, the stage is set for continued USD
+weakness.
+
+In the short term, we expect USDCNY will continue to trade
+in a narrow band around 7.30. Ongoing uncertainty over a
+
+We believe the most challenging period
+for the CNY is likely behind us.
+
+trade deal and weak domestic demand are keeping the
+outlook cautious, but any new stimulus or support measures
+from China could help reassure markets.
+
+Investment implications
+Prospects: With broad USD weakness emerging and
+optimism over US-China trade relations building, we believe
+the most challenging period for the CNY is likely behind us.
+Investors may consider gradually reducing hedges on CNY
+positions, as the environment should turn more constructive
+for the CNY.
+
+Risk factors: A quicker Fed easing cycle or significant
+breakthroughs in US-China trade negotiations could
+accelerate USDCNY’s decline toward 7.20, while setbacks
+in trade talks or renewed domestic economic challenges in
+China may keep the CNY trading in a narrow range in the
+near term.
+
+Boundaries: The PBoC’s commitment to currency stability
+and peak tariffs should cap USDCNY’s upside, making a
+move above 7.50 unlikely. Furthermore, we expect China
+to avoid leveraging the currency as a bargaining chip in
+upcoming US-China trade negotiations.
+
+Recent reports
+• Poised for gradual recovery, 25 Apr 2025
+
+• Hold your hedges, 8 Apr 2025
+
+USDCNY was not able to move higher, with the
+PBoC maintaining a stable daily fixing
+
+Source: Daily data, UBS
+
+7
+
+
+
+Investing in China
+
+AI adoption remains resilient
+despite macro uncertainty
+Sundeep Gantori, CFA, CAIA, Equity Strategist
+Delwin Kurnia Limas, CFA, Equity Strategist
+
+Tech stocks witnessed a sharp volatility in the past few
+weeks amid the significant uncertainty from the US's recent
+reciprocal tariffs and China's retaliatory tariffs. While tech
+stocks' valuations have come down sharply, the situation
+is fluid given there are many uncertainties around tariff
+economics. These include how the increased cost sharing
+will be done with suppliers, the extent to which costs can
+be passed on to end-customers, and the duration of tariffs.
+The good news is that critical AI-based companies have
+manageable exposure to mainland Chinese tariff risks, as
+seen in the chart below. Indeed, mainland China as a share
+of US imports for servers is very low at around 5% versus
+75% for smartphones, in our view.
+
+The key focus, however, remains on the potential downside
+earnings revisions from tariffs still in place. While we believe
+the situation is fluid, the downside earnings risk appears
+more manageable to us following the recent tariff reprieve.
+We've previously highlighted three earnings scenarios for
+tech, and at the moment, the impact looks largely contained
+to the most benign scenario (manageable 3-5% downside
+earnings revisions).
+
+While there are a lot of uncertainties due to a wide range
+of negative EPS outcomes, we believe investors should
+not lose hope and should instead look to the past to
+see how the stocks performed once the uncertainty was
+fully priced in. Global tech stocks today are tracking the
+20%-plus correction witnessed in 2018, which was also
+due to a significant tariff escalation. Global tech earnings
+were revised down by 12% during that period. This
+suggests negative EPS revisions due to tariffs and resulting
+macroeconomic uncertainty are not new for tech. What is
+interesting is how tech stocks rebounded once the tariff
+uncertainty diminished on some policy updates and
+
+We think a manageable earnings
+impact supports rebound opportunities
+across quality AI stocks.
+
+as investors started to recognize the strong structural
+growth prospects of cloud theme (vs. AI theme today,
+another similarity). After a peak-to trough decline of about
+24%, tech stocks rebounded by more than 30% over the
+next 12 months, with lower rates in addition fueling strong
+gains.
+
+With the tech reporting season soon underway, we believe
+the focus will shift back to fundamentals, particularly on AI
+capex trends, any guidance on tariff impact, and AI adoption
+trends.
+
+The good news, however, is that the underlying AI growth
+story remains intact, in our view, based on the latest
+AI adoption rates in the US. The recent quarterly report
+from the US Census Bureau on the results of its Business
+Trends and Outlook Survey, which tracks AI adoption across
+1.2 million firms in the US, showed strong sequential
+improvement in AI adoption rates. In particular, the AI
+adoption rate rose from 5.7% in 3Q24 to 7.4% in 1Q25,
+and we expect it to reach 9.9% by 3Q25 and to cross 10%
+by the end of the year. To put this into perspective, it took
+24 years for US e-commerce penetration to cross the 10%
+threshold.
+
+Delving into the details, we see a broad-based improvement
+in the adoption rates across industries. For this purpose, we
+compared the overall improvement in US AI adoption rates
+from 4Q24 to 1Q25 (1.3 percentage points) and then looked
+at which industries reported an above-average improvement
+in sequential adoption rates (i.e., more than 1.3 percentage
+points). While technology adoption is not a surprise, the
+inclusion of new industries like media (arts, entertainment,
+and recreation), manufacturing, and wholesale trade is
+encouraging and further supports the AI adoption story. We
+are also encouraged to see steady AI adoption improvement
+in the health care and financial services sectors, which bodes
+well for our Longevity theme and for fintech firms.
+
+In summary, we think a manageable earnings impact
+supports rebound opportunities across quality AI stocks.
+With tech’s elevated volatility here to stay, structured
+strategies including capital preservation strategies should
+also be considered, in our view.
+
+8
+
+
+
+Investing in China
+
+Tariff impact on sustainability and
+climate
+Stephanie Choi, Sustainable & Impact Investing Strategist
+Amanda Gu, Sustainable & Impact Investing Analyst
+
+The tit-for-tat tariff escalation between the US and China
+could drastically affect trade between the world's two
+largest economies. US tariffs on Chinese imports have
+risen to 145% as of 9 April, following a 90-day pause
+on “reciprocal” tariffs announced by the US, with China
+being an exception. With a greater-than-expected escalation
+between the US and China, US Treasury Secretary Scott
+Bessent reportedly said he expects the current tariff
+standoff with China to de-escalate. Despite potential tariff
+headwinds and near-term economic challenges, we believe
+the risk of a more severe economic downturn is now more
+limited.
+
+The tariff impact on climate and emissions is complex
+owing to the interconnected nature of global supply chains
+related to climate-change solutions and the transition to a
+low-carbon economy. China, which is a significant source
+of essential minerals and materials for renewable energy
+technologies, has imposed restrictions on US imports of
+critical rare earths and materials used in solar and nuclear
+energy in response to the US tariffs. This uncertainty makes
+it challenging to forecast long-term outcomes until there is
+clarity on the final tariffs table, which could take weeks or
+months.
+
+Clean technologies from China have faced US tariffs for
+several years, including a 30% tariff on imported solar
+panels in 2018 and additional tariffs, such as 100%
+tariffs on Chinese-made EVs, 50% on solar cells, and
+25% on batteries, which were established by the Biden
+administration in 2024. Despite these tariffs, renewable
+energy generation as a share of total electricity generation
+has continued to increase across the US, China, and the
+European Union.
+
+As reported by the press, US trade officials are preparing to
+impose anti-dumping tariffs of up to 3,521% on imports of
+solar panels from Vietnam, Thailand, Cambodia, and
+
+Near-term volatility offers opportunity
+to align long-term investment with
+sustainability goals.
+
+Malaysia—these countries together constituting over 80%
+of the US's solar panel cell imports.While details are being
+finalized, we note that imports of assembled PV panels
+have declined since their peak in mid-2024. Imports of
+unassembled PV panels, on the other hand, have grown
+rapidly—a testament to a reshoring of new PV panel
+manufacturing.
+
+Negotiations with the EU are also crucial for the future
+of electrification and emissions reduction. EU-US tariff
+negotiations are also in focus for President Trump, but non-
+tariff barriers, such as EU import standards on agriculture
+and sustainability metrics, as well as the EU Carbon Border
+Adjustment Mechanism, could also be on the table.
+
+For sustainability-focused investors, continued volatility is
+expected in the short term, driven by market responses to
+President Trump’s tariff intentions and varying expectations
+of recession or inflation. Despite this, the underlying
+drivers toward electrification, decarbonization, and meeting
+the needs of a growing global population will persist.
+Societal needs for better solutions and systems will not
+change. Investors with a long-term view should continue to
+build exposure to these areas. We recommend a portfolio
+approach to sustainable investing, diversifying across SI
+approaches and asset classes. Global ESG leaders had a
+challenging start to 2025, but diversifying across Leaders,
+Thematic, and Improver equity strategies has supported
+portfolios over periods of market volatility. In fixed income,
+we see green, social, and sustainable bonds performing in
+line with traditional equivalents. We see opportunities in
+bonds issued by multilateral development banks as offering
+a similar risk-return profile to US Treasuries.
+
+9
+
+
+
+Key financial indexes
+
+Source: Bloomberg, UBS, as of  29 April 2025
+
+Equities: CSI 300 Index Equities: MSCI China
+
+Equities: Hang Seng China Enterprise Index Bonds: JACI China Blended Spread (basis points)
+
+Bonds: China 10Y Govt Bond Yield (in percentage) Forex: USDCNY
+
+1637456_ce552536-083a-46f2-9039-6ae26f7c9079.pdf
+
+
+
+Global asset class preferences definitions
+The asset class preferences provide high-level guidance to make investment decisions. The preferences reflect the collective 
+judgement of the members of the House View meeting, primarily based on assessments of expected total returns on liquid, 
+commonly known stock indexes, House View scenarios, and analyst convictions over the next 12 months. Note that the 
+tactical asset allocation (TAA) positioning of our different investment strategies may differ from these views due to factors 
+including portfolio construction, concentration, and borrowing constraints.
+Most attractive – We consider this asset class to be among the most attractive. Investors should seek opportunities to 
+add exposure.
+Attractive – We consider this asset class to be attractive. Consider opportunities in this asset class.
+Neutral – We do not expect outsized returns or losses. Hold longer-term exposure.
+Unattractive – We consider this asset class to be unattractive. Consider alternative opportunities.
+Least attractive – We consider this asset class to be among the least attractive. Seek more favorable alternative 
+opportunities.
+
+3
+
+Note: For equities, we have collapsed “Most Attractive” with “Attractive” and “Least Attractive” with “Unattractive” from the 
+five-tier rating system that is found in the Equity Compass into three tiers.
+
+1637456_163f67da-8466-4ae6-a6cc-58d63be4d4e5.pdf
+
+
+
+Non-Traditional Assets
+
+Non-traditional asset classes are alternative investments that include hedge funds, private equity, real estate, and managed 
+futures (collectively, alternative investments). Interests of alternative investment funds are sold only to qualified investors, and 
+only by means of offering documents that include information about the risks, performance and expenses of alternative investment 
+funds, and which clients are urged to read carefully before subscribing and retain. An investment in an alternative investment fund 
+is speculative and involves significant risks.  Specifically, these investments (1) are not mutual funds and are not subject to the same 
+regulatory requirements as mutual funds; (2) may have performance that is volatile, and investors may lose all or a substantial amount 
+of their investment; (3) may engage in leverage and other speculative investment practices that may increase the risk of investment 
+loss; (4) are long-term, illiquid investments, there is generally no secondary market for the interests of a fund, and none is expected 
+to develop; (5) interests of alternative investment funds typically will be illiquid and subject to restrictions on transfer; (6) may not be 
+required to provide periodic pricing or valuation information to investors; (7) generally involve complex tax strategies and there may 
+be delays in distributing tax information to investors; (8) are subject to high fees, including management fees and other fees and 
+expenses, all of which will reduce profits. 
+
+Interests in alternative investment funds are not deposits or obligations of, or guaranteed or endorsed by, any bank or other insured 
+depository institution, and are not federally insured by the Federal Deposit Insurance Corporation, the Federal Reserve Board, or any 
+other governmental agency. Prospective investors should understand these risks and have the financial ability and willingness to accept 
+them for an extended period of time before making an investment in an alternative investment fund and should consider an alternative 
+investment fund as a supplement to an overall investment program. 
+
+In addition to the risks that apply to alternative investments generally, the following are additional risks related to an investment in 
+these strategies:
+
+ Foreign Exchange/Currency Risk: Investors in securities of issuers located outside of the United States should be aware that even
+for securities denominated in U.S. dollars, changes in the exchange rate between the U.S. dollar and the issuer’s “home” currency
+can have unexpected effects on the market value and liquidity of those securities. Those securities may also be affected by other
+risks (such as political, economic or regulatory changes) that may not be readily known to a U.S. investor.
+
+Emerging Market Investments
+Investors should be aware that Emerging Market assets are subject to, amongst others, potential risks linked to currency volatility, 
+abrupt changes in the cost of capital and the economic growth outlook, as well as regulatory and socio-political risk, interest rate risk 
+and higher credit risk. Assets can sometimes be very illiquid and liquidity conditions can abruptly worsen. CIO GWM generally 
+recommends only those securities it believes have been registered under Federal U.S. registration rules (Section 12 of the Securities 
+Exchange Act of 1934) and individual State registration rules (commonly known as "Blue Sky" laws). Prospective investors should be 
+aware that to the extent permitted under US law, CIO GWM may from time to time recommend bonds that are not registered under 
+US or State securities laws. These bonds may be issued in jurisdictions where the level of required disclosures to be made by issuers is 
+not as frequent or complete as that required by US laws. For more background on emerging markets generally, see the CIO GWM 
+Education Notes, Emerging Market Bonds: Understanding Emerging Market Bonds, 12 August 2009 and Emerging Markets Bonds: 
+Understanding Sovereign Risk, 17 December 2009. Investors interested in holding bonds for a longer period are advised to select the 
+bonds of those sovereigns with the highest credit ratings (in the investment grade band). Such an approach should decrease the risk 
+that an investor could end up holding bonds on which the sovereign has defaulted. Sub-investment grade bonds are recommended 
+only for clients with a higher risk tolerance and who seek to hold higher yielding bonds for shorter periods only. 
+
+1637456_7a905dc1-fd5b-458d-af71-bf32f0a2aae2.pdf
+
+bellomjo
+Text Box
+
+
+
+Investing in China
+
+Appendix
+
+Risk information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of using
+different assumptions and/or criteria.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+
+13
+
+
+
+Investing in China
+
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS
+Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS Asesores Mexico,
+S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler
+AS are affiliates of UBS AG. UBS Financial Services Inc. accepts responsibility for the content of a report prepared
+by a non-US affiliate when it distributes reports to US persons. All transactions by a US person in the securities
+mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and not
+through a non-US affiliate. The contents of this report have not been and will not be approved by any securities
+or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not acting as a municipal
+advisor to any municipal entity or obligated person within the meaning of Section 15B of the Securities Exchange
+Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do
+not constitute, advice within the meaning of the Municipal Advisor Rule.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website https://www.credit-suisse.com. In order to provide you with marketing materials concerning our products
+and services, UBS Group AG and its subsidiaries may process your basic personal data (i.e. contact details such as name, e-
+mail address) until you notify us that you no longer wish to receive them. You can optout from receiving these materials at
+any time by informing your Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version D/2024. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+14
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+https://www.credit-suisse.com/
+

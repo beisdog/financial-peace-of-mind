@@ -1,0 +1,1582 @@
+
+ab 1 May 2025
+Global Research
+
+Airbus
+Q1: direct impact of tariffs "contained"
+
+Messaging from management encouraging.
+The message from management at Q1 was that the prior commentary, as things 
+currently stand, still applies.  Uncertainties remain on tariffs, but the direct impact should 
+be "contained" in the current tariff scenario.  The supply chain continues to work in line 
+with plan, and all aspects of guidance including deliveries and EBIT are reiterated with 
+caveats that the situation remans fluid. Given the level of uncertainty amongst investors 
+this is likely to be taken positively in our view.  We cut our estimates entirely due to 
+currency moves which, along with changes in peer multiples, drives our price target to 
+€155 from €175.
+
+Tariff impact muted
+Management language on tariffs was as encouraging as could be expected.  The direct 
+costs of the tariffs should be small and be able to be mitigated under their current scope, 
+especially as Airbus believes it may be able to ship to its Chinese FAL tariff free.  Although 
+the indirect impacts are still hard to size management also sounded optimistic here, 
+reiterating commentary from aerospace peers that the supply chain continues to 
+operate as usual, and whilst Airbus continues to probe deep into the supply chain for 
+issues, so far few have been seen and inventory buffers are relatively high.  Delivery rates 
+will be weak in Q2, with delivery seasonality further shifted to H2 in 2025, but this is 
+consistent with the plan at the start of the year.
+
+Results in line
+Q1 results themselves were in line, with EBIT 1% ahead of consensus.   Cash flow of 
+€310m was significantly ahead of VA cons  -1.7bn likely due to strong pre-delivery 
+payments taken in the quarter due to high orders, good production progress with 
+milestones hit, and strength across all divisions. 
+
+Valuation: PT lowered to €155
+We make minor non-fx updates to our model since results were largely in line.  However 
+given recent dollar moves, as well as shifts in the fx forward curve, we cut our 2030 
+EPS estimates 11%.  This is the largest driver of our price target  falling to €155 from 
+€175 previously, although the decline in peer multiples is also a driver.
+
+Highlights (€m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Revenues 58,763 65,446 69,230 76,000 83,471 91,032 98,836 107,347
+EBIT (UBS) 5,627 5,838 5,354 6,810 7,783 9,201 10,531 11,810
+Net earnings (UBS) 4,055 4,417 3,992 4,811 5,822 6,857 7,828 8,761
+EPS (UBS, diluted) (€) 5.15 5.59 5.05 6.08 7.36 8.67 9.90 11.08
+DPS (net) (€) 1.80 1.80 2.00 2.40 2.68 3.17 3.63 4.07
+Net (debt) / cash 10,825 11,687 12,585 14,314 17,605 23,052 29,350 36,270
+
+Profitability/valuation 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+EBIT (UBS) margin % 9.6 8.9 7.7 9.0 9.3 10.1 10.7 11.0
+ROIC (EBIT) % 18.2 16.7 14.5 17.3 19.5 23.3 27.5 31.9
+EV/EBITDA (UBS core) x 10.4 12.0 13.7 11.8 10.2 8.4 7.0 5.8
+P/E (UBS, diluted) x 20.5 22.7 29.0 24.2 20.0 17.0 14.9 13.3
+Equity FCF (UBS) yield % 4.7 3.3 3.3 3.6 4.4 6.4 7.4 8.2
+Dividend yield (net) % 1.7 1.4 1.4 1.6 1.8 2.2 2.5 2.8
+Source: Company accounts, LSEG Eikon, UBS estimates. Metrics marked as (UBS) have had analyst adjustments applied. Valuations: based on an average share price that year, (E): based on a share 
+price of € 147.14 on 30-Apr-2025
+
+This report has been prepared by UBS AG London Branch. ANALYST CERTIFICATION AND REQUIRED DISCLOSURES, including 
+information on the Quantitative Research Review published by UBS, begin on page 9.  UBS does and seeks to do 
+business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of 
+interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their 
+investment decision.
+
+Equities
+
+France
+
+Aerospace
+
+12-month rating Neutral
+
+12m price target €155.00
+Prior : €175.00
+
+Price (30 Apr 2025) €147.14
+
+RIC: AIR.PA BBG: AIR FP
+
+Trading data and key metrics
+
+52-wk range €174.38-126.34
+
+Market cap. €116b/US$131b
+
+Shares o/s 786m (ORD)
+
+Free float 31%
+
+Avg. daily volume ('000) 1,497
+
+Avg. daily value (m) €235.2
+
+Common s/h equity (12/25E) €23.1b
+
+P/BV (12/25E) 5.0x
+
+Net debt to EBITDA (12/25E) NM
+
+From To % ch Cons.
+EPS (UBS, diluted) (EUR)
+
+12/25E 6.24 6.08 -3 6.46
+12/26E 7.75 7.36 -5 8.01
+12/27E 9.25 8.67 -6 9.46
+
+Ian Douglas-Pennant
+Analyst
+
+                            ian.douglas-pennant@ubs.com                        
++44-20-7568 0936
+
+Yassin Moktadir
+Associate
+
+                            yassin.moktadir@ubs.com                        
++44-20-7568 4313
+
+                            
+
+mailto:ian.douglas-pennant@ubs.com
+mailto:yassin.moktadir@ubs.com
+
+
+Airbus 1 May 2025 ab 2
+
+Airbus UBS Research
+
+Figure 1: Quarterly summary
+
+Q1 24 Q1 25 Q1 25 Q1 25 Q1 25 Q1 25
+
+€m Actual Actual UBSe Δ ConsE Δ
+
+Commercial
+
+Deliveries 142 136 136 0.0% 134 1.2%
+
+Gross Revenues 9,167 9,521 10,198 -6.6% 9,176 3.8%
+
+EBIT (adj) 507 494 616 -19.8% 518 -4.7%
+
+margin 5.5% 5.2% 6.0% -86bps 5.6% -46bps
+
+Helicopter
+
+Gross Revenues 1,461 1,600 1,505 6.3% 1,511 5.9%
+
+EBIT (adj) 71 78 75 3.7% 84 -7.3%
+
+margin 4.9% 4.9% 5.0% -13bps 5.6% -70bps
+
+D&S
+
+Gross Revenues 2,399 2,656 2,519 5.4% 2,476 7.3%
+
+EBIT (adj) -9 77 68 13.2% 16 369.1%
+
+margin -0.4% 2.9% 2.7% 20bps 0.7% 224bps
+
+Eliminations
+
+Gross Revenues -197 -235 -277 -15.2% -253 -7.0%
+
+EBIT (adj) 8 -25 0 #DIV/0! 1 -1918.2%
+
+margin -4.1% 10.6% 0.0% 1064bps -0.5% 1118bps
+
+Group
+
+Net Sales 12,830 13,542 13,944 -2.9% 12,909 4.9%
+
+EBIT (adj) 577 624 760 -17.8% 618 1.0%
+
+margin 4.5% 4.6% 5.4% -84bps 4.8% -18bps
+
+FCF pre M&A, cust. financing -1,791 -310 -1,250 -75.2% -1,739 -82.2%
+
+Source: Company reports, UBS estimates, Visible Alpha consensus
+
+Figure 2: UBS estimate changes
+
+€m 2024 2025 2026 2027 2028 2029 2030
+
+Actual Old New Δ Old New Δ Old New Δ Old New Δ Old New Δ Old New Δ
+
+Commercial
+
+A320 602 622 622 0.0% 655 655 0.0% 698 698 0.0% 740 740 0.0% 799 799 0.0% 863 863 0.0%
+
+A220 75 92 92 0.0% 109 109 0.0% 127 127 0.0% 144 144 0.0% 161 161 0.0% 165 165 0.0%
+
+NB 677 714 714 0.0% 764 764 0.0% 824 824 0.0% 884 884 0.0% 960 960 0.0% 1,028 1,028 0.0%
+
+A330 32 38 38 0.0% 40 40 0.0% 40 40 0.0% 40 40 0.0% 41 41 0.0% 42 42 0.0%
+
+A350 57 63 63 0.0% 86 86 0.0% 98 98 0.0% 115 115 0.0% 127 127 0.0% 138 138 0.0%
+
+WB 89 101 101 0.0% 127 127 0.0% 138 138 0.0% 155 155 0.0% 168 168 0.0% 180 180 0.0%
+
+Deliveries 766 815 815 0.0% 891 891 0.0% 962 962 0.0% 1,039 1,039 0.0% 1,128 1,128 0.0% 1,208 1,208 0.0%
+
+Gross Revenues 50,646 58,080 56,321 -3.0% 66,881 62,587 -6.4% 74,696 68,721 -8.0% 82,604 74,847 -9.4% 92,281 81,396 -11.8% 99,616 86,270 -13.4%
+
+EBIT (adj) 5,093 5,755 5,580 -3.0% 6,627 6,201 -6.4% 7,987 7,348 -8.0% 9,237 8,370 -9.4% 10,726 9,461 -11.8% 11,579 10,027 -13.4%
+
+margin 10.1% 9.9% 9.9% 0bps 9.9% 9.9% 0bps 10.7% 10.7% 0bps 11.2% 11.2% 0bps 11.6% 11.6% 0bps 11.6% 11.6% 0bps
+
+Helicopter
+
+Gross Revenues 7,941 8,576 8,576 0.0% 9,177 9,177 0.0% 9,819 9,819 0.0% 10,506 10,506 0.0% 11,242 11,242 0.0% 12,029 12,029 0.0%
+
+EBIT (adj) 818 858 858 0.0% 918 918 0.0% 982 982 0.0% 1,051 1,051 0.0% 1,124 1,124 0.0% 1,203 1,203 0.0%
+
+margin 10.3% 10.0% 10.0% 0bps 10.0% 10.0% 0bps 10.0% 10.0% 0bps 10.0% 10.0% 0bps 10.0% 10.0% 0bps 10.0% 10.0% 0bps
+
+D&S
+
+Gross Revenues 12,082 12,686 12,686 0.0% 13,447 13,447 0.0% 14,389 14,389 0.0% 15,540 15,540 0.0% 16,938 16,938 0.0% 18,463 18,463 0.0%
+
+EBIT (adj) -566 371 372 0.3% 657 664 1.0% 860 872 1.4% 1,094 1,111 1.5% 1,202 1,225 1.9% 1,299 1,328 2.2%
+
+margin -4.7% 2.9% 2.9% 1bps 4.9% 4.9% 5bps 6.0% 6.1% 8bps 7.0% 7.1% 11bps 7.1% 7.2% 13bps 7.0% 7.2% 16bps
+
+Eliminations
+
+Gross Revenues -1,439 -1,619 -1,584 -2.2% -1,825 -1,740 -4.7% -2,015 -1,897 -5.9% -2,211 -2,057 -7.0% -2,445 -2,229 -8.9% -2,636 -2,371 -10.1%
+
+EBIT (adj) 9 0 0 n/a 0 0 n/a 0 0 n/a 0 0 n/a 0 0 n/a 0 0 n/a
+
+margin -0.6% 0.0% 0.0% 0bps 0.0% 0.0% 0bps 0.0% 0.0% 0bps 0.0% 0.0% 0bps 0.0% 0.0% 0bps 0.0% 0.0% 0bps
+
+Group
+
+Net Sales 69,230 77,724 76,000 -2.2% 87,680 83,471 -4.8% 96,888 91,032 -6.0% 106,439 98,836 -7.1% 118,016 107,347 -9.0% 127,471 114,391 -10.3%
+
+EBIT (adj) 5,354 6,983 6,810 -2.5% 8,201 7,783 -5.1% 9,828 9,201 -6.4% 11,381 10,531 -7.5% 13,053 11,810 -9.5% 14,080 12,558 -10.8%
+
+margin 7.7% 9.0% 9.0% -2bps 9.4% 9.3% -3bps 10.1% 10.1% -4bps 10.7% 10.7% -4bps 11.1% 11.0% -6bps 11.0% 11.0% -7bps
+
+EBIT 5,304 6,574 6,401 -2.6% 7,992 7,574 -5.2% 9,619 8,992 -6.5% 11,172 10,322 -7.6% 12,844 11,601 -9.7% 13,871 12,349 -11.0%
+
+margin 7.7% 8.5% 8.4% -4bps 9.1% 9.1% -4bps 9.9% 9.9% -5bps 10.5% 10.4% -5bps 10.9% 10.8% -8bps 10.9% 10.8% -9bps
+
+PBT (adj) 5,256 6,964 6,791 -2.5% 8,183 7,764 -5.1% 9,809 9,182 -6.4% 11,362 10,512 -7.5% 13,033 11,791 -9.5% 14,061 12,539 -10.8%
+
+PBT 5,425 7,278 7,367 1.2% 7,974 7,555 -5.3% 9,600 8,973 -6.5% 11,153 10,303 -7.6% 12,824 11,582 -9.7% 13,852 12,330 -11.0%
+
+PAT (adj) 3,992 4,938 4,811 -2.6% 6,127 5,822 -5.0% 7,315 6,857 -6.3% 8,449 7,828 -7.3% 9,668 8,761 -9.4% 10,419 9,307 -10.7%
+
+PAT 4,232 5,021 5,085 1.3% 5,975 5,669 -5.1% 7,162 6,705 -6.4% 8,296 7,675 -7.5% 9,516 8,609 -9.5% 10,266 9,155 -10.8%
+
+EPS (adj) 5.05 6.24 6.08 -2.6% 7.75 7.36 -5.0% 9.25 8.67 -6.3% 10.68 9.90 -7.3% 12.22 11.08 -9.4% 13.17 11.77 -10.7%
+
+EPS 5.35 6.35 6.43 1.3% 7.55 7.17 -5.1% 9.05 8.48 -6.4% 10.49 9.70 -7.5% 12.03 10.88 -9.5% 12.98 11.57 -10.8%
+
+Airbus FCF 4,463 4,734 4,296 -9.2% 6,057 5,190 -14.3% 8,300 7,566 -8.8% 9,671 8,803 -9.0% 11,235 9,787 -12.9% 11,173 9,800 -12.3%
+
+Source: Company reports, UBS estimates
+
+
+
+Airbus 1 May 2025 ab 3
+
+Figure 3: UBS vs Consensus
+
+€m 2024
+
+Actual UBS Cons Δ UBS Cons Δ UBS Cons Δ UBS Cons Δ UBS Cons Δ
+
+Commercial
+
+A320 602 622 630 -1.4% 655 683 -4.1% 698 752 -7.3% 740 798 -7.2% 799 839 -4.7%
+
+A220 75 92 89 3.7% 109 109 0.6% 127 126 0.4% 144 137 5.0% 161 143 12.6%
+
+NB 677 714 719 -0.7% 764 792 -3.5% 824 878 -6.2% 884 935 -5.5% 960 982 -2.2%
+
+A330 32 38 38 -0.3% 40 41 -2.7% 40 41 -3.0% 40 41 -1.4% 41 40 4.2%
+
+A350 57 63 58 8.3% 86 76 14.0% 98 96 1.5% 115 110 4.3% 127 125 1.3%
+
+WB 89 101 96 4.9% 127 117 8.1% 138 138 0.1% 155 151 2.8% 168 165 2.0%
+
+Deliveries 766 815 816 -0.1% 891 909 -2.0% 962 1,016 -5.3% 1,039 1,076 -3.4% 1,128 1,146 -1.6%
+
+Gross Revenues 50,646 56,321 55,745 1.0% 62,587 63,058 -0.7% 68,721 70,571 -2.6% 74,847 77,330 -3.2% 81,396 85,478 -4.8%
+
+EBIT (adj) 5,093 5,580 5,735 -2.7% 6,201 6,830 -9.2% 7,348 8,287 -11.3% 8,370 10,160 -17.6% 9,461 12,067 -21.6%
+
+margin 10.1% 9.9% 10.3% -38bps 9.9% 10.8% -92bps 10.7% 11.7% -105bps 11.2% 13.1% -196bps 11.6% 14.1% -249bps
+
+adjustments -40 125 35 255.2% 125 -5 n/a 125 -71 n/a 125 -30 n/a 125 -22 n/a
+
+EBIT 5,133 5,455 5,700 -4.3% 6,076 6,834 -11.1% 7,223 8,358 -13.6% 8,245 10,190 -19.1% 9,336 12,090 -22.8%
+
+margin 10.1% 9.7% 10.2% -54bps 9.7% 10.8% -113bps 10.5% 11.8% -133bps 11.0% 13.2% -216bps 11.5% 14.1% -267bps
+
+Helicopter
+
+Gross Revenues 7,941 8,576 8,262 3.8% 9,177 8,650 6.1% 9,819 8,981 9.3% 10,506 9,358 12.3% 11,242 9,749 15.3%
+
+EBIT (adj) 818 858 853 0.6% 918 901 1.9% 982 938 4.6% 1,051 983 6.9% 1,124 1,021 10.1%
+
+margin 10.3% 10.0% 10.3% -32bps 10.0% 10.4% -41bps 10.0% 10.4% -45bps 10.0% 10.5% -50bps 10.0% 10.5% -47bps
+
+EBIT 818 858 854 0.4% 918 897 2.3% 982 934 5.1% 1,051 977 7.5% 1,124 1,016 10.6%
+
+margin 10.3% 10.0% 10.3% -33bps 10.0% 10.4% -37bps 10.0% 10.4% -41bps 10.0% 10.4% -44bps 10.0% 10.4% -43bps
+
+D&S
+
+Gross Revenues 12,082 12,686 12,602 0.7% 13,447 13,218 1.7% 14,389 13,898 3.5% 15,540 14,779 5.1% 16,938 15,898 6.5%
+
+EBIT (adj) -566 372 407 -8.7% 664 592 12.2% 872 744 17.1% 1,111 910 22.1% 1,225 1,051 16.5%
+
+margin -4.7% 2.9% 3.2% -30bps 4.9% 4.5% 46bps 6.1% 5.4% 70bps 7.1% 6.2% 99bps 7.2% 6.6% 62bps
+
+EBIT -656 88 276 -68.2% 580 582 -0.4% 788 733 7.4% 1,027 866 18.6% 1,141 1,011 12.8%
+
+margin -5.4% 0.7% 2.2% -150bps 4.3% 4.4% -9bps 5.5% 5.3% 20bps 6.6% 5.9% 75bps 6.7% 6.4% 37bps
+
+Eliminations
+
+Gross Revenues -1,439 -1,584 -1,505 5.2% -1,740 -1,597 8.9% -1,897 -1,722 10.1% -2,057 -1,862 10.4% -2,229 -1,986 12.2%
+
+EBIT (adj) 9 0 -1 -100.0% 0 0 -100.0% 0 -1 -100.0% 0 -12 -100.0% 0 -15 -100.0%
+
+margin -0.6% 0.0% 0.0% -4bps 0.0% 0.0% -3bps 0.0% 0.1% -8bps 0.0% 0.7% -66bps 0.0% 0.8% -76bps
+
+EBIT 9 0 -4 -100.0% 0 -4 -100.0% 0 -7 -100.0% 0 -19 -100.0% 0 -30 -100.0%
+
+margin -0.6% 0.0% 0.3% -27bps 0.0% 0.3% -25bps 0.0% 0.4% -38bps 0.0% 1.0% -101bps 0.0% 1.5% -151bps
+
+Group
+
+Net Sales 69,230 76,000 75,303 0.9% 83,471 83,723 -0.3% 91,032 93,289 -2.4% 98,836 101,909 -3.0% 107,347 109,432 -1.9%
+
+EBIT (adj) 5,354 6,810 7,003 -2.8% 7,783 8,342 -6.7% 9,201 9,991 -7.9% 10,531 12,046 -12.6% 11,810 14,133 -16.4%
+
+margin 7.7% 9.0% 9.3% -34bps 9.3% 10.0% -64bps 10.1% 10.7% -60bps 10.7% 11.8% -117bps 11.0% 12.9% -191bps
+
+EBIT 5,304 6,401 6,852 -6.6% 7,574 8,325 -9.0% 8,992 10,036 -10.4% 10,322 12,011 -14.1% 11,601 14,089 -17.7%
+
+margin 7.7% 8.4% 9.1% -68bps 9.1% 9.9% -87bps 9.9% 10.8% -88bps 10.4% 11.8% -134bps 10.8% 12.9% -207bps
+
+PBT (adj) 5,256 6,791 6,965 -2.5% 7,764 8,349 -7.0% 9,182 10,089 -9.0% 10,512 12,103 -13.1% 11,791 14,280 -17.4%
+
+PBT 5,425 7,367 7,555 8,973 10,303 11,582
+
+PAT (adj) 3,992 4,811 5,021 -4.2% 5,822 6,212 -6.3% 6,857 7,477 -8.3% 7,828 8,948 -12.5% 8,761 10,575 -17.1%
+
+PAT 4,232 5,085 5,057 0.5% 5,669 6,271 -9.6% 6,705 7,441 -9.9% 7,675 8,972 -14.5% 8,609 10,574 -18.6%
+
+EPS (adj) 5.05 6.08 6.36 -4.4% 7.36 7.89 -6.7% 8.67 9.56 -9.3% 9.90 11.61 -14.7% 11.08 14.01 -21.0%
+
+EPS 5.35 6.43 6.39 0.5% 7.17 7.95 -9.9% 8.48 9.51 -10.9% 9.70 11.64 -16.6% 10.88 14.01 -22.3%
+
+Airbus FCF 4,463 4,296 4,478 -4.1% 5,190 6,015 -13.7% 7,566 7,550 0.2% 8,803 9,159 -3.9% 9,787 11,443 -14.5%
+
+2029202820272025 2026
+
+Source: Company reports, UBS estimates, Visible Alpha consensus
+
+
+
+Airbus 1 May 2025 ab 4
+
+Figure 4: DCF valuation
+
+Scenario 2 Base
+
+DCF valuation 2024 2025 2026 2027 2028 2029 2030 2031 2032 2050 TV
+
+Sales 69,230 76,000 83,471 91,032 98,836 107,347 114,391 117,965 121,644 209,118 215,392
+
+growth % 5.8% 9.8% 9.8% 9.1% 8.6% 8.6% 6.6% 3.1% 3.1% 3.0% 3.0%
+
+Organic growth 6.0% 10.0% 12.5% 10.1% 9.0% 9.2% 7.7% 3.1% 3.1% 3.0% 3.0%
+
+EBIT (adj) 5,354 6,810 7,783 9,201 10,531 11,810 12,558 12,881 13,191 19,866 20,462
+
+margin 7.7% 9.0% 9.3% 10.1% 10.7% 11.0% 11.0% 10.9% 10.8% 9.5% 9.5%
+
+Tax -1,329 -2,252 -2,101 -2,484 -2,843 -3,189 -3,391 -3,478 -3,562 -5,364 -5,525
+
+Rate 25% 33% 27% 27% 27.0% 27.0% 27.0% 27.0% 27.0% 27.0% 27.0%
+
+NOPAT 4,025 4,558 5,681 6,717 7,687 8,621 9,167 9,403 9,630 14,502 14,937
+
+growth % 13.2% 24.7% 18.2% 14.4% 12.1% 6.3% 2.6% 2.4% 2.2% 3.0%
+
+Capex -3,805 -3,190 -3,878 -4,199 -4,201 -4,562 -4,862 -5,014 -5,170 -8,888 -9,154
+
+as % sales 5.5% 4.2% 4.6% 4.6% 4.3% 4.3% 4.3% 4.3% 4.3% 4.3% 4.3%
+
+D&A 2,959 2,560 2,718 2,910 3,118 3,327 3,552 3,793 3,931 7,406 7,628
+
+Capex/ D&A 1.29 1.25 1.43 1.44 1.35 1.37 1.37 1.32 1.32 1.20 1.20
+
+WC (∆) 3 854 2,340 2,416 2,635 2,182 1,111 -291 -1,975 627
+
+WC (28,785) (28,788) (29,642) (31,982) (34,398) (37,032) (39,215) (40,326) (40,035) (20,912) -21,539
+
+as % sales -41.6% -37.9% -35.5% -35.1% -34.8% -34.5% -34.3% -34.2% -32.9% -10.0% -10.0%
+
+FCFF 3,344 3,931 5,376 7,768 9,021 10,020 10,040 9,294 8,100 11,046 14,039
+
+Period 0.67 1.67 2.67 3.67 4.67 5.67 6.67 24.67 24.67
+
+Discount factor 0.94 0.85 0.78 0.70 0.64 0.58 0.53 0.10 0.10
+
+PV of FCFF 3,385 6,624 6,993 7,062 6,433 5,413 4,289 1,052 19,100
+
+EV 99,346 Valuation date 30/04/2026
+
+ST debt (3,924)
+
+LT debt (10,355) WACC calculation
+
+Cash 17,814 Cost of equity 10.0%
+
+Securities 11,861 Equity weight >100%
+
+Dassault 2,617 WACC 10.0%
+
+NI 115
+
+Pension (1,821)
+
+Equity value 115,652
+
+Shares outstanding 791
+
+Equity value/ share 146
+
+Source: UBS estimates
+
+Figure 5: Peers multiple comparison
+
+Share price
+
+lc 2025 2026 2025 2026 2025 2026
+
+MTU Aero 304 19.4x 17.7x 14.2x 12.9x 1.7% 3.4%
+
+Rolls-Royce 7.54 30.5x 25.8x 22.1x 19.2x 4.5% 5.4%
+
+Safran 233 29.7x 23.4x 20.0x 17.3x 3.3% 4.2%
+
+European peers 26.5x 22.3x 18.8x 16.5x 3.1% 4.3%
+
+Boeing 183 nm 58.6x 128.3x 35.2x nm 3.4%
+
+Spirit Aerosystems 36 nm 20.4x 24.0x 13.8x nm 5.9%
+
+US peers nm 39.5x nm 24.5x nm 4.7%
+
+Airbus fair multiple, yield 23.9x 20.1x 16.9x 14.8x 3.5% 4.8%
+
+Denominator (€/ share, €m) 6.5 7.4 6,810 7,783 4,296 5,190
+
+Implied EV fair value (€m) na na 114,923 115,387 na na
+
+Implied equity fair value today 154 148 166 166 155 137
+
+Implied equity fair values 12m fwd 168 160 180 181 169 149
+
+weight 67% 33% 67% 33% 67% 33%
+
+Implied equity fair value 12m fwd 165 181 163
+
+Fair Value
+
+FV implied by P/E 165
+
+FV implied by DCF 146
+
+Airbus Fair Value 156
+
+EV/EBITP/E FCF yield
+
+Source: Company reports, Refinitiv, UBS estimates
+
+
+
+Airbus 1 May 2025 ab 5
+
+Airbus (AIR.PA)
+
+Income Statement (€m) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+Revenues 58,763 65,446 69,230 76,000 9.8 83,471 9.8 91,032 98,836 107,347
+Gross profit 10,571 10,044 10,675 11,719 9.8 12,871 9.8 14,037 15,240 16,552
+EBITDA (UBS) 8,343 8,080 8,207 9,370 14.2 10,501 12.1 12,112 13,649 15,137
+Depreciation & amortisation (2,716) (2,242) (2,853) (2,560) 10.3 (2,718) -6.2 (2,910) (3,118) (3,327)
+EBIT (UBS) 5,627 5,838 5,354 6,810 27.2 7,783 14.3 9,201 10,531 11,810
+Associates & investment income 0 0 0 0 - 0 - 0 0 0
+Other non-operating income 8 (3) 0 0 - 0 - 0 0 0
+Net interest (232) (25) (98) (19) 80.9 (19) -0.4 (19) (19) (19)
+Exceptionals (incl goodwill) 0 0 0 0 - 0 - 0 0 0
+Pre-tax profit 5,403 5,810 5,256 6,791 29.2 7,764 14.3 9,182 10,512 11,791
+Tax (1,459) (1,569) (1,418) (2,134) -50.5 (2,096) 1.7 (2,479) (2,838) (3,184)
+Profit after tax 3,944 4,241 3,838 4,657 21.4 5,668 21.7 6,703 7,674 8,607
+Preference dividends 0 0 0 0 - 0 - 0 0 0
+Minorities 111 176 154 154 0.0 154 0.0 154 154 154
+Extraordinary items 192 (628) 240 273 13.8 (153) - (153) (153) (153)
+Net earnings (local GAAP) 4,247 3,789 4,232 5,085 20.1 5,669 11.5 6,705 7,675 8,609
+Net earnings (UBS) 4,055 4,417 3,992 4,811 20.5 5,822 21.0 6,857 7,828 8,761
+Tax rate (%) 27.0 27.0 27.0 31.4 16.5 27.0 -14.1 27.0 27.0 27.0
+
+Per Share (€) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+EPS (UBS, diluted) 5.15 5.59 5.05 6.08 20.5 7.36 21.0 8.67 9.90 11.08
+EPS (local GAAP, diluted) 5.39 4.80 5.35 6.43 20.1 7.17 11.5 8.48 9.70 10.88
+EPS (UBS, basic) 5.15 5.60 5.05 6.09 20.5 7.37 21.0 8.68 9.91 11.09
+DPS (net) (€) 1.80 1.80 2.00 2.40 20.1 2.68 11.5 3.17 3.63 4.07
+Cash EPS (UBS, diluted) 1 8.60 8.43 8.65 9.32 7.7 10.80 15.8 12.35 13.84 15.28
+Book value per share 16.48 22.54 24.96 29.27 17.3 34.05 16.3 39.85 46.40 53.67
+Average shares (diluted) 788 790 791 791 0.0 791 0.0 791 791 791
+
+Balance Sheet (€m) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+Net tangible fixed assets 16,505 17,201 19,112 19,683 3.0 20,758 5.5 21,938 22,889 23,968
+Net intangible fixed assets 16,768 16,929 17,179 17,238 0.3 17,323 0.5 17,431 17,562 17,718
+Investments 7,075 7,904 8,242 9,236 12.1 9,258 0.2 9,295 9,349 9,418
+Other assets 6,581 5,328 6,216 6,216 0.0 6,216 0.0 6,216 6,216 6,216
+Total fixed assets 46,929 47,362 50,749 52,373 3.2 53,554 2.3 54,880 56,016 57,321
+Net working capital 6,967 6,128 6,294 6,294 0.0 5,445 -13.5 3,110 700 (1,928)
+Cash 23,598 25,278 26,864 28,593 6.4 31,884 11.5 37,331 43,629 50,549
+Short term debt (2,142) (3,389) (3,924) (3,924) 0.0 (3,924) 0.0 (3,924) (3,924) (3,924)
+Long term debt (10,631) (10,202) (10,355) (10,355) 0.0 (10,355) 0.0 (10,355) (10,355) (10,355)
+Preferred shares 0 0 0 0 - 0 - 0 0 0
+Net (debt) / cash 10,825 11,687 12,585 14,314 13.7 17,605 23.0 23,052 29,350 36,270
+Other debt-deemed liabilities (40,037) (36,752) (40,220) (40,223) 0.0 (40,228) 0.0 (40,233) (40,239) (40,246)
+Provisions & non-debt deemed liabs (11,702) (10,674) (9,698) (9,698) 0.0 (9,698) 0.0 (9,698) (9,698) (9,698)
+Total equity 12,982 17,751 19,710 23,061 17.0 26,678 15.7 31,112 36,130 41,719
+Minority interests (32) (35) (90) 64 - 218 240.6 372 526 680
+Common s/h equity 12,950 17,716 19,620 23,125 17.9 26,896 16.3 31,484 36,656 42,399
+Operating invested capital 35,119 34,912 39,103 39,733 1.6 40,043 0.8 38,997 37,669 36,277
+Total capital employed 42,194 42,816 47,345 48,969 3.4 49,301 0.7 48,292 47,018 45,695
+
+Cash Flow (€m) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+EBIT (UBS) 5,627 5,838 5,354 6,810 27.2 7,783 14.3 9,201 10,531 11,810
+Depreciation & amortisation 2,716 2,242 2,853 2,560 -10.3 2,718 6.2 2,910 3,118 3,327
+Net change in working capital 1,421 1,205 1,337 3 -99.8 854 NM 2,340 2,416 2,635
+Net interest (232) (25) (98) (19) 80.9 (19) -0.4 (19) (19) (19)
+Tax paid (939) (1,156) (1,347) (2,436) -80.9 (2,040) 16.3 (2,423) (2,782) (3,127)
+Other operating (2,306) (1,849) (697) 443 - (388) - (447) (499) (547)
+Operating cash flow 6,287 6,255 7,402 7,361 -0.6 8,908 21.0 11,563 12,765 14,078
+Tangible capital expenditure (2,363) (2,976) (3,571) (3,190) 10.7 (3,878) -21.6 (4,199) (4,201) (4,562)
+Intangible capital expenditure 0 0 0 0 - 0 - 0 0 0
+Equity free cash flow 3,924 3,279 3,831 4,171 8.9 5,031 20.6 7,364 8,565 9,516
+Net (acquisitions) & disposals (188) (65) (2,691) (985) 63.4 0 - 0 0 0
+Equity dividends paid (1,181) (1,421) (2,215) (1,580) 28.7 (1,898) -20.1 (2,116) (2,503) (2,865)
+Share issues / (buybacks) 109 (188) (150) 0 - 0 - 0 0 0
+Net other cash flows (428) (949) (164) 124 - 158 27.5 201 236 268
+Cash flow (inc)/dec in net debt 2,236 656 (1,389) 1,729 - 3,290 90.2 5,448 6,298 6,919
+FX / non cash items 946 206 2,287 0 -100.0 0 - 0 0 0
+Balance sheet (inc)/dec in net debt 3,182 862 898 1,729 92.6 3,290 90.2 5,448 6,298 6,919
+Source: Company accounts, UBS estimates. (UBS) metrics use reported figures which have been adjusted by UBS analysts.1 Cash EPS (UBS, diluted) is calculated using UBS net income adding back depreciation 
+and amortization.
+
+
+
+Airbus 1 May 2025 ab 6
+
+Airbus (AIR.PA)
+
+Valuation (x) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+P/E (local GAAP, diluted) 19.6 26.5 27.4 22.9 20.5 17.4 15.2 13.5
+P/E (UBS, diluted) 20.5 22.7 29.0 24.2 20.0 17.0 14.9 13.3
+P/CEPS 12.3 15.1 16.9 15.8 13.6 11.9 10.6 9.6
+Equity FCF (UBS) yield % 4.7 3.3 3.3 3.6 4.4 6.4 7.4 8.2
+Dividend yield (net) % 1.7 1.4 1.4 1.6 1.8 2.2 2.5 2.8
+P/BV 6.4 5.6 5.9 5.0 4.3 3.7 3.2 2.7
+EV/revenues (core) 1.5 1.5 1.6 1.5 1.3 1.1 1.0 0.8
+EV/EBITDA (UBS core) 10.4 12.0 13.7 11.8 10.2 8.4 7.0 5.8
+EV/EBIT (core) 15.4 16.7 20.9 16.3 13.8 11.1 9.1 7.5
+EV/OpFCF (core) 15.4 16.7 20.9 16.3 13.8 11.1 9.1 7.5
+EV/op. invested capital 2.8 2.8 3.0 2.8 2.7 2.6 2.5 2.4
+
+Enterprise value (€m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Market cap. 83,027 99,869 115,074 115,638 115,638 115,638 115,638 115,638
+Net debt (cash) (9,431) (10,726) (11,753) (14,314) (17,605) (23,052) (29,350) (36,270)
+Buy out of minorities 1,341 1,518 1,722 2,553 2,399 2,245 2,091 1,937
+Pension provisions/other 11,623 6,622 7,046 7,046 7,046 7,046 7,046 7,046
+Total enterprise value 86,560 97,283 112,089 110,922 107,478 101,876 95,424 88,351
+Non core assets 0 0 0 0 0 0 0 0
+Core enterprise value 86,560 97,283 112,089 110,922 107,478 101,876 95,424 88,351
+
+Growth (%) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Revenue 12.7 11.4 5.8 9.8 9.8 9.1 8.6 8.6
+EBITDA (UBS) 16.0 (3.2) 1.6 14.2 12.1 15.3 12.7 10.9
+EBIT (UBS) 15.7 3.7 (8.3) 27.2 14.3 18.2 14.4 12.1
+EPS (UBS, diluted) 19.1 8.7 (9.8) 20.5 21.0 17.8 14.2 11.9
+Net DPS 20.0 0.0 11.1 20.1 11.5 18.3 14.5 12.2
+
+Margins & Profitability (%) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Gross profit margin 18.0 15.3 15.4 15.4 15.4 15.4 15.4 15.4
+EBITDA margin 14.2 12.3 11.9 12.3 12.6 13.3 13.8 14.1
+EBIT (UBS) margin 9.6 8.9 7.7 9.0 9.3 10.1 10.7 11.0
+Net earnings (UBS) margin 6.9 6.7 5.8 6.3 7.0 7.5 7.9 8.2
+ROIC (EBIT) 18.2 16.7 14.5 17.3 19.5 23.3 27.5 31.9
+ROIC post tax 13.3 12.2 10.6 11.8 14.2 17.0 20.1 23.3
+ROE (UBS) 36.2 28.8 21.4 22.5 23.3 23.5 23.0 22.2
+
+Capital structure & Coverage (x) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Net debt / EBITDA (1.3) (1.4) (1.5) (1.5) (1.7) (1.9) (2.2) (2.4)
+Net debt / total equity % (83.4) (65.8) (63.9) (62.1) (66.0) (74.1) (81.2) (86.9)
+Net debt / (net debt + total equity) % NM NM NM NM NM NM NM NM
+Net debt/EV % (10.7) (11.6) (10.8) (12.1) (14.8) (20.0) (27.5) (37.1)
+Capex / depreciation % 87.0 132.7 125.2 124.6 142.7 144.3 134.7 137.1
+Capex / revenue % 4.0 4.5 5.2 4.2 4.6 4.6 4.3 4.3
+EBIT / net interest 24.3 NM 54.6 NM NM NM NM NM
+Dividend cover (UBS) 2.9 3.1 2.5 2.5 2.8 2.7 2.7 2.7
+Div. payout ratio (UBS) % 34.9 32.1 39.6 39.5 36.4 36.5 36.6 36.7
+
+Revenues by division (€m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Commercial - - 50,646 56,321 62,587 68,721 74,847 81,396
+D&S - - 12,082 12,686 13,447 14,389 15,540 16,938
+Helicopter - - 7,941 8,576 9,177 9,819 10,506 11,242
+Others 58,763 65,446 (1,439) (1,583) (1,740) (1,897) (2,057) (2,229)
+Total 58,763 65,446 69,230 76,000 83,471 91,032 98,836 107,347
+
+EBIT (UBS) by division (€m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Commercial 4,600 4,818 5,093 5,580 6,201 7,348 8,370 9,461
+Helicopter - - 818 858 918 982 1,051 1,124
+D&S - - (566) 372 664 872 1,111 1,225
+Others 1,027 1,020 9 0 0 (1) (1) 0
+Total 5,627 5,838 5,354 6,810 7,783 9,201 10,531 11,810
+Source: Company accounts, UBS estimates. (UBS) metrics use reported figures which have been adjusted by UBS analysts.
+
+
+
+Airbus 1 May 2025 ab 7
+
+Forecast returns
+
+Forecast price appreciation 5.3%
+
+Forecast dividend yield 1.6%
+
+Forecast stock return 7.0%
+
+Market return assumption 7.0%
+
+Forecast excess return 0.0%
+
+Company Description
+
+Airbus Group has three divisions: (1) Airbus Commercial, currently one of two manufacturers 
+of 120-plus-seat civil aircraft and military transport aircraft; (2) Airbus Helicopters, a leading 
+helicopter company, previously named Eurocopter; and (3) Airbus Defence & Space, which 
+develops and manufactures a range of defence and security platforms and products, 
+including fighter aircraft, missiles (via its 37.5% stake in MBDA), UAVs, defence electronics, 
+space transportation, and satellites and satellite services. Airbus also owns 50% of ATR, a 
+turboprop aircraft manufacturer.
+
+Valuation Method and Risk Statement
+
+Airbus profits are very sensitive to production volumes and to movements in the €/US$ 
+exchange rate. These are very difficult to predict and consequently any changes in these 
+factors can have a significant effect on forecasts. In addition, Airbus’ defence operations are 
+dependent upon government expenditure and the company’s ability to successfully execute 
+on contracts. Again, both of these are subject to change. Our 12-month price target is based 
+on DCF and multiple analysis.
+
+
+
+Airbus 1 May 2025 ab 8
+
+Quantitative Research Review
+
+UBS Global Research publishes a quantitative assessment of its analysts' responses to certain questions about the likelihood of an occurrence 
+of a number of short term factors in a product known as the 'Quantitative Research Review'.  The views for this month can be found below. 
+Views contained in this assessment on a particular stock reflect only the views on those short term factors which are a different timeframe to 
+the 12-month timeframe reflected in any equity rating set out in this note.  For previous responses please make reference to (i) previous UBS 
+Global Research reports; and (ii) where no applicable research report was published that month, the Quantitative Research Review which can 
+be found at https://neo.ubs.com/quantitative, or contact your UBS sales representative for access to the report or the Quantitative Research 
+Team on ubs-quant-answers@ubs.com. A consolidated report which contains all responses is also available and again you should contact your 
+UBS sales representative for details and pricing or the Quantitative Research Team on the email above.
+
+                        Airbus                     
+
+Question Response
+
+1. Is the industry structure facing the firm likely to improve or deteriorate over the 
+next six months? Rate on a scale of 1-5 (1 = getting worse, 3 = no change, 5 = 
+getting better, N/A = no view)
+
+                                    3                             
+
+2. Is the regulatory/government environment facing the firm likely to improve or 
+deteriorate over the next six months? Rate on a scale of 1-5 (1 = getting tougher 
+3 = no change, 5 = getting better, N/A = no view)
+
+                                    2                             
+
+3. Over the last 3-6 months in broad terms have things been improving/no 
+change/getting worse for this stock? Rate on a scale of 1-5 (1 = getting a lot 
+worse, 3 = not much change, 5 = getting a lot better, N/A = no view)
+
+                                    1                             
+
+4. Relative to the current CONSENSUS EPS forecast, is the next company EPS 
+update likely to lead to:  (1 = negative surprise vs consensus, 3 = in-line with 
+consensus, 5 = positive surprise vs consensus expectations, N/A = no view)
+
+                                    2                             
+
+5. What’s driving the difference?                                                                  
+
+6. Relative to YOUR current earnings forecast, is there relatively greater risk at the 
+next earnings result of:(1 = downside skew risk to earnings, 3 = equal upside or 
+downside risk to earnings, 5 = upside skew risk to earnings, N/A = no view)
+
+                                    2                             
+
+7. What’s driving the difference?                                                                  
+
+8. Is there an upcoming catalyst for the company over the next three months?                                                                  
+
+9. Is there an actual or approximate date for the catalyst?                                                                  
+
+10. Is the catalyst date an actual or approximate date?                                                                  
+
+11. What is the catalyst?                                                                  
+
+https://neo.ubs.com/quantitative
+mailto:ubs-quant-answers@ubs.com
+
+
+Airbus 1 May 2025 ab 9
+
+Required Disclosures
+
+This document has been prepared by UBS AG London Branch, an affiliate of UBS AG. UBS AG, its subsidiaries, branches and affiliates, 
+including former Credit Suisse AG and its subsidiaries, branches and affiliates are referred to herein as "UBS".
+
+For information on the ways in which UBS manages conflicts and maintains independence of its UBS Global Research product; 
+historical performance information; certain additional disclosures concerning UBS Global Research recommendations; and terms and 
+conditions for certain third party data used in research report, please visit https://www.ubs.com/disclosures. Unless otherwise 
+indicated, information and data in this report are based on company disclosures including but not limited to annual, interim, quarterly 
+reports and other company announcements. The figures contained in performance charts refer to the past; past performance is not a 
+reliable indicator of future results. Additional information will be made available upon request. UBS Securities Co. Limited is licensed to 
+conduct securities investment consultancy businesses by the China Securities Regulatory Commission. UBS acts or may act as principal 
+in the debt securities (or in related derivatives) that may be the subject of this report. This recommendation was finalized on: 01 May 
+2025 06:23 AM GMT. UBS has designated certain UBS Global Research department members as Derivatives Research Analysts where 
+those department members publish research principally on the analysis of the price or market for a derivative, and provide information 
+reasonably sufficient upon which to base a decision to enter into a derivatives transaction. Where Derivatives Research Analysts co-
+author research reports with Equity Research Analysts or Economists, the Derivatives Research Analyst is responsible for the derivatives 
+investment views, forecasts, and/or recommendations. Quantitative Research Review: UBS Global Research publishes a 
+quantitative assessment of its analysts' responses to certain questions about the likelihood of an occurrence of a number of short term 
+factors in a product known as the 'Quantitative Research Review'. Views contained in this assessment on a particular stock reflect only 
+the views on those short term factors which are a different timeframe to the 12-month timeframe reflected in any equity rating set out 
+in this note. For the latest responses, please see the Quantitative Research Review Addendum at the back of this report, where 
+applicable. For previous responses please make reference to (i) previous UBS Global Research reports; and (ii) where no applicable 
+research report was published that month, the Quantitative Research Review which can be found at https://neo.ubs.com/
+quantitative, or contact your UBS sales representative for access to the report or the Quantitative Research Team on ubs-quant-
+answers@ubs.com.  A consolidated report which contains all responses is also available and again you should contact your UBS sales 
+representative for details and pricing or the Quantitative Research team on the email above.
+
+Analyst Certification: 
+Each research analyst primarily responsible for the content of this research report, in whole or in part, certifies that with respect to each 
+security or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about 
+those securities or issuers and were prepared in an independent manner, including with respect to UBS, and (2) no part of his or her 
+compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by that research 
+analyst in the research report.
+
+UBS Global Research: Global Equity Rating Definitions
+
+12-Month Rating Definition Coverage1 IB Services2
+
+Buy FSR is > 6% above the MRA. 52% 24%
+
+Neutral FSR is between -6% and 6% of the MRA. 40% 20%
+
+Sell FSR is > 6% below the MRA. 8% 22%
+
+Short-Term Rating Definition Coverage3 IB Services4
+
+Buy Stock price expected to rise within three months from the time the 
+rating was assigned because of a specific catalyst or event. <1% <1%
+
+Sell Stock price expected to fall within three months from the time the 
+rating was assigned because of a specific catalyst or event. <1% <1%
+
+Source: UBS. Rating allocations are as of 31 March 2025.
+ 1:Percentage of companies under coverage globally within the 12-month rating category.
+ 2:Percentage of companies within the 12-month rating category for which investment banking (IB) services were provided within the 
+past 12 months.
+ 3:Percentage of companies under coverage globally within the Short-Term rating category.
+ 4:Percentage of companies within the Short-Term rating category for which investment banking (IB) services were provided within the 
+past 12 months.
+
+https://www.ubs.com/disclosures
+https://neo.ubs.com/quantitative
+https://neo.ubs.com/quantitative
+mailto:ubs-quant-answers@ubs.com
+mailto:ubs-quant-answers@ubs.com
+
+
+Airbus 1 May 2025 ab 10
+
+KEY DEFINITIONS: Forecast Stock Return (FSR) is defined as expected percentage price appreciation plus gross dividend yield over 
+the next 12 months. In some cases, this yield may be based on accrued dividends. Market Return Assumption (MRA) is defined as 
+the one-year local market interest rate plus 5% (a proxy for, and not a forecast of, the equity risk premium). Under Review (UR) 
+Stocks may be flagged as UR by the analyst, indicating that the stock's price target and/or rating are subject to possible change in the 
+near term, usually in response to an event that may affect the investment case or valuation. Short-Term Ratings reflect the expected 
+near-term (up to three months) performance of the stock and do not reflect any change in the fundamental view or investment case. 
+Equity Price Targets have an investment horizon of 12 months.
+
+EXCEPTIONS AND SPECIAL CASES: UK and European Investment Fund ratings and definitions are: Buy: Positive on factors 
+such as structure, management, performance record, discount; Neutral: Neutral on factors such as structure, management, 
+performance record, discount; Sell: Negative on factors such as structure, management, performance record, discount. Core 
+Banding Exceptions (CBE): Exceptions to the standard +/-6% bands may be granted by the Investment Review Consultation (IRC). 
+Factors considered by the IRC include the stock's volatility and the credit spread of the respective company's debt. As a result, stocks 
+deemed to be very high or low risk may be subject to higher or lower bands as they relate to the rating. When such exceptions apply, 
+they will be identified in the Company Disclosures table in the relevant research piece.
+
+Research analysts contributing to this report who are employed by any non-US affiliate of UBS Securities LLC are not registered/
+qualified as research analysts with FINRA. Such analysts may not be associated persons of UBS Securities LLC and therefore are not 
+subject to the FINRA restrictions on communications with a subject company, public appearances, and trading securities held by a 
+research analyst account. The name of each affiliate and analyst employed by that affiliate contributing to this report, if any, follows.
+
+UBS AG London Branch: Ian Douglas-Pennant, Yassin Moktadir.
+
+Company Disclosures
+
+Company Name Reuters 12-month rating Price Price date
+
+Airbus28 AIR.PA Neutral €147.14 30 Apr 2025
+
+Source: UBS Global Research; LSEG Eikon. All prices as of local market close. Ratings in this table are the most current 
+published ratings prior to this report. They may be more recent than the stock pricing date.
+28. UBS holds a long or short position of 0.5% or more of the listed shares of this company.
+
+Unless otherwise indicated, please refer to the Valuation and Risk sections within the body of this report. For a complete set of 
+disclosure statements associated with the companies discussed in this report, including information on valuation and risk, please 
+contact UBS Securities LLC, 1285 Avenue of Americas, New York, NY 10019, USA, Attention: Investment Research.
+
+Airbus (€)
+
+Price Target (€) Stock Price (€)
+
+0
+
+40
+
+80
+
+120
+
+160
+
+200
+
+Buy
+Neutral
+
+Sell
+No Rating
+
+Date Stock Price (€) Price Target (€) Rating
+
+2022-01-28 111.38 132.00 Buy
+2022-02-18 115.00 139.00 Buy
+2022-03-22 108.26 - No Rating
+2022-04-14 106.12 139.00 Buy
+2023-01-30 115.52 105.00 Sell
+2023-07-26 133.18 107.00 Sell
+
+
+
+Airbus 1 May 2025 ab 11
+
+Date Stock Price (€) Price Target (€) Rating
+
+2023-09-28 126.74 110.00 Sell
+2024-03-06 158.24 160.00 Neutral
+2024-06-25 134.78 151.00 Neutral
+2024-06-28 128.26 145.00 Neutral
+2024-08-01 133.92 150.00 Neutral
+2024-10-08 126.34 140.00 Neutral
+2025-03-31 162.78 175.00 Neutral
+
+Source: UBS Global Research; LSEG Eikon as of 30-Apr-2025. All prices as of local market close. Ratings as of date shown.
+
+
+
+Airbus 1 May 2025 ab 12
+
+The Disclaimer relevant to Global Wealth Management clients follows the Global Research Disclaimer. The Disclaimer 
+relevant to Credit Suisse Wealth Management follows the Global Wealth Management Disclaimer.
+
+UBS Global Research Disclaimer
+This document has been prepared by UBS AG London Branch, an affiliate of UBS AG. UBS AG, its subsidiaries, branches and affiliates, including former Credit 
+Suisse AG and its subsidiaries, branches and affiliates are referred to herein as "UBS".
+Any opinions expressed in this document may change without notice and are only current as of the date of publication. Different areas, groups, and personnel 
+within UBS may produce and distribute separate research products independently of each other. For example, research publications from UBS CIO are produced 
+by UBS Global Wealth Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems of each separate 
+research organization may differ, for example, in terms of investment recommendations, investment horizon, model assumptions, and valuation methods. As a 
+consequence, except for certain economic forecasts (for which UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price 
+targets, and valuations provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant research 
+product for the details as to their methodologies and rating system. Not all clients may have access to all products from every organization. Each research product 
+is subject to the policies and procedures of the organization that produces it.
+This document is provided solely to recipients who are expressly authorized by UBS to receive it. If you are not so authorized you must 
+immediately destroy the document.
+UBS Global Research is provided to our clients through UBS Neo, and in certain instances, UBS.com and any other system or distribution method specifically 
+identified in one or more communications distributed through UBS Neo or UBS.com (each a system) as an approved means for distributing UBS Global Research. 
+It may also be made available through third party vendors and distributed by UBS and/or third parties via e-mail or alternative electronic means.
+All UBS Global Research is available on UBS Neo. Please contact your UBS sales representative if you wish to discuss your access to UBS Neo. Where UBS Global 
+Research refers to "UBS Evidence Lab Inside" or has made use of data provided by UBS Evidence Lab and you would like to access that data please contact your 
+UBS sales representative. UBS Evidence Lab data is available on UBS Neo. The level and types of services provided by UBS Global Research and UBS Evidence Lab to 
+a client may vary depending upon various factors such as a client's individual preferences as to the frequency and manner of receiving communications, a client's 
+risk profile and investment focus and perspective (e.g., market wide, sector specific, long-term, short-term, etc.), the size and scope of the overall client 
+relationship with UBS Global Research and UBS Evidence Lab and legal and regulatory constraints. UBS HOLT is an offering of UBS Global Research. HOLT Lens is 
+a corporate performance platform offering that provides an objective accounting-led framework for comparing and valuing companies and is available to clients 
+of UBS Global Research; for further details and pricing please contact your UBS Sales representative. In particular, HOLT has a variety of warranted prices based on 
+the scenario chosen; please mail UBS Securities LLC, 1285 Avenue of Americas, New York, NY 10019, USA, Attention: Investment Research, if you are interested 
+in the warranted price on a particular company, again subject to commercial considerations. For all other HOLT specific disclaimers, please see https://
+www.ubs.com/disclosures.
+When you receive UBS Global Research through a system, your access and/or use of such UBS Global Research is subject to this UBS Global Research Disclaimer 
+and to the UBS Neo Platform Use Agreement (the "Neo Terms") together with any other relevant terms of use governing the applicable System.
+When you receive UBS Global Research via a third party vendor, e-mail or other electronic means, you agree that use shall be subject to this UBS Global Research 
+Disclaimer, the Neo Terms and where applicable the UBS Investment Bank terms of business (https://www.ubs.com/global/en/investment-bank/regulatory.html) 
+and to UBS's Terms of Use/Disclaimer (https://www.ubs.com/global/en/legalinfo2/disclaimer.html). In addition, you consent to UBS processing your personal data 
+and using cookies in accordance with our Privacy Statement (https://www.ubs.com/global/en/legalinfo2/privacy.html) and cookie notice (https://www.ubs.com/
+global/en/legal/privacy/users.html).
+If you receive UBS Global Research, whether through a System or by any other means, you agree that you shall not copy, revise, amend, create a 
+derivative work, provide to any third party, or in any way commercially exploit any UBS research provided via UBS Global Research or otherwise, 
+and that you shall not extract data from any research or estimates provided to you via UBS Global Research or otherwise, without the prior 
+written consent of UBS. 
+In certain circumstances (including for example, if you are an academic or a member of the media) you may receive UBS Global Research otherwise than in the 
+capacity of a client of UBS and you understand and agree that (i) the UBS Global Research is provided to you for information purposes only; (ii) for the purposes of 
+receiving it you are not intended to be and will not be treated as a “client” of UBS for any legal or regulatory purpose; (iii) the UBS Global Research must not be 
+relied on or acted upon for any purpose; and (iv) such content is subject to the relevant disclaimers that follow.
+This document is for distribution only as may be permitted by law. It is not directed to, or intended for distribution to or use by, any person or entity who is a citizen 
+or resident of or located in any locality, state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or 
+regulation or would subject UBS to any registration or licensing requirement within such jurisdiction.
+This document is a general communication and is educational in nature; it is not an advertisement nor is it a solicitation or an offer to buy or sell any financial 
+instruments or to participate in any particular trading strategy. Nothing in this document constitutes a representation that any investment strategy or 
+recommendation is suitable or appropriate to an investor’s individual circumstances or otherwise constitutes a personal recommendation. By providing this 
+document, none of UBS or its representatives has any responsibility or authority to provide or have provided investment advice in a fiduciary capacity or otherwise. 
+Investments involve risks, and investors should exercise prudence and their own judgment in making their investment decisions. None of UBS or its representatives 
+is suggesting that the recipient or any other person take a specific course of action or any action at all. The recipient should carefully read this document in its 
+entirety and not draw inferences or conclusions from the rating alone. By receiving this document, the recipient acknowledges and agrees with the intended 
+purpose described above and further disclaims any expectation or belief that the information constitutes investment advice to the recipient or otherwise purports 
+to meet the investment objectives of the recipient. The financial instruments described in the document may not be eligible for sale in all jurisdictions or to certain 
+categories of investors.
+Options, structured derivative products and futures (including OTC derivatives) are not suitable for all investors. Trading in these instruments is considered risky 
+and may be appropriate only for sophisticated investors. Prior to buying or selling an option, and for the complete risks relating to options, you must receive a 
+copy of "The Characteristics and Risks of Standardized Options." You may read the document at https://www.theocc.com/publications/risks/riskchap1.jsp or ask 
+your salesperson for a copy. Various theoretical explanations of the risks associated with these instruments have been published. Supporting documentation for 
+any claims, comparisons, recommendations, statistics or other technical data will be supplied upon request. Past performance is not necessarily indicative of 
+future results. Transaction costs may be significant in option strategies calling for multiple purchases and sales of options, such as spreads and straddles. Because 
+of the importance of tax considerations to many options transactions, the investor considering options should consult with his/her tax advisor as to how taxes 
+affect the outcome of contemplated options transactions.
+Mortgage and asset-backed securities may involve a high degree of risk and may be highly volatile in response to fluctuations in interest rates or other market 
+conditions. Foreign currency rates of exchange may adversely affect the value, price or income of any security or related instrument referred to in the document. 
+For investment advice, trade execution or other enquiries, clients should contact their local sales representative.
+UBS notes that no globally accepted framework or definition (legal, regulatory or otherwise) currently exists, nor is there a market consensus as to what 
+constitutes an “ESG” (Environmental, Social or Governance) or an equivalent-label, or as to what precise attributes are required for the Information (as defined 
+below) to be defined as ESG or equivalently-labelled. Any information, data or other content including from a third party source contained, referred to herein or 
+used for whatsoever purpose by UBS or a third party (“Information”), in relation to any actual or potential ESG objective, issue or consideration is not intended to 
+be relied upon for ESG classification, regulatory regime or industry initiative purposes (“ESG Regimes”). Nothing in these materials is intended to convey, suggest 
+or indicate that UBS considers or represents any product, service, person or body mentioned in these materials as meeting or qualifying for any ESG classification, 
+labelling or similar standards that may exist under the ESG Regimes. UBS has not conducted any assessment of compliance with ESG Regimes. Parties are 
+reminded to make their own assessments for these purposes.
+The value of any investment or income may go down as well as up, and investors may not get back the full (or any) amount invested. Past performance is not 
+necessarily a guide to future performance. Neither UBS nor any of its directors, employees or agents accepts any liability for any loss (including investment loss) or 
+damage arising out of the use of all or any of the Information.
+Prior to making any investment or financial decisions, any recipient of this document or the information should take steps to understand the risk and return of the 
+investment and seek individualized advice from his or her personal financial, legal, tax and other professional advisors that takes into account all the particular 
+facts and circumstances of his or her investment objectives.
+Any prices stated in this document are for information purposes only and do not represent valuations for individual securities or other financial instruments. There 
+is no representation that any transaction can or could have been effected at those prices, and any prices do not necessarily reflect UBS's internal books and 
+records or theoretical model-based valuations and may be based on certain assumptions. Different assumptions by UBS or any other source may yield substantially 
+different results.
+No representation or warranty, either expressed or implied, is provided in relation to the accuracy, completeness or reliability of the information contained in any 
+materials to which this document relates (the "Information"), except with respect to Information concerning UBS. The Information is not intended to be a 
+
+https://www.ubs.com/disclosures
+https://www.ubs.com/disclosures
+https://www.ubs.com/global/en/investment-bank/regulatory.html
+http://www.ubs.com/global/en/legalinfo2/disclaimer.html
+http://www.ubs.com/global/en/legalinfo2/privacy.html
+https://www.ubs.com/global/en/legal/privacy/users.html
+https://www.ubs.com/global/en/legal/privacy/users.html
+http://www.theocc.com/publications/risks/riskchap1.jsp
+
+
+Airbus 1 May 2025 ab 13
+
+complete statement or summary of the securities, markets or developments referred to in the document. UBS does not undertake to update or keep current the 
+Information. Any statements contained in this report attributed to a third party represent UBS's interpretation of the data, information and/or opinions provided 
+by that third party either publicly or through a subscription service, and such use and interpretation have not been reviewed by the third party. In no circumstances 
+may this document or any of the Information (including any forecast, value, index or other calculated amount ("Values")) be used for any of the following 
+purposes:
+(i) valuation or accounting purposes;
+(ii) to determine the amounts due or payable, the price or the value of any financial instrument or financial contract; or
+(iii) to measure the performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance of any Value or of 
+defining the asset allocation of portfolio or of computing performance fees.
+By receiving this document and the Information you will be deemed to represent and warrant to UBS that you will not use this document or any of the Information 
+for any of the above purposes or otherwise rely upon this document or any of the Information.
+UBS has policies and procedures, which include, without limitation, independence policies and permanent information barriers, that are intended, and upon 
+which UBS relies, to manage potential conflicts of interest and control the flow of information within divisions of UBS and among its subsidiaries, branches and 
+affiliates. For further information on the ways in which UBS Global Research manages conflicts and maintains independence of its research products, historical 
+performance information and certain additional disclosures concerning UBS Global Research recommendations, please visit https://www.ubs.com/disclosures.
+UBS Global Research will initiate, update and cease coverage solely at the discretion of UBS Global Research Management, which will also have sole discretion on 
+the timing and frequency of any published research product. The analysis contained in this document is based on numerous assumptions. All material information 
+in relation to published research reports, such as valuation methodology, risk statements, underlying assumptions (including sensitivity analysis of those 
+assumptions), ratings history etc. as required by the Market Abuse Regulation, can be found on UBS Neo. Different assumptions could result in materially different 
+results.
+UBS Global Research may utilise artificial intelligence tools (“AI Tools”) in the preparation of this document. Notwithstanding any such use of AI Tools, this 
+document has undergone human review.
+The analyst(s) responsible for the preparation of this document may interact with trading desk personnel, sales personnel and other parties for the purpose of 
+gathering, applying and interpreting market information. UBS relies on information barriers to control the flow of information contained in one or more areas 
+within UBS into other areas, units, groups or affiliates of UBS. The compensation of the analyst who prepared this document is determined exclusively by UBS 
+Global Research management and senior management (not including investment banking). Analyst compensation is not based on investment banking revenues; 
+however, compensation may relate to the revenues of UBS and/or its divisions as a whole, of which investment banking, sales and trading are a part, and UBS as 
+a whole.
+For financial instruments admitted to trading on an EU regulated market: UBS (excluding UBS Securities LLC) acts as a market maker or liquidity provider (in 
+accordance with the interpretation of these terms under English law or, if not carried out by UBS in the UK the law of the relevant jurisdiction in which UBS 
+determines it carries out the activity) in the financial instruments of the issuer save that where the activity of liquidity provider is carried out in accordance with the 
+definition given to it by the laws and regulations of any other EU jurisdictions, such information is separately disclosed in this document. For financial instruments 
+admitted to trading on a non-EU regulated market: UBS may act as a market maker save that where this activity is carried out in the US in accordance with the 
+definition given to it by the relevant laws and regulations, such activity will be specifically disclosed in this document. UBS may have issued a warrant the value of 
+which is based on one or more of the financial instruments referred to in the document. UBS and its affiliates and employees may have long or short positions, 
+trade as principal and buy and sell in instruments or derivatives identified herein; such transactions or positions may be inconsistent with the opinions expressed in 
+this document.
+Within the past 12 months UBS may have received or provided investment services and activities or ancillary services as per MiFID II which may have given rise to 
+a payment or promise of a payment in relation to these services from or to this company.
+Please note that all transactions conducted by UBS are consistent with sanctions regulations imposed by Switzerland, the European Union, the United Nations, the 
+United Kingdom and the United States, per UBS' global sanctions policy. UBS opinion as to future investment worthiness assumes no new sanctions are imposed.
+US persons are prohibited from purchasing or selling securities of certain companies designated as being associated with the Chinese Military in accordance with 
+the amended US Presidential Executive Order 13959.
+United Kingdom: This material is distributed by UBS AG, London Branch to persons who are eligible counterparties or professional clients. UBS AG, London 
+Branch is authorised by the Prudential Regulation Authority and subject to regulation by the Financial Conduct Authority and limited regulation by the Prudential 
+Regulation Authority. Europe: Except as otherwise specified herein, these materials are distributed by UBS Europe SE, a subsidiary of UBS AG, to persons who are 
+eligible counterparties or professional clients (as detailed in the Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin) Rules and according to MIFID) and are only 
+available to such persons. The information does not apply to, and should not be relied upon by, retail clients. UBS Europe SE is authorised by the European Central 
+Bank (ECB) and regulated by the BaFin and the ECB. Germany, Luxembourg, the Netherlands, Belgium and Ireland: Where an analyst of UBS Europe SE has 
+contributed to this document, the document is also deemed to have been prepared by UBS Europe SE. In all cases it is distributed by UBS Europe SE and UBS AG, 
+London Branch. Turkey: Distributed by UBS AG, London Branch. No information in this document is provided for the purpose of offering, marketing and sale by 
+any means of any capital market instruments and services in the Republic of Turkey. Therefore, this document may not be considered as an offer made or to be 
+made to residents of the Republic of Turkey. UBS AG, London Branch is not licensed by the Turkish Capital Market Board under the provisions of the Capital 
+Market Law (Law No. 6362). Accordingly, neither this document nor any other offering material related to the instruments/services may be utilized in connection 
+with providing any capital market services to persons within the Republic of Turkey without the prior approval of the Capital Market Board. However, according to 
+article 15 (d) (ii) of the Decree No. 32, there is no restriction on the purchase or sale of the securities abroad by residents of the Republic of Turkey. Poland: 
+Distributed by UBS Europe SE (spolka z ograniczona odpowiedzialnoscia) Oddzial w Polsce. Where an analyst of UBS Europe SE (spolka z ograniczona 
+odpowiedzialnoscia) Oddzial w Polsce has contributed to this document, the document is also deemed to have been prepared by UBS Europe SE (spolka z 
+ograniczona odpowiedzialnoscia) Oddzial w Polsce. Russia: Prepared and distributed by UBS Bank (OOO). Should not be construed as an individual Investment 
+Recommendation for the purpose of the Russian Law - Federal Law #39-FZ ON THE SECURITIES MARKET Articles 6.1-6.2.Switzerland: Distributed by UBS AG to 
+persons who are institutional investors only. UBS AG is regulated by the Swiss Financial Market Supervisory Authority (FINMA). Italy: Prepared by UBS Europe SE 
+and distributed by UBS Europe SE and UBS Europe SE, Italy Branch. Where an analyst of UBS Europe SE, Italy Branch has contributed to this document, the 
+document is also deemed to have been prepared by UBS Europe SE, Italy Branch. France: Prepared by UBS Europe SE and distributed by UBS Europe SE and UBS 
+Europe SE, France Branch. Where an analyst of UBS Europe SE, France Branch has contributed to this document, the document is also deemed to have been 
+prepared by UBS Europe SE, France Branch.  Spain: Prepared by UBS Europe SE and distributed by UBS Europe SE and UBS Europe SE, Spain Branch. Where an 
+analyst of UBS Europe SE, Spain Branch has contributed to this document, the document is also deemed to have been prepared by UBS Europe SE, Spain Branch.  
+Sweden: Prepared by UBS Europe SE and distributed by UBS Europe SE and UBS Europe SE, Sweden Branch. Where an analyst of UBS Europe SE, Sweden Branch 
+has contributed to this document, the document is also deemed to have been prepared by UBS Europe SE, Sweden Branch. South Africa: Distributed by UBS 
+South Africa (Pty) Limited (Registration No. 1995/011140/07), an authorised user of the JSE and an authorised Financial Services Provider (FSP 7328). Saudi 
+Arabia: This document has been issued by UBS AG (and/or any of its subsidiaries, branches or affiliates), a public company limited by shares, incorporated in 
+Switzerland with its registered offices at Aeschenvorstadt 1, CH-4051 Basel and Bahnhofstrasse 45, CH-8001 Zurich. This publication has been approved by UBS 
+Saudi Arabia (a subsidiary of UBS AG), a Saudi closed joint stock company incorporated in the Kingdom of Saudi Arabia under commercial register number 
+1010257812 having its registered office at Tatweer Towers, P.O. Box 75724, Riyadh 11588, Kingdom of Saudi Arabia. UBS Saudi Arabia is authorized and 
+regulated by the Capital Market Authority to conduct securities business under license number 08113-37. UAE / Dubai: The information distributed by UBS AG 
+Dubai Branch is only intended for Professional Clients and/or Market Counterparties, as classified under the DFSA rulebook. No other person should act upon this 
+material/communication. The information is not for further distribution within the United Arab Emirates. UBS AG Dubai Branch is regulated by the DFSA in the 
+DIFC. UBS Investment Bank is not licensed to provide banking services in the UAE by the Central Bank of the UAE, nor is it licensed by the UAE Securities and 
+Commodities Authority.  Israel: This Material is distributed by UBS AG, London Branch. UBS Securities Israel Ltd is a licensed Investment Marketer that is 
+supervised by the Israel Securities Authority (ISA). UBS AG, London Branch and its affiliates incorporated outside Israel are not licensed under the Israeli Advisory 
+Law. UBS may engage among others in issuance of Financial Assets or in distribution of Financial Assets of other issuers for fees or other benefits. UBS AG, London 
+Branch and its affiliates may prefer various Financial Assets to which they have or may have an Affiliation (as such term is defined under the Israeli Advisory Law). 
+Nothing in this Material should be considered as investment advice under the Israeli Advisory Law. This Material is being issued only to and/or is directed only at 
+persons who are Eligible Clients within the meaning of the Israeli Advisory Law, and this Material must not be furnished to, relied on or acted upon by any other 
+persons. United States: Distributed to US persons by either UBS Securities LLC or by UBS Financial Services Inc., subsidiaries of UBS AG; or by a group, subsidiary 
+or affiliate of UBS AG that is not registered as a US broker-dealer (a ‘non-US affiliate’) to major US institutional investors only. UBS Securities LLC or UBS Financial 
+Services Inc. accepts responsibility for the content of a report prepared by another non-US affiliate when distributed to US persons by UBS Securities LLC or UBS 
+Financial Services Inc. All transactions by a US person in the securities mentioned in this report must be effected through UBS Securities LLC or UBS Financial 
+Services Inc., and not through a non-US affiliate. UBS Securities LLC is not acting as a municipal advisor to any municipal entity or obligated person within the 
+meaning of Section 15B of the Securities Exchange Act (the "Municipal Advisor Rule"), and the opinions or views contained herein are not intended to be, and do 
+not constitute, advice within the meaning of the Municipal Advisor Rule. Canada: Distributed by UBS Securities Canada Inc., a registered investment dealer in 
+Canada and a Member-Canadian Investor Protection Fund, or by another affiliate of UBS AG that is registered to conduct business in Canada or is otherwise 
+exempt from registration. Brazil: Except as otherwise specified herein, this Material is prepared by UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários 
+
+https://www.ubs.com/disclosures
+
+
+Airbus 1 May 2025 ab 14
+
+S.A. (UBS Brasil CCTVM) to persons who are eligible investors residing in Brazil, which are considered to be Professional Investors (Investidores Profissionais), as 
+designated by the applicable regulation, mainly the CVM Resolution No. 30 from the 11th of May 2021 (determines the duty to verify the suitability of products, 
+services and transactions with regards to the client´s profile). UBS Brasil CCTVM is a subsidiary of UBS BB Servicos de Assessoria Financeira e Participacoes S.A. 
+(“UBS BB”). UBS BB is an association between UBS AG and Banco do Brasil (through its subsidiary BB – Banco de Investimentos S.A.), of which UBS AG is the 
+majority owner and which provides investment banking services and coverage in Brazil, Argentina, Chile, Paraguay, Peru and Uruguay. UBS Brasil CCTVM is 
+regulated by the Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Ombudsman: 0800-940-0266/ https://www.ubs.com/br/pt/ubsbb-
+investment-bank/ombudsman.html. UBS may hold relevant financial and commercial interest in relation to the company subject to this Research report. Hong 
+Kong: Distributed by UBS Securities Asia Limited. Please contact local licensed persons of UBS Securities Asia Limited in respect of any matters arising from, or in 
+connection with, the analysis or document Singapore: Distributed by UBS Securities Pte. Ltd. [Co. Reg. No.: 198500648C] or UBS AG, Singapore Branch. Please 
+contact UBS Securities Pte. Ltd., an exempt financial adviser under the Singapore Financial Advisers Act (Cap. 110); or UBS AG, Singapore Branch, an exempt 
+financial adviser under the Singapore Financial Advisers Act (Cap. 110) and a wholesale bank licensed under the Singapore Banking Act (Cap. 19) regulated by the 
+Monetary Authority of Singapore, in respect of any matters arising from, or in connection with, the analysis or document. The recipients of this document 
+represent and warrant that they are accredited and institutional investors as defined in the Securities and Futures Act (Cap. 289). Japan: Distributed by UBS 
+Securities Japan Co., Ltd. to professional investors (except as otherwise permitted). Where this report has been prepared by UBS Securities Japan Co., Ltd., UBS 
+Securities Japan Co., Ltd. is the author, publisher and distributor of the report. Distributed by UBS AG, Tokyo Branch to Professional Investors (except as otherwise 
+permitted) in relation to foreign exchange and other banking businesses when relevant. Australia: Clients of UBS AG: Distributed by UBS AG (ABN 47 088 129 
+613 and holder of Australian Financial Services License No. 231087). For all other recipients: Distributed by UBS Securities Australia Ltd (ABN 62 008 586 481 and 
+holder of Australian Financial Services License No. 231098). This document contains general information and/or general advice only and does not constitute 
+personal financial product advice. As such, the Information in this document has been prepared without taking into account any investor’s objectives, financial 
+situation or needs, and investors should, before acting on the Information, consider the appropriateness of the Information, having regard to their objectives, 
+financial situation and needs. If the Information contained in this document relates to the acquisition, or potential acquisition of a particular financial product by 
+a ‘Retail’ client as defined by section 761G of the Corporations Act 2001 where a Product Disclosure Statement would be required, the retail client should obtain 
+and consider the Product Disclosure Statement relating to the product before making any decision about whether to acquire the product. New Zealand: 
+Distributed by UBS New Zealand Ltd. UBS New Zealand Ltd is not a registered bank in New Zealand. You are being provided with this publication or material 
+because you have indicated to UBS that you are a “wholesale client” within the meaning of section 5C of the Financial Advisers Act 2008 of New Zealand 
+(Permitted Client). This publication or material is not intended for clients who are not Permitted Clients (non-permitted Clients). If you are a non-permitted Client 
+you must not rely on this publication or material. If despite this warning you nevertheless rely on this publication or material, you hereby (i) acknowledge that you 
+may not rely on the content of this publication or material and that any recommendations or opinions in such this publication or material are not made or 
+provided to you, and (ii) to the maximum extent permitted by law (a) indemnify UBS and its associates or related entities (and their respective Directors, officers, 
+agents and Advisors) (each a ‘Relevant Person’) for any loss, damage, liability or claim any of them may incur or suffer as a result of, or in connection with, your 
+unauthorised reliance on this publication or material and (b) waive any rights or remedies you may have against any Relevant Person for (or in respect of) any loss, 
+damage, liability or claim you may incur or suffer as a result of, or in connection with, your unauthorised reliance on this publication or material. Korea: 
+Distributed in Korea by UBS Securities Pte. Ltd., Seoul Branch. This report may have been edited or contributed to from time to time by affiliates of UBS Securities 
+Pte. Ltd., Seoul Branch. This material is intended for professional/institutional clients only and not for distribution to any retail clients. Malaysia: This material is 
+authorized to be distributed in Malaysia by UBS Securities Malaysia Sdn. Bhd (Capital Markets Services License No.: CMSL/A0063/2007). This material is intended 
+for professional/institutional clients only and not for distribution to any retail clients. India: Distributed by UBS Securities India Private Ltd. (Corporate Identity 
+Number U67120MH1996PTC097299) 2/F, 3 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai (India) 400051. Phone: 
++912261556000. It provides brokerage services bearing SEBI Registration Number: INZ000259830; Merchant Banking services bearing SEBI Registration 
+Number: INM000013101; and Research Analyst services bearing SEBI Registration Number: INH000001204. Name of Compliance Officer Mr. Parameshwaran 
+Shivaramakrishnan, Phone : +912261556151, Email : parameshwaran.s@ubs.com, Name of Grievance Officer Parameshwaran Shivaramakrishnan, Phone : 
++912261556151, Email: ol-ubs-sec-compliance@ubs.com Registration granted by SEBI, and certification from NISM in no way guarantee performance of the 
+intermediary or provide any assurance of returns to investors. UBS may have debt holdings or positions in the subject Indian company/companies. UBS may have 
+financial interests (e.g. loan/derivative products, rights to or interests in investments, etc.) in the subject Indian company / companies from time to time. Within the 
+past 12 months, UBS may have received compensation for non-investment banking securities-related services and/or non-securities services from the subject 
+Indian company/companies. The subject company/companies may have been a client/clients of UBS during the 12 months preceding the date of distribution of 
+the research report with respect to investment banking and/or non-investment banking securities-related services and/or non-securities services. With regard to 
+information on associates, please refer to the Annual Report at: https://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html Taiwan: 
+Except as otherwise specified herein, this material may not be distributed in Taiwan. Information and material on securities/instruments that are traded in a Taiwan 
+organized exchange is deemed to be issued and distributed by UBS Securities Pte. LTD., Taipei Branch, which is licensed and regulated by Taiwan Financial 
+Supervisory Commission. Save for securities/instruments that are traded in a Taiwan organized exchange, this material should not constitute "recommendation" 
+to clients or recipients in Taiwan for the covered companies or any companies mentioned in this document. No portion of the document may be reproduced or 
+quoted by the press or any other person without authorisation from UBS. Indonesia: This report is being distributed by PT UBS Sekuritas Indonesia and is 
+delivered by its licensed employee(s), including marketing/sales person, to its client. PT UBS Sekuritas Indonesia, having its registered office at Sequis Tower Level 
+22 unit 22-1,Jl.Jend. Sudirman, kav.71, SCBD lot 11B, Jakarta 12190. Indonesia, is a subsidiary company of UBS AG and licensed under Capital Market Law no. 8 
+year 1995, a holder of broker-dealer and underwriter licenses issued by the Capital Market and Financial Institution Supervisory Agency (now Otoritas Jasa 
+Keuangan/OJK). PT UBS Sekuritas Indonesia is also a member of Indonesia Stock Exchange and supervised by Otoritas Jasa Keuangan (OJK). Neither this report 
+nor any copy hereof may be distributed in Indonesia or to any Indonesian citizens except in compliance with applicable Indonesian capital market laws and 
+regulations. This report is not an offer of securities in Indonesia and may not be distributed within the territory of the Republic of Indonesia or to Indonesian 
+citizens in circumstance which constitutes an offering within the meaning of Indonesian capital market laws and regulations.
+The disclosures contained in research documents produced by UBS AG, London Branch or UBS Europe SE shall be governed by and construed in accordance with 
+English law.
+UBS specifically prohibits the redistribution of this document in whole or in part without the written permission of UBS and in any event UBS accepts no liability 
+whatsoever for any redistribution of this document or its contents or the actions of third parties in this respect. Images may depict objects or elements that are 
+protected by third party copyright, trademarks and other intellectual property rights. © UBS 2025. The key symbol and UBS are among the registered and 
+unregistered trademarks of UBS. All rights reserved.
+
+Global Wealth Management Disclaimer
+You receive this document in your capacity as a client of UBS Global Wealth Management. This publication has been distributed to you by UBS Switzerland AG (regulated by 
+FINMA in Switzerland) or its affiliates ("UBS") with whom you have a banking relationship with. The full name of the distributing affiliate and its competent authority can be 
+found in the country-specific disclaimer at the end of this document.
+
+The date and time of the first dissemination of this publication is the same as the date and time of its publication.
+
+Risk information:
+
+You agree that you shall not copy, revise, amend, create a derivative work, provide to any third party, or in any way commercially exploit any UBS research, and that you shall 
+not extract data from any research or estimates, without the prior written consent of UBS.
+
+This document is for distribution only as may be permitted by law. It is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident 
+of or located in any locality, state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or regulation or would subject 
+UBS to any registration or licensing requirement within such jurisdiction.
+
+This document is for your information only; it is not an advertisement nor is it a solicitation or an offer to buy or sell any financial instruments or to participate in any 
+particular trading strategy. Nothing in this document constitutes a representation that any investment strategy or recommendation is suitable or appropriate to an investor’s 
+individual circumstances or otherwise constitutes a personal recommendation. By providing this document, none of UBS or its representatives has any responsibility or 
+authority to provide or have provided investment advice in a fiduciary capacity or otherwise. Investments involve risks, and investors should exercise prudence and their own 
+judgment in making their investment decisions. None of UBS or its representatives is suggesting that the recipient or any other person take a specific course of action or any 
+action at all. By receiving this document, the recipient acknowledges and agrees with the intended purpose described above and further disclaims any expectation or belief 
+that the information constitutes investment advice to the recipient or otherwise purports to meet the investment objectives of the recipient. The financial instruments 
+described in the document may not be eligible for sale in all jurisdictions or to certain categories of investors.
+
+Options, derivative products and futures are not suitable for all investors, and trading in these instruments is considered risky. Mortgage and asset-backed securities may 
+involve a high degree of risk and may be highly volatile in response to fluctuations in interest rates or other market conditions. Foreign currency rates of exchange may 
+adversely affect the value, price or income of any security or related instrument referred to in the document. For investment advice, trade execution or other enquiries, clients 
+should contact their local sales representative.
+
+https://www.ubs.com/br/pt/ubsbb-investment-bank/ombudsman.html
+https://www.ubs.com/br/pt/ubsbb-investment-bank/ombudsman.html
+mailto:parameshwaran.s@ubs.com
+mailto:ol-ubs-sec-compliance@ubs.com
+http://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html
+
+
+Airbus 1 May 2025 ab 15
+
+The value of any investment or income may go down as well as up, and investors may not get back the full (or any) amount invested. Past performance is not necessarily a 
+guide to future performance. Neither UBS nor any of its directors, employees or agents accepts any liability for any loss (including investment loss) or damage arising out of 
+the use of all or any of the information (as defined below).
+
+Prior to making any investment or financial decisions, any recipient of this document or the information should take steps to understand the risk and return of the investment 
+and seek individualized advice from his or her personal financial, legal, tax and other professional advisors that takes into account all the particular facts and circumstances of 
+his or her investment objectives.
+
+Any prices stated in this document are for information purposes only and do not represent valuations for individual securities or other financial instruments. There is no 
+representation that any transaction can or could have been effected at those prices, and any prices do not necessarily reflect UBS's internal books and records or theoretical 
+model-based valuations and may be based on certain assumptions. Different assumptions by UBS or any other source may yield substantially different results.
+
+No representation or warranty, either expressed or implied, is provided in relation to the accuracy, completeness or reliability of the information contained in any materials to 
+which this document relates (the "Information"), except with respect to Information concerning UBS. The Information is not intended to be a complete statement or 
+summary of the securities, markets or developments referred to in the document. UBS does not undertake to update or keep current the Information. Any opinions expressed 
+in this document may change without notice and may differ or be contrary to opinions expressed by other business areas or groups, personnel or other representative of UBS. 
+Any statements contained in this report attributed to a third party represent UBS's interpretation of the data, information and/or opinions provided by that third party either 
+publicly or through a subscription service, and such use and interpretation have not been reviewed by the third party. In no circumstances may this document or any of the 
+Information (including any forecast, value, index or other calculated amount ("Values")) be used for any of the following purposes: (i) valuation or accounting purposes; (ii) to 
+determine the amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the performance of any financial instrument 
+including, without limitation, for the purpose of tracking the return or performance of any Value or of defining the asset allocation of portfolio or of computing performance 
+fees.
+
+By receiving this document and the Information you will be deemed to represent and warrant to UBS that you will not use this document or any of the Information for any of 
+the above purposes or otherwise rely upon this document or any of the Information.
+
+UBS has policies and procedures, which include, without limitation, independence policies and permanent information barriers, that are intended, and upon which UBS 
+relies, to manage potential conflicts of interest and control the flow of information within divisions of UBS (including between Global Wealth Management and UBS Global 
+Research) and among its subsidiaries, branches and affiliates. For further information on the ways in which UBS manages conflicts and maintains independence of its research 
+products, historical performance information and certain additional disclosures concerning UBS research recommendations, please visit https://www.ubs.com/research-
+methodology.
+
+Research will initiate, update and cease coverage solely at the discretion of research management, which will also have sole discretion on the timing and frequency of any 
+published research product. The analysis contained in this document is based on numerous assumptions. Different assumptions could result in materially different results.
+
+The analyst(s) responsible for the preparation of this document may interact with trading desk personnel, sales personnel and other parties for the purpose of gathering, 
+applying and interpreting market information. UBS relies on information barriers to control the flow of information contained in one or more areas within UBS into other 
+areas, units, groups or affiliates of UBS. The compensation of the analyst who prepared this document is determined exclusively by research management and senior 
+management (not including investment banking). Analyst compensation is not based on investment banking revenues; however, compensation may relate to the revenues of 
+UBS and/or its divisions as a whole, of which investment banking, sales and trading are a part, and UBS's subsidiaries, branches and affiliates as a whole.
+
+For financial instruments admitted to trading on an EU regulated market: UBS AG, its affiliates or subsidiaries (excluding UBS Securities LLC) acts as a market maker or 
+liquidity provider (in accordance with the interpretation of these terms in the UK) in the financial instruments of the issuer save that where the activity of liquidity provider is 
+carried out in accordance with the definition given to it by the laws and regulations of any other EU jurisdictions, such information is separately disclosed in this document. 
+For financial instruments admitted to trading on a non-EU regulated market: UBS may act as a market maker save that where this activity is carried out in the US in accordance 
+with the definition given to it by the relevant laws and regulations, such activity will be specifically disclosed in this document. UBS may have issued a warrant the value of 
+which is based on one or more of the financial instruments referred to in the document. UBS and its affiliates and employees may have long or short positions, trade as 
+principal and buy and sell in instruments or derivatives identified herein; such transactions or positions may be inconsistent with the opinions expressed in this document.
+
+Options and futures are not suitable for all investors, and trading in these instruments is considered risky and may be appropriate only for sophisticated investors. Prior to 
+buying or selling an option, and for the complete risks relating to options, you must receive a copy of "Characteristics and Risks of Standardized Options". You may read the 
+document at  https://www.theocc.com/about/publications/character-risks.jsp  or ask your financial advisor for a copy.
+
+Investing in structured investments involves significant risks. For a detailed discussion of the risks involved in investing in any particular structured investment, you must read 
+the relevant offering materials for that investment. Structured investments are unsecured obligations of a particular issuer with returns linked to the performance of an 
+underlying asset. Depending on the terms of the investment, investors could lose all or a substantial portion of their investment based on the performance of the underlying 
+asset. Investors could also lose their entire investment if the issuer becomes insolvent. UBS does not guarantee in any way the obligations or the financial condition of any 
+issuer or the accuracy of any financial information provided by any issuer. Structured investments are not traditional investments and investing in a structured investment is 
+not equivalent to investing directly in the underlying asset. Structured investments may have limited or no liquidity, and investors should be prepared to hold their investment 
+to maturity. The return of structured investments may be limited by a maximum gain, participation rate or other feature. Structured investments may include call features and, 
+if a structured investment is called early, investors would not earn any further return and may not be able to reinvest in similar investments with similar terms. Structured 
+investments include costs and fees which are generally embedded in the price of the investment. The tax treatment of a structured investment may be complex and may differ 
+from a direct investment in the underlying asset. UBS and its employees do not provide tax advice. Investors should consult their own tax advisor about their own tax situation 
+before investing in any securities.
+
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider and incorporate environmental, social and governance 
+(ESG) factors into investment process and portfolio construction. Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. 
+Incorporating ESG factors or Sustainable Investing considerations may inhibit the portfolio manager’s ability to participate in certain investment opportunities that otherwise 
+would be consistent with its investment objective and other principal investment strategies. The returns on a portfolio incorporating ESG factors or Sustainable Investing 
+considerations may be lower or higher than portfolios where ESG factors, exclusions, or other sustainability issues are not considered by the portfolio manager, and the 
+investment opportunities available to such portfolios may differ.
+
+Within the past 12 months UBS Switzerland AG, its affiliates or subsidiaries may have received or provided investment services and activities or ancillary services as per MiFID 
+II which may have given rise to a payment or promise of a payment in relation to these services from or to this company.
+
+Disclosures: If you require detailed information on disclosures of interest or conflict of interest as required by Market Abuse Regulation please contact the mailbox 
+MAR_disclosure_twopager@ubs.com. Please note that e-mail communication is unsecured.
+
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External Asset Manager or an External Financial 
+Consultant, UBS expressly prohibits that it is redistributed by the External Asset Manager or the External Financial Consultant and is made available to their clients and/or third 
+parties.
+
+Australia: This document is provided by UBS Switzerland AG. UBS Switzerland AG does not hold an Australian Financial Services Licence (AFSL) and relies on an exemption 
+to provide financial services to persons in Australia. This document is intended only for distribution to wholesale clients under the Corporations Act 2001 (Cth). UBS 
+Switzerland AG is a related body corporate of UBS AG, Australia Branch and UBS Securities Australia Limited. This document may be distributed to clients by those entities, 
+but it is provided by UBS Switzerland AG and is not provided under any of the other entities’ AFSL. The information in this document is general in nature and is not intended 
+to address the objectives, financial situation or needs of any particular individual or entity. Each recipient should consider their own objectives, financial situation or needs 
+before acting on the advice and obtain the relevant Product Disclosure Statement (if required) before making any decision whether to acquire any product. In Australia, UBS 
+entities, other than UBS AG, Australia Branch, are not authorized deposit-taking institutions for the purposes of the Banking Act 1959 (Cth.) and their obligations do not 
+represent deposits or other liabilities of UBS AG, Australia Branch. UBS AG, Australia Branch does not guarantee or otherwise provide assurance in respect of the obligations 
+of such UBS entities or the funds. An investor is exposed to investment risk including possible delays in repayment and loss of income and principal invested, as relevant. If you 
+do not wish to receive marketing materials from UBS, please contact your UBS representative or the contact details listed in the Australia Privacy Notice: https://
+www.ubs.com/global/en/legal/privacy.html. Your personal data will be processed in accordance with this notice. Bahrain: This report is distributed by UBS AG, Bahrain 
+Branch, authorized and regulated by the Central Bank of Bahrain (CBB) as an Investment Firm Category 2. Related financial services or products are only made available to 
+professional clients and Accredited Investors, as defined by the CBB, and are not intended for any other persons. CBB has not reviewed, nor has it approved, this document 
+or the marketing of any investment vehicle referred to herein in the Kingdom of Bahrain and is not responsible for the performance of any such investment vehicle. UBS AG, 
+Bahrain Branch is located at Level 21, East Tower, Bahrain World Trade Centre, Manama, Kingdom of Bahrain. Brazil: This report is only intended for Brazilian residents who 
+are directly purchasing or selling securities in the Brazil capital market through a local authorized institution. Canada: The information contained herein is not, and under no 
+circumstances is to be construed as, a prospectus, an advertisement, a public offering, an offer to sell securities described herein, solicitation of an offer to buy securities 
+described herein, in Canada or any province or territory thereof. Any offer or sale of the securities described herein in Canada will be made only under an exemption from the 
+requirements to file a prospectus with the relevant Canadian securities regulators and only by a dealer properly registered under applicable securities laws or, alternatively, 
+
+https://www.ubs.com/research-methodology
+https://www.ubs.com/research-methodology
+https://www.theocc.com/about/publications/character-risks.jsp
+mailto:MAR_disclosure_twopager@ubs.com
+https://www.ubs.com/global/en/legal/privacy.html
+https://www.ubs.com/global/en/legal/privacy.html
+
+
+Airbus 1 May 2025 ab 16
+
+pursuant to an exemption from the dealer registration requirement in the relevant province or territory of Canada in which such offer or sale is made. Under no circumstances 
+is the information contained herein to be construed as investment advice in any province or territory of Canada and is not tailored to the needs of the recipient. To the extent 
+that the information contained herein references securities of an issuer incorporated, formed or created under the laws of Canada or a province or territory of Canada, any 
+trades in such securities must be conducted through a dealer registered in Canada or, alternatively, pursuant to a dealer registration exemption. No securities commission or 
+similar regulatory authority in Canada has reviewed or in any way passed upon these materials, the information contained herein or the merits of the securities described 
+herein and any representation to the contrary is an offence. In Canada, this publication is distributed by UBS Investment Management Canada Inc. China: This report and any 
+offering material such as term sheet, research report, other product or service documentation or any other information (the "Material") sent with this report was done so as 
+a result of a request received by UBS from you and/or persons entitled to make the request on your behalf. Should you have received the material erroneously, UBS asks that 
+you kindly delete it and inform UBS immediately. This report is prepared by UBS Switzerland AG or its offshore subsidiary or affiliate (collectively as "UBS Offshore"). UBS 
+Offshore is an entity incorporated out of China and is not licensed, supervised or regulated in China to carry out banking or securities business. The recipient should not 
+contact the analysts or UBS Offshore which produced this report for advice as they are not licensed to provide securities investment advice in China. UBS Investment Bank 
+(including Research) has its own wholly independent research and views which at times may vary from the views of UBS Global Wealth Management. The recipient should 
+not use this document or otherwise rely on any of the information contained in this report in making investment decisions and UBS takes no responsibility in this regard. 
+Czech Republic: UBS is not a licensed bank in the Czech Republic and thus is not allowed to provide regulated banking or investment services in the Czech Republic. This 
+communication and/or material is distributed for marketing purposes and constitutes a "Commercial Message" under the laws of Czech Republic in relation to banking and/
+or investment services. Please notify UBS if you do not wish to receive any further correspondence. Denmark: This publication is not intended to constitute a public offer 
+under Danish law. It is distributed only for information purposes to clients of UBS Europe SE, Denmark Branch, filial af UBS Europe SE, with place of business at Sankt Annae 
+Plads 13, 1250 Copenhagen, Denmark, registered with the Danish Commerce and Companies Agency, under No. 38 17 24 33. UBS Europe SE, Denmark Branch, filial af UBS 
+Europe SE is subject to the joint supervision of the European Central Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services 
+Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin"), as well as of the Danish Financial Supervisory Authority (Finanstilsynet), to which this 
+publication has not been submitted for approval. UBS Europe SE is a credit institution constituted under German law in the form of a Societas Europaea, duly authorized by 
+BaFin. Egypt: Securities or other investment products are not being offered or sold by UBS to the public in Egypt and they have not been and will not be registered with the 
+Egyptian Financial Regulatory Authority (FRA). France: This publication is not intended to constitute a public offer under French law, it does not constitute a personal 
+recommendation as it is distributed only for information purposes to clients of UBS Europe SE Succursale de France (a branch of UBS Europe SE), having its registered office at 
+69 boulevard Haussmann 75008 Paris, registered with the “Registre du Commerce et des Sociétés” of Paris under N°844 425 629. UBS Europe SE Succursale de France is 
+subject to the joint supervision of the European Central Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services Supervisory Authority 
+(Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin"), as well as of the French "Autorité de contrôle prudentiel et de résolution" and "Autorité des marchés financiers", 
+to which this publication has not been submitted for approval. UBS Europe SE is a credit institution constituted under German law in the form of a Societas Europaea, duly 
+authorized by BaFin. Germany: This publication is not intended to constitute a public offer under German law. It is distributed only for information purposes to clients of UBS 
+Europe SE, Germany, with place of business at Bockenheimer Landstrasse 2-4, 60306 Frankfurt am Main. UBS Europe SE is a credit institution constituted under German law 
+in the form of a Societas Europaea, duly authorized by the German Federal Financial Services Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin") 
+and supervised jointly by the European Central Bank, the German Central Bank (Deutsche Bundesbank) and BaFin, to which this publication has not been submitted for 
+approval. Hong Kong SAR: This publication is distributed to clients of UBS AG Hong Kong Branch by UBS AG Hong Kong Branch, a licensed bank under the Hong Kong 
+Banking Ordinance and a registered institution under the Securities and Futures Ordinance. UBS AG Hong Kong Branch is incorporated in Switzerland with limited liability. 
+India: Distributed by UBS Securities India Private Ltd. (Corporate Identity Number U67120MH1996PTC097299) 2/F, 3 North Avenue, Maker Maxity, Bandra Kurla Complex, 
+Bandra (East), Mumbai (India) 400051. Phone: +912261556000. It provides brokerage services bearing SEBI Registration Number INZ000259830; Merchant Banking services 
+bearing SEBI Registration Number: INM000013101 and Research Analyst services bearing SEBI Registration Number: INH000001204. Name of Compliance Officer Mr. 
+Parameshwaran Shivaramakrishnan, Phone: +912261556151, Email: parameshwaran.s@ubs.com, Name of Grievance Officer Mr. Parameshwaran Shivaramakrishnan, 
+Phone: +912261556151, Email: ol-ubs-sec-compliance@ubs.com. Registration granted by SEBI and certification from NISM in no way guarantee performance of the 
+intermediary or provide any assurance of returns to investors. UBS AG, its affiliates or subsidiaries may have debt holdings or positions in the subject Indian company/
+companies. UBS AG, its affiliates or subsidiaries may have financial interests (e.g. like loan/derivative products, rights to or interests in investments, etc.) in the subject Indian 
+company/companies from time to time. Within the past 12 months, UBS AG, its affiliates or subsidiaries may have received compensation for non-investment banking 
+securities-related services and/or non-securities services from the subject Indian company/companies. The subject company/companies may have been a client/clients of UBS 
+AG, its affiliates or subsidiaries during the 12 months preceding the date of distribution of the research report with respect to investment banking and/or non-investment 
+banking securities-related services and/or non-securities services. With regard to information on associates, please refer to the Annual Report at: https://www.ubs.com/
+global/en/about_ubs/investor_relations/annualreporting.html. Indonesia: This communication and any offering material term sheet, research report, other product or 
+service documentation or any other information (the "Material") sent with this communication was done so as a result of a request received by UBS from you and/or persons 
+entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and inform UBS immediately. The 
+Material, where provided, was provided for your information only and is not to be further distributed without the consent of UBS. None of the Material has been registered 
+or filed under the prevailing laws and with any financial or regulatory authority in your jurisdiction. The Material may not have been approved, disapproved, endorsed, 
+registered or filed with any financial or regulatory authority in your jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or 
+to purchase any investment (including securities or products or futures contracts). The Material is neither an offer nor a solicitation to enter into any transaction or contract 
+(including futures contracts) nor is it an offer to buy or to sell any securities or products. The relevant investments will be subject to restrictions and obligations on transfer as 
+set forth in the Material, and by receiving the Material you undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you 
+understand and exercise due care and discretion in considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are 
+advised to seek independent professional advice in case of doubt. Any and all advice provided on and/or trades executed by UBS pursuant to the Material will only have been 
+provided upon your specific request or executed upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Israel: UBS is a premier 
+global financial firm offering wealth management, asset management and investment banking services from its headquarters in Switzerland and its operations in over 50 
+countries worldwide to individual, corporate and institutional investors. This publication is intended for information only and is not intended as an offer to buy or solicitation 
+of an offer. Furthermore, this publication is not intended as an investment advice. Nothing contrary to the above, no action has been, or will be, taken in Israel that would 
+permit an offering of the product(s) mentioned in this document or a distribution of this document to the public in Israel. In particular, this document has not been reviewed 
+or approved by the Israeli Securities Authority. The product(s) mentioned in this document is/are being offered to a limited number of sophisticated investors who qualify as 
+one of the investors listed in the first supplement to the Israeli Securities Law, 5728-1968. This document may not be reproduced or used for any other purpose, nor be 
+furnished to any other person other than those to whom copies have been sent. Anyone who purchases the product(s) mentioned herein shall do so for its own benefit and 
+for its own account and not with the aim or intention of distributing or offering the product(s) to other parties. Anyone who purchases the product(s) shall do so in 
+accordance with its own understanding and discretion and after it has received any relevant financial, legal, business, tax or other advice or opinion required by it in 
+connection with such purchase(s). The word "advice" and/or any of its equivalent terms shall be read and construed in conjunction with the definition of the term 
+"investment marketing" as defined under the Israeli Regulation of Investment Advice, Investment Marketing and Portfolio Management Law. The Swiss laws and regulations 
+require a number of mandatory disclosures to be made in independent financial research reports or recommendations. Pursuant to the Swiss Financial Market Infrastructure 
+Act and the Financial Market Infrastructure Ordinance-FINMA, banks must disclose the percentage of voting rights they hold in companies being researched, if these holdings 
+are equal to or exceed the statutory thresholds. In addition, the Directives on the Independence of Financial Research, issued by the Swiss Bankers Association, mandate a 
+number of disclosures, including the disclosure of potential conflicts of interest, the participation within previous 12 months in any securities issues on behalf of the company 
+being researched, as well as the fact that remuneration paid to the financial analysts is based generally upon the performance of (i) the new issues department or investment 
+banking; or (ii) securities trading performance (including proprietary trading) or sales. Italy: This publication is not intended to constitute a public offer under Italian law. It is 
+distributed only for information purposes to clients of UBS Europe SE, Succursale Italia, with place of business at Via del Vecchio Politecnico, 3-20121 Milano. UBS Europe SE, 
+Succursale Italia is subject to the joint supervision of the European Central Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services 
+Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, “BaFin”), as well as of the Bank of Italy (Banca d’Italia) and the Italian Financial Markets Supervisory 
+Authority (CONSOB - Commissione Nazionale per le Società e la Borsa), to which this publication has not been submitted for approval. UBS Europe SE is a credit institution 
+constituted under German law in the form of a Societas Europaea, duly authorized by BaFin. Jersey: UBS AG, Jersey Branch, is regulated and authorized by the Jersey 
+Financial Services Commission for the conduct of banking, funds and investment business. Where services are provided from outside Jersey, they will not be covered by the 
+Jersey regulatory regime. UBS AG, Jersey Branch is a branch of UBS AG a public company limited by shares, incorporated in Switzerland whose registered offices are at 
+Aeschenvorstadt 1, CH-4051 Basel and Bahnhofstrasse 45, CH 8001 Zurich. UBS AG, Jersey Branch's principal place of business is 1, IFC Jersey, St Helier, Jersey, JE2 3BX. 
+Luxembourg: This publication is not intended to constitute a public offer under Luxembourg law. It is distributed only for information purposes to clients of UBS Europe SE, 
+Luxembourg Branch ("UBS Luxembourg"), R.C.S. Luxembourg n° B209123, with registered office at 33A, Avenue J. F. Kennedy, L-1855 Luxembourg. UBS Europe SE is a 
+credit institution constituted under German law in the form of a Societas Europaea (HRB n° 107046), with registered office at Bockenheimer Landstrasse 2-4, D-60306 
+Frankfurt am Main, Germany, duly authorized by the German Federal Financial Services Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin") and 
+subject to the joint prudential supervision of BaFin, the European Central Bank and the central bank of Germany (Deutsche Bundesbank). UBS Luxembourg is furthermore 
+supervised by the Luxembourg prudential supervisory authority (Commission de Surveillance du Secteur Financier), in its role as host member state authority. This publication 
+has not been submitted for approval to any public supervisory authority. Malaysia: This communication and any offering material term sheet, research report, other product 
+or service documentation or any other information (the "Material") sent with this communication was done so as a result of a request received by UBS from you and/or 
+persons entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and inform UBS 
+
+mailto:parameshwaran.s@ubs.com
+mailto:ol-ubs-sec-compliance@ubs.com
+https://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html
+https://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html
+
+
+Airbus 1 May 2025 ab 17
+
+immediately. The Material, where provided, was provided for your information only and is not to be further distributed in whole or in part in or into your jurisdiction without 
+the consent of UBS. The Material may not have been reviewed, approved, disapproved, endorsed, registered or filed with any financial or regulatory authority in your 
+jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or to purchase any investment (including securities or derivatives 
+products). The Material is neither an offer nor a solicitation to enter into any transaction or contract (including future contracts) nor is it an offer to buy or to sell any securities 
+or derivatives products. The relevant investments will be subject to restrictions and obligations on transfer as set forth in the Material, and by receiving the Material you 
+undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you understand and exercise due care and discretion in 
+considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are advised to seek independent professional advice 
+in case of doubt. Any and all advice provided on and/or trades executed by UBS pursuant to the Material will only have been provided upon your specific request or executed 
+upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Mexico: This information is distributed by UBS Asesores México, S.A. de 
+C.V. ("UBS Asesores"), an affiliate of UBS Switzerland AG, incorporated as a non-independent investment advisor under the Mexican regulation due to the relation with a 
+Foreign Bank. UBS Asesores is registered under number 30060-001-(14115)-21/06/2016 and subject to the supervision of the Mexican Banking and Securities Commission 
+("CNBV") exclusively regarding the rendering of (i) portfolio management services, (ii) securities investment advisory services, analysis and issuance of individual investment 
+recommendations, and (iii) anti-money laundering and terrorism financing matters. This UBS publication or any material related thereto is addressed only to Sophisticated or 
+Institutional Investors located in Mexico. Research reports only reflect the views of the analysts responsible for the report. The compensation of the analyst(s) who prepared 
+this report is determined exclusively by research management and senior management of any entity of UBS Group to which such analyst(s) render(s) services. Monaco: This 
+document is not intended to constitute a public offering or a comparable solicitation under the Principality of Monaco laws, but might be made available for information 
+purposes to clients of UBS (Monaco) S.A., a regulated bank having its registered office at 2 avenue de Grande Bretagne 98000 Monaco operating under a banking license 
+granted by the “Autorité de Contrôle Prudentiel et de Résolution” (ACPR) and the Monegasque government which authorizes the provision of banking services in Monaco. 
+UBS (Monaco) S.A. is also licensed by the “Commission de Contrôle des Activités Financières” (CCAF) to provide investment services in Monaco. The latter has not approved 
+this publication. Philippines:  This communication was done so as a result of a request received by UBS from you and/or persons entitled to make the request on your behalf. 
+Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and inform UBS immediately. The Material, where provided, was provided for 
+your information only and is not to be further distributed in whole or in part in or into your jurisdiction without the consent of UBS. The Material may not have been reviewed, 
+approved, disapproved, endorsed, registered or filed with any financial or regulatory authority in your jurisdiction. UBS has not, by virtue of the Material, made available, 
+issued any invitation to subscribe for or to purchase any investment (including securities or derivatives products). The Material is neither an offer nor a solicitation to enter into 
+any transaction or contract (including future contracts) nor is it an offer to buy or to sell any securities or derivatives products. The relevant investments will be subject to 
+restrictions and obligations on transfer as set forth in the Material, and by receiving the Material you undertake to comply fully with such restrictions and obligations. You 
+should carefully study and ensure that you understand and exercise due care and discretion in considering your investment objective, risk appetite and personal 
+circumstances against the risk of the investment. You are advised to seek independent professional advice in case of doubt. Any and all advice provided on and/or trades 
+executed by UBS pursuant to the Material will only have been provided upon your specific request or executed upon your specific instructions, as the case may be, and may 
+be deemed as such by UBS and you. Portugal: UBS Switzerland AG is not licensed to conduct banking and financial activities in Portugal nor is UBS Switzerland AG 
+supervised by the portuguese regulators (Bank of Portugal "Banco de Portugal" and Portuguese Securities Exchange Commission "Comissão do Mercado de Valores 
+Mobiliários"). Qatar: UBS Qatar LLC is authorized by the Qatar Financial Centre Regulatory Authority, with QFC no. 01169, and has its registered office at 14th Floor, Burj 
+Alfardan Tower, Building 157, Street No. 301, Area No. 69, Al Majdami, Lusail, Qatar. UBS Qatar LLC neither offers any brokerage services nor executes any order with, for or 
+on behalf of its clients. A client order will have to be placed with, and executed by, UBS Switzerland AG in Switzerland or an affiliate of UBS Switzerland AG, that is domiciled 
+outside Qatar. It is in the sole discretion of UBS Switzerland AG in Switzerland or its affiliate to accept or reject an order and UBS Qatar LLC does not have authority to provide 
+a confirmation in this respect. UBS Qatar LLC may however communicate payment orders and investment instructions to UBS Switzerland AG in Switzerland for receipt, 
+acceptance and execution. UBS Qatar LLC is not authorized to act for and on behalf of UBS Switzerland AG or an affiliate of UBS Switzerland AG. This document and any 
+attachments hereto are intended for eligible counterparties and business customers only. Russia: This document or information contained therein is for information purposes 
+only and constitutes neither a public nor a private offering, is not an invitation to make offers, to sell, exchange or otherwise transfer any financial instruments in the Russian 
+Federation to or for the benefit of any Russian person or entity and does not constitute an advertisement or offering of securities in the Russian Federation within the 
+meaning of Russian securities laws. The information contained herein is not an “individual investment recommendation” as defined in Federal Law of 22 April 1996 No 39-FZ 
+"On Securities Market" (as amended) and the financial instruments and operations specified herein may not be suitable for your investment profile or your investment goals 
+or expectations. The determination of whether or not such financial instruments and operations are in your interests or are suitable for your investment goals, investment 
+horizon or the acceptable risk level is your responsibility. We assume no liability for any losses connected with making any such operations or investing into any such financial 
+instruments and we do not recommend to use such information as the only source of information for making an investment decision. Saudi Arabia: UBS Saudi Arabia is 
+authorised and regulated by the Capital Market Authority to conduct securities business under licence number 08113-37. Singapore: Where applicable, this material is 
+distributed in Singapore by UBS AG, Singapore Branch, which is licensed by the Monetary Authority of Singapore under the Banking Act 1970 to carry on banking business. 
+UBS AG is incorporated in Switzerland with limited liability. UBS AG has a branch registered in Singapore (UEN S98FC5560C). This material has been prepared and issued for 
+distribution in Singapore to institutional investors, accredited investors and expert investors (each as defined under the Financial Advisers Regulations (the “FAR”)) only. By 
+virtue of your status as an institutional investor, accredited investor, or expert investor, UBS AG is exempted from complying with certain requirements under the Financial 
+Advisers Act 2001 (the “FAA”), the FAR and the relevant Notices and Guidelines issued thereunder, in respect of any financial advisory service which UBS AG may provide to 
+you. These include exemptions from complying with: Section 34 of the FAA (pursuant to Regulation 33(1) of the FAR); Section 36 of the FAA (pursuant to Regulation 34(1) of 
+the FAR); and Section 45 of the FAA (pursuant to Regulation 35(1) of the FAR). Singapore recipients and clients of UBS AG, Singapore Branch should contact UBS AG, 
+Singapore Branch for any matters arising from, or in connection with, this material. Where applicable, this communication and any offering material term sheet, research 
+report, other product or service documentation or any other information (the "Material") sent with this communication was done so as a result of a request received by UBS 
+from you and/or persons entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and 
+inform UBS immediately. The Material, where provided, was provided for your information only and is not to be further distributed in whole or in part in or into your 
+jurisdiction without the consent of UBS. The Material may not have been reviewed, approved, disapproved or endorsed by any financial or regulatory authority in your 
+jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or to purchase any investment (including securities or products or 
+futures contracts). The Material is neither an offer nor a solicitation to enter into any transaction or contract (including future contracts) nor is it an offer to buy or to sell any 
+securities or products. The relevant investments will be subject to restrictions and obligations on transfer as set forth in the Material, and by receiving the Material you 
+undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you understand and exercise due care and discretion in 
+considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are advised to seek independent professional advice 
+in case of doubt. Any and all advice provided on and/or trades executed by UBS pursuant to the Material will only have been provided upon your specific request or executed 
+upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Spain: This report is distributed in Spain by UBS AG, Sucursal en España, 
+authorized under number 1460 in the Register by the Banco de España. Sweden: This publication is not intended to constitute a public offer under Swedish law. It is 
+distributed only for information purposes to clients of UBS Europe SE, Sweden Bankfilial, with place of business at Regeringsgatan 38, 11153 Stockholm, Sweden, registered 
+with the Swedish Companies Registration Office under Reg. No 516406-1011. UBS Europe SE, Sweden Bankfilial is subject to the joint supervision of the European Central 
+Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, 
+"BaFin"), as well as of the Swedish supervisory authority (Finansinspektionen), to which this publication has not been submitted for approval. UBS Europe SE is a credit 
+institution constituted under German law in the form of a Societas Europaea, duly authorized by BaFin. Taiwan: This material is provided by UBS AG, Taipei Branch in 
+accordance with laws of Taiwan, in agreement with or at the request of clients/prospects.  Thailand: This communication and any offering material, term sheet, research 
+report, other product or service documentation or any other information (the "Material") sent with this communication were done so as a result of a request received by UBS 
+from you and/or persons entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and 
+inform UBS immediately. The Material, where provided, was provided for your information only and is not to be further distributed in whole or in part in or into your 
+jurisdiction without the consent of UBS. The Material may not have been reviewed, approved, disapproved, endorsed, registered or filed with any financial or regulatory 
+authority in your jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or to purchase any investment (including securities 
+or derivatives products). The Material is neither an offer nor a solicitation to enter into any transaction or contract (including future contracts) nor is it an offer to buy or to sell 
+any securities or derivatives products. The relevant investments will be subject to restrictions and obligations on transfer as set forth in the Material, and by receiving the 
+Material you undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you understand and exercise due care and discretion 
+in considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are advised to seek independent professional advice 
+in case of doubt. Any and all advice provided and/or trades executed by UBS pursuant to the Material will only have been provided upon your specific request or executed 
+upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Türkiye: The information in this document is not provided for the purpose 
+of offering, marketing or sale of any capital market instrument or service in the Republic of Türkiye. Therefore, this document may not be considered as an offer made, or to 
+be made, to residents of the Republic of Türkiye in the Republic of Türkiye. UBS Switzerland AG is not licensed by the Capital Markets Board of Türkiye (the CMB) under the 
+provisions of the Capital Market Law (Law No. 6362). Accordingly, neither this document nor any other offering material related to the instrument/service may be utilized in 
+connection with providing any capital market services to persons within the Republic of Türkiye without the prior approval of the CMB. However, according to article 15 (d) (ii) 
+of the Decree No. 32 residents of the Republic of Türkiye are allowed to purchase or sell the financial instruments traded in financial markets outside of the Republic of 
+Türkiye. Further to this, pursuant to article 9 of the Communiqué on Principles Regarding Investment Services, Activities and Ancillary Services No. III-37.1, investment services 
+provided abroad to residents of the Republic of Türkiye based on their own initiative are not restricted. United Arab Emirates (UAE) / DIFC: UBS is not a financial institution 
+licensed in the UAE by the Central Bank of the UAE nor by the Emirates’ Securities and Commodities Authority and does not undertake banking activities in the UAE. This 
+
+
+
+Airbus 1 May 2025 ab 18
+
+document is provided for your information only and does not constitute financial advice. DIFC: UBS AG Dubai Branch is licensed by the DFSA in the DIFC. This material is 
+strictly intended for Professional Clients and/or Market Counterparties only as classified under the DFSA rulebook. No other person should act upon this material. The 
+Investment Research is provided for information purposes only and is not a recommendation or offer to buy/sell/hold a particular investment. The investment research may be 
+out of date. You should seek investment advice before acting on the basis of the investment research. United Kingdom: This document is issued by UBS Wealth 
+Management, a division of UBS AG which is authorised and regulated by the Financial Market Supervisory Authority in Switzerland. In the United Kingdom, UBS AG is 
+authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct Authority and limited regulation by the Prudential Regulation 
+Authority. Details about the extent of regulation by the Prudential Regulation Authority are available from us on request. A member of the London Stock Exchange. This 
+publication is distributed to retail clients of UBS Wealth Management. Ukraine: UBS is not registered and licensed as a bank/financial institution under Ukrainian legislation 
+and does not provide banking and other financial services in Ukraine. UBS has not made, and will not make, any offer of the mentioned products to the public in Ukraine. No 
+action has been taken to authorize an offer of the mentioned products to the public in Ukraine and the distribution of this document shall not constitute financial services for 
+the purposes of the Law of Ukraine "On Financial Services and Financial Companies" dated 14 December 2021. Any offer of the mentioned products shall not constitute an 
+investment advice, public offer, circulation, transfer, safekeeping, holding or custody of securities in the territory of Ukraine. Accordingly, nothing in this document or any 
+other document, information or communication related to the mentioned products shall be interpreted as containing an offer, a public offer or invitation to offer or to a 
+public offer, or solicitation of securities in the territory of Ukraine or investment advice under Ukrainian law. Electronic communication must not be considered as an offer to 
+enter into an electronic agreement or other electronic instrument within the meaning of the Law of Ukraine "On Electronic Commerce" dated 3 September 2015. This 
+document is strictly for private use by its holder and may not be passed on to third parties or otherwise publicly distributed. USA: Distributed to US persons only by UBS 
+Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliários 
+Ltda., UBS Asesores México, S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd. and UBS Menkul Degerler AS are affiliates of 
+UBS AG.  UBS Financial Services Inc. accepts responsibility for the content of a report prepared by a non-US affiliate when it distributes reports to US persons. 
+All transactions by a US person in the securities mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and 
+not through a non-US affiliate. The contents of this report have not been and will not be approved by any securities or investment authority in the United 
+States or elsewhere. UBS Financial Services Inc. is not acting as a municipal advisor to any municipal entity or obligated person within the meaning of Section 
+15B of the Securities Exchange Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do not constitute, 
+advice within the meaning of the Municipal Advisor Rule.
+
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+Credit Suisse Wealth Management Disclaimer
+
+This disclaimer must be read in conjunction with “Risk information” and “Important Information About Sustainable Investing Strategies” sections of the Global Wealth 
+Management Disclaimer above. You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be processed in 
+accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit Suisse website https://www.credit-suisse.com. In order to provide 
+you with marketing materials concerning our products and services, UBS Group AG and its subsidiaries may process your basic personal data (i.e. contact details such as 
+name, e-mail address) until you notify us that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your Relationship 
+Manager.
+
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this report, this report is distributed by UBS Switzerland 
+AG, authorised and regulated by the Swiss Financial Market Supervisory Authority (FINMA). Brazil: This report is distributed in Brazil by Credit Suisse (Brasil) S.A. Corretora de 
+Títulos e Valores Mobiliários or its affiliates (“Credit Suisse”). Pursuant to CVM Resolution No. 20/2021, of February 25, 2021, the author(s) of the report hereby certify(ies) 
+that the views expressed in this report solely and exclusively reflect the personal opinions of the author(s) and have been prepared independently, including with respect to 
+Credit Suisse and other UBS Group entities. Part of the author(s)´s compensation is based on various factors, including the total revenues of the relevant UBS Group entity of 
+which they are in employment of, but no part of the compensation has been, is, or will be related to the specific recommendations or views expressed in this report. In 
+addition, Credit Suisse declares that: Credit Suisse has provided, and/or may in the future provide investment banking, brokerage, asset management, commercial banking 
+and other financial services to the subject company/companies or its affiliates, for which they have received or may receive customary fees and commissions, and which 
+constituted or may constitute relevant financial or commercial interests in relation to the subject company/companies or the subject securities. Japan: This report is solely 
+distributed in Japan by Credit Suisse Securities (Japan) Limited, Financial Instruments Dealer, Director-General of Kanto Local Finance Bureau (Kinsho) No. 66, a member of 
+the Japan Securities Dealers Association, Financial Futures Association of Japan, Japan Investment Advisers Association, and Type II Financial Instruments Firms Association or 
+UBS SuMi TRUST Wealth Management Co., Ltd, Financial Instruments Dealer, Director-General of Kanto Local Finance Bureau (Kinsho) No. 3233, a member of the Japan 
+Securities Dealers Association, Financial Futures Association of Japan, Japan Investment Advisers Association. Neither Credit Suisse Securities (Japan) Limited nor UBS SuMi 
+TRUST Wealth Management Co., Ltd will distribute or forward this report outside Japan. Mexico: This information is distributed by C. Suisse Asesoría México, S.A. de C.V. 
+("CS Asesores"), an affiliate of UBS Group AG, incorporated as a non-independent investment advisor under the Mexican regulation due to the relation with a Foreign Bank 
+and its indirect relation with Grupo Financiero Credit Suisse (México), S.A. de C.V. CS Asesores is registered under number 30070-001-(14208)-10/10/2016 and subject to 
+the supervision of the Mexican Banking and Securities Commission ("CNBV") exclusively regarding the rendering of (i) portfolio management services, (ii) securities 
+investment advisory services, analysis and issuance of individual investment recommendations, and (iii) anti-money laundering and terrorism financing matters. This 
+publication or any material related thereto is addressed only to Sophisticated or Institutional Investors located in Mexico. Research reports only reflect the views of the analysts 
+responsible for the report. The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior management of any 
+entity of UBS Group to which such analyst(s) render(s) services. Qatar: This information has been distributed by Credit Suisse (Qatar) L.L.C., which is duly authorized and 
+regulated by the Qatar Financial Centre Regulatory Authority (QFCRA) under QFC License No. 00005. All related financial products or services will only be available to 
+Business Customers or Market Counterparties (as defined by the QFCRA), including individuals, who have opted to be classified as a Business Customer, with net assets in 
+excess of QR 4 million, and who have sufficient financial knowledge, experience and understanding to participate in such products and/or services. Therefore this information 
+must not be delivered to, or relied on by, any other type of individual. Saudi Arabia: This information is being distributed by Credit Suisse Saudi Arabia (CR Number 
+1010228645), duly licensed and regulated by the Saudi Arabian Capital Market Authority pursuant to License Number 08104-37 dated 23/03/1429H corresponding to 
+21/03/2008AD. Credit Suisse Saudi Arabia’s principal place of business is at King Khaled Road, Laysen Valley, Building number 6, 12329-2376, Riyadh, Saudi Arabia. Website: 
+https://www.credit-suisse.com/sa/en/cssa.html. South Africa: This information is being distributed by Credit Suisse (UK) Limited which is registered as a financial services 
+provider with the Financial Sector Conduct Authority in South Africa with FSP number 48779. Türkiye: The investment information, comments and recommendations 
+contained herein are not within the scope of investment advisory activity. The investment advisory services are provided by the authorized institutions to the persons in a 
+customized manner taking into account the risk and return preferences of the persons. Whereas, the comments and advices included herein are of general nature. Therefore 
+recommendations may not be suitable for your financial status or risk and yield preferences. For this reason, making an investment decision only by relying on the information 
+given herein may not give rise to results that fit your expectations. This report is distributed by Credit Suisse Istanbul Menkul Degerler Anonim Sirketi, regulated by the Capital 
+Markets Board of Türkiye, with its registered address at Levazim Mahallesi, Koru Sokak No. 2 Zorlu Center Terasevler No. 61 34340 Besiktas/ Istanbul-Türkiye. United 
+Kingdom: This document is distributed by Credit Suisse (UK) Limited. Credit Suisse (UK) Limited, is authorized by the Prudential Regulation Authority and regulated by the 
+Financial Conduct Authority and the Prudential Regulation Authority. The registered address of Credit Suisse (UK) Limited is 5 Broadgate, London, EC2M 2QS.
+
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+ab
+
+https://www.credit-suisse.com
+

@@ -1,0 +1,757 @@
+
+11 June 2024, 08:11 BST
+Chief Investment Office GWM
+Investment Research
+
+Harvesting volatility risk premia across assets
+Derivatives Strategy
+ 
+ Authors: Luca Henzen, Analyst, UBS Switzerland AG; Moritz Vontobel, Analyst, UBS Switzerland AG; Luca Giglioli, Analyst, UBS Switzerland AG
+
+• Often, the market-implied volatility of a financial
+asset exceeds the subsequent realized volatility.
+This risk premium in volatility can be collected to
+generate income.
+
+• In recent years, the positive correlation between
+equities and bonds undermined the robustness of a
+balanced asset allocation. We believe that volatility
+risk premia are a valid alternative asset class that can
+improve the risk-return profile of a portfolio thanks
+to the low correlation to traditional risk premia such
+as equity, duration, and credit.
+
+• The CIO Cross-Asset Short-Volatility Portfolio is
+designed to generate consistent returns while
+minimizing drawdowns through: 1) diversifying
+volatility exposure across multiple assets, 2)
+embedding defensive mechanisms in the design
+of the volatility-carry strategies, and 3) actively
+managing the exposures.
+
+Source: UBS
+
+ 
+With this report we formally close the theme "Harvesting
+the equity Volatility Risk Premium," launched in April 2022,
+and start a new theme focused on harvesting volatility
+risk premia on multiple assets. The authors would like to
+acknowledge the assistance of Michael Papadogeorgos in
+the preparation of this report.
+
+Our view
+
+In recent years, the correlation between equities and bonds
+has often turned positive, impairing the diversification
+benefits of combining the two asset classes in a balanced
+portfolio. The quest for alternative and uncorrelated return
+sources continues. To reinforce portfolio diversification,
+investors would need to broaden their scope beyond
+traditional risk premia such as equity, duration, and credit.
+We believe volatility risk premia offer an attractive risk-
+return profile that can complement or even replace standard
+income sources and help increase portfolio robustness.
+
+Since the COVID-induced market-crisis in March 2020, it
+took more than three years for the US equity volatility
+index VIX to return to a low volatility regime. The pandemic
+followed by the inflation surge in 2022 kept financial market
+volatility elevated, likely dissuading many investors from
+selling to generate carry. Over the past 12 months, the
+resilience of the global economy against high interest rates
+and the gradual shift of major central banks from rate
+hikes to rate cuts have supported risk assets. Consequently,
+cross-asset volatility progressively normalized from late 2023
+onwards. Except for interest rates, current volatility levels are
+relatively low compared to historical standards, making the
+choice of which asset to sell volatility on and how to sell it,
+i.e., strategy construction, crucial.
+
+This report has been prepared by UBS Switzerland AG. Please see important disclaimers and disclosures at the end
+of the document.
+
+
+
+Derivatives Strategy
+
+Figure 1 - Cross-asset volatility has normalized...
+Levels of volatility indexes across selected assets, since January 2022
+
+Source: Bloomberg,UBS, as of June 2024
+
+Although volatility has declined, the volatility risk premium
+—or the difference between implied and realized volatility
+—remains positive in several assets (see Fig. 2). In our
+view, volatility (risk) premia are an attractive alternative
+return source. Not only do they generate stable income
+longer term, but can also help improve diversification in a
+portfolio. Their low correlation to traditional asset classes are
+particularly important when correlation between bonds and
+equities turns positive.
+
+Our analysis shows that harvesting volatility premia
+generated positive returns in recent years across most major
+asset classes. However, investors should be aware of the
+risk of selling volatility. Events like the US banking crisis in
+March 2023 demonstrated that unexpected risk-off periods
+can lift market volatility. Short-volatility, or simply volatility
+carry strategies, are particularly sensitive to sudden spikes in
+volatility, especially when it increases from very low levels.
+To mitigate the risks of left-tail or “black swan” events in
+markets, a robust volatility carry strategy should, in our view,
+rely on three pillars:
+1. Diversification: Spread the systematic monetization of the
+
+volatility risk premium across several assets, ideally with
+different risk-return profiles.
+
+2. Defensiveness: Deploy techniques to limit drawdowns by
+adjusting exposure to volatility according to moves in the
+underlying asset as well as prevailing volatility levels.
+
+3. Active management: Monitor volatility levels and adjust
+accordingly exposures to single volatility premia. Keep
+track of the latest advances in derivative markets (e.g.,
+new instruments) to improve efficiency and robustness.
+
+We believe this approach can help investors navigate
+volatility markets and, in our view, enhance the risk-return
+profile of a short-volatility strategy compared to a static
+single-asset solution.
+
+Figure 2 - ...but volatility risk premia remain
+positive
+Volatility risk premia of selected assets computed as implied volatility
+minus subsequent one-month realized volatility
+
+Source: Bloomberg, UBS, as of May 2024
+
+Risk and return characteristics of
+harvesting volatility risk premia
+
+In our publication “Selling options in a portfolio context,”
+we explained the nature of the volatility risk premium
+(VRP) in equities and when it is most attractive to harvest
+it. While most financial assets show a positive average
+VRP, this premium is not constant and varies according to
+imbalances in supply and demand of options. In general,
+high levels of VRP indicate higher risk aversion in markets
+and typically happen after a volatility spike when implied
+volatility remains elevated
+
+VRP is not constant but, on average, positive
+
+In the appendix, we show the one-month VRP of selected
+assets over the past 12 years. As can be seen, long-term
+averages are positive, but large swings, in particular to
+the downside, have occasionally occurred. For most assets,
+the premium quickly turns negative when realized volatility
+surges but subsequently reverts staying elevated for a
+prolonged period. This can be explained by implied volatility
+staying more firm while realized volatility slowly normalizes.
+A positive VRP is therefore more pronounced after a volatility
+spike, regardless of the underlying asset.
+
+Left-tailed distribution
+
+The distribution of the VRP is not normal. Although for
+most assets the distribution has a positive average value, it
+also shows a pronounced left tail, i.e., infrequent but large
+
+2
+
+https://secure.ubs.com/public/api/v2/investment-content/documents/1T5eeSZ66-HcPV_mS8D-3Q?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+
+
+Derivatives Strategy
+
+negative values. The last two columns of Table 1 show that
+the frequency of very negative VRP values in most assets was
+larger compared to a normal distribution (data since 2011).
+
+This negative skewness in the VRP distributions is particularly
+important in the selection of the strategy. In our
+publication “Investment strategies to harvest the volatility
+risk premium,” we list the common solutions that investors
+use to get exposure to volatility premia. While the VRP is
+frequently measured as the difference between implied and
+realized volatility, most strategies provide exposure to the
+difference between implied and realized variance. Being the
+variance the square of the volatility, extreme negative VRP
+values (left-tail events) result in larger losses when measured
+on variance compared to volatility, posing an even greater
+threat for investors.
+
+Table 1 - Key parameters of VRP distributions
+Based on daily data since April 2011
+
+Source: Bloomberg, UBS, as of June 2024
+
+1 Share of VRP levels 3- and 4-standard-deviation below the average.
+
+Different correlation to asset returns
+
+Replacing part of the allocation to traditional asset classes
+with a VRP strategy can improve the risk-return profile of a
+portfolio. In our report “New theme: Harvesting the equity
+volatility risk premium,” we illustrate the case of adding
+a systematic S&P 500 short variance swap strategy to a
+60/40 equity bond portfolio and demonstrate the benefits
+to performance.
+
+In a portfolio context, a key parameter becomes the
+correlation between the VRP and the returns of the
+underlying asset. In Figure 3, we decomposed the VRP
+according to past monthly returns of the underlying asset
+and computed its average in each return decile. Two
+considerations can be drawn:
+1. As expected, the VRP tends to be positive when asset
+
+price’s movements are limited (low realized volatility).
+This confirms that a short-volatility strategy can generate
+
+income in sideways markets, also when asset returns are
+moderately negative.
+
+2. The behavior of the VRP in the lowest and highest return
+deciles is not the same across assets. While for risk assets
+(e.g., equities, oil) VRP levels are positively correlated with
+price returns, defensive assets such as high-quality bonds
+and gold show a more balanced VRP distribution with
+a tendency of lower VRP levels in extreme returns. The
+difference can be explained by the correlation between
+price returns and volatility, which tends to be negative for
+risk assets and more nuanced for defensive assets. More
+insights into the difference between gold and equity
+volatility can be found in our report “Gold: Time to
+consider your options.”
+
+Figure 3 - Correlation between volatility premia
+and asset returns
+Average one-month volatility risk premium according to the return
+decile in the specific asset, in %
+
+3
+
+https://secure.ubs.com/public/api/v2/investment-content/documents/m_2Zkro4d1bqwCvLRdjPgA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/m_2Zkro4d1bqwCvLRdjPgA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/vjvz3fYzXy04gb_L9S0DKA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/vjvz3fYzXy04gb_L9S0DKA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/1rntdiw-OIST64gyLSrLjQ?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/1rntdiw-OIST64gyLSrLjQ?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+
+
+Derivatives Strategy
+
+Source: Bloomberg, UBS, as of June 2024
+
+Note: VRP measured using the following volatility indexes: VIX (S&P 500)
+since 1990, TLT VIX (20y+ US Treasuries) since 2004, Cboe Gold ETF
+Volatility Index (Gold) since 2008, Cboe Crude Oil ETF Volatility Index (WTI
+Crude Oil) since 2007, Cboe EuroCurrency Volatility Index (EURUSD) since
+2007.
+
+In Figure 4, we simulated short-volatility strategies that
+harvest volatility risk premia by systematically selling 1-
+month variance swaps on the respective asset (20 bps
+notional sold monthly). We used volatility indexes such as
+the VIX or VSTOXX to derive 1-month variance swap strikes.
+For illustrative purposes, we assumed these indexes were
+tradable, although in practice liquidity in option markets
+can be a limitation. As expected, average yearly returns in
+all strategies are positive with low realized volatility outside
+major drawdowns. Except for March 2020, corrections in
+the strategies show low correlation, demonstrating the
+benefit of diversification. Nevertheless, the synchronized
+sell-off in 2020 suggests that diversification alone is
+not enough. Including additional mechanisms to limit
+drawdown sensitivity is therefore crucial to improve return
+expectations.
+
+Figure 4 - Shorting volatilty generated positive
+returns
+Cumulative excess return of strategies that sell 1-month variance
+swaps on selected asset classes (daily sale of 20bps vega, divided by
+21), time series rebased to 100 in January 2012
+
+Source: Bloomberg, UBS, as of June 2024
+
+Note: The results do include an estimate of prevailing trading costs, but
+omit any management fee that a product replicating the strategy may
+have. Please see the back-test disclaimer at the end of this document.
+
+How to reduce drawdown risks
+when selling volatility
+
+Selling volatility can generate steady positive returns longer
+term, but big drawdowns can happen occasionally. Timing a
+volatility shock is notoriously difficult and, as we explained,
+often the return outlook improves after such events. We
+therefore favor a systematic approach to sell volatility
+based on three pillars: 1) diversifying across multiple assets,
+2) embedding defensive mechanisms in the design of
+the strategies, and 30) actively managing the volatility
+exposures. Compared to a single-asset static solution, we
+believe the combination of these components can improve
+the outcome of harvesting volatility premia by lowering
+sensitivity to downside risks without impairing carry.
+
+1. Diversify exposure to volatility premia
+
+We previously illustrated the presence of a positive volatility
+premium with skewed distribution in several financial assets.
+Furthermore, assets with different risk-return characteristics
+show different VRP dynamics. Harvesting volatility premia
+across multiple assets can therefore reduce risks while
+keeping positive income generation by the virtue of
+diversification. Similar to traditional portfolio construction
+approaches, the allocation of investments to a variety of
+assets, regions, markets or asset classes can effectively
+reduce risks. Ideally, the wider the list of assets with a
+positive VRP and distinct risk-return profiles, the better the
+outcome in terms of risk-adjusted return and drawdown
+mitigation of a volatility carry portfolio.
+
+A few challenges remain when using diversification in
+selling volatility. First, investors can only sell volatility of
+assets or securities that have a liquid option market.
+The available universe is therefore smaller compared to
+traditional investment solutions. Second, finding assets that
+react differently to markets events is challenging, as surges
+in volatility often propagate across markets impairing the
+effect of diversification (see COVID crisis in March 2020).
+Nevertheless, the universe of instruments to trade volatility
+is rapidly expanding and already covers sufficient assets to
+allow for an efficient use of diversification when selling
+volatility.
+
+2. Defensive design
+
+When implementing a short-volatility strategy, specific
+design choices can be applied to reduce drawdown
+sensitivity. We differentiate techniques, that take advantage
+of market dynamics to minimize risk without directly
+impacting income generation, from the selection of
+
+4
+
+
+
+Derivatives Strategy
+
+parameters that alter the balance between carry and
+drawdown.
+In “New theme: Harvesting the equity volatility risk
+premium,” we discussed the use of shorter tenors and
+option replication to variance swap strategies as two
+effective methodologies to reduce drawdowns and times
+to recovery, but also to increase carry. More recently, the
+introduction of new option expiries on major equity indexes
+allowed the implementation of short-volatility strategies
+that target the rich one-to-zero-day volatility premium (see
+“10+1 Q&As on 0DTE options and the VIX1D”).
+
+Increasing the frequency of delta-hedging to multiples time
+during the day is a further technique to optimize income
+versus risks. In theory, the delta should be continuously
+hedged, but in practice discrete intervals when adjusting
+the delta are used. The conventional sampling frequency
+is daily, typically based on closing prices (end-of-day), but
+increasing the frequency of delta-hedging (e.g., every hour)
+can improve the outcome. Trading volumes are not constant
+during the day and their impact on the price of a security
+can vary significantly in a trading session (e.g., higher end-
+of-day flows due to rebalancing). As evidence, the realized
+volatility of the S&P 500 has been, on average, marginally
+higher if computed using closing prices compared to hourly
+prices (see Fig. 5).
+
+Figure 5 - End-of-day versus intraday volatility
+One-month realized volatility of the S&P 500 computed using daily-
+closing prices (EoD) and hourly prices (Intraday)
+
+Source: UBS, as of June 2024
+
+The difference has been particularly elevated during
+drawdown periods, when intraday price movements of
+the index were more trending (i.e., positive correlation
+between hourly returns). Since the performance of a
+short delta-hedged option position is proportional to the
+difference between implied and realized volatility, having a
+lower measure of realized volatility is ultimately beneficial.
+Moreover, Figure 6 shows that the benefits of delta-hedging
+
+more frequently are proportional to the difference between
+the realized volatility measures (i.e., end-of-day versus
+hourly sampling frequency).
+
+Figure 6 - Intraday delta-hedging can improve
+performance
+P&L difference of 1-month S&P 500 at-the-money short call positions
+with end-of-day and hourly delta-hedging compared to the difference
+in realized volatility (end-of-day versus intraday), data since 2008
+
+Source: Bloomberg, UBS, as of June 2024
+
+Other solutions can be applied to reduce risks in a short-
+volatility strategy, but given their impact to income we
+consider them more a design choice or parameter selection
+than a pure optimization. Forgoing some income to buy
+downside protection, in form of deep out-of-the-money
+puts, when selling delta-hedged strangles on equities, can
+effectively limit downside risks. Another methodology is to
+combine a short and a long variance swap position with the
+latter normally targeting a longer tenor. By increasing the
+(vega) notional from the short to the long position, the risk-
+return profile of the combined strategy can be shifted from
+carry to more defensive or even protection.
+
+Although many of these techniques lead to a higher volume
+and frequency of trades, in our view this added complexity
+should not be understood as end in itself but a mean to
+achieve specific goals: namely increasing resilience against
+volatility events in markets and achieving a smoother risk-
+adjusted return.
+
+3. Active management
+
+The third pillar involves the active management that
+should serve as additional optimization layer to direct VRP
+harvesting toward the most attractive assets. Timing market
+sell-offs is challenging, with volatility risk premia often
+increasing after volatility spikes when investor risk aversion
+is high. While we consider diversification and defensive
+features the primary defenses against volatility shocks,
+adjusting exposure through active management can help
+
+5
+
+https://secure.ubs.com/public/api/v2/investment-content/documents/vjvz3fYzXy04gb_L9S0DKA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/vjvz3fYzXy04gb_L9S0DKA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+https://secure.ubs.com/public/api/v2/investment-content/documents/YCfdlOL83nPgDQmh3tEmlA?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+
+
+Derivatives Strategy
+
+monetize more efficiently elevated volatility premia in the
+aftermath.
+The VRP is influenced by shifts in supply and demand within
+option markets. High VRP levels often draw in volatility
+sellers. The emergence of new derivative instruments can
+exert further pressure and eventually compress specific
+segment of the volatility surface. Consequently, volatility
+premia may linger below long-term averages for extended
+periods, diminishing the risk-reward of selling volatility.
+Continuously monitoring the volatility and the product
+landscape enables adjusting the allocation toward more
+attractive premia when necessary. Finally, it also ensures that
+the strategy remains aligned with the latest innovations and
+developments in financial engineering.
+
+Our solution: The CIO Cross-Asset
+Short-Volatility Portfolio
+
+The popularity of capital-at-risk products such as reverse
+convertibles and the recent trend in option-selling
+exchange-traded funds highlight investors’ appetite for
+yield-enhancing solutions that sell volatility. However, some
+skepticism remain with critics primarily pointing to the losses
+incurred by volatility carry products during the February
+2018 market shock and the COVID crisis in March 2020.
+These events had a profound impact on volatility markets
+undermining the confidence of many investors in short-
+volatility strategies.
+
+The CIO Cross-Asset Short-Volatility portfolio aims to offer
+the optimal platform for harvesting volatility premia by
+applying the three components introduced in the previous
+section.
+
+Portfolio design
+
+The portfolio is designed to generate consistent returns
+while maximizing diversification across the underlying
+strategies, minimizing drawdowns, and accounting for
+market liquidity. Further, the portfolio construction
+accommodates discretionary views in accordance with
+contemporary market conditions and ongoing research.
+One of the most commonly adopted systematic portfolio
+construction approaches is risk parity. In this approach
+portfolio weights are calculated such that the risk
+contributed to the portfolio from each of the underlying
+constituents is the same. Risk Parity has been successfully
+adopted by many institutional investors, particularly for
+asset allocation and equity portfolios. The technique is
+especially suitable where the underlying instruments exhibit
+clear periods of heterogeneous volatility clustering, and
+
+where increased volatility is associated with decreased
+performance, such as with global equities. However, the
+time series of returns of volatility carry strategies do not
+normally exhibit volatility clustering, and thus short-term
+measures of risk are not normally predictive. In fact, some of
+the periods with the highest performance can be observed
+at points where risk is high, and, as discussed, it can be
+challenging to reliably forecastthe volatility premia over
+short horizons. Accordingly, we have established long-term
+base weights for the portfolio that are calibrated using
+maximal data across numerous market regimes. We then tilt
+the weights from the base weights according to observed
+market conditions and in accordance with CIO views and
+research.
+
+Figure 7 - Portfolio construction
+Illustrative diagram of the portfolio construction optimization
+
+Source: UBS, as of June 2024
+
+To incorporate the design aspects, the portfolio is
+constructed in three phases as illustrated in Figure 7. We
+first calculate the long-term base weights by optimizing
+with maximum diversification as described by Choueifaty
+and Coignard (2008). The method maximizes the ratio of
+the weighted-sum of individual strategy volatilities to the
+portfolio volatility, thus exploiting the diversification offered
+by the correlations between strategies. In the second step,
+discretionary inputs tilt the portfolio according to market
+conditions, forming a ‘target’ portfolio. Finally, a second
+optimization process is used where the tracking error to the
+target portfolio is minimized subject to capacity and liquidity
+constraints, forming the final portfolio.
+
+6
+
+
+
+Derivatives Strategy
+
+Target investors
+In our view, such a portfolio is suitable for three types of
+investors:
+1. Income-oriented investors who tilt their asset allocation
+
+toward high-yielding asset classes such as credit or
+dividend stocks could benefit from an additional income
+source. Harvesting volatility premia demonstrated its
+ability to generate stable income outside significant
+market risk-off events. Our portfolio mitigates the
+common downside risks of a short-volatility strategy
+while maintaining an attractive carry profile.
+
+2. Due to its low correlation to traditional asset classes, the
+CIO Cross-Asset Short-Volatility portfolio is particularly
+well suited to investors seeking to enhance the
+overall diversification and robustness of their portfolio.
+Volatility risk premia become particularly attractive when
+traditional diversification sources, such as high-quality
+bonds, come under pressure. A recent example is the
+bond bear market of 2022, during which market volatility
+was elevated. During this period, harvesting volatility risk
+premia in specific assets like Eurozone equities or oil
+delivered positive performance.
+
+3. Considering its sophisticated nature, the CIO Cross-Asset
+Short-Volatility portfolio can be considered as alternative
+investment. It can help investors who want to enhance
+their allocation to non-traditional investments. Thanks
+to its low correlation to alternative investments like
+risk-parity or hedge funds, it is in our view a valid
+complement.
+
+Risks of the CIO Cross-Asset Short-Volatility portfolio
+The goal of the portfolio is to generate positive income
+while reducing drawdown sensitivity and maximizing
+diversification within the constituent strategies and versus
+traditional asset classes. At the end, however, the strategy
+sells market insurance in form of volatility or options and
+thus risks cannot be fully mitigated but only minimized. In
+our view the following is a list of major risks.
+
+First, history confirms that from time to time financial
+markets experience bouts of heightened volatility. These
+risk-off periods typically are the result of any number of
+factors such as economic uncertainty, monetary or fiscal
+policy changes, financial contagion or geopolitical tension.
+In such events, the realized volatility of an asset can
+quickly rise, exceeding prevailing implied volatility. While the
+principle of diversifying volatility exposure across multiple
+underlying assets helps mitigate drawdown sensitivity,
+negative returns during volatile periods are still possible.
+Second, although defensive mechanisms in the single
+strategies and the active management are meant to adjust
+
+exposure to volatility according to risks and volatility levels,
+unexpected spikes in volatility can happen very quickly
+within a few hours or, in the worst case, when markets are
+closed. In such situation, any adjustment of the exposure
+would likely come too late to prevent initial losses in the
+strategies.
+
+Third, VRP levels are the major drivers of performance in the
+single strategies. As a consequence, periods of prolonged
+low volatility risk premia in several assets may translate into
+subdued performance of the portfolio. We see the active
+management as a way to mitigate this risk by reallocation
+to assets with more attractive volatility risk premia.
+
+References
+
+Choueifaty, Y., Coignard, "Towards Maximum
+Diversification," Journal of Portfolio Management, Fall 2008
+pp. 40-51.
+
+Appendix
+
+7
+
+
+
+Derivatives Strategy
+
+Figure 8 - Volatility risk premia across assets
+One-month volatility risk premium (difference between implied and
+subsequent realized volatility) on selected assets, in volatility points
+
+Source: Bloomberg, UBS, as of June 2024
+
+Note: VRP measured using the following volatility indexes: VIX (S&P 500),
+TLT VIX (20y+ US Treasuries), Cboe Gold ETF Volatility Index (Gold), Cboe
+Crude Oil ETF Volatility Index (WTI Crude Oil), Cboe EuroCurrency Volatility
+Index (EURUSD).
+
+8
+
+
+
+Derivatives Strategy
+
+Back-test disclaimer
+The performance of a back-test simulation does not represent the actual performance of any live strategy, but rather
+depicts the theoretical performance of a particular strategy over the selected period. In future periods, market and economic
+conditions will differ and the same strategy will not necessarily produce the same results. Back-tested results are created
+by applying an investment strategy or methodology to historical data, and they attempt to give an indication as to how a
+strategy might have performed during a certain period in the past. Back-tested results have inherent limitations, including
+the fact that they are calculated with the full benefit of hindsight. The results shown do include an estimate of prevailing
+trading costs, but omit any management fee that a product replicating the strategy may have.
+
+Main risks of investing in options
+Unlike owning or shorting a security, option contracts are, by definition, governed by a finite duration. An option buyer
+faces the risk of losing the entire amount of the premium paid. An option writer, however, faces a higher level of risk,
+as the potential loss can be significant if the option expires in-the-money. Since options investments usually require less
+capital compared with an equivalent position in the underlying asset, the losses of an option investor are usually smaller.
+The exception to this general rule occurs when options are used to provide leverage.
+
+9
+
+
+
+Derivatives Strategy
+
+Appendix
+
+Risk Information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of
+using different assumptions and/or criteria. UBS may utilise artificial intelligence tools (“AI Tools”) in the preparation of this
+document. Notwithstanding any such use of AI Tools, this document has undergone human review.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+
+10
+
+
+
+Derivatives Strategy
+
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: This document is not intended for distribution into the US and / or to US persons.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website. In order to provide you with marketing materials concerning our products and services, UBS Group AG and
+its subsidiaries may process your basic personal data (i.e. contact details such as name, e-mail address) until you notify us
+that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your
+Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version A/2025. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+11
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+

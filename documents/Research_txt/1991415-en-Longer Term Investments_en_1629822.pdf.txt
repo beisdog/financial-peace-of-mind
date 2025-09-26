@@ -1,0 +1,1010 @@
+
+27 March 2025, 12:12 GMT
+Chief Investment Office GWM
+Investment Research
+
+Fintech – Update
+Longer Term Investments
+ 
+ Authors: Sacha Holderegger, CFA, CIO Equity Sector Strategist, UBS Switzerland AG; Achille Monnet, CIO Equity Sector Strategist, UBS Switzerland AG
+
+• The global fintech industry should continue its
+rapid growth, largely driven by urbanization,
+demand from younger generations, and favorable
+regulation. The COVID-19 pandemic accelerated
+many of these trends underpinning growth for
+fintech companies.
+
+• We expect revenues in the fintech industry to grow
+at a double-digit annual rate over the rest of the
+decade, expanding from USD 310 billion in 2024 to
+USD 580 billion in 2030.
+
+• Fintech should therefore provide solid long-term
+investment opportunities, in our view. We prefer
+leading payment players, platform companies and
+disruptors in emerging technologies like distributed
+ledgers, cloud and artificial intelligence.
+
+Source: GettyImages
+
+ 
+We would like to thank Xueqiong Huang and Marc Abad
+Llonch for their contributions to this report.
+
+Our view
+In the rapidly evolving world of finance and technology,
+"fintech" has emerged as a defining force of the
+21st century. Short for "financial technology," fintech
+represents, under our definition, the intersection of
+innovation and finance, fueled by advancements in mobile
+technology, artificial intelligence (AI), distributed ledgers,
+cloud computing, and analytics (please refer also to
+our last fintech update report, 23 July 2023). Unlike
+traditional financial IT spending, which primarily focuses on
+infrastructure and operational efficiency, fintech emphasizes
+user-centric solutions, creating an ecosystem that redefines
+how individuals and businesses interact with financial
+services. At its core, fintech is about the digitalization of
+financial services, transforming how we save, invest, insure,
+and transact. Leveraging digital platforms, mobile apps, and
+emerging technologies, fintech delivers seamless, efficient,
+and inclusive financial solutions.
+
+This report has been prepared by UBS Switzerland AG. Please see important disclaimers and disclosures at the end
+of the document.
+
+
+
+Longer Term Investments
+
+The fintech ecosystem can be broadly categorized into six
+major verticals (see fig. 1): (1) digital payments, (2) digital
+lending, (3) insurtech, (4) digital banking (neobanks), (5)
+wealthtech and (6) capital markets. Digital payments, by
+far the largest vertical, has not only driven fintech's growth
+for many years—accounting for about 27% of cumulative
+equity funding over the last 5 years—but we also expect it
+to remain the largest segment in 2030.
+
+Fig. 1: Fintech equity funding (2020-2024)
+
+Source: CB Insights, UBS as of March 2025
+
+From an investment perspective, we think fintech represents
+a compelling long-term theme, offering significant growth
+opportunities within an increasingly favorable backdrop.
+We estimate that the global fintech industry generated
+revenues of approximately USD 310 billion in 2024 and
+project that number to reach USD 580 billion by 2030, an
+11% compound annual growth rate (see fig. 2). Growth will
+likely be driven by strong customer demand as AI is expected
+to drive automation and personalization, with embedded
+finance enabling seamless integrations and open banking
+fostering innovation through greater data accessibility and
+interoperability. We see both demand as well as supply-side
+catalysts as strong drivers for fintech growth.
+
+Fig. 2: Fintech revenues (USD billion)
+
+Source: UBS estimates, as of March 2025
+
+Demand-side catalysts
+
+The accelerating pace of urbanization and technological
+adoption has created fertile ground for fintech innovation.
+High-speed data networks such as 4G and 5G, combined
+with the rise of the app economy, have enabled millions
+of people—particularly in emerging markets—to access
+financial services previously out of reach. Fintech solutions
+like mobile payments and micro-insurance have been
+transformative, addressing the needs of underbanked and
+unbanked populations.
+
+Millennials, a generation of digital natives (born in
+1981-1996), are another critical driver of fintech demand.
+Representing over 20% of the global population and USD
+22 trillion or 13% in private wealth in the US alone (see fig.
+3), it is this generation that will benefit most from the great
+wealth transfer we expect to see in the next 25 years. From
+a fintech perspective, this is relevant because millennials
+prioritize convenience, personalization, and digital-first
+experiences. These preferences align seamlessly with fintech
+offerings such as digital wallets and personalized investment
+platforms tailored to unique financial goals.
+
+Fig. 3: US assets by generation (in USD trillion)
+
+Source: Survey of US Cons. Finances and Financial Accounts, as of 2Q24
+
+2
+
+
+
+Longer Term Investments
+
+Finally, regulatory frameworks worldwide are also becoming
+increasingly supportive of fintech. Governments recognize
+the potential of digital finance to foster competition,
+improve access to financial services, and enhance
+innovation. Global cash usage today stands at around 80%
+of 2019 levels and continues to decrease by 4% a year as
+electronic payments displace cash, for example by instant-
+payment platforms like India’s Unified Payments Interface
+(UPI) and Brazil’s Pix. We see this as a big opportunity for
+digitization as around USD 26 trillion of global payments are
+still made in cash.
+
+Supply-side catalysts
+The supply side of the fintech ecosystem is equally dynamic,
+with technology firms and incumbent financial institutions
+competing for leadership in the digital finance space.
+Technology companies have disrupted traditional sectors
+by introducing innovative solutions like proximity-based
+digital wallets and app-based payments, addressing unmet
+consumer needs while creating new revenue streams in
+areas such as e-commerce and social networking.
+
+Meanwhile, traditional financial institutions are embracing
+fintech as a strategic imperative. Facing the risk
+of disintermediation, many banks and insurers have
+established innovation labs, forged partnerships with
+startups, and invested in proprietary fintech solutions. By
+leveraging their extensive customer bases and distribution
+networks, these incumbents aim to combine the agility of
+startups with the trust and scale of established brands.
+
+Fintech at an inflection point
+Fintech is at a pivotal juncture. Generative AI is
+expected to drive the next wave of industry growth by
+enhancing customer experiences, automating operations,
+and unlocking new business opportunities. While the
+industry faced headwinds in 2023 and 2024—marked by
+rising interest rates, a challenging funding environment with
+funding declining by more than 75% from 2021 peak,
+and a complex regulatory landscape—these challenges
+have led to a shift toward operational efficiency and
+sustainable growth. This is also expressed in a survey by the
+Cambridge Centre for Alternative Finance which showed
+that fintech companies see, besides macroeconomic factors,
+an unfavorable regulatory environment and a poor funding
+landscape as their primary challenges hindering growth.
+
+Looking ahead to 2025, we believe the fintech landscape
+is set to improve further. Interest rates are expected to be
+lower by year-end, while funding conditions seem to have
+stabilized, as evidenced by 4Q24 equity funding volumes.
+At the same time, regulators and policymakers worldwide
+are taking steps to balance innovation with consumer
+
+protection and risk mitigation, creating a more conducive
+environment for fintech activities.
+
+The following sections will explore the drivers, opportunities,
+and challenges that we think will shape the future of fintech,
+with a focus on key themes such as payments, insurtech,
+and neobanks.
+
+Recent developments
+Over the last 2 years, fintech has benefited from
+many market developments and innovations. In particular,
+embedded finance and AI are two major themes. With
+regards to embedded finance, platforms such as Shopify
+and Uber have added ancillary banking services to their
+platforms. Shopify for instance offers capital accounts,
+working capital loans, credit cards, and tax solutions, with
+units like Shopify Capital providing quick funding up to USD
+2 million based on a merchant's sales history. The ability to
+underwrite loans and control credit risk is enabled by the
+company's access to high quality, unique, and incremental
+data. Thus far, the product line has been a big success story
+for Shopify with risks well controlled. Generative AI brings
+benefits in the form of more efficient operations through
+coding and customer care innovation. Improvements in
+fraud prevention and automated workflow as a result of
+advanced machine learning are also improving costs to
+serve.
+
+Other practical developments include the launch of FedNow
+by the Federal Reserve in July 2023. This created a real-
+time payment system that enables both businesses and
+consumers to instantly settle funds, marking the first
+new payments system launch in the US in decades. Such
+advancements create more business for fintech providers
+to capture in the payments ecosystem. Several Bitcoin ETFs
+were also launched in late 2023 and 2024 after the SEC
+began to ease its regulatory stance. This innovation further
+democratized Bitcoin and cryptocurrencies, allowing more
+individuals to participate in the market and bolstering the
+asset class's credibility with improved regulatory acceptance.
+President Trump's reelection is seen as another vote of
+confidence in cryptocurrencies given his vocal support. The
+president has also established crypto-specific roles such
+as an AI and crypto czar and replaced the previous SEC
+chairman with Paul Atkins, who is widely viewed as more
+supportive of digital currencies and blockchain relative to
+his predecessor and is likely to be confirmed by the senate
+in March. Furthermore, stablecoins have found use cases
+in cross-border transactions as they are typically cheaper
+alternatives to the SWIFT payment rails. Platforms like
+JPMorgan’s Onyx platform leverage stablecoins for real-time
+settlement .
+
+3
+
+
+
+Longer Term Investments
+
+Five predictions for 2025
+In 2024, the global fintech market continued to encounter
+challenges. The Banking and Capital Markets verticals were
+the only two that experienced any growth. However, signs
+of stabilization are emerging. Funding declines have slowed
+and 4Q saw a rebound in activity and M&A exits. Looking
+ahead, we think strong secular growth drivers and a stable
+macroeconomic environment with lower interest rates and
+steadier fund flows suggest fintech funding should recover
+from the 2023-24 downturn.
+
+1. More sustainable, profitable growth: Fintechs are
+shifting from aggressive growth to profitability, driven by
+higher rates. This has improved productivity and strategic
+focus. To illustrate this, the six largest UK neobanks
+(Revolut, Shawbrook, Chase UK, OakNorth, Monzo and
+Starling) reported an average return on equity of 15% in
+2023, up from 3% in 2022.
+
+2. AI-powered personalization: AI will enhance financial
+services through personalized banking, fraud detection,
+and operational efficiency, becoming a key growth driver.
+
+3. Bank consolidation in the US and Europe is a
+potential driver for fintech: Regulatory pressure and
+digitalization will further drive M&A, especially among
+the smallest banks. Evidence shows that smaller banks
+with lower IT budgets are more likely to make fintech
+acquisitions while bigger banks will develop it in-house
+(source: Journal of Financial Services Research, “Banks
+and fintech acquisitions”, 11.01.2023).
+
+4. Lower regulatory barriers: Regulatory easing,
+particularly in the UK and US, will benefit fintechs.
+However, we do not expect this to be a one-way street.
+The EU for example is pushing for more regulation, such
+as the Digital Operational Resilience Act (DORA) and the
+EU AI Act.
+
+5. Heightened capital markets activity could attract
+new investors: The second half of 2024 marked a
+turning point for capital markets activity, with ECM
+volumes in 4Q reaching the highest levels since the end
+of 2021, driven by a surge in IPOs. This bodes well for
+major fintech companies like Klarna, Chime, and eToro
+to pursue IPOs throughout 2025.
+
+Selected focus areas
+
+Digital payments
+
+Payments form the largest subsector within fintech. We
+expect its market size based on revenue to exceed USD 200
+billion by 2030 from USD 125 billion in 2024 (see figure 4).
+This sector has also evolved into one of the most dynamic
+areas of fintech due to advancements in technology, the
+growth of digital payments over e-commerce, and changing
+consumer expectations. The complexity of payments is
+only increasing given this changing technological landscape
+and customer expectations, through innovations such as
+peer-to-per payments, omnichannel payment integration, e-
+commerce penetration and financial innovations like buy-
+now-pay-later. In fact, for many years, the US was not
+deemed a potential market for leading digital payments
+processor Adyen since the level of complexity was not
+high enough to warrant their more effective integrated
+solution for merchants. The structural change from that
+demonstrates the growing market for fintech payments
+as they solve increasingly complex pain points. The key
+drivers that we see for payments include the continued
+growth of smartphones (enabling wallets and new payment
+flows), AI and machine learning (supporting advanced fraud
+detection), blockchains (which introduce decentralized and
+secure payments), the globalization of commerce and online
+shopping, and changing consumer expectations.
+
+Fig. 4: Digital payments market
+(revenues in USD billion)
+
+Source: UBS estimates, as of March 2025
+
+As the payments industry matures, business model and
+technology innovations continue to drive growth rates
+above GDP levels. We expect leading fintech businesses
+to out-innovate the slow-moving traditional banking sector
+and as a result, we see structural growth in the penetration
+of fintech within global legacy banking. One of the
+most material trends is the rise of embedded finance,
+where financial services like payments, lending, insurance,
+and banking are integrated directly into non-financial
+platforms such as Shopify, eBay, and Uber. Embedded
+finance is enabled by advancements in APIs and the
+proliferation of digital platforms, both domains where
+fintech payments have a natural advantage over traditional
+
+4
+
+
+
+Longer Term Investments
+
+providers. According to McKinsey, the embedded finance
+market in Europe generated an estimated EUR 20-30 billion
+in Europe in 2023, or about 3% of total banking revenues.
+Moreover, overall embedded finance volumes grew nearly
+3x faster than traditional banking loans. Embedded finance
+can also enhance customer experience with frictionless
+and instant settlements, increased revenue streams for
+non-financial companies (for instance Shopify Capital has
+facilitated over USD 4 billion in loans since its inception),
+and cost efficiencies as platforms can more seamlessly
+integrate solutions through APIs to avoid the need for
+costly partnerships and higher fee traditional banking
+infrastructure. As the trend matures, we expect embedded
+finance to touch an increasing number of industries,
+such as health care or real estate, via industry/vertical
+specific offerings. Platforms such as Toast have already been
+developed in the software-as-a-service (SaaS) industry, for
+instance. Embedded payments through SaaS platforms have
+gained significant traction as operating companies benefit
+from the simplicity and synergies in having payments routed
+through their underlying software provider. We expect this
+to be a dependable trend with the US leading the transition
+and other regions likely following suit. Indeed, within the
+e-commerce market for SMBs, embedded finance through
+SaaS platforms has close to 70% penetration in the US,
+followed by the EU at 45% (see figure 5).
+
+Software payments and embedded finance penetration for
+Point-of-Sale lag further behind e-commerce, as shown in
+Figure 6. The greatest opportunity once again lies in the EU,
+where banks remain by far the largest route for payments
+(representing 55% out of the remaining 80% in the "Other
+channels" section of Figure 6). This represents a significant
+opportunity for fintech players as their integrated platforms
+with less technical debts can drive a true value proposition
+relative to traditional payment rails. Furthermore, we expect
+embedded finance to converge with other innovations such
+as generative AI or blockchain to further drive revenue
+and margins. Over time, regulatory considerations will likely
+gain in importance as the penetration of embedded finance
+grows. Regulators may seek additional transparency, data
+privacy, and customer protection rights to name a few.
+Overall, we see embedded finance as a strong positive driver
+for payments.
+
+Within embedded finance, we further highlight the growth
+of Buy Now, Pay Later (BNPL) solutions since the COVID
+pandemic. The benefits of BNPL are multi-fold, including
+additional flexibility from splitting payments over several
+months at low interest rates, increased sales to merchants as
+more flexible payment options drives conversion, and finally
+improved accessibility for consumers. Having said that,
+challenges such as the over-indebtedness of low credit score
+
+consumers and a lack of regulatory oversight may limit the
+proliferation of BNPL. We see BNPL as an attractive solution
+if underwriting is appropriately risk managed, given BNPL
+can add value to merchants and is positioned to capture
+market share. One leading BNPL firm, Klarna, confidentially
+filled IPO documents with the SEC in November 2024 after
+having achieved profitability in August 2024, another sign
+of the industry's continued maturity.
+
+Fig. 5: Embedded payments penetration within e-
+commerce
+
+ISV: Independent Software Vendors, SaaS: Software as a Service. Source:
+Flagship Advisory Partners, UBS
+
+5
+
+
+
+Longer Term Investments
+
+Fig. 6: Embedded payments penetration within
+point-of-sale
+
+ISV: Independent Software Vendors, SaaS: Software as a Service. Source:
+Flagship Advisory Partners, UBS
+
+As commerce has become more globalized and digitized,
+the use and importance of global payments and cross-
+border transactions have risen. E-commerce platforms such
+as Shopify integrate with payment providers like Stripe,
+Adyen, and PayPal to facilitate global sales and allow
+merchants to accept multiple currencies and payment
+methods. The demand for real-time cross-border payments
+has also risen as traditional cross-border systems like SWIFT
+are costly, slow, and opaque. Examples such as Visa Direct
+or Mastercard Send enable real-time cross-border payments,
+improving efficiency and liquidity. Moreover, open banking
+regulations, such as the Payments Services Directive 2
+(PSD2) introduced in 2018 in Europe encourage further
+innovation in global payments by enabling third-party access
+to financial data and infrastructure.
+
+Any report written following the "ChatGPT moment" in
+November 2022 must include a discussion on generative AI
+and the benefits it brings. With regards to payments, we see
+several major benefits. For instance, we expect numerous
+cost to serve benefits as AI models can help analyze large
+datasets to detect anomalies, predict fraud, and enhance
+credit risk assessments. Visa uses models to simulate
+potential fraud scenarios, improving the detection of
+irregularities in real time. On the operations side, generative
+AI has already scaled effective solutions for customer care,
+coding, and workflow automation. We expect competitively
+differentiated operators to retain these benefits and capture
+the economic value add. As an example, Klarna’s internally
+
+developed AI chatbot assistant is reported to already be
+handling about two-thirds of customer services chats, the
+equivalent work of 700 full-time agents. This has driven
+EUR 40 million of cost savings for the firm. We also
+envision a steady state where personalized financial advice
+can be widely available with healthy operating leverage for
+providers. By understanding customer data and suitability at
+a granular level with generative AI, individualized solutions
+can be made more accessible and cost effective.
+
+Finally, we see central bank digital currencies (CBDC)
+and blockchain as potential sources of innovation and
+market growth within payments. CBDCs are digital forms
+of national currencies issued and regulated by central
+banks. CBDCs can significantly reduce transaction costs,
+especially with cross-border payments, enable banking
+services to more unbanked individuals, and provide central
+banks with more direct control over money supply. As an
+example, the Bahamas launched the Sand Dollar CBDC
+for all residents, including those in remote islands. This
+has helped drive deeper financial inclusion and accessibility
+to banking services. Blockchain, as a distributed ledger,
+should be able to enable faster and cheaper payments by
+eliminating intermediaries due the almost immutable nature
+of its ledger. RippleNet, for instance, uses blockchain to
+enable fast, cost-effective cross border payments. Firms such
+as American Express and PNC Bank have partnered with
+Ripple to enable faster international transfers. We expect
+the overall payments landscape to continue to evolve and
+digitize, creating ample opportunities for leading fintech
+incumbents.
+
+Neobanks
+Neobanks, which operate without traditional physical
+branches and exist purely online, have demonstrated their
+ability to disrupt the banking status quo. In pre-COVID years,
+neobanks saw a myriad of new players attempt to capitalize
+on a lucrative outlook. However, following the pre-COVID
+gold rush, the number of neobanks has stabilized as the
+industry matures (see Figure 7).
+
+In particular, neobanks saw rapid customer growth as the
+pandemic accelerated the shift to digital banking. However,
+the rise in interest rates since 2022 has negatively affected
+the general availability of funding and raised concerns about
+the sustainability of the business models and its ability
+to monetize a growing customer base. This challenging
+environment has led to a pivot from a "growth at all costs"
+strategy to profitable growth and sustainable operations.
+While customer acquisition has slowed somewhat from the
+pandemic's peak, revenue continue to grow at an impressive
+
+6
+
+
+
+Longer Term Investments
+
+rate. According to Boston Consulting Group, neobanks
+achieved a revenue CAGR of 78% from 2021 to 2023.
+
+Fig. 7: Number of global neobanks
+
+Source: Simon-Kucher (2023), UBS, as of March 2025
+
+While neobanks enjoy a multitude of advantages, they
+also face challenges such as competition from both other
+neobank players and traditional banks, which have joined
+the race by launching their own exclusively-digital plays.
+Though some customers were attracted with the promise of
+a better user experience, neobanks are still only in the early
+stage of capturing primary banking relationships. According
+to data from EY, more than three-quarters of consumers
+in the largest European countries state that their primary
+financial relationship is with a traditional bank. Similarly,
+US consumers still predominantly use traditional banks for
+primary banking relationships, with 59% of the 18-24 age
+group and 93% of those over 65 doing so (see Figure 8).
+Traditional banks today still have several advantages that
+neobanks have yet to achieve, such as generations of trust,
+a wider range of products, and established reputation.
+
+Fig. 8: Primary banking relationships among US
+consumers
+
+Source: TD Cowen, UBS, as of March 2025
+
+Use case: The road to profitability
+
+Revolut is an illustrative example of an industry that evolves
+quickly and is maturing at the same time. Focusing mostly
+on growth, Revolut has been struggling with losses and
+low profitability since its launch in 2015. It also faces
+increasing pressure to comply with different regulatory
+standards across multiple jurisdictions. As a result, Revolut
+has prioritized operational excellence and broadened its
+credit product offerings in the last few years into unsecured
+personal loans, credit cards, and Buy Now Pay Later (BNPL).
+As a result, its loan porfolio grew by 170% y/y in 2023,
+though it still represents a small part of operations at
+sub-4% of on balance sheet deposits. Revolut reported
+profit after tax of GBP 344m in 2023, driven by a 94% y/
+y increase in total income, which has grown 8x in the last
+3 years.
+
+Insurtech
+We view insurtech as the intersection of financial and
+technological innovation that transforms how insurers
+operate. Insurtech is revolutionizing the insurance industry
+by introducing advanced technologies that disrupt
+traditional models, impacting both incumbents and clients.
+For incumbents, insurtech drives the need for operational
+efficiency and innovation, as startups leverage AI and data
+analytics to automate processes and offer personalized
+products. This forces traditional insurers to adopt similar
+technologies and rethink their business models to stay
+competitive. For clients, insurtech enhances the customer
+experience by providing user-friendly digital platforms,
+transparent pricing, and personalized insurance products.
+The accessibility and cost efficiency can lead to greater client
+satisfaction and loyalty, compelling traditional insurers to
+improve their offerings (see Figure 9).
+
+The impact of AI on the insurance sector
+The adoption of artificial intelligence in the insurance
+industry has led to significant improvements in operational
+efficiency and customer satisfaction. AI technologies can
+help insurers automate processes such as claims handling.
+According to McKinsey, automation could replace over 50%
+of current claims activities by 2030. Additionally, AI-powered
+chatbots and virtual assistants provide immediate assistance,
+enhancing customer service. Ultimately, integrating AI not
+only reduces operational costs but also fosters innovation,
+allowing insurance companies to adapt to evolving client
+demands.
+
+One of the critical areas where AI is making a substantial
+impact is in combating insurance fraud. The total cost of
+insurance fraud in the US, excluding health insurance, is
+estimated to exceed USD 40 billion annually, costing the
+average family between USD 400-700 per year in the form
+
+7
+
+
+
+Longer Term Investments
+
+of increased premiums. By leveraging machine learning
+algorithms, insurers can analyze extensive datasets to detect
+fraudulent activities and optimize underwriting procedures.
+
+Fig. 9: Insurtech value chain
+
+Source: UBS, as of March 2025
+
+Use case: Lemonade
+Lemonade serves as a prime example of how insurtech
+companies are redefining the traditional insurance industry
+through technology and customer-centric innovation. With
+its AI-driven platform, Lemonade enables customers to
+purchase renters, homeowners, pet, or life insurance in
+minutes using a chatbot that simplifies complex processes.
+A notable use case is its claims process: If a policyholder’s
+bike is stolen, they can file a claim via the Lemonade
+app by answering a few questions and providing evidence,
+such as a video description. Lemonade’s AI assesses the
+claim almost instantly, reimbursing the customer within
+hours. By combining AI, behavioural economics, and a
+socially conscious approach, Lemonade demonstrates how
+insurtech companies can deliver faster, fairer, and more
+ethical insurance solutions.
+
+Innovations beyond AI in the insurance industry
+Beyond AI advancements, the insurance sector is embracing
+innovation through digital tools and platforms that enhance
+efficiency and customer engagement. Technologies such as
+
+blockchain facilitate secure data sharing and the execution
+of smart contracts, promoting transparency and reducing
+administrative overhead. Furthermore, wearable devices
+and IoT sensors are employed for real-time risk monitoring
+across various domains, including health, automotive, and
+property insurance. These innovations empower insurers
+to implement usage-based models, such as pay-as-you-
+go or pay-how-you-drive policies. Supported by cloud
+computing and advanced analytics, the insurance landscape
+is becoming more agile, accessible, and focused on
+customer-centric solutions.
+
+Use case: Addressing climate change risks
+As the frequency and severity of extreme weather
+events linked to climate change escalate, insurers are
+increasingly leveraging artificial intelligence to strengthen
+their risk management strategies regarding natural
+disasters. According to Aon, economic losses from natural
+catastrophes reached USD 380 billion in 2023, of which
+69% were uninsured. Insurers are adopting AI-driven
+solutions, such as early warning systems and home
+monitoring devices, to help customers mitigate risks. These
+technologies provide timely notifications about potential
+disasters and enable insurers to analyze data patterns for
+a deeper understanding of risk exposure. By proactively
+addressing these challenges, insurers can minimize overall
+losses, enhance customer experiences, and better protect
+their clients' assets and families, illustrating the critical role
+AI plays in adapting to the evolving landscape of natural
+catastrophe risks.
+
+Fintech and the SDGs
+Technology has reshaped the global financial landscape,
+with a diverse range of disruptive technologies that
+challenge the way traditional institutions conduct business
+across various verticals. At its heart, fintech has the potential
+to dramatically expand access while lowering transaction
+costs and speed. This can be catalytic for financial
+empowerment, especially in emerging markets where
+structural challenges such as infrastructure limitations,
+inhibitive costs or endemic social norms may restrict access
+to financial services.
+
+There is strong evidence that the provision of digital financial
+services has a significant impact on women’s economic
+empowerment (source: Suri and Jack 2016, Field et al
+2019) across diverse markets, with further strategic impact
+on other sustainable development goals, including, for
+example, access to nutrition and health services, or social
+and occupational mobility.
+
+8
+
+
+
+Longer Term Investments
+
+The potential for positive social impact varies depending
+on the vertical, the target market, and most importantly
+the intentionality and strategic policies of the service
+developer/provider. Some examples include robo-advisors
+widely expanding the investment opportunity set for
+mass consumers, mobile banking and digital wallets
+eliminating infrastructure bottlenecks in emerging markets,
+and insurtech providing social safety nets for those most in
+need. These are just some examples that have collectively
+improved financial stability for the bottom of pyramid savers
+and borrowers in the global economy.
+
+Secondarily, fintech is both a result of, and an enabler for,
+increasing data transparency that is driving industry progress
+within finance. Sustainable investing, for example, is itself
+possible given the dramatic increase in data availability
+around companies business and social practices. The
+integration of climate models and geospatial data is critical
+to how climate risk reporting standards are evolving today.
+Meanwhile, blockchain and distributed ledger technologies
+have the potential to improve financial accountability and
+traceability.
+
+For this reason, we see fintech as an investment theme,
+to have alignment potential to the UN Sustainable
+Development Goal 1: No poverty, in particular to the
+underlying target 1.4, which explicitly mentions the
+opportunity in financial inclusion. We also see fintech
+playing a secondary supporting role in delivering target
+1.5, which aims to improve economic resilience to climate
+risk. Investors who wish to seek greater alignment, or
+potential contribution to the SDGs, should carefully consider
+investment solutions or opportunities from a bottom-up
+perspective.
+
+At the same time, fintech is not without sustainability risks.
+By definition, it is built on digital technology, and therefore
+exposed to similar risks in data privacy and cybersecurity,
+or algorithmic bias, for example. This also affects the
+potency of fintech as a driver for sustainable development,
+it can only go where tech goes, so ultimately it remains
+constrained by the persistent-infrastructure or social gaps
+contributing to the digital divide (lingering penetration gap
+between DM and EM, for one). Finally, as the regulatory
+landscape continues to rapidly evolve, so too will fintech
+business models and more importantly their effectiveness in
+delivering SDG solutions.
+Stephanie Choi, Sustainable Investing Strategist
+
+Investment implications
+Fintech provides both opportunities and risks to incumbents.
+Companies that embrace technology and are flexible about
+
+adjusting their business models should outperform their
+peers, in our view. With double-digit revenue growth
+annually and moderate margin expansion due to rising scale
+benefits, we expect our fintech theme to report low- to
+mid-teens earnings growth over the next few years. Based
+on our forecast of annual double-digit earnings growth
+by 2030, fintech should be one of the fastest-growing
+industries globally. In our view, payment industry leaders,
+technology companies launching disruptive fintech services,
+and incumbent financial corporations with a clear fintech
+strategy should benefit the most from the theme. Also, we
+believe companies that are able to create platforms with
+network effects around emerging technologies, like AI and
+machine learning, distributed ledger, cloud and analytics,
+are potential winners.
+
+Risks
+We believe key downside risks include, but are not limited
+to:
+• Tighter regulations around fintech that could slow
+
+down industry growth. As highlighted earlier, favorable
+regulations are a key growth driver for the industry, as
+the need for financial inclusion is forcing governments to
+promote fintech. A tighter regulatory environment may
+therefore worsen fintech's growth prospects.
+
+• Deflationary pricing continuing for longer than expected,
+resulting in margin pressure.
+
+• Data privacy and consumer protection concerns. As
+fintech companies leverage data to provide a wide
+range of financial services, any potential data breach or
+cyber crime is a risk. Both fraud and hacker intrusion
+not only causes monetary loss, they also violate the
+privacy of users which is a major concern. (Our other
+Longer Term Investment theme "Security and safety"
+highlights opportunities from the broader trend of
+rising spending on cybersecurity.) Also, lower consumer
+protection compared to traditional products can slow
+down adoption.
+
+• The emerging nature of fintech, which means the
+potential list of winners will likely be very dynamic
+and should continue to evolve. Hence, investors should
+broaden their exposure when investing in the theme.
+
+Key upside risks are more M&A transactions than expected,
+which would raise the valuations of the industry, and more
+favorable regulations, which would likely facilitate fintech
+adoption, particularly in emerging markets.
+
+Reference list
+
+9
+
+
+
+Longer Term Investments
+
+In the following we describe our screening process. To
+select the stocks in this list, we used the FactSet business
+classification system (RBICS), which uses a bottom-up
+approach to classify companies according to the products
+and services they provide. Out of more than 1,900
+subsectors in the FactSet RBICS classification, 16 are in
+the scope of our investment theme. We filtered the 16
+subsectors for stocks that have at least 25% sales exposure
+(calculated as the sum of individual sales exposures across
+all 16 subsectors, equal to or exceeding 25%). We excluded
+those with a market capitalization of less than USD 2bn.
+Please note that this list is only for reference and is
+not a recommendation list. Sixteen FactSet subsectors:
+Electronic Payment Processing, Credit Cards, Internet
+Department Stores, Cryptocurrency Trading and Exchanges,
+Multinational Internet Banks, Securities Sales and Trading
+Services, General Consumer Finance Services, Insurance
+Software, Alternative Exchanges and ECNs, Money Transfer
+Services, Commercial Bank and Credit Union Software, Peer-
+to-Peer Lending, Middle East and Africa Wireless Telecom
+Services, Mixed Electronic Transaction Processing, United
+States Internet Banks, Market Makers and Specialists.
+
+Sustainable considerations
+In line with UBS GWM SI securities definitions, we
+apply three filters to assess companies relevance to
+sustainable investing: the promotion of environmental or
+social characteristics (positive selection), good governance
+(exclusion), and the ability to do no significant harm
+(exclusion). For the positive selection criteria, to identify
+ESG Thematic attributes we screen for above-industry
+performance in the responsible management of production
+and sourcing practices, as well as evidence of revenues
+aligned to sustainable goals as defined by Sustainalytics.
+At the same time, we recognize that ESG Leaders in
+strategic sectors; may play a catalytic role in accelerating
+sustainable development, as adopters or investors in critical
+new technologies. To identify ESG Leaders, we screen
+for top performing companies in overall sustainability
+management as captured by our UBS SI Headline score.
+We further exclude bottom-performing companies on the
+topics of governance and people, to establish a baseline for
+good governance. Finally, we exclude bottom-performing
+companies on the topics of climate change, water, and
+pollution and waste, as well as companies with controversial
+business activities and history of controversial incidents, to
+avoid those that cause significant harm.
+
+10
+
+
+
+Longer Term Investments
+
+Table 1: Fintech companies' reference list
+This not a list of recommendations. The following companies meet UBS SI definitions to be considered as a company with
+thematic attributes, and most relevant to sustainable investing solutions:
+
+Source: Factset, UBS, as of 6 March 2025. For more details about the screening process please see our reference list
+methodology.
+
+11
+
+
+
+Longer Term Investments
+
+Table 2: Fintech companies' reference list - part 1
+This is not a list of recommendations. The following companies meet our screen's criteria for inclusion on the reference list,
+but either do not qualify or do not report the necessary data to meet the additional SI criteria outlined above.
+
+Source: Factset, UBS, as of 6 March 2025. For more details about the screening process please see our reference list
+methodology.
+
+12
+
+
+
+Longer Term Investments
+
+Table 2: Fintech companies' reference list - part 2
+This is not a list of recommendations. The following companies meet our screen's criteria for inclusion on
+the reference list, but either do not qualify or do not report the necessary data to meet the additional SI
+criteria outlined above.
+
+Source: Factset, UBS, as of 6 March 2025. For more details about the screening process please see our reference list
+methodology.
+
+13
+
+
+
+Longer Term Investments
+
+Appendix
+
+Risk information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of
+using different assumptions and/or criteria. UBS may utilise artificial intelligence tools (“AI Tools”) in the preparation of this
+document. Notwithstanding any such use of AI Tools, this document has undergone human review.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+
+14
+
+
+
+Longer Term Investments
+
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS
+Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS Asesores Mexico,
+S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler
+AS are affiliates of UBS AG. UBS Financial Services Inc. accepts responsibility for the content of a report prepared
+by a non-US affiliate when it distributes reports to US persons. All transactions by a US person in the securities
+mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and not
+through a non-US affiliate. The contents of this report have not been and will not be approved by any securities
+or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not acting as a municipal
+advisor to any municipal entity or obligated person within the meaning of Section 15B of the Securities Exchange
+Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do
+not constitute, advice within the meaning of the Municipal Advisor Rule.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website . In order to provide you with marketing materials concerning our products and services, UBS Group AG
+and its subsidiaries may process your basic personal data (i.e. contact details such as name, e-mail address) until you notify
+us that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your
+Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version A/2025. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+15
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+

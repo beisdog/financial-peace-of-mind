@@ -1,0 +1,2435 @@
+
+2 April 2025, 04:46 BST
+Chief Investment Office GWM
+Investment Research
+
+Longevity
+Transformational Innovation Opportunities (TRIO): Longevity
+ 
+ Authors: Ulrike Hoffmann-Burchardi, Head CIO Global Equities, UBS Financial Services Inc. (UBS FS); Eric Potoker, CIO Equity Strategist, US Healthcare,
+UBS Financial Services Inc. (UBS FS); Diana Na, CIO Equity Sector Strategist, UBS AG London Branch; Thomas Parmentier, CIO Equity Sector Strategist,
+UBS Switzerland AG; Carl Berrisford, Analyst, UBS AG Hong Kong Branch; Wen Ching Lee, Analyst, UBS AG Singapore Branch; Seraina Hold, CFA,
+CIO Equity Sector Strategist, UBS Switzerland AG; Sacha Holderegger, CFA, CIO Equity Sector Strategist, UBS Switzerland AG; Sunny Mehra, Equity
+Strategist, Consumer Discretionary & Consumer Staples, CIO Americas, UBS Financial Services Inc. (UBS FS); Matthias Holzhey, Economist, UBS Switzerland
+AG; Jonathan Woloshin, CFA, CIO Equity Strategist, US Real Estate & Lodging, UBS Financial Services Inc. (UBS FS); Alexander Stiehler, CFA, CIO Head
+of Longer Term Investment Themes, UBS Switzerland AG; Amantia Muhedini, Sustainable and Impact Investing Strategist, CIO Americas, UBS Financial
+Services Inc. (UBS FS); Amanda Gu, CIO Sustainable and Impact Investing Analyst, UBS AG Hong Kong Branch
+
+• The UBS Chief Investment Office believes there
+are three transformational innovation opportunities
+(TRIOs) that will drive equity markets in the coming
+decade: Artificial intelligence, Power and resources,
+and Longevity.
+
+• Longevity as a thematic topic covers opportunities
+that capitalize on a longer lifespan. The combination
+of ever-increasing lifespans and a demographic
+shift toward an older population creates a range
+of investment opportunities across various sectors,
+such as health care, consumer, financial services, and
+real estate.
+
+• We believe the total market opportunity could reach
+around USD 8 trillion by the end of this decade.
+For our stock picks, investors should see our new
+Longevity Equity List, which highlights companies
+we believe are best positioned to capitalize on the
+aforementioned tailwinds.
+
+Source: GettyImages
+
+ 
+CIO last year introduced its Global Equity Framework, which
+uses a combination of three principal perspectives to identify
+investment opportunities: macroeconomic, structural, and
+company-specific. The structural element enhances the
+traditional equity research process by focusing on what
+we call transformational innovation opportunities (TRIOs)—
+three trends we expect to have an outsized influence on
+equity markets in the coming years. These include Artificial
+intelligence, Power and resources, and Longevity.
+
+Longevity encompasses diverse themes emerging from
+extended lifespans. As people live longer and the share
+of the elderly in the population grows amid demographic
+shifts, the customer base across various sectors is evolving.
+This transformation is reshaping demand and fueling
+
+growth in new economic segments. The health care sector
+will be a primary driver of longevity, which we favor
+in the near term owing to its importance in meeting
+the needs of an aging population. Meanwhile, segments
+like consumer markets, financial services, and real estate
+should also benefit, although some may still be in the
+early stages of adapting their business models to cater to
+this growing demographic. Our long-term investment ideas
+identify opportunities within these sectors, which could help
+companies achieve revenue growth that exceeds GDP rates.
+
+This report has been prepared by UBS Financial Services Inc. (UBS FS), UBS AG London Branch, UBS Switzerland AG, UBS
+AG Hong Kong Branch, UBS AG Singapore Branch. Please see important disclaimers and disclosures at the end of
+the document.
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Global aging trends explained
+
+The global population is aging
+There were 830 million people aged 65 years and over in
+2024, which accounted for 10% of the global population.
+According to UN estimates (World Population Prospects
+2024), this is forecast to grow to 1 billion by 2030 (12%)
+and 1.6 billion by 2050 (16%). See Figure 1.
+
+The majority of countries in the world are seeing growth in
+the proportion of their elderly population. North America
+and Europe are leading this shift, with almost 20% of
+their populations aged 65 and older. Projections indicate
+that by 2050, one in every four Europeans and North
+Americans could be aged 65 years and up. Outside
+developed economies, aging has been the fastest in Asia,
+Latin America, and the Caribbean.
+
+Figure 1 - Number of people over 65 years old is
+increasing
+Millions
+
+Source: United Nations, World Population Prospects 2024: Summary of
+Results, UBS
+
+This rapid aging across global populations can be attributed
+to falling fertility rates and rising life expectancies.
+
+Fertility rate in decline
+The global fertility rate has halved since 1950, with an
+average of 2.25 births per woman over a lifetime in
+2023. This is projected to decline further to 2.1 births
+by the late 2040s. Fertility rates vary by country and
+are influenced by multiple factors, including employment,
+education, economic prosperity, and government policy.
+Fertility rates in developed countries particularly have fallen
+as these societies have become wealthier. As a result, people
+aged 65 and over are projected to outnumber children under
+the age of five twice over by 2050.
+
+2
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Life expectancy is rising
+Global life expectancy has also continued to rise and is
+expected to reach 77.4 years by 2050, up from 73.3 years
+in 2024 (see Figure 2). However, the gap in life expectancy
+at birth between certain groups of countries remains wide.
+Life expectancy in the least developed countries was seven
+years lower than the global average in 2021, driven by high
+levels of child and maternal mortality. Violence/conflicts and
+the HIV epidemic also have a significant impact.
+
+Figure 2 - Increasing longevity
+Life expectancy at birth for both males and females. Age in years, per
+geographical area
+
+Source: United Nations, World Population Prospects 2024: Summary of
+Results, UBS
+
+Key drivers of longevity
+
+Multiple interrelated factors are driving the increase in life
+expectancy. This ranges from advances in medicine, access
+to health care services, and broader societal changes. We
+look here at some of the drivers that are contributing to an
+increase in life expectancy.
+
+Medical advancements
+Breakthroughs in medical science, including the
+development of antibiotics, vaccines, and advanced surgical
+techniques, have had a profound impact on longevity (see
+Figure 3 with largest breakthroughs in history). Infectious
+diseases (such as tuberculosis, pneumonia, and polio)
+that once claimed countless lives are now preventable
+or treatable, reducing mortality rates. Significant medical
+advancements driven by improvements in diagnostic tools,
+enhancing preventive care, and drug innovation mean
+chronic diseases can now be adequately managed. Looking
+forward, we expect medical advances, from cutting-edge
+treatments to personalized health care to continue to drive
+an increase in lifespan.
+
+Health care access
+Access to quality health care is also a key determinant
+of longevity, leading to earlier disease detection, timely
+treatment, and preventative care. In developed economies
+with robust health care systems, better access to medical
+services reduces mortality risk.
+
+Figure 3 - The biggest medical breakthroughs in
+history
+
+Source: Aperion, UBS, as of January 2025
+
+As a result, countries with higher health care spending have
+a higher share of the population over 65 years of age (see
+Figure 4). In contrast, countries with insufficient health care
+infrastructure or limited coverage may face higher mortality
+rates due to delays or lack of necessary treatments.
+
+Figure 4 - Clear correlation between age of
+population and health care spend
+Share of population over 65 and health care spend as a % of GDP,
+2019
+
+Source: World Bank data, UBS analysis, as of March 2023
+
+Public health initiatives
+Public health initiatives also play a critical role in driving
+longevity. The implementation of sanitation measures (clean
+water, waste disposal) has greatly reduced the spread
+of infectious diseases (for more information, please refer
+to our Long Term Investment Theme report "Water
+Scarcity"). In addition, vaccination campaigns have also
+contributed to longevity by preventing outbreaks of deadly
+
+3
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+diseases. Vaccines have saved one billion lives by protecting
+individuals from diseases such as smallpox, measles, and
+more recently, COVID-19. By preventing widespread illness,
+public health measures have lowered mortality rates and
+increased life expectancy.
+
+Lifestyle choices
+Personal lifestyle choices have become increasingly
+recognized as crucial determinants of longevity. Trying
+to achieve a healthy diet, regular physical activity, and
+mental well-being are an increasingly important part of
+our lifestyles. Balanced diets combined with reduced intake
+of processed foods and excessive sugars have contributed
+to the prevention of many chronic diseases such as heart
+disease, diabetes, and obesity. Conversely, unhealthy habits
+such as smoking or excessive alcohol consumption can
+increase the risk of chronic diseases and shorten life
+expectancy. A UK Biobank study found that adopting a
+healthier lifestyle, regardless of existing health conditions,
+leads to longer life expectancy, with quitting smoking
+offering the greatest survival advantage (see Figure 5).
+
+Figure 5 - A healthier lifestyle results in a higher
+life expectancy
+Data from men who are 45 years old
+
+Source: UK Biobank study 2020, UBS
+
+Socioeconomic status
+Another driver of increased longevity is the improvement in
+living conditions brought about by economic development.
+Higher standards of living, better nutrition, and access to
+education have all contributed to longevity. Studies have
+shown that individuals with higher incomes have better
+access to health care and lead healthier lives. Conversely,
+individuals from lower socioeconomic backgrounds face a
+reduced lifespan because of limited resources and reduced
+access to quality health care. Analysis of US data from the
+1997-2014 National Health Interview Survey (NHIS) revealed
+significant disparities in life expectancy, with adults in the
+most advantaged socioeconomic group living 17.5 years
+longer than those in the most disadvantaged group.
+
+Environmental factors
+Environmental factors (air quality, climate, toxins) also
+play an important role in longevity. Cleaner air and
+water contribute to lower rates of respiratory diseases,
+cancers, and other health issues that can shorten life
+expectancy. Additionally, efforts to promote sustainability
+and combat climate change are becoming increasingly
+important. Multiple nations have implemented regulations
+to reduce pollution and improve air quality, which has led to
+significant improvements in public health.
+
+Figure 6 - Longevity drivers and sources of
+opportunities
+
+Source: UBS, United Nations (World Prospectus 2024); Note: There is an
+enlarged picture of this figure at the end of this document
+
+Implications of longevity
+
+Longer lifespans have significant financial implications,
+requiring consumers to save more for extended retirement
+periods. Some degree of financial security, good health,
+and comfortable living conditions are prerequisites for many
+people to enjoy a comfortable retirement.
+
+Many will need larger pensions, annuities, and other
+financial products to ensure long-term stability, while some
+may choose to work longer. Rising health care costs will
+also be a major concern, with increased spending on
+medical treatments, long-term care, and insurance. The key
+motivation for many will be to maintain a high quality of life
+for as long as possible. As a result, we see a greater emphasis
+on preventative health care, wellness programs, and medical
+advancements tailored to an aging population.
+
+4
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Housing and lifestyle choices will also evolve as people
+live longer. Many will likely seek to age in place,
+leading to demand for home modifications and smart
+technologies that enhance accessibility. Multi-generational
+living arrangements may become more common, while the
+market for senior-friendly communities and assisted-living
+facilities is set to expand. We think consumers will also
+prioritize wellness, travel, and lifelong learning, shifting
+spending away from material possessions and toward
+experiences that enhance their quality of life.
+
+At a broader level, governments and businesses will need to
+adapt to the economic and social changes brought by aging
+populations. Pension systems may require reforms, health
+care policies will need adjustments, and industries catering
+to older generations look set for major growth. As society
+adapts, intergenerational relationships, urban planning, and
+workforce dynamics will all be influenced by the increasing
+number of people living longer, in our view.
+
+All these segments will be examined in further detail in the
+following chapters.
+
+Framing the longevity opportunity
+
+In this section, we highlight the key investment
+opportunities we see arising from the longevity theme and
+emphasize the segments where we see the biggest sources
+of opportunities.
+
+Our framework considers two categories of positioning:
+Sectors positioned as either drivers—those actively
+extending healthy life expectancy—or beneficiaries—
+those that cater to the evolving needs of an aging
+population.
+
+Drivers of longevity
+
+These sectors directly contribute to extending healthy life
+expectancy and are at the forefront of longevity investment
+opportunities.
+
+• Pharma, medtech, and health services: Pharma,
+medtech, and health services companies play a
+fundamental role in reducing the prevalence of age-
+
+related diseases through advanced treatments, in our
+view.
+
+Beneficiaries of longevity
+
+These sectors benefit from shifting demographics though
+some may still be in the early stages of adapting business
+models to meet the needs of an aging population.
+
+• Pharma, medtech, and health services: Aside from
+extending life expectancy, health care companies can
+simultaneously benefit from an aging population, driven
+by an increase in demand.
+
+• Consumer: Multiple companies within the consumer
+staples and retail sectors have begun adapting their
+businesses to cater to an aging customer base,
+focusing on wellness, nutrition, and anti-aging products.
+Furthermore, the hotels and leisure market is expected
+to grow rapidly, as the elderly become an increasingly
+dominant force in leisure spending.
+
+• Financial services: Financial services is affected by
+longevity by helping individuals plan for extended
+lifespans. Diversified financials, insurers, and banks are
+driving innovation in retirement planning and financial
+resilience.
+
+• Real estate: The rising demand for retirement
+communities, care homes, and age-friendly housing
+creates opportunities within the homebuilding and real
+estate space. Although policy shifts will likely shape the
+care home market, there are near-term challenges around
+funding.
+
+We have framed the total addressable market for longevity
+by taking a structured, bottom-up approach that aims to
+capture both the immediate market potential and its long-
+term growth trajectory across the industries mentioned
+above.
+
+CIO projects that the annual longevity market opportunity
+was USD 5.3 trillion in 2023 and will grow by an incremental
+USD 2.5 trillion to reach total annual revenues of around
+USD 8 trillion by 2030 (see Figure 7).
+
+To summarize, we forecast a total health care market
+opportunity of USD 2.2 trillion by 2030. However, within
+this segment we see the biggest opportunities in pharma
+(metabolic, oncology), medtech (diabetes devices and
+surgical devices), and Medicare Advantage for US health
+care services in the near term. We also identify select
+opportunities in the real estate, insurance, and consumer
+end-markets. Some of these sectors have already adapted
+business models around the longevity theme, such as
+
+5
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+retirement living, which we see growing at a 4% CAGR
+until 2030 from a market size of USD 923 billion in 2023.
+Other sectors will also benefit from the longevity trend, in
+our view, even if at a more incremental pace. For example,
+life insurance firms with USD 551 billion sales exposure,
+growing at a 4% CAGR, are already well positioned. We also
+see consumer companies targeting healthy aging through
+consumer health products as early beneficiaries of this
+trend. In the future, additional opportunities may arise and
+accelerate across the financials space and other consumer
+sectors ranging from beauty to leisure. However, we think
+the sales exposure to the longevity theme in these areas
+is less relevant as yet, though we anticipate a higher
+contribution in the future.
+
+Figure 7 - The longevity market opportunity
+
+Source: Company data, UBS estimates, *includes cancer, metabolic
+disorders, neuroscience, cardiovascular sales; Note: VMS = Vitamins,
+minerals, and supplements
+
+We believe the longevity investment opportunity will evolve
+from now and over the next decade. Initially, we believe that
+therapeutic innovation within the biopharmaceutical and
+medical device sectors will enable increases in lifespans and
+healthspans. Specifically, we expect advances in metabolic
+disease therapy and oncology to drive larger increases in
+lifespan. We think payers—governments, employers, and
+individuals—will spend on therapies that extend lifespans
+and improve the quality of life. Innovation with favorable
+reimbursement from payers should drive revenue and
+earnings growth that should result in superior stock
+appreciation for these longevity enablers.
+
+We think that innovation in metabolic disease (e.g, obesity
+and diabetes) and advances in oncology will drive the most
+
+significant positive shifts in longevity through 2030, with
+accompanying addressable market increases. We estimate
+that metabolic disease revenue will see about 12% CAGR
+through 2030, and that oncology revenue will grow at an
+around 8% CAGR over the same period. Given the expected
+revenue growth from these two therapeutic categories, we
+expect metabolic disease and oncology leaders to benefit
+from significant market value increases.
+
+Within the medical device sector, we also see the potential
+to impact lifespan. We see that impact coming primarily
+from diabetes management devices and cardiology devices.
+We expect diabetes management devices to grow at a 13%
+CAGR through 2030, and cardiac devices to grow at a 5%
+CAGR through 2030.
+
+We also believe that companies currently managing the care
+for the elderly are well positioned to help drive increased
+longevity by providing better access to care, and leveraging
+data and analytics to identify at-risk population segments to
+better manage the care received by patients. We think US
+managed-care organizations (MCO) are best positioned to
+manage patient access, as well as accumulate and analyze
+aggregated patient data to improve the quality of overall
+care. We expect the US Medicare Advantage segment, in
+which MCOs manage the delivery of and access to health
+care services, to grow at a 5.8% CAGR through 2030.
+
+Over time, extended lifespans have the potential to drive
+greater demand from older cohorts for a variety of
+products and services. We see certain health care companies
+also benefiting from this trend, as a growing older
+demographic will require treatment for various conditions
+that will inevitably impact them, including those that require
+orthopedic, cardiac, and ophthalmological procedures and
+implants. We estimate these segments will see continued
+strong growth through 2030, and accelerating growth into
+the next decade as these demographic trends tilt ever
+more toward older cohorts. Specifically, we estimate the
+surgical device CAGR will be 5% through 2030, and we
+expect surgical device growth to accelerate beyond 2030 as
+demand from an aging population increases.
+
+Beyond health care, as the elderly demographic group grows
+and lives longer, we see revenue and earnings growth
+accelerating for certain sectors that address the broader
+needs of an aging population. Initially, we see the real estate
+sector as a major beneficiary, as well as some financials
+and consumer segments. We see the impact as relatively
+gradual in the near term, before picking up over time.
+We estimate that the longevity-driven demographic shift
+fueling this demand will accelerate during the 2030s and
+beyond, boosting growth for various consumer, financial,
+and real estate companies as a result. Estimating the extent
+
+6
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+of this growth ramp over an extended timeframe can be
+challenging. However, we anticipate that the impact on
+these sectors will be significantly positive.
+
+Our Longevity Equity List is currently dominated by the
+health care sector, with the companies we expect to drive
+the longevity curve inflection carrying the largest weights.
+Medical device companies that both enable greater lifespans
+and benefit from growth in the elderly demographic also
+have significant weight in our Longevity Equity List. Lastly,
+we have identified consumer, real estate, and financial
+companies that already have a significant exposure to the
+theme, while others might be added over time as they will
+benefit from growth in the elderly demographic through
+2030 and beyond.
+
+We expect the composition of the Longevity Equity List to
+shift over time, moving gradually from the dominance of
+the health care sector over the near and medium term into
+the other sectors discussed over the long term as a growing
+elderly cohort increasingly drives economic activity toward
+its specific needs.
+
+Figure 8 - The longevity value chain
+
+Source: UBS estimates, as of March 2025 *Vitamins, minerals, and
+supplements; Note: There is an enlarged picture of this figure at the end of
+this document
+
+In the following sections, we discuss in more detail the
+implications of longevity across the various sectors.
+
+Pharma and Biotech
+
+Pharmaceutical innovation plays an important role in
+driving longevity, with potential breakthroughs in drug
+development prolonging the life and mitigating diseases.
+As we evaluate the opportunities within the pharmaceutical
+
+space that is attached to the longevity theme, we consider
+two different sets of opportunities:
+1. pharma companies with approved innovative drugs or
+
+pipeline drugs that could meaningfully drive an increase
+in life expectancy, and
+
+2. pharma companies with approved innovative drugs
+or pipeline drugs that target diseases that are more
+prevalent in the elderly population.
+
+What are the leading causes of mortality
+Figure 9 shows the top 10 leading causes of death in
+the US with heart disease, cancer, and stroke in the top
+five (alongside accidents and COVID-19). Metabolic diseases
+such as obesity significantly contribute to heart attacks and
+strokes (see later for more details). Additionally, obesity
+raises the risk of cancer, liver and kidney disorders, mental
+health issues, and potentially dementia (Alzheimer’s disease)
+—also among the leading causes of death in the US.
+
+Figure 9 - Top 10 leading causes of death in the US
+in 2022
+(Unit: thousands)
+
+Source: CDC, UBS, as of October 2024
+
+Key areas of pharma innovation and growth
+With this in mind, we highlight two therapeutic areas
+where we currently see the highest level of pharmaceutical
+innovation, but that also provide the largest revenue growth
+opportunity over the next decade—including drugs for
+managing metabolic-driven diseases (obesity and diabetes)
+and cancer. Furthermore, we have also seen pockets
+of breakthrough for managing diseases in the field
+of neuroscience and mental health, particularly for the
+treatment of Alzheimer’s disease, although further research
+and development is still required to bring more effective
+treatments to the market.
+
+7
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Metabolic disorders (obesity)
+
+The global obesity epidemic has positioned the metabolic
+disorders treatment market as a rapidly growing sector in
+health care. According to the WHO, around 800 million
+adults worldwide are classified as obese, and these figures
+continue to rise, driven by adverse lifestyle changes in
+both developed and developing nations. In addition, obesity
+represents a significant upstream cause of major diseases
+that impact mortality, including diabetes, heart disease,
+stroke, kidney disease and certain cancers. As a result, the
+medical and economic burden of obesity is immense. A
+WHO report in 2022 estimates that the current annual cost
+of obesity to health services is at USD 990 billion, which is set
+to rise if treatment and prevention measures do not improve.
+
+Figure 10 - Global obesity prevalence is rising
+Projected percentage of the world population that is overweight and
+obese
+
+Source: World Atlas 2024, UBS
+
+Injectable GLP-1 receptor agonists (Novo Nordisk’s Ozempic/
+Wegovy and Eli Lilly’s Mounjaro/Zepbound) have emerged
+as transformative treatments for obesity. These drugs, which
+were initially developed for managing type 2 diabetes, have
+also demonstrated significant benefits in reducing 15-20%
+of body weight. Novo’s SELECT study for Wegovy has also
+shown that GLP-1-driven weight loss can reduce cardiac
+event risk by as much as 20%. Such datasets and further
+readouts from comorbidity trials should strengthen the case
+for expanded reimbursement in the US.
+
+However, even with limited reimbursement, patient demand
+for GLP-1 drugs has been immense, resulting in supply
+shortages. These are being addressed with Novo Nordisk
+
+and Eli Lilly deploying USD 50 billion in capital expenditure
+in 2022-28 to support the supply chain.
+
+Obesity market opportunity
+Global sales of GLP-1 drugs came in at USD 51 billion in
+2024 and consensus forecasts the obesity market reaching
+USD 200 billion annually by 2030. Novo Nordisk and Eli Lilly
+are poised to dominate this market, driven by the strength
+and depth of their pipelines and supply chain investments,
+which creates high barriers to entry. However, the scale
+of the obesity epidemic has also attracted other large-
+cap pharma and biotech companies with cardio-metabolic
+disease platforms. Newer anti-obesity drugs have the
+potential to offer better efficacy and greater convenience,
+but we await the completion of larger-scale clinical trials to
+confirm their profiles over the coming years (see Figure 11
+for snapshot of pipeline assets).
+
+While we acknowledge the obesity market's very large
+potential, we also believe cost, reimbursement, and access
+are rate-limiting factors that are not easily resolved. Payors
+may not easily absorb additional annual costs in the USD
+100-200 billion range, given already stretched health care
+budgets. The offsetting health care cost savings from
+reduced obesity rates have not yet been demonstrated in
+long-term clinical outcomes studies. We also note that the
+eventual availability of GLP-1 generics (semaglutide loss of
+exclusivity in 2031 in the EU and 2032 in US) may also
+pressure prices.
+
+Figure 11 - Approved and pipeline obesity drugs
+
+Source: Company data, UBS research
+
+8
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Cancer
+
+Cancer is a leading cause of death globally, despite great
+strides made in diagnosis and treatment. As the population
+ages, we see global cancer incidence rising in the coming
+decades (see Figure 12). The WHO estimates that cancer
+incidence will rise from 18 million in 2018 to 35 million in
+2050. With the five-year survival rate being only 69%, there
+is still a clear need for new cancer treatments.
+
+Figure 12 - Cancer incidence rises with age
+Cancer incidence rates by age, UK, 2017-19
+
+Source: Cancer Research UK, UBS
+
+A deeper understanding of the molecular basis of cancer
+and the human immune system has resulted in the
+development of a broad pipeline of anti-cancer drugs
+over the past two decades. The most revolutionary cancer
+treatment to have emerged is the development of immuno-
+oncology drugs (also known as checkpoint inhibitors), which
+offer durable responses, reduced side effects compared to
+conventional chemotherapy, and broad applicability across
+different cancer types.
+
+From PD-L1/PD-1 success to newer targets
+The first wave of immuno-oncology drugs, known as PD-
+L1/PD-1 inhibitors (which work by blocking the pathways
+that allow cancer cells to evade immune detection, thus
+allowing the immune system to identify and eliminate
+cancer), have been the biggest commercial success, but have
+now matured after nearly a decade in the market and will
+begin to face biosimilar competition around 2028. Sales
+of these drugs amounted to USD 47billion in 2024, and
+may peak close to USD 57 billion before losing exclusivity,
+based on consensus estimates. Current market expectations
+
+for next-generation immuno-oncology targets, including
+LAG-3, TIM-3 and TIGIT, are a fraction of this size.
+
+Multiple other approaches have been successfully developed
+and the cancer pipeline is now incredibly broad in terms of
+targets and modalities (see Figure 13).
+
+Figure 13 - Oncology R&D pipeline by modality in
+2023
+Total number of Phase 1-3 trials as of 2023 (n=1924)
+
+Source: IQVIA, UBS, as of 2023
+
+Beyond immuno-oncology, progress has been made with
+antibody drug conjugates (ADCs), bispecific antibodies,
+and radiopharmaceuticals, among others. Personalized cell
+therapies such as CAR-T, which involves modifying a
+patient's T-cells to fight cancer, have already shown success,
+though treatment is limited to blood cancers like leukemia
+and lymphoma. We highlight a number of approaches that
+will likely be in focus over the medium term:
+
+• Antibody-drug conjugates (ADCs) combine a cytotoxic
+chemotherapy that aims to kill cancer cells with an
+antibody designed to target key proteins in the cancer cell
+of interest. This allows the drug to be precisely delivered
+to where it is needed, reducing unwanted exposure of
+the drug to normal cells. Since 2000, 15 ADCs have
+been approved across a range of blood cancers and solid
+tumors. Drug development of ADCs has exploded with
+close to 200 new trial starts in 2023 alone. We expect
+future drug development to focus on new targets with
+a combination of different cytotoxic agents to improve
+patient outcomes over chemotherapy.
+
+• Bispecific antibodies are antibodies that are engineered
+to simultaneously bind to two proteins. By binding to two
+sites and pulling them together, bispecifics can improve
+the immune system's ability to fight tumors. A number
+
+9
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+of bispecific antibodies are approved across therapeutic
+areas including blood cancers and solid tumors. Since
+2022, the FDA has approved six new bispecific antibodies
+for oncology applications, particularly myeloma and
+lymphoma. Multiple bispecifics are in development
+primarily for solid tumors. As bispecific development has
+advanced, novel multi-specific antibody modalities have
+also emerged.
+
+• Radiopharmaceuticals build on the long-established
+principle of treating cancer with radiation. Having to
+handle radioactive products with short half-lives creates
+challenges in supply chains and distribution, however
+Novartis has demonstrated the commercial feasibility of
+the class with the approval of two therapies incorporating
+the beta-emitting radioisotope 177-lutetium. Treatments
+in the pipeline include a range of radiosiotopes, including
+alpha-emitters such as 225-actinium, which may offer
+more potent and targeted radiation delivery compared
+to beta-emitters. We expect to see more interest in the
+space from large-cap pharma companies in the coming
+years.
+
+Cancer market opportunity
+Oncology represents the biggest market opportunity within
+the global pharma market, in our view, and we continue to
+expect sales growth driven by continued adoption of cancer
+drugs and approval of newer drugs with new modalities over
+the coming decade. According to IQVIA, sales of oncology
+drugs grew at a 12% annual rate from USD 155 billion
+in 2020 to around USD 216 billion in 2023. We expect
+oncology sales to continue to outpace the broader pharma
+market and reach USD 400 billion by 2030, although
+the impact of biosimilar competition to several of today's
+blockbuster oncology drugs introduces some uncertainty
+toward the end of the forecast period. However, according
+to IQVIA, cancer drugs make up 44% of new clinical trial
+starts, and 29% of the 69 new drugs launched globally
+in 2023. This suggests that oncology will become an even
+larger share of launched drugs in the future. These growth
+sources should partially offset erosion of older drugs by
+generics and biosimilars.
+
+Neuroscience/Mental health (Alzheimer’s disease)
+
+Alzheimer’s disease is a significant health care burden
+that predominantly affects the elderly. Globally, over 47
+million people were affected by dementia in 2015, with
+Alzheimer's accounting for 60-70% of these cases. This
+figure is expected to rise to 132 million by 2050, according
+to the World Alzheimer Report (see Figure 14).
+
+Recent years have seen notable progress in Alzheimer’s
+treatment, with the approval of two disease-modifying
+
+drugs such as Biogen Idec/Eisai’s Leqembi (lecanemab) in
+early 2023 and Eli Lilly’s Kisunla (donanemab) in mid-2024.
+Both drugs target amyloid-beta plaques in the brain, a
+hallmark of Alzheimer's pathology, and are indicated for
+patients with mild cognitive impairment or mild dementia
+stages of the disease. These drugs are designed to slow
+cognitive and functional decline in early-stage Alzheimer's
+patients, although the efficacy benefits have been modest
+and often come with significant side effects.
+
+Figure 14 - Dementia (Alzheimer’s) prevalence is
+rising
+Number of people with dementia (millions)
+
+Source: World Alzheimer Report 2015, UBS
+
+Alzheimer’s market opportunity
+Despite these approvals, market penetration of these
+therapies has been challenging. For instance, Leqembi's US
+sales ramp has been slower than expected with 2024 sales
+of USD 130 million. Factors contributing to this modest
+uptake include the high costs of treatment (USD 26,500
+annually) and the need for regular intravenous infusions
+coupled with monitoring for potential side effects (amyloid-
+related imaging abnormalities). These logistical and financial
+hurdles have limited widespread adoption. In addition, the
+EU recently rejected Eisai’s Leqembi, citing an unfavorable
+efficacy/safety balance, before later reversing the decision.
+Consensus forecasts see a global Alzheimer's disease sales
+opportunity of USD 5 billion annually by 2030.
+
+There is still a substantial unmet need in Alzheimer's
+care as current therapies offer limited benefits. The
+development pipeline for Alzheimer's treatment is broad,
+with ongoing research exploring various therapeutic targets
+beyond amyloid-beta. Interestingly, Novo Nordisk’s GLP-1
+receptor agonist is also under investigation for its potential
+neuroprotective effects. Novo Nordisk’s oral semaglutide
+(Rybelsus) is currently in Phase 3 trials to assess its efficacy
+in slowing Alzheimer's progression. Other approaches,
+including targeting tau proteins and neuroinflammation, are
+also under development.
+
+10
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Application of artificial intelligence (AI) in mental
+health treatment
+AI is poised to revolutionize mental health care by leveraging
+its ability to collect and analyse vast datasets, significantly
+impacting neuroscience and mental health treatment. For
+instance, AI-powered tools can diagnose behavioral health
+conditions such as attention deficit hyperactivity disorder
+(ADHD) and Autism Spectrum Disorder using hand-held
+devices, offering a more accessible and efficient diagnostic
+process. Furthermore, AI can facilitate therapy through
+mobile devices, providing personalized treatment plans and
+continuous support. This innovative approach promises to
+enhance the accuracy of diagnoses and the effectiveness
+of treatments, paving the way for improved mental health
+care outcomes. We think complex and nuanced therapeutic
+areas such as neuroscience and behavioral health are
+particularly well suited to AI/ machine learning (ML)-driven
+diagnostic and therapeutic treatment approaches, although
+they are early in their clinical development.
+
+Application of AI in drug discovery
+We see continued AI spending within the health care sector,
+including by biopharma companies deploying machine
+learning and AI in an effort to identify attractive drug targets
+and drug candidates. We also believe the progress toward
+faster and more efficient drug discovery will be gradual for
+the foreseeable future, in part because these tools have
+been widely deployed for many years with limited impact
+on R&D efficiency, and in part because of the inherent
+challenges in the drug discovery and clinical development
+processes. As long as the drug approval process requires
+large clinical trials in human populations, we think AI’s ability
+to materially accelerate drug development timeframes will
+be limited, although we also see AI playing a meaningful role
+in improving clinical trial administrative efficiency, including
+trial protocol adherence and data communication with
+regulators, which we think can incrementally improve the
+overall odds of clinical trial success.
+
+Conclusion
+To summarise, the pharma industry plays a role
+in enhancing longevity through innovative treatments
+targeting metabolic diseases and cancer. With the global
+obesity epidemic driving demand for effective weight
+management solutions, GLP-1 receptor agonists have
+emerged as transformative treatments, offering significant
+market potential. Meanwhile, the oncology sector continues
+to expand with advancements in next-generation cancer
+treatments that promise to address the rising incidence of
+cancer among the aging population. As these therapeutic
+areas evolve, they present substantial opportunities for
+growth and innovation, in our view, ultimately contributing
+to increased longevity.
+
+Key risks from investing in pharma include clinical trial
+failures, new drug competition impacting drug uptake,
+reimbursement and pricing challenges, legal threats
+including product liability cases and any changes in the
+political and regulatory environment.
+
+Diana Na (Equity strategist), Eric Potoker (Equity strategist),
+Carl Berrisford (Equity strategist)
+
+Medical Devices and Services
+
+Like the pharmaceutical industry, an aging population is
+a key growth driver for most medical device makers and
+health care services providers. Many of the conditions that
+are treated with medical devices are more prevalent among
+the elderly. For example, two-thirds of hip implant patients
+are over 65, while most cardiovascular surgery patients are
+in their late 60s. In addition, the average age of a first-time
+hearing aid user is near 70 (see Figure 15).
+
+11
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Figure 15 - Medical devices are predominantly
+used by the elderly
+
+Source: CDC, UBS, Morgan Stanley, as of June 2017; Note: ICD=
+implantable cardioverter defibrillator, PTCA= percutaneous transluminal
+coronary angioplasty, CABG= coronary artery bypass graft
+
+Evaluating the opportunities within the medical devices
+industry relating to the longevity theme, we have chosen
+to focus on four different opportunity sets: (1) companies
+with devices that prevent and treat various life-threatening
+conditions, (2) companies that target the health needs of the
+elderly, (3) companies with diagnostics/tools for early disease
+detection or patient monitoring, and (4) US health care
+services companies that manage and provide care for the
+elderly. With this in mind, we highlight the most significant
+beneficiaries below.
+
+Consumer medical devices
+
+The growing population of those aged 65 and older
+in developed markets is expected to drive future
+medical device volumes, as aging individuals increasingly
+require medical devices, as well as replacements, repairs,
+and augmentations. And in emerging markets, the
+rising affordability, infrastructure investment, and shifting
+demographics should underpin greater spending on medical
+devices for years to come.
+
+We estimate the total size of the consumer medical device
+market was around USD 139 billion in 2023 and expect it to
+grow by mid-single digits over the long term. We summarize
+below the medical device categories that should benefit
+from the structural tailwind of an aging population.
+
+Figure 16 - Global medical devices market to grow
+by mid-single digits to USD 189 billion in 2030
+Total sales (USD, billion)
+
+Source: Company data, UBS estimates, as of January 2025
+
+• Orthopaedic implants: This segment includes
+replacement joints, spinal fusion, plates used to repair
+injured bones, and surgical equipment for sports
+medicine. The core orthopaedic market is mature in
+developed markets, with mid-single-digit percentage
+volume growth in the major categories of large joint
+reconstruction, trauma, and traditional spinal fusion
+procedures. Robotic assisted surgery (RAS) and minimally
+invasive approaches are gaining traction across various
+specialties in orthopaedics, driving higher growth rates.
+The orthopaedics market size was USD 49 billion in 2023
+and is seeing low- to mid-single-digit trend growth.
+
+• Ophthalmology: The ophthalmology device market
+covers surgical procedures for correcting vision. Surgical
+procedures are often required to correct more serious eye
+conditions such as cataracts, which is a leading cause of
+visual impairment in old age. This consists of implanting
+an intra-ocular lens into the patient's eye to enhance
+vision. The ophthalmology market totaled USD 37 billion
+in 2023 (including contact lenses) and enjoys mid-single-
+digit trend growth.
+
+• Hearing aids: Hearing loss disproportionately affects
+older people. Hearing ability naturally deteriorates with
+age as sensory cells in the ears degenerate, and one-
+third of people over 65 years old have hearing difficulties.
+The hearing aids market size was USD 8 billion in
+2023 with mid-single-digit trend growth. Recent studies
+have also linked hearing loss to cognitive decline. We
+believe that hearing aid growth is likely to accelerate
+as the population ages, and as the importance of
+hearing preservation for elderly patients is increasingly
+recognized.
+
+• Cardiovascular devices: The cardiovascular device
+market covers a wide range of products used to treat
+
+12
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+conditions in the heart and circulatory system, such
+as abnormal heart rhythms, vascular disease, and valve
+disease. The incidence of these problems tends to rise
+with age. The cardiovascular market is a mix of larger,
+mature product groups and newer, high-growth products
+that drive the overall category’s growth. We estimate
+the cardiovascular device market was USD 35 billion in
+2023 with mid-single-digit long-term growth potential,
+since the more mature categories face modest pricing
+pressure, while new technologies such as transaortic
+valve replacement (TAVR) and, potentially, mitral valve
+replacement can expand addressable markets.
+
+• Continuous glucose monitors (CGMs): Diabetes
+patients use CGMs to monitor their blood glucose
+levels in real time, better enabling diabetics to avoid
+fluctuations in their glucose levels and maintain lower
+overall HbA1C levels, potentially avoiding various acute
+health episodes caused by diabetes, and in some
+cases avoiding deterioration into more insulin-dependent
+stages of diabetes. The progression of diabetes leads
+to increased cardiovascular risk, which CGM use can
+help avoid. The CGM market was USD 8 billion in 2023
+growing at a midteens annual percentage rate.
+
+13
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Diagnostics
+
+Early detection of age-related diseases is crucial for driving
+longevity. Diagnostic tests are medical devices designed to
+identify and determine the presence or absence of specific
+diseases, conditions, or other health markers in patients.
+These tests play an important role by aiding in the early
+detection, diagnosis, and tailoring personalized treatment
+plans for patients.
+
+The increasing prevalence of chronic diseases is a major
+driving force behind the growth of the diagnostic tests
+market. The need for accurate, timely, and personalized
+diagnostics to manage chronic conditions effectively should
+fuel innovation in diagnostic technologies and promote the
+expansion of the diagnostic tests market to meet evolving
+health care demands.
+
+Innovations within the diagnostics industry include
+next-generation sequencing (comprehensive genomic
+profiling enables more precise and personalized treatment
+approaches) and liquid biopsy (enables non-invasive early
+cancer detection). In addition, the shift toward decentralized
+health care has led to the rise of home health tests
+and point-of-care devices, which is reducing the need for
+hospital visits and improving patient outcomes. Wearable
+health monitors such as CGMs (see above) and cardiac
+tracking devices are also aiding with chronic disease
+management. In addition, the integration of artificial
+intelligence in diagnostic tools enhances the accuracy and
+efficiency of disease detection, contributing to the overall
+market expansion.
+
+We estimate the clinical diagnostics market at USD 110
+billion in 2023, and we expect it to grow at a mid- to high-
+single-digit CAGR, reaching USD 170 billion by 2030, driven
+by advancements in diagnostic technologies and growing
+demand for early disease detection and prevention.
+
+Health care services
+
+US managed-care organizations (MCOs) provide health
+insurance to individuals, the government, and employers.
+We believe MCOs with significant exposure to the federal
+government’s Medicare Advantage (MA) program are
+particularly well positioned to increase lifespans and
+benefit from a larger elderly population. MCOs administer
+MA and receive fixed payments from the US federal
+government to cover Medicare (elderly) beneficiaries. MA
+plans coordinate patient care within a dedicated network
+of providers (physicians and hospitals mainly), and through
+that coordination can lower both health care utilization and
+unit price paid to providers. By reducing the overall cost of
+care, MA plans can also provide additional ancillary services
+(dental, hearing, vision, etc.), that traditional fee-for-service
+Medicare does not offer, making it a popular choice among
+seniors. Currently, the MA population has grown to over
+50% of the total Medicare market. We expect the number
+of eligible members and MA enrollments to grow. As per
+KFF, 54% of eligible Medicare beneficiaries (33 million out
+of 61 million) were enrolled in Medicare Advantage plans
+in 2024 (see Figure 17). This is expected to rise to 64% by
+2034 as per the Congressional Budget Office’s projections.
+As a result, MCOs with significant MA exposure are well
+positioned to benefit from a larger elderly population. We
+estimate the Medicare Advantage market at USD 457 billion
+in 2023 and expect mid- to high-single-digit CAGR, reaching
+USD 678 billion by 2030, predominantly driven by the aging
+baby boomer generation.
+
+Figure 17 - Medicare Advantage enrolments are
+growing
+54% of eligible Medicare beneficiaries were enrolled in 2024
+
+Source: KFF, UBS, as of 2024
+
+MCOs are also evolving to better manage the needs of
+an aging population, with data collection playing a crucial
+role. These companies are leveraging vast amounts of health
+data to identify high-risk patients earlier and intervene more
+effectively with preventative care. This shift toward data-
+driven health care allows for more personalized treatments,
+earlier disease detection, and optimized resource allocation.
+
+14
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+As a result, payors are increasingly partnering with health
+care providers to implement proactive care models that
+focus on preventing chronic conditions rather than just
+treating them.
+
+Separately, among health care providers, companies
+offering senior housing, hospice care, and home care should
+also see increased demand from a larger elderly population.
+Senior housing, including assisted living and skilled nursing
+facilities, provide environments for both medical support
+and lifestyle amenities (see the real estate section for more
+detail). Furthermore, an increase in elderly patients with
+terminal illnesses fuels a need for expansion in hospice
+care providers and home care services as patients prioritize
+comfort and quality of life.
+
+Conclusion
+The aging population is driving growth in the medical
+device, diagnostics, and health care services industries.
+Use of orthopaedic implants, ophthalmology, hearing aids,
+and cardiovascular devices markets is expanding owing
+to age-related conditions. Innovations in diagnostics, such
+as next-generation sequencing and liquid biopsy, enhance
+early disease detection and personalized treatment,
+boosting longevity. Health care services, especially Medicare
+Advantage, are benefiting from demographic shifts, with
+increased demand for senior housing, hospice, and home
+care.
+
+Key risks from investing in medical devices, diagnostics,
+and health care services include failure of pipeline
+products; new or tougher competition; legal threats
+including product liability cases; access, reimbursement, and
+pricing challenges; and a shifting political and regulatory
+environment.
+
+Eric Potoker (Equity strategist), Diana Na (Equity strategist),
+Carl Berrisford (Equity strategist)
+
+Consumer (health, foods, and
+beauty)
+
+Seniors: An attractive target group for consumer
+companies
+The consumer industry plays a key role in the global
+demographic shift toward an older population, offering
+products that promote healthier and longer lives. At the
+
+same time, we believe that consumer companies targeting
+healthy and beautiful longevity through active nutrition,
+medical foods, vitamins, minerals and supplements, over-
+the-counter medicines, and cosmetics are well positioned to
+capitalize on increasing demand from an aging population.
+Importantly, the senior cohort increasingly controls a larger
+part of household wallets, reflecting the accumulation of
+wealth over the course of life. In the US, for example, people
+aged 70+ now collectively own a record 31% of the nation’s
+wealth, while accounting for only 13% of the US population
+—the highest share since records began in 1989 (see Figure
+18).
+
+Figure 18 - Living longer, healthier, and wealthier
+Share of household wealth held by people age 70+, US
+
+Source: Federal Reserve Board of Governors, UBS. Last data point: 3Q24,
+last update December 2024
+
+What’s more, seniors are the fastest-growing consumer
+group, and now account for the highest share of total
+spending (see Figure 19). This makes the elderly an
+important and growing target group with significant
+spending power.
+
+Figure 19 - The aging consumer: A spending force
+to be reckoned with
+Share of consumer spending by age group
+
+Source: US Labor Department survey of consumer expenditures, UBS. Last
+data point: 2023, last update December 2024
+
+15
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+“Let thy food be thy medicine…” – Healthy nutrition
+A growing body of research points to the importance of
+nutrition in regulating aging processes and the development
+of age-related diseases. This is also reflected in an
+ever more health-conscious consumer and interventions
+by policymakers (e.g., health warnings or marketing
+restrictions). A balanced diet is a key component of a long
+and healthy life, and most food companies have been
+successfully adjusting their offerings to cater to an aging
+consumer base.
+
+• Improving the health of the portfolio: To suit health-
+conscious consumers, food producers and retailers have
+been expanding their product offerings into healthier
+categories, such as fresh and organic foods. Food
+companies have also been reformulating the nutritional
+profile of their products, reducing their sugar and sodium
+contents, and eliminating industrially produced trans fats.
+
+• Active nutrition: We also see opportunities for
+companies that offer active nutrition. This includes more
+science-based products tailored specifically for older
+consumers who may have digestive issues or nutritional
+deficiencies. The need for protein, for instance, increases
+with age, making this category particularly well-placed to
+benefit from the longevity theme. The gut microbiome,
+and how its composition changes with age, is another
+key topic. We believe that probiotic supplements as
+well as probiotic-rich, fermented foods such as yogurt,
+kombucha, or kimchi are set to benefit from the health-
+conscious consumer. The active nutrition category is
+currently worth around CHF 33 billion (USD 37 billion),
+and is expected to grow at a 7% CAGR in the medium
+term, ahead of many other consumer categories (Source:
+Euromonitor, IQVIA, Nestlé estimates).
+
+• Medical nutrition: There is a strong correlation between
+age and malnutrition. This is driven by a spectrum of
+reasons, including illness, lack of appetite, or an inability
+to chew or absorb nutrients. Medical nutrition can
+address these issues. It is grounded in clinical research and
+formulated to meet specific nutritional needs that cannot
+be met through regular food alone. We view medical
+nutrition as a fundamentally attractive category with high
+barriers to entry and an appealing margin profile. The
+global market is estimated at around CHF 13 billion (USD
+15 billion) currently, growing at a mid- to high-single-digit
+rate (Source: Euromonitor, IQVIA, Nestlé estimates).
+
+• Vitamins, minerals, and supplements: We also see
+substantial market potential for vitamins, minerals, and
+dietary supplements (VMS). Most people do not get
+enough nutrition from the food they eat. That deficit
+can become even more pronounced with age. VMS
+can help close those nutrient gaps by supplementing
+
+diets and providing a simple solution to deliver the
+nutrients needed for healthy aging. According to industry
+estimates, the VMS market currently generates roughly
+CHF 150 billion (USD 166 billion) annually and is expected
+to grow at a 5% CAGR over the next few years (Source:
+Euromonitor, IQVIA, Nestlé estimates), driven by an aging
+population and increased health-consciousness.
+
+Self-care time – consumer health care
+An aging population goes hand in hand with higher
+spending on health care, straining global health systems and
+budgets. Against this background, the self-care movement
+is gaining momentum, with people increasingly taking
+health into their own hands. We believe that this creates
+strong tailwinds for the consumer health care market, which
+focuses on over-the-counter (OTC) medicines, offering
+consumers affordable, accessible solutions while easing the
+burden on health care providers. In the US alone, spending
+on OTC medicines is estimated to save the health care
+system USD 167 billion annually by reducing drug costs
+and unnecessary doctor visits, according to the Consumer
+Healthcare Products Association. Consumer health firm
+Haleon estimated the global consumer health market at
+more than GBP 100 billion (USD 134 billion), and we expect
+it to be worth GBP 143 billion (USD 182 billion) by 2030.
+
+Cosmetics: Aging beautifully
+As the population ages, demand for cosmetics and wellness
+products tailored to addressing specific concerns such as age
+spots, wrinkles, or thinning hair increases. Older consumers
+are some of the most enthusiastic beauty spenders. In fact,
+according to L’Oréal, the average boomer spends over USD
+400 per year on beauty. This is almost twice as much as a
+Gen Y and 2.5 times as much as a Gen Z. L’Oréal estimates
+the global beauty market to be worth roughly EUR 270
+billion (USD 284 billion) and we expect it to grow to EUR
+370 billion (USD 387 billion) by 2030.
+
+Conclusion
+Longevity presents new opportunities for the consumer
+sector. A healthier diet is a key factor supporting longer
+lifespans. So, we view companies with exposure to healthy
+nutrition categories—such as active nutrition, medical
+nutrition, or VMS—as well positioned to capitalize on the
+growing demand for healthy aging. Similarly, we believe the
+consumer health as well as beauty categories are poised to
+benefit from an aging population.
+
+Key risks include a rotation out of defensive equity
+sectors, higher interest rates, consumer preference changes,
+increasing competition from local and global players,
+consumer sentiment deteriorating in key markets, higher-
+
+16
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+than-expected input cost inflation, and unfavorable
+currency movements.
+
+Seraina Hold (Equity analyst), Wen-Ching Lee (Equity
+strategist), Sunny Mehra (Equity strategist)
+
+Consumer (hotels and leisure)
+
+An opportunity for the hotels and leisure industry
+The longevity economy is becoming an increasingly
+powerful force—encompassing both the economic activity
+serving the needs and desires of the 55-plus segment, as
+well as partly directed purchased products and services
+along with the knock-on economic activity that this
+generates. We see opportunities in hotels and leisure
+segments coming from an aging population. We narrow
+down to the segments where we see the biggest upside
+potential: hotels, cruises, and casinos.
+
+Consumer companies targeting the aging population are
+anticipated to outpace their peers in growth due to the rising
+percentage of elderly individuals globally. Cruise businesses,
+with the elderly making up a substantial portion of their
+clientele, stand to gain from this demographic shift. As the
+population aged 55 and above increases at a rate of 2.4%,
+compared to 0.8% for all ages, this could result in a 0.3%
+annual increase in the proportion of individuals aged 55
+and older within the total population. As a result, the cruise
+industry, being oriented toward this demographic, is likely
+to expand its total addressable market by attracting more
+passengers.
+
+As individuals enjoy longer, healthier lives, travel has become
+a significant leisure priority for those aged 60 and over. In
+2024, adults in this age group accounted for nearly 37% of
+travelers globally, while a study from the AARP (American
+Association of Retired Persons) showed that in 2023, 52%
+of seniors aged 50 and older rank travel and vacation as
+their number one priority for discretionary income, while
+entertainment came in third just after home improvements.
+
+Hotels are the forefront of the opportunity
+Hotels should be another beneficiary of the trend. We see
+the hotel industry for the silver economy reaching USD 412
+billion by 2030 from USD 259 billion in 2023. An aging
+society should not only support volumes but also margins.
+The elderly usually spend more while traveling and the hotel
+sector has moved toward the luxury segment, where most
+customers are aged 50 and older.
+
+Aging populations around the world represent a significant
+market opportunity for the travel industry, in our view,
+
+impacting the type of tourists, where they travel, and the
+kinds of accommodation they require. Holidays remain one
+of the leisure interest priorities for the 55-plus age group, as
+they enjoy both purchasing power and free time, which is
+estimated at around six hours per day (leisure and sport) by
+the US Labor Bureau of Statistics. This free time, combined
+with a willingness to spend as the 55-plus group on average
+uses bigger travel budgets than other age categories (see
+Figure 20), bode well for the leisure industry. Tour operators
+and travel agencies are also likely to benefit from the
+increased propensity of older groups to travel.
+
+Figure 20 - Expenditure by tourist age group
+Average spending per trip in EUR for the EU (all countries, 4+ days
+trip, private travel (excluding business))
+
+Source: Eurostat, UBS, 2025
+
+Cruises should benefit from elderly spending
+As the global population ages, and given the willingness
+and ability of the elderly to spend more, the cruise
+industry is well positioned to benefit from this trend, in
+our view. Seniors, particularly those aged 60 and above,
+represent a lucrative segment for cruise lines. According
+to the CLIA (Cruise Lines International Association), the
+average age of cruise passengers is 50-plus, with senior
+travelers among the fastest-growing customer groups.
+Older travelers often book longer cruises, with more
+upgraded accommodations, and use onboard experiences
+(specialty dining, spa treatments, and excursions), which
+boost the revenue per passenger. We also see more
+opportunities for luxury and niche cruises, for example
+medical and wellness-focused voyages or themed and
+enrichment cruises. With CLIA expecting around 39.7
+million cruise passengers this year and those aged 60 and
+older (Baby Boomers and traditionalists) making up more
+than a third (see Figure 21), we see the cruise industry
+growing to around USD 288 billion in 2030 from USD 214
+billion in 2023.
+
+17
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Figure 21 - 34% of cruise travelers are 60+
+Cruise travelers by age category
+
+Source: Cruise Lines International Association, UBS, 2025
+
+Casinos stand to benefit significantly from this trend as
+well. Historically, older generations have been the primary
+clientele for casinos, and this trend has only intensified in
+recent years. Seniors are increasingly engaging in casino
+activities, driven by targeted marketing efforts such as
+bus tours, day trips, and entertainment offerings. There is
+an ongoing ethical debate regarding gambling addiction,
+particularly among the elderly. It is advisable to closely
+monitor gambling behavior, as the connection between
+problem gambling and the elderly remains a subject of active
+discussion.
+
+Revenue opportunities
+The global silver economy is growing fast, and we see some
+sectors such as hotels, cruises, and casinos benefiting from
+an aging population. We see the current market opportunity
+for those three segments at USD 1.2 trillion by 2030, up
+from USD 786 billion in 2023, for an annual growth rate of
+6%.
+
+Conclusion
+The aging population should boost the leisure and tourism
+business as a meaningful part of global travelers are 50+.
+This should lead to revenue and profitability increases across
+a various range of sectors from hotels to cruises.
+
+Thomas Parmentier (Equity strategist), Wen-Ching Lee
+(Equity strategist), Sunny Mehra (Equity strategist)
+
+Financials (asset and wealth
+management)
+
+Asset and wealth management
+
+An aging population globally is leading to a significant
+strain on established pension systems and could see a huge
+savings shortfall. In the US alone, the largest cohort of
+Americans in history (born from 1959 to 1964)—the peak
+of the baby boomer generation—will retire in 2024-2030,
+accounting for about 30 million people, according to
+the Retirement Income Institute. However, with fewer
+workers and insufficient savings, traditional pay-as-you-go
+pension and health care systems are becoming increasingly
+unsustainable. We see the asset accumulation required
+to bridge this gap as a long-term growth opportunity
+for private pension providers such as 1) asset managers,
+especially those with exposure to private markets, and 2)
+wealth managers.
+
+Addressing (new) retirement needs
+In many developed countries, the traditional retirement
+model, characterized by stable pension payments from
+defined benefit (DB) plans and public pensions, is
+undergoing a significant transformation—shifting the
+burden of risk from employers to individuals through
+defined contribution (DC) plans. Unfavorable demographic
+trends as well as high government debt levels make it
+difficult for many countries to sustain pension systems in
+their current form (see Figure 22). The World Economic
+Forum projects that the global gap between retirement
+savings and retirement income needs will reach USD 400
+trillion in three decades—more than five times the size of the
+global economy. As a result, individuals will need to depend
+more on personal retirement plans for their post-retirement
+income.
+
+Figure 22 - Assets earmarked for retirement in
+selected jurisdictions
+in % of GDP
+
+Source: OECD (Pensions Outlook 2024), UBS as of February 2025
+
+Asset managers
+Asset managers are poised to benefit from the increasing
+demand for private pension plans. We believe the
+private market sector (including private equity, private
+
+18
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+credit, infrastructure, real estate) especially has structural
+strength within the asset management industry. As global
+demographics expand the total savings pool, private
+individuals are likely to seek enhanced returns through
+diversification. Furthermore, private market investments
+typically require longer holding periods, which align well
+with the extended time horizons of retirement planning. This
+trend is further supported by a global shift toward easing the
+regulatory landscape governing pension assets and private
+market investments.
+
+According to Partners Group, the private wealth channel
+currently allocates only about 2% to private markets,
+compared to an institutional allocation in the high 20s.
+So, many of the largest alternative asset managers
+have introduced products for private individuals, such as
+private market funds with liquid and semi-liquid structures,
+allowing for periodic redemptions. For instance, BlackRock
+announced a partnership with Partners Group in 2024 to
+develop model portfolios for wealth management clients.
+Companies in the industry anticipate significant growth over
+the next decade, as illustrated in Figure 23. Partners Group,
+for example, projects that around half of the private market
+growth, or a ~15% compound annual growth rate (CAGR),
+will come from the wealth channel, which is seen as a USD
+6-8 trillion investment opportunity by 2033. Within private
+markets, private credit is expected to be the fastest-growing
+segment, driven by high capital requirements for banks in
+riskier client segments and a natural demand for investors
+to match longer-term liability durations.
+
+Figure 23 - Private wealth channels are a USD 6-8
+trillion investment opportunity for private markets
+Asset under management in USD trillion
+
+Source: Partners Group, Preqin, UBS as of February 2025
+
+Wealth managers
+We expect global wealth to grow at a compound annual
+growth rate (CAGR) of 6-7% by 2030, based on data
+from Oliver Wyman, with the ultra-high net worth (UHNW)
+
+segment continuing to expand the fastest. However, the
+mass affluent segment, defined as those with net wealth
+of USD 100,000 to 1 million, will become increasingly more
+important (see Figure 24) as the average adult lifespan
+extends, allowing more time for wealth accumulation.
+Longevity presents an attractive opportunity for wealth
+managers, in our view. For UHNW clients, the challenge
+lies in maintaining their lifestyle while navigating complex
+wealth transfer dynamics. For affluent clients, the focus will
+be on providing stable financial guidance for retirement, as
+the shift of retirement responsibilities to individuals increases
+the demand for advice and tailored retirement solutions.
+
+As a result, we expect wealth managers to broaden their
+product offerings to include private markets and insurance
+products, and to evolve their service delivery models to
+capitalize on the wealth transfer opportunities to younger
+generations. We see several ways for wealth managers to
+broaden their integrated retirements solutions: They can
+1. build partnerships across the ecosystem,
+
+2. better integrate across business silos if they possess the
+necessary in-house expertise, or
+
+3. pursue a technology-led platform strategy.
+
+Figure 24 - Percentage of adults by global wealth
+bands
+Wealth per adult is growing – wealth band of USD 10-100k tripled in
+three decades
+
+Source: UBS (Global Wealth Report 2024); Note: > USD 1mn represents
+only a very small amount
+
+Revenue opportunities
+Longevity will affect both asset and wealth managers as
+individuals will have to cope with changing pension models
+that put the burden to provide financially for their retirement
+phase on their own shoulders. This poses an attractive
+opportunity for the asset gatherers as both products and
+distribution channels currently do not cater to these varying
+
+19
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+needs across the life cycle (accumulation, decumulation,
+longevity protection, and wealth transfer), especially in
+lower wealth bands.
+
+Asset gatherers can tap into a huge and growing
+revenue pool. We see this as a USD 500 billion-plus
+revenue opportunity driven by increased private market
+allocations from retail investors, expanding products and
+advice, and shifting deposits sitting on the sidelines
+into retirement-focused accounts. Close to 50% of total
+euro area household financial assets was parked in
+currency investments and cash deposits in 2023, excluding
+life insurance and pension assets, according to the
+European Central Bank. This compares to an average
+wealth management client whose cash and money-market
+instruments account for about a fifth of their portfolio.
+
+Conclusion
+We see tremendous opportunities for asset gatherers. Asset
+managers are likely to see the biggest opportunities in
+private markets, which stand to benefit from growing
+allocations in accumulation and from income demand in
+an extended decumulation phases. On the wealth manager
+side, the opportunity is most prominent in the mass affluent
+segment as the retirement burden shifting to the individual
+drives a greater need for advice and retirement solutions
+targeted for that segment.
+
+Sacha Holderegger (Equity strategist)
+
+Financials (insurance)
+
+A widening funding gap
+According to the World Economic Forum, the retirement
+savings gap keeps rising across most countries, led by the
+US, where it is estimated to reach more than USD 137
+trillion by 2050, and China, at almost USD 120 trillion by the
+same date (see Figure 25). Meanwhile, the net replacement
+rate (defined as the individual net pension entitlement
+divided by net pre-retirement earnings, taking account of
+personal income taxes and social security contributions paid
+by workers and pensioners) is at 61% (see Figure 26).
+Old-age dependency ratios are increasing across the globe,
+which, together with strained public finances, implies that
+individuals need to save for themselves rather than rely on
+governments to provide for them in old age. As populations
+
+grow older, the "pay-as-you-go" social security model will
+be tested, and most models—at least in their current forms
+—are likely to struggle to survive. As a result, individuals will
+have to consider other sources of income for retirement.
+
+Figure 25 - Retirement savings gap is growing
+Retirement savings gap by 2025, in value, USD trillions
+
+Source: World Economic Forum, UBS, as of June 2019
+
+Figure 26 - The net pension replacement rate at a
+normal retirement age averages 61%
+Net replacement rate from mandatory pension schemes at the normal
+retirement age averages
+
+Source: OECD, Pensions at glance 2023, UBS
+
+The move toward Defined Contribution is an
+opportunity for life insurers
+The increasing trend of individuals living longer
+than anticipated—called longevity risk—poses significant
+challenges for retirement systems worldwide. For those
+without guaranteed lifelong income, there are mounting
+concerns about depleting their savings during the
+decumulation phase (at retirement). Pension funds and
+annuity providers face the financial strain of payments
+over longer periods than initially projected. Recent data
+underscore the gravity of the issues. Despite huge
+growth, the exposure to longevity risk remains substantial.
+
+20
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+These challenges are driving a shift in retirement
+planning paradigms. Companies facing large pension-
+related longevity risk will increasingly look to move toward
+defined contribution retirement plans that put the onus
+on the individual to supplement pensions with personal
+savings.
+
+Study case
+The Netherlands has been a pioneer in overhauling its
+pension system, transitioning from traditional defined
+benefit (DB) schemes to defined contribution (DC). These
+significant reforms aim to address the financial sustainability
+of the system and adapt to demographic changes. The
+new system is expected to be fully implemented by 2027,
+shifting investment risks from employers to employees,
+aligning pension outcomes more closely with individual
+contributions. This shift represents significant growth for
+Dutch life insurers, as this reform will expand the DC pension
+market.
+
+According to the “UBS International Pension Gap Index,”
+private savings are a necessity to maintain an accustomed
+lifestyle in most retirement systems. Furthermore, even in
+systems that don’t require savings, the uncertainty related
+to benefit outcomes, or questions about the sustainability
+of schemes suggest additional savings are prudent. Personal
+savings and investments will be key for sustaining a better
+life, especially as public support will likely be lower in the
+future.
+
+Individuals will be more responsible for the
+decumulation phase
+With the growing shift toward individual responsibility
+for retirement planning, life insurers and other financial
+institutions (wealth managers and asset managers) that
+offer products to manage wealth accumulation and mitigate
+risks in the decumulation phase are well positioned to tap
+into the increasing need for people to manage their money
+and not outlive their assets. The insurance sector offers a
+diverse suite of products aimed at supporting individuals
+throughout their retirement journey and beyond, seeking
+both financial security and better quality of life.
+
+• Life insurance policies that provide financial protection
+for dependents in case of premature death, particularly
+during the wealth-building phase.
+
+• Annuities and structured drawdown products that
+safeguard against longevity risk, ensuring a steady stream
+of income for the decumulation phase.
+
+• Pension savings plans (group and individual) to help
+people build financial reserves for retirement.
+
+As insurers take on a greater role in providing annuities and
+end-of-life care, they will also shoulder significant longevity
+risk, posing challenges in pricing and risk management.
+Traditionally, insurers have managed this on their balance
+sheets while transferring some exposure to reinsurers. A
+balanced approach, combining mortality products with
+annuities, helps mitigate longevity risk. We expect the
+market for longevity risk transfer (longevity swaps, buy-ins,
+and buy-outs) to develop rapidly in the coming years.
+
+We anticipate growth opportunities for insurers in the
+savings and protection sectors across certain emerging
+markets, particularly in Asia, as economic development
+progresses and people want to protect their wealth. Beyond
+rising income and expanding middle-class populations,
+two key drivers are the limited pension and health care
+coverage provided by employers and governments, along
+with generally low life insurance products penetration rates.
+As individuals transition from low to middle incomes,
+their spending patterns evolve, initially prioritizing basic
+protection before gradually incorporating savings and
+retirement products as financial security and wealth
+improve.
+
+Revenue opportunities
+Longevity is reshaping the life insurance industry, creating
+new revenue streams as people live longer and require more
+financial protection. For example, longevity risk products
+such as retirement and annuities, hybrid life and long-term
+care insurance, and extended policy laps.
+
+According to the United Nations, the number of people
+aged 65 and above should increase meaningfully and we
+see an opportunity up to USD 720 billion coming from an
+aging population for life insurers.
+
+Conclusion
+We see tremendous opportunities for life insurance thanks
+to the aging population. The move toward managing
+personal finances due to the growing pension gap, state
+disengagement, and longer lifespans will be a source of
+opportunities and risks for life insurers. By addressing both
+wealth accumulation and post-retirement financial stability,
+insurers play a crucial role in enabling individuals to navigate
+the complexity of longer life expectancy.
+
+Longevity risk exposes life insurers to financial strain as
+policyholders outlive expectations, increasing annuity and
+pension liabilities. It could lead to higher-than-expected
+payouts, asset-liability mismatches, and underreserved
+capital. Lower interest rates and economic growth could also
+be a drag, as well as changes in the regulatory framework.
+
+Thomas Parmentier (Equity strategist)
+
+21
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Real estate
+
+Greater longevity and aging populations have meaningful
+implications for the real estate market. Most older people
+prefer to live as long as possible in their own homes despite
+potential care needs. Aging in place requires the structure
+and location of houses to meet high standards. Barrier-free
+homes with age-specific interior designs and easy access to
+local amenities are in demand. But with rising care needs
+—particularly when continuous care and monitoring are
+required—specialized nursing care facilities will become a
+necessity supporting demand for health care real estate.
+
+Figure 27 - Living and health care real assets
+Health care property assets can be categorized into health care, which
+focus on medical services, and living, which focuses on wellness and
+care
+
+Source: CLI Group Research, UBS
+
+Even more importantly, the high-wealth share of the elderly
+population should support demand for wellness-related
+real estate. As loneliness becomes a major issue for some
+in old age, independent and assisted living facilities will
+likely become more popular. Investments in wellness-related
+real estate have already been growing strongly. During
+2019-2023, average transaction volumes grew 32% in Asia
+Pacific, 29% in the Americas, and 23% in Europe, the
+Middle East, and Africa, compared to the preceding five
+years, demonstrating structural growth opportunities in this
+segment.
+
+Figure 28 - Need for care rises sharply with age
+Percentage of households with severe difficulties in personal care
+activities or household activities, European countries 2019
+
+Source: Eurostat, as of 2019
+
+Revenue opportunities
+“The key drivers of long-term organic growth for the
+senior living industry are incredibly strong. New construction
+remains historically low, and even if macro factors improve
+rapidly, it can still take up to three years to open a
+new community after construction begins. Meanwhile, the
+demand for senior housing is poised to surge, driven by
+robust demographic trends. Combining low supply exposure
+with age-driven demand highlights the positive industry
+fundamentals that will fuel significant growth for us and our
+industry.” - Brookdale 2023 annual report.
+
+Greater longevity could fuel demand for senior living
+facilities, including assisted living and nursing homes in
+the coming years. By 2030, the number of people over
+the age of 85 in the US is projected to rise by nearly
+30%, according to the World Bank. Moreover, the cohort
+born between 1940 and 1949 has significantly greater
+wealth than previous generations. This presents real estate
+developers and real estate investment trusts (REITs) with a
+structurally growing market with robust occupancy levels
+and stable cash flows. According to Grand View Research,
+the US senior living market alone was valued at about
+USD 923 billion in 2023, and is projected to grow at
+a CAGR of around 4.1% to reach USD 1.2 trillion by
+2030. The retirement home sector has low sensitivity to the
+business cycle over the long term and offers potential for
+diversification when included in a real estate portfolio.
+
+Overall, the market offers opportunities for privately
+financed facilities in the upper price segment, where
+better medical services and a higher quality of life (e.g.,
+apartments open for shared living with a partner) can be
+provided. Building complexes with a broad mix of offers are
+particularly attractive, in our view.
+
+22
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Health care REITs may also stand to benefit from a larger
+asset base as more health care facilities get developed.
+The global health care REIT sector is estimated to have a
+total market capitalization of about USD 120 billion by UBS
+estimates, and is expected to grow as aging populations call
+for more investment in this sector.
+
+The global wellness retreat market was valued at USD 181
+billion in 2022 and is projected to reach USD 364 billion
+by 2032, registering a CAGR of 7.4%, according to Allied
+Market Research. This presents growth opportunities for real
+estate catering to wellness resorts, in our view. Demand for
+wellness services has been driven by increased stress levels,
+the desire for digital detoxification, and a growing focus on
+holistic health and wellness.
+
+Conclusion
+A demographic shift and greater longevity present the
+global real estate market with significant growth and
+transformational opportunities, in our view. These include
+wellness, independent living, assisted living, nursing homes,
+and specialized health care centers.
+
+Key risks to our thesis include those facing the broader
+real estate sector. For example, high interest rates may
+adversely affect asset valuations, and cyclical oversupply
+could introduce periods of volatility in rents.
+
+Wen-Ching Lee (Equity strategist), Matthias Holzey (Equity
+strategist), Jonathan Woloshin (Equity strategist)
+
+Industrials
+
+Service and medical robots: Supporting an aging
+population
+When people think about automation, most envision an
+industrial robot assembling a car. In reality, that is only
+one part of the automation value chain. In our automation
+and robotics theme, we focus on industrial applications
+in factory or process automation, both of which play an
+important role for an aging population in both emerging
+and developed markets. In particular, we believe factory
+automation will be a significant topic and an attractive
+investment opportunity (see Figure 29).
+
+However, in the context of longevity, we think more
+about medical and service robots, which the International
+Organization for Standardization defines as a “robot in
+personal or professional use that performs useful tasks for
+humans or equipment” and a medical robot as “intended to
+be used as medical electrical equipment or medical electrical
+systems” (ISO 8373).
+
+Figure 29 - Each of the following years is expected
+to hit a fresh all-time-high in new installations
+Annual installations of industrial robots
+
+Source: IFR International Federation of Robotics (World Robotics 2024),
+UBS
+
+The International Federation of Robotics (IFR) provides
+annual sample data to offer insights into market dynamics.
+The market for service and medical robots has been growing
+dynamically in recent years. Based on their sample of firms,
+the market for new professional service robots reached
+205,000 units in 2023, growing 30% year over year. Most
+of the robots were registered in Asia (79%), followed
+by Europe (17%) and the Americas (4%). This number
+includes all kinds of service robots, ranging from cleaning to
+hospitality and other sectors (see Figure 30).
+
+Figure 30 - Strong growth in the demand for
+service and medical robots in 2023
+Top 5 application areas of professional service and medical robots
+
+Source: IFR International Federation of Robotics (World Robotics 2024),
+UBS
+
+The market for new medical robots, based on their sample
+of firms, reached 6,200 units and grew even faster, with
+a 36% year-over-year increase. Rehabilitation and non-
+invasive therapy robots grew fastest at 128% year over
+year, followed by diagnostic robots (+25% y/y) and surgical
+
+23
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+robots (+4% y/y). (Source: IFR World Robotics 2024 – Service
+Robots).
+
+Lastly, a category where we often encounter them in our
+daily life is consumer service robots (e.g., vacuum cleaners,
+robot lawn mowers, and others). This category grew by just
+1% to 4.1 million units, based on their sample of firms.
+
+The International Federation of Robotics counts 921 service
+and medical robot manufacturers globally. They characterize
+the market as very dynamic, with a lot of M&A activity.
+Most firms are located in Europe (405 service robot firms),
+followed by Asia (268 firms), and the Americas (233 firms),
+with almost all based in North America. From a country
+perspective, most are located in the US (199 service robot
+firms, of which 12% represent medical robots), China (107
+firms, 5% medical robots), and Germany (83 firms, 12%
+medical robots).
+
+As an equity investor, it is not easy to find pure-play
+firms, as most are not publicly listed or represent smaller
+business segments within larger corporations. Many classical
+industrial or medtech firms also have an offering of service
+or medical robots. The private equity market offers some
+investment opportunities for the industry.
+
+The growth prospects are attractive, in our view, as
+demographic changes drive demand and the application
+of generative AI improves technological functions and
+performance.
+
+Automation and robotics capital expenditure is influenced
+by the economic cycle. The risk for these firms have
+become evident over the past two years. A global
+manufacturing recession, coupled with high inventories
+following the COVID-19 rebound, resulted in weaker
+demand for automation equipment. This indicates that
+the sector has a cyclical element, meaning it is sensitive
+to any manufacturing downturns. Specifically, demand for
+service and medical robots will depend on the respective
+end-markets, as consumer and medical equipment may
+have different investment cycles. However, we believe that
+growth is more protected as technological advancements
+for these products provide access to more applications.
+
+Alexander Stiehler (Equity strategist)
+
+Conclusion
+
+The longevity market is poised for significant growth. Health
+care, with its focus on meeting the needs of an aging
+population, is a primary driver, while innovations in pharma,
+particularly in metabolic diseases and cancer treatment,
+are set to enhance longevity and boost market expansion.
+The medical device industry, diagnostics, and managed-care
+firms should benefit from increased demand for elderly-
+focused treatments and services. Additionally, consumer
+companies targeting healthy aging, the leisure market, and
+real estate developments in senior living could capitalize
+on the growing needs of seniors. As individuals increase
+their allocations to private markets and life insurers address
+the widening global pension gap, these sectors are well
+positioned to target revenue growth exceeding GDP rates.
+
+Longer-Term Investment themes
+How do we define the investment opportunity today? We
+believe the Longevity TRIO aligns well with several of our
+Longer-Term Investment (LTI) themes, including Obesity,
+Oncology, Medical Devices, Aging in Comfort, and The
+digital consumer (only the: hotels & leisure part). In our
+view, these long-term trends either directly enable increased
+longevity or benefit from increasing lifespans.
+
+Over time, we also think our Genetic therapies and
+HealthTech LTIs will drive and benefit from longer lifespans
+through developments such as improved access to capital,
+which would allow both gene therapy and healthtech
+companies to better fund clinical development. We also see
+further technological advances for gene therapies, leading
+to the proof-of-concept and regulatory authorizations
+of additional products. Finally, a continued movement
+towards value-based care should increase demand for data/
+digitization and data-driven health solutions.
+
+Themes that are not currently part of our investment
+universe but still influence longevity or benefit from the
+trend include our Food revolution theme (see section
+further below: "Healthier diets can increase lifespans, but
+food access and affordability matter"), our Water scarcity
+theme, which covers investment opportunities in water
+infrastructure that provides access to clean water and
+sewage systems, and our Automation and robotics theme,
+given demand for automation equipment across many
+industries will increase as workforces age. The Diversity
+and Equality theme also covers companies positioning to
+capture the shifting preferences of female consumers and
+employees, who are both underserved in terms of health
+care research and delivery. This demographic is expected
+to control over 75% of discretionary spending by 2028
+
+24
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+(sources: Nielsen, BCG) and inherit USD 9 trillion of wealth
+in the next decade (UBS).
+
+Sustainability across sectors
+
+Increased life expectancy can in large part be attributed
+to reduced child and infant mortality, cleaner water, better
+hygiene, and improved health care access—all of which tie
+in closely with sustainability issues. However, life expectancy
+can also dial back, as seen when COVID-19 led global life
+expectancy to drop by nearly two years to 2012 levels (at
+71.4 years), according to the WHO. It is therefore crucial
+to consider how sustainability topics beyond access to
+health care impact longevity. Importantly, healthy longevity
+—having good physical, cognitive, and social functioning
+throughout life, as defined by the WHO—is not increasing
+at the same rate as total life expectancy, potentially leading
+to burdens in later life stages and affecting demographics,
+health care systems, and long-term financial planning.
+
+Sustainability implications are therefore intertwined with
+aging and longevity. Demographic shifts can present
+sustainability gaps, and addressing these risks and
+opportunities—specifically across food and agriculture,
+health care, workforce, and gender equality—can benefit
+healthy aging and longer lifespans.
+
+Healthier diets can increase lifespans, but food access
+and affordability matter
+The aging population may need fewer calories, but
+nutritional needs remain the same and can even increase.
+Various studies support the notion that balancing caloric
+and nutritional needs can help extend longevity or at
+least facilitate good health and enhance quality of life.
+In other words, longevity gains may plateau if food isn’t
+considered part of the issue. However, the critical issue of
+food affordability persists, as a healthy diet can cost up
+to four times more than a calorie-sufficient one, according
+to the World Bank. About one in three people globally
+could not afford a healthy diet in 2022, with the number
+jumping to two-thirds in low- and lower-middle-income
+countries, according to the World Bank and FAO. On
+top of this, rising global populations and climate change
+are expected to exacerbate food security challenges. For
+food and agriculture to truly benefit longevity, we believe
+the increase in the supply and production of healthy
+food requires a multi-faceted approach. This includes
+transforming toward regenerative food systems, improving
+nutritional information, and investing in transport and
+storage to improve the resilience of existing food systems.
+For more details, see our Longer Term Investment theme
+Food revolution.
+
+Figure 31 - Increase in healthy and non-healthy life
+expectancy differs across countries
+Increase in life expectancy from 2000 to 2019: For Germany, life
+expectancy increased by 2.9 years between 2010 and 2019, of which
+1.9 years is driven by the “Healthy” and 1 year by the “Non-Healthy”
+
+Source: World Health Organization, UBS
+
+Resilient health care systems needed; spotlight on
+meeting women’s needs
+Front and center to the demographic shift and increased
+longevity is having a resilient health care system. Poor health
+conditions create a cycle of economic inefficiency, reducing
+economic productivity and government tax revenue, which
+leads to poorer quality of life. Improving health care
+infrastructure and access for all—especially the most
+vulnerable—ensures quality care and addresses critical
+disparities across gender, race, and socioeconomic status.
+
+Women tend to live longer, but with a poorer quality of
+life. While women globally tend to outlive men generally
+by 5-7 years, they often face a disproportionate burden
+of health conditions, compounded by systemic gender
+biases in health care—including underrepresentation in
+clinical trials, delayed diagnosis, and unequal access to
+therapies—leading to poorer quality of life in later years.
+The opportunity lies in innovations in gender-inclusive
+medical research, accessible health care delivery models, and
+preventative care solutions, catering to unmet needs and
+progressing toward health equality.
+
+Beyond health care, investors should consider how longevity
+itself will change consumer and workforce dynamics for
+all companies. As women live longer, and as they become
+wealthier, they control a larger share of global wealth
+and spending power. According to Nielsen, women are
+expected to control 74% of global discretionary spending
+in the next five years. Women are also increasingly closing
+the education gaps with men across regions. When we
+layer longer-living populations into this analysis, it becomes
+clear investors need to calibrate portfolios across sectors to
+capture women’s rising economic force.
+
+25
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Women and older people are key to mitigate labor
+shortage driven by an aging population
+Living longer requires continued labor and productivity to
+support the economy and particularly the older population,
+but the labor force may face shortages due to global
+aging and lower fertility rates. We believe human capital
+management matters, and enhancing employee wellbeing
+and health could generate USD 11.7 trillion in global
+economic value, according to McKinsey. This necessitates
+rethinking the future of working and adapting to an aging
+workforce. A recent Allianz report found 30% of the global
+workforce will be aged 50 and older by 2050. Policymakers
+have reacted by delaying retirement ages, as seen recently
+in France and China. Forming an age-inclusive workforce
+means offering flexible working arrangements and career
+development opportunities for all ages. But a shrinking
+labor force means preparing the workforce with effective
+skillsets and knowledge to enhance productivity, enabled by
+technology and AI.
+
+Longevity and the aging population will play out differently
+across regions. Developing countries will be vital for global
+growth as they take a rising share of both labor supply and
+consumption. Government policymaking is likely to explore
+friendly immigration policies and incentives to attract
+younger talent and balance labor market demand. However,
+this often reflects inequality issues—an International Labor
+Organization study shows that migrants earn nearly 13%
+less than national workers, with the gap as high as 42% in
+some countries (see our Diversity and equality Longer Term
+Investment theme).
+
+Female labor force participation has also risen in
+recent decades, but barriers persist—from caregiving
+responsibilities to workplace inequalities. In addition, over
+half of the female health burden affects women during
+their working years, as reported by McKinsey. Continued
+female contribution to the labor force is crucial for
+partly mitigating the effects of a rising demographic
+change, companies should therefore consider providing
+family-friendly employee benefits, childcare, and targeted
+women’s health solutions (e.g., egg-freezing) to improve
+employee retention and promote gender equity in the
+workplace.
+
+Integrate sustainability considerations in your
+portfolio
+Achieving sustainable and healthy longevity requires a
+holistic change to food, agriculture, health care, and
+workforce management. Investors can prioritize solutions
+that bridge these sustainability gaps, and we also see
+continued engagement opportunities with companies on
+issues like transforming sustainable and responsible food
+
+production, and improving workplace health and well-
+being. To prepare the workforce for an aging population,
+ESG Leaders companies that are superior at human capital
+management—via the promotion of workspace diversity,
+employee safety, pay equality, and training and upskilling—
+will strive to extract long-term value from improved labor
+productivity.
+
+Amantia Muhedini (Sustainable & Impact Investing
+strategist), Amanda Gu (Sustainable Investing analyst)
+
+Risk Considerations
+
+There are several risks to consider when investing in
+this theme. The aging population significantly affects
+economic productivity, health care systems, and social
+support structures, requiring governments to adapt
+through policies that promote lifelong learning, workforce
+participation for older individuals, and technological
+advancements. Countries with slower aging populations
+or declining birthrates may experience uneven market
+opportunities, limiting growth potential. External forces
+such as global conflict, environmental damage or a rise
+in any global infections can also increase mortality rates.
+Additionally, changing consumer behavior among seniors
+adds uncertainty, as companies must constantly adjust to
+evolving preferences in technology adoption and product
+demand. For insurers, the risk of policyholders living
+longer than expected (longevity risk), can have significant
+implications for products such as annuities or pensions.
+
+Economic and health care-related risks also pose significant
+challenges to the longevity theme. Many older individuals
+rely on fixed incomes or pensions, which can limit their
+spending power and restrict growth in industries catering
+to them. At the same time, rising health care costs place
+a burden on both public systems and private providers,
+potentially straining profitability in the sector. Policymakers
+and insurers must collaborate on sustainable reimbursement
+models that balance affordability and accessibility, ensuring
+that businesses can thrive while managing cost pressures.
+Without proper planning, these financial constraints could
+slow innovation and limit the sector’s expansion.
+
+Furthermore, the outcomes of pharmaceutical clinical trials
+present a significant risk to share price performance.
+Unfavorable trial results, delays in drug approval or any
+legal threats including product liability cases can lead to
+substantial financial losses for companies, affecting investor
+confidence and market valuations. As the pharmaceutical
+industry is heavily reliant on successful drug development,
+
+26
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+any setbacks in clinical trials can result in share price
+underperformance.
+
+27
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+The longevity value chain
+
+Source: UBS estimates, as of March 2025 *Vitamins, minerals, and supplements; Note: There is an enlarged picture of this figure at the end of this
+document
+
+Longevity drivers and sources of opportunities
+
+Source: UBS, United Nations (World Prospectus 2024)
+
+28
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+Appendix
+
+Risk information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of
+using different assumptions and/or criteria. UBS may utilise artificial intelligence tools (“AI Tools”) in the preparation of this
+document. Notwithstanding any such use of AI Tools, this document has undergone human review.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+
+29
+
+
+
+Transformational Innovation Opportunities (TRIO): Longevity
+
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS
+Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS Asesores Mexico,
+S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler
+AS are affiliates of UBS AG. UBS Financial Services Inc. accepts responsibility for the content of a report prepared
+by a non-US affiliate when it distributes reports to US persons. All transactions by a US person in the securities
+mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and not
+through a non-US affiliate. The contents of this report have not been and will not be approved by any securities
+or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not acting as a municipal
+advisor to any municipal entity or obligated person within the meaning of Section 15B of the Securities Exchange
+Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do
+not constitute, advice within the meaning of the Municipal Advisor Rule.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website . In order to provide you with marketing materials concerning our products and services, UBS Group AG
+and its subsidiaries may process your basic personal data (i.e. contact details such as name, e-mail address) until you notify
+us that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your
+Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version A/2025. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+30
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+

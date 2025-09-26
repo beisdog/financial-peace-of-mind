@@ -1,0 +1,1526 @@
+
+26 November 2024, 10:27 GMT
+Chief Investment Office GWM
+Investment Research
+
+Power and resources
+Transformational Innovation Opportunities (TRIO): Power and resources
+ 
+ Authors: Ulrike Hoffmann-Burchardi, Head CIO Global Equities, UBS Financial Services Inc. (UBS FS); Alexander Stiehler, CFA, CIO Head of Longer Term
+Investment Themes, UBS Switzerland AG; James Dobson, CFA, CIO Equity Strategist, US Energy & Utilities, UBS Financial Services Inc. (UBS FS); Carsten
+Schlufter, CIO Equity Sector Strategist, UBS Switzerland AG; Carl Berrisford, Analyst, UBS AG Hong Kong Branch; Nikolaos Fostieris, Strategist, UBS
+Switzerland AG; Rudolf Leemann, CIO Equity Sector Strategist, UBS Switzerland AG; Wayne Gordon, Strategist, UBS AG Singapore Branch; Stephanie
+Choi, CIO Sustainable and Impact Investing Strategist, UBS AG Hong Kong Branch
+
+• The UBS Chief Investment Office believes there
+are three transformational innovation opportunities
+(TRIOs) that will drive equity markets in the coming
+decade: Artificial intelligence, Power and resources,
+and Longevity.
+
+• Power and resources focuses on opportunities
+related to power infrastructure and industrial
+technology—parts of the value chain that are
+essential to facilitate the energy transition, develop
+AI, expand energy infrastructure, and satisfy rising
+electricity demand. We see the best investment
+prospects at present in the electrification value
+chain, which is supported by growth in electricity
+demand, data center capex, and vital investment in
+aging power grids.
+
+• We forecast around USD 3.0tr in combined annual
+investment by the end of the decade in power
+generation, energy storage, grid infrastructure,
+data centers, and transportation and industry. For
+our stock picks, investors should see our new
+"Power and resources" Equity Preference List, which
+highlights companies we believe are best positioned
+to capitalize on the aforementioned tailwinds.
+
+Source: Shutterstock
+
+Nathaniel Gabriel, CFA, CIO Equity Strategist, Materials &
+Industrials, contributed to this report prior to his leave.
+
+ 
+CIO recently introduced its Global Equity Framework,
+which utilizes a combination of three principal perspectives
+to identify investment opportunities: macroeconomic,
+structural, and company-specific. The structural element
+enhances the traditional equity research process by focusing
+on what we call transformational innovation opportunities
+(TRIOs)—three trends we expect to have an outsized
+influence on equity markets in the coming years. These
+include Artificial intelligence, Power and resources, and
+Longevity.
+
+Power and resources represents various sectors and themes
+enabled by an evolution of industrial technology. Our long-
+term investment ideas highlight a series of opportunities
+within those themes that could help companies increase
+revenues at higher-than-GDP growth rates and are buoyed
+by the interplay of technological advancement and resource
+scarcity. This includes opportunities ranging from the energy
+transition (in which BloombergNEF estimates USD 1.8tr was
+invested in 2023), such as lower-carbon technology, to
+critical materials and providers of efficiencies in resource
+consumption.
+
+This report has been prepared by UBS Financial Services Inc. (UBS FS), UBS Switzerland AG, UBS AG Hong Kong Branch,
+UBS AG Singapore Branch. Please see important disclaimers and disclosures at the end of the document.
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+For the Power and resources theme, we see the biggest
+opportunity today in electrification. A confluence of
+environmental, technological, and regulatory forces is
+driving a global shift toward electricity. Specifically, electricity
+use is set to grow amid burgeoning demand from AI data
+centers, the building of megaprojects, and the electrification
+of heating, industry, and transport. This segment should
+also benefit from a grid infrastructure upgrade cycle, the
+increased cost competitiveness of renewable power, global
+decarbonization goals, and supportive legislative measures.
+
+Our ten predictions about Power and resources
+1. The accelerating electrification of our economy,
+
+transportation, industries, and households (or in other
+words: the energy transition) will require an enormous
+amount of investment—we project USD 3.0tr
+in annual spending by 2030—and offer attractive
+investment opportunities.
+
+2. Electricity consumption is set to accelerate, driven
+by new technologies such as artificial intelligence,
+data centers, and the crypto sector in many regions,
+particularly in the developed world.
+
+3. Electricity consumption should also rise amid
+increased electrification of transport (e.g., electric
+vehicles), heating (e.g., heat pumps), and across
+industries and households.
+
+4. Renewable technologies (especially solar and wind
+energy) will likely continue to grow rapidly and play a
+central role in the global power generation mix of the
+future, leading to a rising share of the global electricity
+mix.
+
+5. While traditional large natural gas power plants
+should continue to play a major role regionally,
+the power generation mix of the future will
+employ smaller power plants, requiring more electrical
+equipment.
+
+6. Transmission (high voltage) and distribution
+(medium voltage) will experience one of the highest
+growth rates in electricity grid investments in the
+coming years.
+
+7. Electrical equipment, such as substations, switchgear,
+transformers, and circuit breakers, will drive a
+significant increase in investment to meet rising
+electricity demand.
+
+8. Innovations in nuclear technology (e.g., small nuclear
+reactors, nuclear fusion) and emerging technologies
+(e.g., batteries and hydrogen) will play an important
+role in the energy mix of the future.
+
+9. Demand for natural resources (copper, aluminum,
+etc.) will increase, requiring the identification and
+commercialization of new supplies.
+
+10.Electrification should increase efficiency, reduce
+pollution, and lower carbon emissions. It should also
+increase the standard of living globally, particularly in
+emerging markets.
+
+The electricity system explained
+
+Value chain
+To identify the most prominent opportunities, we find it
+useful to follow electricity along its path from generation
+to consumption. Figure 1 illustrates the electrification value
+chain, where electric power flows from generation facilities
+through transmission and distribution grids before it is
+consumed in various applications.
+
+Figure 1 - The electrification value chain
+
+Source: UBS
+Note: See Figure 17 in the appendix for a broader view of the value chain
+
+Raw materials
+The entire value chain begins with the essential raw
+materials required for electricity generation (coal, natural
+gas, uranium, etc.) and the materials needed for
+electrification (copper, aluminum, lithium, etc.).
+
+Generation
+The second step in the value chain involves power
+generation plants, which capture the energy of their fuel
+and transform it into electricity, with technology varying
+by energy source. Thermal power stations utilize the
+thermal energy released by the combustion of fossil fuels,
+biomass, or hydrogen. Nuclear plants harness the kinetic,
+thermal, and radiation energy produced by the splitting
+of large atomic nuclei. Hydroelectric plants and wind
+turbines convert the mechanical energy of water and wind,
+respectively, while solar panels absorb radiation from the
+sun. Table 1 shows the contribution to global electricity
+generation of the leading power sources, along with their
+emissions impact.
+
+2
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Table 1 - Characteristics of the main power
+production technologies
+
+Source: Statistical Review of World Energy 2024, IPCC AR5 Annex III
+(2014), IEA (https://www.iea.org/statistics, all rights reserved), UBS, Nov
+2024.
+Note: Emission figures represent median lifecycle emissions, incl. albedo effect. RES =
+renewable energy source. STEPS: Stated Policies Scenario used by the International Energy
+Agency. CO2e = Carbon Dioxide Equivalent.
+
+Transmission and distribution
+After electricity is generated, the transmission and
+distribution networks come into play. These consist of
+power lines that move electricity from production facilities
+to consumers. The transmission grid involves the long-
+distance transfer of electricity from power plants to local
+substations via overhead and underground power lines.
+Subsequently, the distribution network connects the local
+substation to individual consumers. Various voltage levels
+are employed throughout the process to minimize power
+losses, with transformers adjusting the voltage at each step.
+Along the path of power delivery, electrical equipment
+—such as switchgear, circuit breakers, and capacitors—
+facilitate energy transfer, stabilize the network, and prevent
+outages.
+
+Consumption
+In the final stage, electricity is consumed in buildings,
+transportation, or industrial applications (see Figure 2 for
+the global consumption split). Notably, heating, ventilation,
+and air-conditioning (HVAC) constitutes one of the most
+electricity-intensive applications, spurring demand across
+the residential, commercial, and industrial categories (EIA
+Annual Energy Outlook 2023, US MECS 2018). In recent
+years, an increasingly important driver of power demand
+has been AI data centers, which, according to EPRI, already
+represent around 4% of total US electricity consumption (up
+over 50% since 2020) and around 3% in Europe.
+
+Figure 2 - Global electricity consumption, split by
+segment
+In TWh. Future consumption according to the IEA Announced Pledges
+Scenario (APS)
+
+Source: IEA World Energy Outlook (2024), https://www.iea.org/statistics.
+All rights reserved. UBS
+
+Electricity market and energy storage
+While the transmission grid allows producers and consumers
+to be geographically independent, its proper function
+requires that power produced and consumed are equal at
+all times so voltage and frequency remain stable. Therefore,
+from a grid perspective (i.e., without accounting for
+environmental impact), large fossil fuel and nuclear plants
+with predictable generation profiles have an advantage over
+renewable energy sources, as they have limited dependence
+on prevailing weather and can avoid intraday deviations in
+grid frequency.
+
+Energy storage is one method to reduce this volatility and
+avoid destabilization of the grid. Energy is stored during
+times of excess production and discharged when production
+alone is insufficient. Electricity can be stored using various
+technologies, though there are trade-offs among cost,
+energy density, storage duration, and response time. As
+Figure 3 shows, the market is dominated by pumped
+hydro, which is already effectively used to balance the
+grid, and battery storage. With the latter’s total installed
+capacity almost doubling in 2023, future improvements in
+their technology, along with their utilization in combination
+with smart meters, could provide an additional reliable
+method for grid stabilization. While the scale of energy
+storage is quite small relative to overall energy infrastructure
+today, these solutions will be needed to accommodate
+intermittency, presenting a long-term opportunity.
+
+3
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Figure 3 - Global installed storage capacity
+In %
+
+Source: IEA - Batteries and Secure Energy Transitions (2024). https://
+www.iea.org/statistics. All rights reserved. UBS
+
+By 2030, we project total annual spending globally of
+USD 3.0tr, up from USD 2.0tr in 2023, spanning power
+generation, energy storage, power grids, and end-use
+consumption. Table 2 depicts the composition of the
+investments in each step of the value chain. In our "Power
+and resources" Equity Preference List (EPL), we identify
+companies with strong fundamentals along the value chain
+that we believe are well-positioned to benefit from this
+increase in investment. Our stock picks fall primarily on the
+electrical equipment, utility, raw material, and grid services
+categories.
+
+We expect higher electricity demand to drive investments
+across the entire value chain. However, as shown in Table 2,
+the highest growth within the larger segments is projected
+in transmission and distribution, data centers, transport,
+and, from a low base, energy storage. These have higher
+growth rates than those for the power generation segment
+for several reasons:
+• Replacement capital expenditures (capex) should be
+
+a significant driver in developed markets. Until a
+few years ago, there was a decade of underinvestment
+in the grid. Consequently, developed markets have
+pending grid upgrades, and we expect replacement
+capex to be a key driver moving forward. In the US,
+for instance, replacing old infrastructure will likely be
+
+equally important as expansion capex and investment
+in grid hardening and resilience, all accounting on
+average for around 30% of grid capex, according
+to Edison Electric Institute (e.g., 33% of transmission
+spending is replacement capex and 28% of distribution
+spending). Grid hardening and resilience are, for
+instance, investments in equipment that operates in
+extreme heat or underground distribution lines. The
+remaining spending is related to advanced technology,
+including management systems (e.g., sensors, energy
+software, real-time system management) to better
+balance electricity supply and demand, and the rest to
+others (not specified) (source: EEI Financial Analysis and
+Business Analytics 2023 surveys).
+
+• New build in emerging markets (EM). In emerging
+markets, the grid is relatively young, with approximately
+40% being less than ten years old (source: IEA Electricity
+Grids and Secure Energy Transitions based on Global
+Transmission Report (2023)). In these regions, grid
+buildout will likely be the most important driver in the
+coming decades.
+
+• The nature of generation is changing. The share of
+renewable energy is growing worldwide, while smaller
+electricity generation plants will likely lead to more
+investments in new electrification equipment, upgrades
+to the existing grid, and storage infrastructure.
+
+• The way electricity is consumed is also changing.
+The growth in large AI data centers and electric vehicle
+(EV) charging hubs will require more medium-voltage
+equipment, a segment we particularly favor and expect
+to see high single-digit growth in the coming years.
+
+• The renovation market drives electrification
+demand in buildings. For the low-voltage market
+(consumer consumption), we see less growth compared
+to transmission and distribution, but it remains an
+attractive segment. The low-voltage market relies on
+the more cyclical new-build market, which grows in
+tandem with GDP over the long term, and the renovation
+sector, where we anticipate acceleration and increased
+investments in electrification equipment.
+
+In summary, due to a combination of underinvestment
+and changes in the nature of electricity generation and
+consumption, we see several factors that will drive faster
+growth in electrification equipment than in generation.
+
+As shown in Table 2—excluding data center equipment—
+UBS estimates that total annual spending will reach USD
+3.0tr by 2030. In comparison, the IEA projects investments in
+the same segments to exceed USD 4tr, while IRENA forecasts
+that investments in the renewable power generation market
+alone will reach USD 1.5tr by the end of the decade. While
+
+4
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+the primary drivers of these requirements are similar, the
+significant gap between the figures is noteworthy. The main
+difference in the projections arises from the perspective
+under which they are calculated. The estimates from these
+agencies serve more as progress tracking toward achieving
+decarbonization and energy transition goals, rather than as
+realistic market forecasts. They are based on the necessary
+spending to align with global targets set at COP28 to
+achieve the "Net Zero Emissions by 2050 Scenario," which
+aims to limit the global temperature rise to 1.5 °C (with at
+least a 50% probability).
+
+As a result, the respective assumptions rely on rapid
+growth in renewable power generation, an immediate
+decline in fossil fuel demand, and substantial spending
+on energy efficiency improvements, which are expected to
+triple between 2023 and 2030. While spending at these
+levels may be essential for achieving climate goals, it is
+important to highlight their purpose and distinguish them
+from expected market approximations. In regard to the
+Power and resources TRIO, if the estimates by the IEA and
+IRENA prove directionally more accurate, and if spending is
+in fact higher than we expect by the end of the decade, the
+investment opportunity we foresee would be even greater.
+
+Table 2 - The electrification market opportunity
+Estimated annual investments along the value chain
+
+Source: IEA, https://www.iea.org/statistics. All rights reserved as modified
+by UBS Switzerland AG, Nov 2024
+
+Electrification opportunity set
+
+In this section, we highlight the key investment
+opportunities across the electrification value chain and
+emphasize the segments where we see the biggest
+opportunity (see Figure 17 for an illustrative overview of the
+investment universe).
+
+Data center investment a catalyst
+Data centers have always been heavy users of power and
+electrical equipment, but the aggregate scale and per-rack
+power densities are accelerating significantly thanks to the
+rise in popularity of generative artificial intelligence (genAI).
+A major driver is the shift from CPUs (serial processing)
+to GPUs (parallel processing), which are better suited to
+AI processes but consume significantly more energy. For
+example, in a year, a single NVIDIA GB200 GPU can consume
+roughly the same amount of power as an average US
+household, and just one server rack can include 36 CPUs and
+72 GPUs. In the US, electricity demand from data centers
+has grown 50% since 2020, now accounting for 4% of the
+country's consumption, while in Europe, although lower, it
+represents a considerable level of 2.8%. The Electric Power
+Research Institute projects data centers may use up to 9%
+of all electricity generated in the US by 2030, while the IEA
+notes that global data center consumption could more than
+double by 2026 relative to the 2022 base of 460 TWh.
+
+Figure 4 - Average rack density
+Estimated values for 2024-2027. In kW/rack.
+
+Source: Jones Lang LaSalle Data Centers 2024 Global Outlook
+
+To frame the opportunity, we trace the path of electricity
+and heat through a typical data center. A transformer first
+receives medium-voltage three-phase power from the grid
+and steps it down to a lower voltage, where it passes
+through complex switchgear and an uninterruptible power
+supply (UPS) for backup power. From there, electricity is
+routed along busways through various switches and power
+distribution units (PDUs) until it arrives at the server rack.
+
+5
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+The chips and facility generate significant heat, yet the data
+center must strictly maintain a low-humidity temperature
+of 73-75°F (23-24°C). To this end, roughly 40% of a data
+center’s power consumption is used for cooling. The cooling
+of a modern hyperscale facility can require transferring the
+equivalent of the heat required to melt 40,000 tons of ice
+per day. Most data centers today are air-cooled, but liquid
+cooling can handle rack densities an order of magnitude
+higher.
+
+Figure 5 - US data center vacancy
+lhs: MW, rhs: % of total
+
+Source: Data Centre Hawk
+
+We believe air cooling will always play a role but expect
+the fastest growth in direct-to-chip liquid cooling solutions.
+Highly efficient immersion cooling holds promise, but we
+expect adoption to be in niche circumstances for now,
+given the challenges associated with system design and the
+toxicity of PFAS chemicals in the coolant.
+
+Figure 6 - Data center capex by major AI
+companies is expected to grow significantly in the
+coming years
+Big four (Amazon, Microsoft, Meta, Alphabet) hyperscaler capex in
+USD bn (lhs) and y/y growth in % (rhs)
+
+Source: Bloomberg, Factset, UBS as of Oct 2024
+
+The existing data center footprint is quickly filling up, with
+vacancy rates in the US now in the low single digits. Major
+tech companies see leadership in AI as an imperative and
+are likely to continue spending on capacity expansion to
+the extent supply constraints allow. UBS anticipates more
+than 45% year-over-year growth in capex from the “big
+four” (Amazon, Microsoft, Meta, and Alphabet), followed
+by 15% in 2025 (topping USD 250bn). We anticipate
+20-25% growth in the short term and 10-15% growth
+in the medium term for the data center end market. We
+see transmission and distribution electric equipment, non-
+residential HVAC, and select non-regulated utilities as the
+primary beneficiaries.
+
+Global energy demand has steadily increased, with an
+annual growth rate of about 1.4% over the past decade.
+But electricity consumption is growing at a faster pace,
+recording a 2.5% per annum rise during the same period,
+according to the Energy Institute Statistical Review of World
+Energy. Electricity growth is poised to accelerate to a
+3.4% annual rate from 2024 to 2026, per the IEA, with
+expectations of even faster growth beyond that window
+as large projects come online. At the same time, global
+climate mitigation efforts and decarbonization goals are
+expected to drive this trend in the longer term, with the
+
+6
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+IEA Announced Pledges Scenario projecting more than a
+doubling of electricity's share in total energy consumption
+by 2050.
+
+The OECD forecasts that global GDP will nearly double
+by 2060, suggesting rapid growth in both total energy
+and electricity demand in particular as economies expand.
+This trend mirrors the strong increase seen over the past
+six decades, primarily driven by non-OECD countries since
+the turn of the millennium. More people mean more
+households, transportation, and infrastructure, leading to
+higher energy needs. Urbanization and efforts to supply
+energy to underserved regions—about 1 in 10 people in the
+world lack access to electricity, according to the IEA—should
+also contribute to energy demand in the coming years and
+decades.
+
+While consumption in emerging markets is growing fastest,
+developed market demand is expected to be on the rise
+as well, fueled by a variety of technological, industrial,
+and socio-economic factors. Technological innovation has
+led to new energy-intensive devices, and the reshoring of
+industrial activities in sectors such as semiconductor and
+battery production has added to energy needs regionally.
+The shift toward electrification in transportation, industrial,
+commercial, and residential applications—including an
+increased penetration of electric vehicles and the transition
+from fossil fuels to electric heating solutions—further
+amplifies this trend. Although advancements in energy
+efficiency can help to partially offset demand surges,
+the overall trajectory of increasing electricity consumption
+should continue, driven by these diverse and powerful
+factors. Alongside the need for decarbonization, energy
+affordability and security of supply will be major factors
+determining the pace of change.
+
+Numerous industries play
+important roles in electrification
+
+Renewables
+The development of renewable energy generation is key for
+advancing the world’s decarbonization goals. The category
+includes hydroelectric, wind (onshore and offshore), solar,
+biofuel, geothermal, and ocean wave/tidal, though wind
+
+and solar are the most straightforward to deploy and scale.
+Government incentives backing the COP28 commitment
+to triple renewable capacity and significant deflation in
+equipment costs are aligning to support strong growth in
+wind and solar capacity.
+
+Figure 7 - Growth in renewable capacity
+In GW
+
+Source: IEA Renewables Forecast 2023 https://www.iea.org/statistics. All
+rights reserved. UBS
+Note: IEA Accelerated Case: projections aligned with achieving the COP28 energy goals. IEA
+Base Case: projections assuming more moderate progress compared to the COP28 goals
+
+Despite the strong trajectory in renewable capacity, within
+an equities context, we advise investors to be selective
+in their participation, focusing on specific segments
+rather than the entire value chain, for several reasons.
+Challenging fundamentals persist across different pockets
+of renewables sector representation in public markets.
+Development of renewables projects is limited by substantial
+land requirements, financing rates, long queues to obtain
+access to transmission (five-year median wait in the US),
+required upgrades to grid management software, and
+more. Equipment makers face significant competition and
+geopolitical headwinds. According to the IEA, China alone
+will be able to supply the entire global market for solar PV
+modules, one-third of the global market for electrolyzers,
+and 90% of the world’s EV battery demands in 2030.
+Tariffs, while providing short-term protection, risk further
+exacerbating structural oversupply issues in the long term.
+
+From a bottom-up standpoint, we also see challenges in
+wind as major turbine manufacturers have struggled to
+fulfill sizable warranty obligations due to manufacturing
+defects. Operational restructuring and pricing discipline are
+beginning to stabilize turbine manufacturer fundamentals,
+but more progress is needed.
+
+Despite these challenges, we see renewables growing most
+rapidly as a result of economics, with wind and solar
+
+7
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+remaining very cost competitive. For equity investors, we
+prefer the wind segment, but non-solar-panel equipment
+like racks and wiring harnesses are also interesting.
+
+Fossil fuels and generators
+Fossil fuels still account for more than 60% of global
+electricity generation. Growth in electricity consumption
+(amplified by electrification) and limitations on renewables’
+applicability are likely to keep fossil fuel demand on an
+uptrend over the next seven to ten years before alternative
+sources meaningfully “bend the curve.”
+
+Figure 8 - Global share of electricity generation
+In %
+
+Source: Energy Institute Statistical Review of World Energy (2024)
+
+Fossil-fuel-based power generation plays a key role in
+the supply and stabilization of the energy grid. Coal,
+natural gas, and nuclear typically serve as sources of
+baseload or intermediate energy, while more flexible natural
+gas aeroderivative turbines or diesel generators serve to
+satisfy peak load demand. Baseload power is necessary to
+match electricity supply and demand and preserve stable
+electricity characteristics across the grid. Natural gas is seen
+as an intermediate step toward decarbonization in some
+developed regions, as it emits the least CO2 among fossil
+fuel types, whereas many emerging markets are likely to
+bypass this step in favor of renewables. Generators and
+microgrids—ideally clean ones—are increasingly important
+for residential use given the frequency of climate events.
+They are also critical for industrial and commercial facility
+uptime. Data centers, for example, typically install enough
+
+on-site diesel capacity to run the entire facility at full output
+if need be.
+
+While not directly a driver of structural change in the
+power value chain, supply by fossil fuel plants will
+continue to play an important role in meeting electricity
+demand, offering resilience and facilitating the integration
+of cleaner solutions. For equity investors, we favor the gas-
+turbine segment of fossil-fueled generation, as natural gas
+generation is expected to grow rapidly.
+
+Grid equipment (high and medium voltage)
+Even if the IEA's timeframe is ambitious, the direction and
+magnitude of spending is likely to be substantial, as rising
+electricity demand will require incremental investment in
+the power transmission and distribution grid. However, it
+is not the only driver of our constructive demand outlook.
+The integration of renewable energy generation (often in
+remote locations), the growth in cross-country transmission
+capacity, and the linkage of new power customers will
+require heavy investment in network infrastructure.
+
+Renewable sources (including hydropower) already generate
+21% of all electricity in the US and 44% in European
+Union, respectively, up from 13% and 27% ten years ago
+(EIA, Eurostat). Additionally, more than 85% of all capacity
+additions are attributed to renewable generation. The share
+of renewables in electricity production is rising, impacting
+the grid in two main ways: It requires the buildout of
+additional cabling infrastructure, and introduces instability
+in the grid’s frequency.
+
+In practice, grid balancing is facilitated by transmission
+systems operators, which request electricity from generation
+facilities based on a marginal cost schedule and match
+it with downstream demand. This is still a fairly manual
+process, but modernizing the grid with sensors, digital
+technologies, and load management software will be vital
+to ease the workload and reduce inefficiencies. Illustrating
+the complexities of renewables and energy storage, digital
+technology investment comprises around one-fifth of total
+grid spend.
+
+8
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Figure 9 - Global electricity generation capacity
+additions
+In GW
+
+Source: BloombergNEF, UBS
+
+At the same time, the need to expand network
+infrastructure poses a troublesome bottleneck for renewable
+installations. In the US, the waiting time between
+connection request and commercial operation rose from a
+median of two years in 2000-2007 to five years for projects
+built in 2023 (Rand et al. (2022), Queued Up: Characteristics
+of Power Plants Seeking Transmission Interconnection). In
+addition, siting and permitting of high-voltage transmission
+lines require navigating an exceedingly complex web of
+authorities, though provisions of the Inflation Reduction Act
+aim to speed the process. In Europe, where renewables
+permitting can take up to 10 years, the grid must also
+accommodate the increase in cross-border transmission
+capacity, with the European Commission targeting a total of
+180GW by 2030, up from the 93GW in 2023.
+
+Meanwhile, growth requirements aside, existing
+infrastructure in advanced economies is approaching the
+end of its lifecycle, which typically lasts 50 to 60 years.
+Around 40% of Europe’s distribution grids are over 40 years
+old, while 70% of transmission lines in the US are over 25
+years old (per EU Commission and US DoE, respectively).
+The transmission grid is younger than the distribution grid
+on average; however, there is a significant differential in
+construction lead time to consider. Transmission lines require
+an average of eight to ten years (for underground and
+overhead lines, respectively), while low-voltage distribution
+lines average only one year (IEA).
+
+Based on the aforementioned factors, UBS anticipates
+8-12% annual growth in grid investment spending through
+the end of the decade.
+
+Figure 10 - Average annual grid investment
+estimates under announced pledge scenario
+In USD bn
+
+Source: IEA, https://www.iea.org/statistics. All rights reserved. UBS
+
+In the transmission and distribution category, we believe
+utility spending trends favor manufacturers of complex
+transformers, insulated switchgear, relays, high-voltage
+switches and breakers, substation automation solutions,
+cabling, monitoring devices, and grid management
+software. Participating companies have robust backlogs
+(with accretive pricing embedded) and strong visibility to
+utility capex plans, providing runway for margin expansion
+in the coming years.
+
+We believe spending on transmission and distribution will
+represent the majority of global grid investment in both
+developed and emerging economies. Utilities will also need
+to invest in new generation capacity and squeeze the most
+from the existing footprint, supporting providers of gas,
+wind, hydro, and steam turbines, as well as maintenance/
+services and DCS automation.
+
+Power distribution and conditioning equipment
+(medium and low voltage)
+As electricity approaches the point of use, numerous
+additional layers of equipment are required to step down
+the voltage on premise, route it along the proper channels,
+and protect delicate componentry. Demand in this category
+is driven by many end markets undergoing electrification
+(several of which are discussed in later sections) and a sizable
+backlog of megaprojects fueled by fiscal support, leading
+to structurally higher top-line growth rates and smoothing
+bumps caused by timing on any single project.
+
+9
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Key beneficiaries include manufacturers of transformers,
+switchgear, power distribution units (PDUs), uninterruptible
+power supplies (UPSs), enclosures, connectors, wiring
+solutions, control devices, and more.
+
+As mentioned in the previous chapter, particularly in
+advanced economies, much of the equipment is often
+outdated. Transformers, for instance, are a crucial part
+of the grid and have a lifespan of 30 to 40 years. The
+same applies to circuit breakers and other switchgear
+in substations. Underground or subsea cables have a
+longer lifespan, typically designed for 40 years, with newer
+versions lasting up to 50 years. Overhead transmission
+lines have the longest lifespan, lasting up to 60 years.
+These numbers are indicative, as servicing and maintenance
+can extend their lifespan (source: IEA, Electricity Grids and
+Secure Energy Transitions, October 2023). Considering the
+age of the equipment we described earlier, it is evident
+that significant grid components will need replacement
+and require ongoing service and maintenance capital
+expenditures. We therefore believe this presents a structural
+growth opportunity for firms in this sector.
+
+Electric vehicle infrastructure
+Though sales growth rates in any single country may vary
+year to year based on incentives, consumer preferences, and
+geopolitical developments, global electric vehicle adoption
+is steadily increasing.
+
+The rise of electric vehicles is supportive for power and
+resources companies in numerous ways. Simply adding a
+single EV and a level 2 charger can increase a household's
+electricity load by 40% and necessitate electric panel
+replacement. EVs themselves include significantly more
+power electronics, including inverters, converters, batteries,
+charging components, and six times more minerals by
+weight than conventional cars.
+
+The buildout of public charging infrastructure is another
+tailwind, as chargers have high content of electric
+componentry (enclosures, AC/DC converters, cables,
+connectors, etc.) and increase load on the grid. Indeed, a
+lack of available grid capacity is frequently the barrier to
+building EV charging stations. In 2021, the US set a goal of
+building 500,000 chargers by 2030, allocating USD 7.5bn of
+funding (though deployment has been exceedingly slow to
+date). The EU has built more than 570,000 chargers, while
+China has already topped 2.2 million.
+
+Pacing factors throttle the speed of transformation
+The growth of utilities, data centers, industrial plants, and
+other downstream electricity consumers typically depends
+on two key factors. First, they must secure the necessary
+
+power supply from grid interconnections. Second, they need
+to acquire the equipment required to connect and condition
+the electricity for use in sensitive, high-value components.
+In many cases, procuring these resources has limited the
+ability to capitalize on demand and keep expansion plans
+on schedule. The specific cause of bottlenecking has shifted
+over time, and we anticipate a rotating cast of gating
+factors going forward. Importantly, this is not necessarily
+undesirable—it can smooth the path of development,
+reduce the risk of overbuilding, and extend the duration of
+the tailwind from pent-up demand.
+
+Electrical equipment represents one of the most significant
+constraints at present due to long-running underinvestment
+in manufacturing capacity and residual labor and supply
+chain issues caused by COVID-19. Electrical equipment
+markets historically grew slowly and exhibited little pricing
+power, so it had been decades since most manufacturers
+considered greenfield expansion. Moreover, labor shortages
+exacerbated shortfalls in production for intermediate
+components such as circuit breakers and leading-edge
+semiconductors. While conditions are gradually improving,
+customers still observe lead times of two to three years for
+three-phase transformers and 12-18 months for complex
+switchgear, which need to be installed at an early stage of
+a project’s construction.
+
+The major manufacturers of this high-voltage transmission,
+transformer, switchgear, and breakers are expanding
+production, spurring a steady drumbeat of public
+announcements. Even a major US steel manufacturer
+announced it would convert a tinplate mill into a
+transformer plant—a clear indication of asymmetric supply
+and demand, in our view. All considered, we believe key
+participants are likely to purposely undershoot current
+demand out of an abundance of caution about industry-
+wide capacity.
+
+As clouds clear on the equipment side, we expect power
+generation capacity to become the next gateway. Demand
+from data centers, heat pumps, electric vehicles, and
+manufacturing facilities clashes with an increasingly strained
+grid, necessitating significant utility capex on generation
+and transmission infrastructure. For regulated utilities in the
+US, which must petition for higher customer rates to recover
+capex and are at risk of regulatory intervention if things go
+awry, the ability to service these customers may be many
+years away. Some utilities have even stopped accepting new
+service requests for large customers.
+
+Sophisticated customers understand that a mosaic of
+solutions will be necessary to secure (ideally low carbon)
+power. This includes a mix of adjustments related to
+the grid's structure, such as power plant relocation, on-
+
+10
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+site generation, and microgrids. It also involves various
+mechanisms of power market function, including merchant
+power, power purchase agreements (PPAs), and take-or-pay
+contracts, while it may encompass the expansion of new
+forms of generation such as small modular nuclear reactors.
+This scramble for capacity is perhaps best exemplified by
+Microsoft’s recent PPA to restart shuttered capacity at the
+Three Mile Island nuclear facility (the site of an infamous
+nuclear incident, albeit not the same reactor) and receive
+all output for 20 years. Customers’ determination to source
+the long-term capacity they require, despite short-term
+constraints, represents another opportunity for Power and
+resources.
+
+Nuclear
+Nuclear plants generate emission-free electricity and are
+increasingly seen as a necessary contributor to a lower-
+carbon future. Illustrating this, the United Nations Climate
+Change Conference in 2023 (COP28) publicized a goal
+to triple global nuclear energy capacity by 2050. Per the
+World Nuclear Association, there are some 440 reactors in
+operation around the world today with an average age of
+32 years, generating roughly 9% of electricity.
+
+Figure 11 - Low-carbon electricity generation
+requires the installation of additional nuclear
+capacity
+Global nuclear installed capacity estimates according to the different
+IEA scenarios, in GW
+
+IEA World Energy Outlook (2024), https://www.iea.org/statistics. All rights
+reserved. UBS
+
+Other than improvements to operating efficiency and
+passive safety systems, nuclear technology in the majority of
+the installed power plants has remained largely unchanged,
+making cost, environmental, and geopolitical concerns the
+primary gating factors for expansion. We expect greater
+utilization of existing nuclear plants as well as capacity
+growth in the coming years, supporting relevant utilities,
+producers of uranium and fuel rods, and nuclear plant
+automation providers.
+
+Whereas traditional nuclear plants are highly bespoke
+endeavors, small modular reactors (SMRs) hold promise for
+providing 300MW or less of efficient on-site generation
+for steel mills, data centers, or other facilities. SMRs are
+intended to be highly standardized and manufactured at
+scale, lowering installation costs meaningfully. The idea is
+that smaller, self-contained, and standardized nuclear plants
+could be deployed faster, more economically, and on smaller
+sites. The International Atomic Energy Agency (IAEA) defines
+“small” as below 300MW. Contracts are beginning to flow,
+though deployment beyond pilot projects is likely to be in
+the 2030s at the earliest.
+
+Nuclear fusion has been studied for over 50 years. But
+despite an understanding of the process, scientists have
+struggled to generate more energy than it took to start the
+fusion process. In December 2022, for a fraction of a second,
+the Lawrence Livermore Laboratory in California performed
+a fusion experiment that produced about 1.5 times more
+energy than it took to start the fusion process. Though
+certainly a promising breakthrough, we view commercial
+applications of nuclear fusion as realistically a decade away
+as an energy technology
+
+For equity investors, investing in nuclear is more challenging.
+We prefer existing operators for expansion opportunities,
+while SMR players bear higher risks.
+
+Battery storage
+Homeowners with installed solar panels are likely familiar
+with residential energy storage units, which allow them to
+store surplus solar electricity for backup and avoid peak
+electricity pricing. Utility-scale battery storage can facilitate
+the integration of intermittent renewables as well as buffer
+supply/demand imbalances on the grid by reacting as quickly
+to changes or outages as a power plant.
+
+Energy storage introduces logistical hurdles as grids were
+not optimized for energy storage, making integration,
+regulation, and grid planning more complex. Lithium-ion
+batteries have high energy density but degrade with time
+—they have a limited useful life of ~10 years—and are
+expensive when used as long-duration supply. Standard
+
+11
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+lithium-ion batteries provide only a few hours of power,
+though early-stage technologies such as flow batteries and
+metal-air batteries hold promise for greater longevity.
+
+Battery manufacturers also face additional risks, including
+the availability of critical minerals and the manufacturing
+(over)capacity from competitors. Per BloombergNEF, in
+2023, the production of new batteries (across both EVs and
+stationary storage) from China alone was roughly equivalent
+to total global demand, while the average cost of a two-
+hour storage system in China was down 43% y/y in early
+2024. Even with government incentives in the US and
+Europe, it will be challenging for developed market battery
+manufacturers to compete.
+
+Figure 12 - Installed energy storage capacity
+Estimated values for 2024-2030. In GW
+
+Source: BloombergNEF 1H24 Energy Storage Market Outlook
+
+Nonetheless, as renewables deployment continues at a rapid
+clip, the stark shortfall in global energy storage capacity
+should continue to spur both policy support and investment.
+COP29 aims to seal a global pledge to increase installed
+energy storage capacity to 1,500GW by 2030, or 6x the
+2022 level. Although we expect battery investments to grow
+rapidly, similar to solar panels, we believe this segment
+carries above-average risks.
+
+Figure 13 - Battery manufacturing capacity far
+exceeds demand
+In GWh
+
+Source: BloombergNEF 2023 Global Battery Manufacturer Profile
+
+Hydrogen
+The present scalability of hydrogen is limited by market
+demand, with hydrogen being primarily used for oil refining,
+metal processing, and ammonia production for fertilizer.
+Other applications include hydrogen-powered vehicles,
+bunker fuel, feedstock for sustainable aviation fuel, green
+steelmaking, and the reduction of emissions from fossil fuel-
+based power plants.
+
+Equally, the source of hydrogen also drives the longer-term
+demand potential. Currently, 96% of hydrogen is produced
+from fossil fuels (or so-called “grey” hydrogen). “Blue”
+hydrogen, produced from hydrocarbons, mainly natural gas,
+where CO2 is captured and not released in the atmosphere,
+also appears viable, as post-subsidies pricing can approach
+grey. Meanwhile, “green” hydrogen (produced by splitting
+water molecules in an electrolyzer powered by renewable
+energy) remains scarce and constrained by renewable
+capacity. It takes roughly 40-50kWh of electricity to produce
+1kg of hydrogen. Requirements are immense; for example,
+the green hydrogen project at Saudi Arabia’s NEOM requires
+300km2 of land for wind and solar to produce 4GW
+of electricity. Therefore, green hydrogen should command
+a substantial premium, though this would be capped
+somewhat by European carbon tax levels.
+
+Hydrogen is attractive as a means to decarbonize legacy
+fossil fuel infrastructure, power hard-to-abate sectors such
+as steelmaking, and in the case of green hydrogen,
+it can also function as transportable energy storage to
+alleviate power consistency concerns (e.g., in long-haul
+commercial vehicles or as feedstock to sustainable aviation).
+It therefore enjoys widespread policy support. The US
+Inflation Reduction Act includes a clean hydrogen tax credit
+
+12
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+for ten years, scaling from USD 0.60/kg to USD 3.00/
+kg depending on emissions. The EU has also pledged to
+produce 10mn and import 10mn tons of green hydrogen by
+2030. The COP29 Hydrogen Declaration pending passage
+at the UN Climate Change Conference aims to harmonize
+global standards and may help resolve demand bottlenecks.
+Hydrogen could play an extensive role in the energy mix,
+but low-carbon forms of the fuel still remain expensive. This
+technology contains higher risks for investors, in our view.
+
+Heat pumps
+Heating and cooling is the largest use of global energy
+consumption and is responsible for roughly 40% of CO2
+emissions. Traditional air conditioning radiates heat to the
+outdoors, raising environmental temperatures and requiring
+more air conditioning, creating a vicious cycle.
+
+Heat pumps running solely on (ideally renewably sourced)
+electricity are the most practical choice to achieve
+decarbonization targets. The IEA believes a tripling of the
+2021 install base (~9%) has the potential to cut fossil fuel
+use in half by 2030. In brief, heat pumps use electricity
+to operate a reversible refrigerant circuit, which transfers
+existing heat from outdoors to indoors, or vice versa, to
+provide both heating and cooling.
+
+Figure 14 - New heat pump sales
+In GW
+
+Source: IEA Clean Energy Market Monitor 2024, https://www.iea.org/
+statistics. All rights reserved. UBS
+
+Heat pumps have pros and cons relative to traditional
+furnaces and air conditioners. The system can transfer
+more than three times the heat per unit of power and, as
+mentioned above, is emission-free if linked to green energy.
+However, the upfront cost of installation is high before
+incentives (~4x a natural gas furnace), making the value
+proposition less compelling when retail electricity prices
+exceed those of fossil fuels. To mitigate this, more than
+
+30 countries currently offer incentives. Heat pumps also
+struggle to cope with especially high or low temperatures,
+limiting the range of latitudes and circumstances in which
+deployment is practical (though innovation is widening the
+bands).
+
+We expect the install base of heat pumps to rise, albeit
+with year-to-year volatility. Residential heat pumps use
+approximately 5.5 MWh of electricity per year on average,
+implying ~550 TWh of electricity use on 2022 install base
+metrics. Rising adoption of heat pumps, in tandem with EVs
+and other needs, represent an added strain on the grid and
+additional impetus for renewables integration.
+
+Raw materials
+Natural resource markets (copper, aluminum, lithium, etc.)
+will likely tighten further as strong demand intersects with
+supply bottlenecks in production and processing and new
+projects become harder to identify and commercialize.
+Indeed, access to stable and accessible supplies of critical
+metals is key to the rapid deployment of transition energy
+technologies—especially those related to infrastructure and
+energy storage. In addition, AI data centers (and growth
+in electricity consumption) could lead to even higher metal
+demand than expected. If we assume copper intensity of
+around 65 metric tons (mt) per MW of data center capacity
+and 15% annual growth in data center installation between
+now and 2030, this could see incremental demand of about
+100,000 metric tons of copper per year, according to UBS
+analysis. According to the IEA, global demand for some
+metals will rise by nearly 10 times versus 2022 production
+in the decades ahead.
+
+13
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Figure 15 - Demand for some metals is expected
+to 10x by 2050
+Demand growth vs 2022 production
+
+Source: IEA, https://www.iea.org/statistics. All rights reserved. US
+Geological Survey, UBS
+
+So, with future technological solutions heavily dependent
+on raw material markets that are comparatively small or
+concentrated along the small chain, risks of minor shortages
+are likely to emerge and could cause severe dislocations.
+Copper is a good example: The IEA and S&P Global Market
+Intelligence estimate cumulative primary copper demand
+over the next 30 years will be around double the amount
+consumed in the previous 30 years. But such an increase in
+supply over such a short time has never been seen before.
+And even if copper prices remain at higher level, it takes a
+decade or more to build a greenfield mine and the cost to
+do so is significantly higher than in the past.
+
+Another example is the aluminum supply chain. Guinea
+holds nearly a quarter of the world’s known bauxite reserves
+(according to US geological survey), which is a critical raw
+material to produce alumina (and subsequently aluminum).
+Aluminum is a key material used in the construction of high-
+voltage power transmission lines. A disruption to shipping
+of bauxite saw its spot price rise almost 50% year over year.
+This highlights the issue at hand: If alumina producers face
+shortages of bauxite, a commodity that usually flies below
+the radar, this would quickly feed through downstream,
+exacerbating supply chain issues.
+
+So, with such rapid growth in demand, we believe a new
+super cycle has emerged. Miners need to boost capex to
+raise supply, and government support is required to alleviate
+concentration risks along the supply chain. Some of these
+challenges are geopolitical, while others are more geological
+and climate related. On the geopolitical side, the supply of
+metals that are critical to the energy transition are a key risk
+to the West as processing is highly concentrated in China.
+Moreover, unlike previous booms, miners seem content to
+
+maintain recent capital discipline. As such, returns on mining
+and new production technologies, which could unlock ores
+not previously processed economically, could rise to levels
+not seen since the early 2000s.
+
+Sustained regulatory and fiscal support is key
+Governments around the world acknowledge the necessity
+of decarbonization to facilitate the energy transition,
+mitigate risks from climate events, and support economic
+growth. Consequently, they recognize the need to invest in
+energy infrastructure and grid resilience. The White House
+notes that power outages alone are a ~USD 70bn annual
+drag on the US economy. Moreover, the severity of damage
+from crises, such as the winter storm in Houston that
+halted power for days and fires sparked by power lines
+in California and Maui, lays bare the consequences of
+neglecting spending on resilience. To this end, significant
+funding has been made available to support public and
+private sector investment.
+
+In the US, the Infrastructure Investment and Jobs Act
+(IIJA) of 2021 marked the largest investment in the
+country’s history in clean energy infrastructure, allocating
+USD 65 billion to build transmission lines, support nuclear
+facilities, advance clean energy technology, weatherize
+building stock, incentivize domestic manufacturing of clean
+energy equipment, and build out a nationwide EV charging
+network. Subsequent announcements illustrate that this
+funding is being put to work and exhibiting the intended
+multiplier effect in private spending.
+
+We believe the benefits of the IIJA will remain a tailwind for
+many years, with the tempo smoothed by labor constraints
+among municipal offices and construction contractors.
+Moreover, we do not anticipate a ‘cliff’ from the conclusion
+of IIJA support, given the implausibility of paring back
+sorely needed infrastructure investment when it is politically
+popular and supports employment.
+
+14
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Figure 16 - The Infrastructure Law will support a
+number of end markets
+Spending share in each market under the Infrastructure Investment
+and Jobs Act (IIJA)
+
+Source: The White House (whitehouse.gov)
+
+Additional incentives to encourage industry development
+appear in other major US legislation as well. The Inflation
+Reduction Act (2022), built on the IIJA, appropriates nearly
+USD 400bn to incentivize the adoption of cleaner and
+more efficient vehicles, fuels, batteries, and residential
+appliances, as well as upgrade energy infrastructure. Blue
+and green hydrogen production, sustainable aviation fuel,
+electric vehicles, nuclear power, and heat pumps are
+significant beneficiaries as well. The CHIPS Act is primarily
+focused on research and development in the semiconductor
+industry but also supports the expansion of semiconductor
+manufacturing in the US. Semiconductor fabrication plants
+are heavy users of electricity and electrical equipment
+for stringent process control and temperature / humidity
+management.
+
+In Europe, policy was initially guided by the Clean Energy
+for All Europeans package (2019), which promoted the
+reduction of building emissions and ramping renewable
+energy mix, and then the European Green Deal (2020),
+which set the target of carbon neutrality by 2050.
+Recognizing the need to speed progress toward EU climate
+neutrality by 2050, the Renewable Energy Directive was
+revised in 2023, setting a binding minimum renewable
+energy goal of 42.5% by 2030 and an 18-month time limit
+to embed most details into members’ laws.
+
+The EU Commission initiated a narrower Action Plan for
+Grids in late 2023, noting that EUR 584bn of incremental
+grid investment is needed to support electrification
+and outlining a 14-step proposal to improve capacity,
+automation, financing, and permitting. This is not binding
+
+from a legislative perspective but does assign responsibilities
+to task forces for implementation. In addition, threats to
+energy security from the Russia/Ukraine conflict prompted
+the REPowerEU plan, which mobilized nearly EUR 300bn to
+overcome dependency on fossil fuel.
+China spent USD 676 billion on the energy transition in
+2023 alone based on Bloomberg data, more than double of
+any other nation. Supplies of renewable equipment in China
+are surging, given significantly lower manufacturing costs
+than in the US or Europe. China has committed to 1.2TW
+of renewable capacity by 2030 and is well on the path to
+meeting that goal years ahead of schedule, which comes
+with sizable investment in high-voltage transmission as well.
+
+Zooming out to a global level, the United Nations Climate
+Change Conference in 2023 (COP28) called on members to
+transition from fossil fuel energy sources “in a just, orderly,
+and equitable manner” and “accelerate efforts globally
+toward net zero emission energy systems… well before or
+by around mid-century.” Per IEA tracking, 98 countries have
+made pledges to reach net zero via announcements (15),
+policy documents (56), or outright law (27) as of this writing,
+representing 86% of 2021 energy-linked emissions. These
+commitments are ambitious and enforcement mechanisms
+are limited, but any progress in this direction should be
+supportive for the industry participants facilitating the
+transition.
+
+While pledges and policy are helpful, they also demonstrate
+the need for financing support and incentives to prod
+industry to make investments. The reversal of subsidy
+programs or even the perceived threat of reversal due
+to changing political priorities may introduce uncertainty
+into long-term planning and willingness to commit capital.
+Altering incentives can also affect return profiles for long-
+lived capital projects. As a result, the supportiveness of policy
+is a key swing factor influencing the timing and magnitude
+of the profit opportunity for participating companies.
+
+Longer-Term Investment themes
+In our Longer-Term Investment (LTI) research series, we have
+published several themes that directly or indirectly benefit
+from the developments described in this report, such as
+our Energy transition(s) or Energy efficiency themes. Scarce
+resources are not limited to the mining and power market;
+they also encompass our other long-term investment topics
+in the water and food sectors.
+
+SI consideration
+
+Clean electrification lies in the heart of the global
+decarbonization challenge. This is a two-step process: First,
+
+15
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+electrify everything and consolidate power needs away from
+direct fossil fuel use—think internal combustion engines and
+gas boilers. Second, rapidly modernize the grid—not only in
+terms of how it’s powered, but also the flexibility to switch
+and manage shifting fuel sources, for example. Achieving
+both would be key to mitigating the high correlation
+between GDP growth and carbon emissions.
+
+From an equity standpoint, investing directly in solution
+providers whose products and services may have clear
+alignment with the UN Sustainable Development Goals
+(SDGs). Under SDG 7: Affordable and Clean Energy, specific
+targets emphasize energy accessibility (and it’s worth
+bearing in mind here that natural gas remains superior to
+biomass and coal), expanding renewable energy’s share of
+total power generation, and energy efficiency. Investments
+into modern, sustainable energy infrastructure, including
+resource efficiency solutions such as carbon capture,
+utilization and storage, is a specified target under SDG
+9: Industry, Innovation and Infrastructure. This is especially
+important for solutions targeting emerging markets, where
+the investment shortfall is the widest.
+
+These investments may be aligned to an ESG thematic
+strategy. Investors seeking credible alignment to these
+SDGs may consider emerging sustainability data. A caveat,
+however, is that some investment opportunities and impact
+may stretch well beyond the SDGs and associated datasets
+—which, ultimately, were designed to be achieved by 2030.
+
+Beyond the SDGs, investors prioritizing holistic sustainability
+and impact alignment may also consider life-cycle analyses
+and companies’ operational sustainability to ensure holistic
+alignment. Systemic thinking is crucial. Over 60% of
+electricity consumed today remains powered by unabated
+fossil fuels—switching to an electric vehicle may have limited
+impact if your grid is burning coal.
+
+Risk considerations
+
+There are a number of risks to consider when investing in
+this theme. Regarding equipment, risks include lumpiness in
+customer projects or ordering patterns, the likely burndown
+of elevated backlogs as lead times decrease, challenges
+associated with matching manufacturing capacity to
+demand, and a potential mismatch between pricing
+and input costs during periods of high inflation. Grid
+service providers are also subject to the timing of project
+development and inflation.
+
+Materials providers typically carry high volatility and
+can move quickly with small changes in sentiment or
+
+positioning, or new technology could render the underlying
+commodity unnecessary for a certain purpose. Utilities may
+face scrutiny from customers or regulators over pricing or
+adverse events, or an inability to meet customer demand.
+The broader theme involves risks associated with geopolitics,
+commodity prices, electricity prices, government policies,
+incentive changes, and other external factors.
+
+The outcome of the US election, with Donald Trump set for
+a second term, suggests a neutral impact on energy sectors,
+in our view. Trump's focus on encouraging US fossil fuel
+production is unlikely to materially change US output trends.
+While he may recognize the economic gains from the 2022
+Inflation Reduction Act, there could be some reductions in
+clean energy tax breaks, and he may introduce new import
+tariffs, which could slow renewable energy expansion at the
+margin.
+
+Offsetting this impact is rising electricity demand from AI
+data centers and industrial activity reshoring, both of which
+are likely to continue to encourage renewable-, nuclear-,
+and natural gas-fueled electricity generation expansion.
+In short, Trump's policies could be slightly negative for
+renewable energy but somewhat supportive of traditional
+energy like oil and natural gas, leading to a neutral overall
+effect on the energy theme.
+
+16
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Figure 17 - The electrification value chain – illustrative with select companies
+
+Source: Based on Factset business classification system (RBICS) and UBS analysis as of Nov 2024
+Note: This is for educational purposes only. For investment ideas and our stock picks, see our companion report.
+
+17
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+Appendix
+
+Risk information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of
+using different assumptions and/or criteria. UBS may utilise artificial intelligence tools (“AI Tools”) in the preparation of this
+document. Notwithstanding any such use of AI Tools, this document has undergone human review.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+
+18
+
+
+
+Transformational Innovation Opportunities (TRIO): Power and resources
+
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS
+Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS Asesores Mexico,
+S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler
+AS are affiliates of UBS AG. UBS Financial Services Inc. accepts responsibility for the content of a report prepared
+by a non-US affiliate when it distributes reports to US persons. All transactions by a US person in the securities
+mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and not
+through a non-US affiliate. The contents of this report have not been and will not be approved by any securities
+or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not acting as a municipal
+advisor to any municipal entity or obligated person within the meaning of Section 15B of the Securities Exchange
+Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do
+not constitute, advice within the meaning of the Municipal Advisor Rule.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website . In order to provide you with marketing materials concerning our products and services, UBS Group AG
+and its subsidiaries may process your basic personal data (i.e. contact details such as name, e-mail address) until you notify
+us that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your
+Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version A/2025. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+19
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+

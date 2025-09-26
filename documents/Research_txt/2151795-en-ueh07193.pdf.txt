@@ -1,0 +1,5427 @@
+
+ab 1 May 2025
+Global Research
+
+Memory Semis Monthly
+May '25 Edition: Demand pull-in in 2Q, low 
+2H25 visibility 
+
+Maintaining DDR contract pricing forecasts, lowering NAND a touch 
+2Q25 guidance from Samsung and SK Hynix reflects some degree of demand pull-in, in 
+particular from smartphone and PC customers. Both Samsung and SK Hynix guided for 
+2Q25 DRAM bit growth in the low teens % QoQ. For NAND, Samsung indicated mid 
+teens % bit growth QoQ in 2Q, and SK Hynix over 20%. Regarding contract pricing, we 
+maintain our forecast for DDR contract pricing to increase 5% QoQ in 2Q25, with 
+LPDDR5 sustaining stronger momentum relative to DDR5 and DDR4/LPDDR4. For NAND 
+contract ASPs, we lower our forecast for 2Q to +3% QoQ growth (was +5%). While 
+momentum remains relatively positive for embedded NAND flash, SSD price increases 
+are meeting more pushback from customers. Regarding 2H25, memory vendors have 
+lower-than-normal visibility considering tariff uncertainty. We continue to see NAND 
+flash demand as more likely to face de-specing (or arbitraging down to lower content by 
+customers - essentially the same thing). Hence we forecast NAND contract pricing down 
+3% QoQ in 3Q25, before possibly stabilising in 2Q26. As for DDR, we forecast contract 
+pricing up 2% QoQ in 3Q25 before coming down 5% QoQ in 4Q25, and also stabilising 
+by 2Q26. 
+
+Memory inventories down at customers, still on high side for NAND at suppliers 
+Customers' memory inventories have come down somewhat faster than expected as 
+demand pull-in started in 1Q25. We estimate that for DRAM, inventories at smartphone 
+customers stand at 10 weeks, 12 weeks for PC OEMs, and 13 weeks for hyperscalers. 
+For NAND flash, we estimate  inventories at smartphone OEMs are c. 9 weeks, and 11 
+weeks for SSDs. Finished products inventories though appears to be uneven. NAND flash 
+finished product inventories stood at 10.5 weeks at SK Hynix at the end of March 
+(forward), 7.5 weeks at Samsung. As for DRAM, Samsung's finished product inventories 
+were also 7.5 weeks, while for SK Hynix they stood at 5.5 weeks (incl .HBM), although at 
+a very low 2 weeks for DDR5.
+
+Revising down HBM bit demand  foecasts by 5% for 2025 and 2026 combined 
+We recently revised down our CoWoS capacity forecasts at TSMC to 70k wpm end of 
+'25, and 100k end of '26E (see note from Sunny Lin: link). We also adjusted down 
+slightly our Nvidia AI accelerator estimates (see note from Tim Arcuri: link). On the back 
+of this, we slightly revise down our HBM bit end-demand forecast to 18.9bn Gb in 2025 
+(was  20.3bn), or +105% YoY growth. For 2026, we lower our estimate to 29.1bn (was 
+30.3bn) or 54% up YoY. We expect demand from ASIC vendors to outgrow the GPU 
+segment, which could lead ASICs to account for 54% of total HBM bit demand in 2026, 
+vs. 41% in 2025, and Nvidia 40% vs. 52% in 2025. 
+
+SK Hynix and MU remain our top picks within Memory 
+Tariff-related uncertainty regarding 2H25 and 2026 end-demand is set to remain an 
+overhang for now. But supply growth remains limited, and memory stocks have already 
+de-rated to a fair degree. We continue to prefer SK Hynix and MU over Samsung and 
+Nanya Tech (all Buy-rated).
+
+This report has been prepared by UBS Securities Pte. Ltd. (Reg. No. 198500648C)  ANALYST CERTIFICATION AND REQUIRED 
+DISCLOSURES, including information on the Quantitative Research Review published by UBS, begin on page 
+17.  UBS does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that the 
+firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single 
+factor in making their investment decision.
+
+Equities
+
+Global
+
+Semiconductors
+
+Nicolas Gaudois
+Analyst
+
+                            nicolas.gaudois@ubs.com                        
++65-6495 5148
+
+Timothy Arcuri
+Analyst
+
+                            timothy.arcuri@ubs.com                        
++1-415-352 5676
+
+Kenji Yasui
+Analyst
+
+                            kenji.yasui@ubs.com                        
++81-3-5208 6211
+
+Jimmy Yoon
+Analyst
+
+                            jimmy.yoon@ubs.com                        
++65-6495 4617
+
+Haas Liu
+Analyst
+
+                            haas.liu@ubs.com                        
++886-2-8722 7348
+
+Jimmy Yu
+Analyst
+
+S1460517080002
+                            jimmy.yu@ubs.com                        
++86-21-3866 8880
+
+Randy Abrams
+Analyst
+
+                            randy.abrams@ubs.com                        
++886-2-8722 7338
+
+Francois-Xavier Bouvignies
+Analyst
+
+                            francois.bouvignies@ubs.com                        
++44-20-7568 7105
+
+Sunny Lin
+Analyst
+
+                            sunny.lin@ubs.com                        
++886-2-8722 7346
+
+Sanguk Kim
+Analyst
+
+                            sanguk.kim@ubs.com                        
++82-2-3702 8816
+
+Luke Yoo
+Associate Analyst
+
+                            luke.yoo@ubs.com                        
++65-6495 8000
+
+Sean Park
+Analyst
+
+                            sean.s.park@ubs.com                        
++81-3-5208 6213
+
+                            
+
+https://neo.ubs.com/shared/d2NH1x4rHG5
+https://neo.ubs.com/shared/d2hyEu3YR2v
+mailto:nicolas.gaudois@ubs.com
+mailto:timothy.arcuri@ubs.com
+mailto:kenji.yasui@ubs.com
+mailto:jimmy.yoon@ubs.com
+mailto:haas.liu@ubs.com
+mailto:jimmy.yu@ubs.com
+mailto:randy.abrams@ubs.com
+mailto:francois.bouvignies@ubs.com
+mailto:sunny.lin@ubs.com
+mailto:sanguk.kim@ubs.com
+mailto:luke.yoo@ubs.com
+mailto:sean.s.park@ubs.com
+
+
+Memory Semis Monthly 1 May 2025 ab 2
+
+Memory Semis Monthly UBS Research
+
+KEY CHARTS
+
+Figure 1: HBM demand forecast by GPU/Accelerator
+
+HBM Gen. 2023 2024 1Q25E 2Q25E 3Q25E 4Q25E 2025E 1Q26E 2Q26E 3Q26E 4Q26E 2026E
+
+NVIDIA 2023 2024 2025E 2026E
+
+A100 HBM2E 80 120 40,006 16,100
+
+H100 HBM3 80 120 141 87,965 271,527
+
+H200 HBM3E 141 141 198,894 36,919 11,593 6,775 1,471 56,758
+
+H20 HBM3 96 96 96 48,087 19,336 19,336
+
+B200 (8Hi) HBM3E 192 192 192 22,834 55,300 78,062 66,420 30,056 229,838
+
+GB200 (2x GPU - 8 Hi) HBM3E 384 384 384 43,842 140,765 159,754 118,080 80,148 498,747 37,048 37,048
+
+B300A (12Hi) HBM3E 144 144 144 10,655 16,531 27,185 18,061 18,242 14,423 4,200 54,926
+
+B300 (12Hi) HBM3E 288 288 288 35,977 66,122 102,100 90,303 72,969 43,269 28,558 235,099
+
+GB300 (2x GPU - 12 Hi) HBM3E 576 576 576 64,759 180,334 245,093 283,414 287,012 226,646 141,110 938,182
+
+R200 (12Hi) HBM4 288 288 8,036 32,758 40,793
+
+RV200 (2x GPU - 12Hi) HBM4 576 576 32,142 87,354 119,497
+
+*Other GPU/Accel HBM3 / 3E 80 141 288 288 10,671 18,549 9,281 8,288 9,963 10,820 38,352 11,114 12,162 10,302 8,399 41,977
+
+Total ('000 GB) 138,642 619,834 261,602 257,697 312,628 385,482 1,217,408 439,939 390,385 334,818 302,379 1,467,522
+
+Total (bn Gb) 1.11 4.96 2.09 2.06 2.50 3.08 9.74 3.52 3.12 2.68 2.42 11.74
+
+AMD
+
+MI300 HBM3 192 192 192 192 5,815 77,332 16,596 6,425 2,492 25,514
+
+MI325X (12Hi) HBM3E 256 256 256 3,461 12,101 16,378 17,801 17,595 63,875 9,711 3,343 13,054
+
+MI355X (12Hi) HBM3E 288 288 3,204 15,439 18,643 25,128 33,473 32,130 22,818 113,550
+
+MI4XX (16Hi) HBM4 512 10,200 27,502 37,702
+
+*Other GPU/Accel HBM3 96 192 192 192 921 1,911 778 567 534 660 2,539 728 752 765 773 3,019
+
+Total ('000 GB) 6,736 82,704 29,475 23,370 24,032 33,693 110,571 35,568 37,569 43,096 51,093 167,325
+
+Total (bn Gb) 0.05 0.66 0.24 0.19 0.19 0.27 0.88 0.28 0.30 0.34 0.41 1.34
+
+Google
+
+TPU v5 HBM2E 96 96 96 64 109,559 168,552 50,983 57,633 59,849 53,199 221,664 24,000 9,600 5,191 38,791
+
+TPU v5e HBM2E 16 16 32 32 3,003 4,620 3,099 3,503 3,638 3,234 13,475
+
+TPU v6e HBM3E 32 32 32 1,379 12,414 13,793 15,448 16,552 13,793 9,379 55,172
+
+TPU v7 HBM4 288 42,492 81,443 99,148 131,017 354,101
+
+TPU v7e HBM4 64 640 2,560 4,480 6,889 14,569
+
+*Other TPU/Accel HBM3 48 96 96 144 3,189 19,627 12,056 13,629 14,980 20,029 60,694 20,824 23,359 23,145 23,395 90,723
+
+Total ('000 GB) 115,751 192,799 66,138 74,765 79,847 88,876 309,626 103,404 133,514 145,757 170,681 553,356
+
+Total (bn Gb) 0.93 1.54 0.53 0.60 0.64 0.71 2.48 0.83 1.07 1.17 1.37 4.43
+
+Amazon
+
+Inferentia 2 HBM2E 32 32 32 32 30,023 28,233 3,388 1,976 282 5,647
+
+Trainium 2 HBM3 192 192 192 48,951 24,985 31,232 34,979 33,730 124,926 30,720 42,240 36,480 24,960 134,400
+
+Inferentia 3 HBM3 96 96 96 41,415 18,739 23,424 26,235 25,298 93,695 35,520 42,240 36,480 21,120 135,360
+
+Trainium 3 HBM3E 288 288 18,235 18,235 63,360 89,280 129,600 138,096 420,336
+
+*Other Accel HBM3 48 64 144 144 6,755 10,039 15,523 16,863 16,714 18,090 67,191 10,800 13,968 14,688 11,945 51,401
+
+Total ('000 GB) 36,779 128,639 62,635 73,495 78,210 95,353 309,693 140,400 187,728 217,248 196,121 741,497
+
+Total (bn Gb) 0.29 1.03 0.50 0.59 0.63 0.76 2.48 1.12 1.50 1.74 1.57 5.93
+
+Intel
+
+Gaudi 3 HBM2 / 3E 144 144 288 288 25,588 36,141 10,842 13,553 15,179 14,637 54,212 8,640 5,760 4,608 2,880 21,888
+
+Gaudi 4 HBM3E 288 288 2,880 5,760 8,640
+
+*Others HBM2 / 3E 144 144 192 192 6,397 9,035 2,168 2,711 3,036 2,927 10,842 1,728 1,152 1,498 1,728 6,106
+
+Total ('000 GB) 31,985 45,177 13,011 16,264 18,215 17,565 65,055 10,368 6,912 8,986 10,368 36,634
+
+Total (bn Gb) 0.26 0.36 0.10 0.13 0.15 0.14 0.52 0.08 0.06 0.07 0.08 0.29
+
+Microsoft
+
+Maia 100 HBM3 64 120 120 1,680 960 1,080 1,200 810 4,050 360 240 600
+
+Braga (Maia 200) HBM3E 288 1,370 3,523 6,264 8,417 19,574
+
+*Others HBM3 64 120 192 504 360 360 480 480 1,680 960 960 960 960 3,840
+
+Total ('000 GB) 2,184 1,320 1,440 1,680 1,290 5,730 2,690 4,723 7,224 9,377 24,014
+
+Total (bn Gb) 0.02 0.01 0.01 0.01 0.01 0.05 0.02 0.04 0.06 0.08 0.19
+
+Meta
+
+MTIA v3 HBM3E 120 3,600 14,400 18,000
+
+Total ('000 GB) 3,600 14,400 18,000
+
+Total (bn Gb) 0.03 0.12 0.14
+
+Others
+
+Tesla HBM3 32 32 64 64 785 5,571 1,738 2,173 2,434 2,347 8,692 2,285 2,419 2,016 1,577 8,297
+
+Startups / Etc. HBM2E / 3 64 120 192 192 4,800 76,985 54,595 76,774 91,045 112,181 334,596 131,328 148,608 162,432 179,712 622,080
+
+Total ('000 GB) 5,585 82,555 56,333 78,947 93,479 114,528 343,288 133,613 151,027 164,448 181,289 630,377
+
+Total (bn Gb) 0.04 0.66 0.45 0.63 0.75 0.92 2.75 1.07 1.21 1.32 1.45 5.04
+
+Total HBM Demand ('000 GB) 335,478 1,153,893 490,515 525,977 608,092 736,787 2,361,371 865,982 911,858 925,175 935,708 3,638,724
+
+Total HBM Demand (bn Gb) 2.68 9.23 3.92 4.21 4.86 5.89 18.89 6.93 7.29 7.40 7.49 29.11
+
+% YoY 244.0% 174.3% 90.4% 71.0% 114.6% 104.6% 76.5% 73.4% 52.1% 27.0% 54.1%
+
+% QoQ 42.9% 7.2% 15.6% 21.2% 17.5% 5.3% 1.5% 1.1%
+
+HBM Content (GB)
+
+Source: Company data, UBS estimates
+
+Figure 2: HBM ASP forecasts (US$/1Gb)
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+0.80
+
+1.00
+
+1.20
+
+1.40
+
+1.60
+
+1.80
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+2
+Q
+
+2
+5
+E
+
+3
+Q
+
+2
+5
+E
+
+4
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+2
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+4
+Q
+
+2
+6
+E
+
+Source: UBS estimates
+
+Figure 3: HBM as % of total DRAM revenues 2023-2026E
+
+6.0%
+
+17.3%
+
+28.8%
+
+39.8%
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+45%
+
+0
+
+10,000
+
+20,000
+
+30,000
+
+40,000
+
+50,000
+
+60,000
+
+70,000
+
+2023 2024 2025E 2026E
+
+HBM revenues (US$mil, LHS)
+As % of DRAM revenues (RHS)
+
+Source: UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 3
+
+Figure 4: HBM capacity and bit shipment forecasts
+
+2024 2025E 2026E
+
+Samsung DRAM bit shipment (bn Gb) 109.6 119.5 138.6
+
+HBM bit shipment (bn Gb) 5.1 6.7 11.2
+
+% of Samsung total DRAM bits 4.6% 5.6% 8.1%
+
+HBM front-end capacity (k wpm), 4Q 125 155 175
+
+SK Hynix DRAM bit shipment (bn Gb) 74.8 87.4 102.7
+
+HBM bit shipment (bn Gb) 6.8 13.0 17.4
+
+% of SK Hynix total DRAM bits 9.1% 14.9% 17.0%
+
+HBM front-end capacity (k wpm), 4Q 125 175 190
+
+Micron DRAM bit shipment (bn Gb) 60.4 69.3 82.2
+
+HBM bit shipment (bn Gb) 0.9 5.2 8.8
+
+% of Micron total DRAM bits 1.5% 7.5% 10.8%
+
+HBM front-end capacity (k wpm), 4Q 30 65 100
+
+Total HBM bit shipment (bn Gb) 12.8 24.9 37.5
+
+Total HBM front-end capacity (k wpm), 4Q 280 395 465
+
+Source: UBS estimates
+
+Figure 5: HBM bit shipment market share by vendor
+
+60%
+53% 52%
+
+46%
+
+38%
+40%
+
+27%
+30%
+
+3% 7%
+21% 24%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+2023 2024 2025E 2026E
+SK Hynix Samsung Micron
+
+Source: Company data, UBS estimates
+
+Figure 6: DRAM industry capacity (k wpm) breakdown 
+between HBM vs non-HBM
+
+1,753 1,639
+1,485 1,520 1,470
+
+20 85
+280
+
+395 465
+
+0
+
+400
+
+800
+
+1,200
+
+1,600
+
+2,000
+
+2022YE 2023YE 2024YE 2025YE 2026YE
+
+DDR HBM
+
+Source: Company data, UBS estimates
+
+Figure 7: DRAM capacity (k wpm) breakdown between 
+HBM vs non-HBM among suppliers
+
+474
+369
+
+207
+
+175
+
+190
+
+100
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+24YE 25YE 26YE 24YE 25YE 26YE 24YE 25YE 26YE
+
+Samsung SK Hynix Micron
+
+DDR HBM
+
+Source: Company data, UBS estimates
+
+Figure 8: HBM demand by type (2025E)
+
+HBM3E 12-Hi
+35%
+
+HBM3E 8-Hi
+39%
+
+HBM3
+20%
+
+HBM2E
+6%
+
+HBM2
+1%
+
+Source: Company data, UBS estimates
+
+Figure 9: HBM demand by customer (2025E)
+
+Nvidia
+52%
+
+AMD
+5%
+
+Google
+13%
+
+Amazon
+13%
+
+Intel
+3%
+
+Others
+15%
+
+Source: Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 4
+
+Figure 10: Samsung – HBM as a % of DRAM revenues
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+2
+Q
+
+2
+5
+E
+
+3
+Q
+
+2
+5
+E
+
+4
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+2
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+4
+Q
+
+2
+6
+E
+
+HBM revenues (US$mil, LHS)
+
+As a % of total DRAM revenues (RHS)
+
+Source: Company data, UBS estimates
+
+Figure 11: SK Hynix – HBM as a % of DRAM revenues
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+2
+Q
+
+2
+5
+E
+
+3
+Q
+
+2
+5
+E
+
+4
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+2
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+4
+Q
+
+2
+6
+E
+
+HBM revenues (US$mil, LHS)
+
+As a % of total DRAM revenues (RHS)
+
+Source: Company data, UBS estimates
+
+Figure 12: Samsung – HBM as a % of DRAM bits
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+0
+
+500
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+3,000
+
+3,500
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+2
+Q
+
+2
+5
+E
+
+3
+Q
+
+2
+5
+E
+
+4
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+2
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+4
+Q
+
+2
+6
+E
+
+HBM bit shipment (Mil Gb, LHS)
+
+As a % of total DRAM shipment (RHS)
+
+Source: Company data, UBS estimates
+
+Figure 13: SK Hynix – HBM as a % of DRAM bits
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+12%
+
+14%
+
+16%
+
+18%
+
+20%
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+2
+Q
+
+2
+5
+E
+
+3
+Q
+
+2
+5
+E
+
+4
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+2
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+4
+Q
+
+2
+6
+E
+
+HBM bit shipment (Mil Gb, LHS)
+
+As a % of total DRAM shipment (RHS)
+
+Source: Company data, UBS estimates
+
+Figure 14: Samsung and SK Hynix DRAM revenues (Won 
+bn) 2010-2029E
+
+0
+
+20,000
+
+40,000
+
+60,000
+
+80,000
+
+100,000
+
+120,000
+
+2
+0
+1
+0
+
+2
+0
+1
+1
+
+2
+0
+1
+2
+
+2
+0
+1
+3
+
+2
+0
+1
+4
+
+2
+0
+1
+5
+
+2
+0
+1
+6
+
+2
+0
+1
+7
+
+2
+0
+1
+8
+
+2
+0
+1
+9
+
+2
+0
+2
+0
+
+2
+0
+2
+1
+
+2
+0
+2
+2
+
+2
+0
+2
+3
+
+2
+0
+2
+4
+
+2
+0
+2
+5
+E
+
+2
+0
+2
+6
+E
+
+2
+0
+2
+7
+E
+
+2
+0
+2
+8
+E
+
+2
+0
+2
+9
+E
+
+Samsung SK Hynix
+
+Source: Company data, UBS estimates
+
+Figure 15: Samsung and SK Hynix DRAM operating 
+margins (%) 2010-2029E
+
+-20%
+
+-10%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+2
+0
+
+1
+0
+
+2
+0
+
+1
+1
+
+2
+0
+
+1
+2
+
+2
+0
+
+1
+3
+
+2
+0
+
+1
+4
+
+2
+0
+
+1
+5
+
+2
+0
+
+1
+6
+
+2
+0
+
+1
+7
+
+2
+0
+
+1
+8
+
+2
+0
+
+1
+9
+
+2
+0
+
+2
+0
+
+2
+0
+
+2
+1
+
+2
+0
+
+2
+2
+
+2
+0
+
+2
+3
+
+2
+0
+
+2
+4
+
+2
+0
+
+2
+5
+E
+
+2
+0
+
+2
+6
+E
+
+2
+0
+
+2
+7
+E
+
+2
+0
+
+2
+8
+E
+
+2
+0
+
+2
+9
+E
+
+Samsung SK Hynix
+
+Source: Company data, UBS estimates
+
+ 
+
+
+
+Memory Semis Monthly 1 May 2025 ab 5
+
+Figure 16: DRAM cycles in context
+
+Source: Company data, UBS estimates
+
+Figure 17: NAND cycles in context
+
+Source: Company data, UBS estimates
+
+Figure 18: DRAM bit demand per application (2025E)
+
+Servers (DDR)
+30%
+
+Servers (HBM)
+6%
+
+Desktops
+2%
+
+Notebooks
+6%
+
+Smartphones 
+26%
+
+PC graphics 
+2%
+
+HDTVs
+4%
+
+Tablet PCs
+2%
+
+Game consoles
+2%
+
+Others
+20%
+
+Source: Company data, UBS estimates
+
+Figure 19: NAND bit demand per application (2025E)
+
+Smartphones
+25%
+
+Tablet PCs
+7%
+
+SSD (notebooks)
+14%
+
+SSD (servers)
+20%
+
+SSD (storage)
+10%
+
+SSD (others)
+15%
+
+Total Flash cards
+1%
+
+Others
+8%
+
+Source: Company data, UBS estimates
+
+Figure 20: Top 7 Hyperscalers' capex forecasts aggregated 
+(US$bn) and total capital intensity (%)
+
+6%
+
+8%
+
+10%
+
+12%
+
+14%
+
+16%
+
+18%
+
+20%
+
+22%
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+2
+0
+1
+
+5
+
+2
+0
+1
+
+6
+
+2
+0
+1
+
+7
+
+2
+0
+1
+
+8
+
+2
+0
+1
+
+9
+
+2
+0
+2
+
+0
+
+2
+0
+2
+
+1
+
+2
+0
+2
+
+2
+
+2
+0
+2
+
+3
+
+2
+0
+2
+
+4
+
+2
+0
+2
+
+5
+E
+
+2
+0
+2
+
+6
+E
+
+Top 7 Hyperscalers' capex aggregated (US$bn)
+
+As % of sales (RHS)
+
++67% YoY
+
++42% YoY
+
++6% YoY
+
+Source: Company data, UBS estimates – includes: Alibaba, Alphabet, Amazon, 
+Baidu, Meta, Microsoft, Tencent
+
+Figure 21: Top 8 Hyperscalers' server procurement 
+aggregate (K units) and YoY growth
+
+-40%
+
+-20%
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+0
+
+400
+
+800
+
+1,200
+
+1,600
+
+2,000
+
+2,400
+
+2,800
+
+1
+Q
+
+1
+6
+
+3
+Q
+
+1
+6
+
+1
+Q
+
+1
+7
+
+3
+Q
+
+1
+7
+
+1
+Q
+
+1
+8
+
+3
+Q
+
+1
+8
+
+1
+Q
+
+1
+9
+
+3
+Q
+
+1
+9
+
+1
+Q
+
+2
+0
+
+3
+Q
+
+2
+0
+
+1
+Q
+
+2
+1
+
+3
+Q
+
+2
+1
+
+1
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+E
+
+3
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+Source: Dell’Oro Group, UBS estimates - includes: Alibaba, Alphabet, Amazon, 
+Baidu, ByteDance, Meta, Microsoft, Tencent
+
+
+
+Memory Semis Monthly 1 May 2025 ab 6
+
+Figure 22: Samsung and SK Hynix – DRAM finished wafers 
+and dies inventories
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+
+1
+Q
+
+1
+4
+
+3
+Q
+
+1
+4
+
+1
+Q
+
+1
+5
+
+3
+Q
+
+1
+5
+
+1
+Q
+
+1
+6
+
+3
+Q
+
+1
+6
+
+1
+Q
+
+1
+7
+
+3
+Q
+
+1
+7
+
+1
+Q
+
+1
+8
+
+3
+Q
+
+1
+8
+
+1
+Q
+
+1
+9
+
+3
+Q
+
+1
+9
+
+1
+Q
+
+2
+0
+
+3
+Q
+
+2
+0
+
+1
+Q
+
+2
+1
+
+3
+Q
+
+2
+1
+
+1
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+Samsung SK Hynix Normal level
+
+(weeks)
+
+1Q25: 7.5
+
+4Q24: 4.5
+
+4Q24: 8.5
+
+1Q25: 5.5
+
+Source: Company data, UBS estimates
+
+Figure 23: Samsung and SK Hynix – NAND finished wafers 
+and dies inventories
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+10
+11
+12
+13
+14
+15
+16
+17
+
+1
+Q
+
+1
+4
+
+3
+Q
+
+1
+4
+
+1
+Q
+
+1
+5
+
+3
+Q
+
+1
+5
+
+1
+Q
+
+1
+6
+
+3
+Q
+
+1
+6
+
+1
+Q
+
+1
+7
+
+3
+Q
+
+1
+7
+
+1
+Q
+
+1
+8
+
+3
+Q
+
+1
+8
+
+1
+Q
+
+1
+9
+
+3
+Q
+
+1
+9
+
+1
+Q
+
+2
+0
+
+3
+Q
+
+2
+0
+
+1
+Q
+
+2
+1
+
+3
+Q
+
+2
+1
+
+1
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+Samsung SK Hynix Normal level
+
+(weeks)
+
+4Q24: 8.5
+
+1Q25: 7.5
+
+1Q25: 10.5
+
+4Q24: 7.0
+
+Source: Company data, UBS estimates
+
+Figure 24: DRAM customer inventories (weeks)
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+1
+Q
+
+2
+2
+
+2
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+4
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+2
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+4
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+E
+
+Server (Hyperscalers) Smartphone OEMs PCs
+
+Source: Company data, UBS estimates
+
+Figure 25: NAND customer inventories (weeks)
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+1
+Q
+
+2
+2
+
+2
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+4
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+2
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+4
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+2
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+4
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+E
+
+Source: Company data, UBS estimates
+
+Figure 26: DRAM industry  wafer starts and YoY  growth
+
+-30%
+
+-20%
+
+-10%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+1,200
+
+1,400
+
+1,600
+
+1,800
+
+2,000
+
+1
+Q
+
+1
+4
+
+3
+Q
+
+1
+4
+
+1
+Q
+
+1
+5
+
+3
+Q
+
+1
+5
+
+1
+Q
+
+1
+6
+
+3
+Q
+
+1
+6
+
+1
+Q
+
+1
+7
+
+3
+Q
+
+1
+7
+
+1
+Q
+
+1
+8
+
+3
+Q
+
+1
+8
+
+1
+Q
+
+1
+9
+
+3
+Q
+
+1
+9
+
+1
+Q
+
+2
+0
+
+3
+Q
+
+2
+0
+
+1
+Q
+
+2
+1
+
+3
+Q
+
+2
+1
+
+1
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+3
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+DRAM wafer starts (k wpm, LHS) YoY growth (%, RHS)
+
+Source: Company data, UBS estimates
+
+Figure 27: NAND flash industry wafer starts and YoY 
+growth
+
+-40%
+
+-30%
+
+-20%
+
+-10%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+1,200
+
+1,400
+
+1,600
+
+1,800
+
+1
+Q
+
+1
+4
+
+3
+Q
+
+1
+4
+
+1
+Q
+
+1
+5
+
+3
+Q
+
+1
+5
+
+1
+Q
+
+1
+6
+
+3
+Q
+
+1
+6
+
+1
+Q
+
+1
+7
+
+3
+Q
+
+1
+7
+
+1
+Q
+
+1
+8
+
+3
+Q
+
+1
+8
+
+1
+Q
+
+1
+9
+
+3
+Q
+
+1
+9
+
+1
+Q
+
+2
+0
+
+3
+Q
+
+2
+0
+
+1
+Q
+
+2
+1
+
+3
+Q
+
+2
+1
+
+1
+Q
+
+2
+2
+
+3
+Q
+
+2
+2
+
+1
+Q
+
+2
+3
+
+3
+Q
+
+2
+3
+
+1
+Q
+
+2
+4
+
+3
+Q
+
+2
+4
+
+1
+Q
+
+2
+5
+
+3
+Q
+
+2
+5
+E
+
+1
+Q
+
+2
+6
+E
+
+3
+Q
+
+2
+6
+E
+
+NAND wafer starts (k wpm, LHS) YoY growth (%, RHS)
+
+Source: Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 7
+
+Figure 28: DRAM industry  bit supply and YoY  growth
+
+0%
+
+5%
+
+10%
+
+15%
+
+20%
+
+25%
+
+30%
+
+35%
+
+40%
+
+45%
+
+0
+
+50,000
+
+100,000
+
+150,000
+
+200,000
+
+250,000
+
+300,000
+
+350,000
+
+400,000
+
+2
+0
+1
+2
+
+2
+0
+1
+3
+
+2
+0
+1
+4
+
+2
+0
+1
+5
+
+2
+0
+1
+6
+
+2
+0
+1
+7
+
+2
+0
+1
+8
+
+2
+0
+1
+9
+
+2
+0
+2
+0
+
+2
+0
+2
+1
+
+2
+0
+2
+2
+
+2
+0
+2
+3
+
+2
+0
+2
+4
+
+2
+0
+2
+5
+E
+
+2
+0
+2
+6
+E
+
+DRAM bit supply (M 1Gb, LHS) YoY growth (%, RHS)
+
+Source: Company data, UBS estimates
+
+Figure 29: NAND flash  industry bit supply and YoY  growth
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+0
+
+200,000
+
+400,000
+
+600,000
+
+800,000
+
+1,000,000
+
+1,200,000
+
+1,400,000
+
+2
+0
+1
+2
+
+2
+0
+1
+3
+
+2
+0
+1
+4
+
+2
+0
+1
+5
+
+2
+0
+1
+6
+
+2
+0
+1
+7
+
+2
+0
+1
+8
+
+2
+0
+1
+9
+
+2
+0
+2
+0
+
+2
+0
+2
+1
+
+2
+0
+2
+2
+
+2
+0
+2
+3
+
+2
+0
+2
+4
+
+2
+0
+2
+5
+E
+
+2
+0
+2
+6
+E
+
+NAND bit supply (M 1GB, LHS) YoY growth (%, RHS)
+
+Source: Company data, UBS estimates
+
+Figure 30: CXMT wafer capacity (k wpm) and as % of 
+DRAM industry
+
+5.6%
+
+7.0%
+
+9.6%
+
+12.0%
+
+13.4%
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+12%
+
+14%
+
+16%
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+2022 2023 2024 2025E 2026E
+
+Wafer capacity (k wpm, LHS) As % of total industry (RHS)
+
+Source: UBS estimates
+
+Figure 31: CXMT bit shipments (Mil Gb) and as % of DRAM 
+industry
+
+0.6%
+
+1.0%
+
+4.3%
+
+7.3%
+
+7.9%
+
+0%
+
+1%
+
+2%
+
+3%
+
+4%
+
+5%
+
+6%
+
+7%
+
+8%
+
+9%
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+30,000
+
+2022 2023 2024 2025E 2026E
+
+Bit shipment (Mil Gb, LHS) As % of total industry (RHS)
+
+Source: UBS estimates
+
+Figure 32: DRAM industry NOCF (US$m) and FCF margin %
+
+-50%
+
+-40%
+
+-30%
+
+-20%
+
+-10%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+-30,000
+
+-20,000
+
+-10,000
+
+0
+
+10,000
+
+20,000
+
+30,000
+
+40,000
+
+50,000
+
+60,000
+
+2
+0
+1
+3
+
+2
+0
+1
+4
+
+2
+0
+1
+5
+
+2
+0
+1
+6
+
+2
+0
+1
+7
+
+2
+0
+1
+8
+
+2
+0
+1
+9
+
+2
+0
+2
+0
+
+2
+0
+2
+1
+
+2
+0
+2
+2
+
+2
+0
+2
+3
+
+2
+0
+2
+4
+
+2
+0
+2
+5
+E
+
+2
+0
+2
+6
+E
+
+DRAM Industry NOCF (US$mil, LHS) FCF margin (%, RHS)
+
+Source: Company data, UBS estimates
+
+Figure 33: NAND industry NOCF (US$m) and FCF margin %
+
+-50%
+
+-40%
+
+-30%
+
+-20%
+
+-10%
+
+0%
+
+10%
+
+20%
+
+30%
+
+-20,000
+
+-15,000
+
+-10,000
+
+-5,000
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+2
+0
+1
+3
+
+2
+0
+1
+4
+
+2
+0
+1
+5
+
+2
+0
+1
+6
+
+2
+0
+1
+7
+
+2
+0
+1
+8
+
+2
+0
+1
+9
+
+2
+0
+2
+0
+
+2
+0
+2
+1
+
+2
+0
+2
+2
+
+2
+0
+2
+3
+
+2
+0
+2
+4
+
+2
+0
+2
+5
+E
+
+2
+0
+2
+6
+E
+
+NAND Industry NOCF (US$mil, LHS) FCF margin (%, RHS)
+
+Source: Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 8
+
+Figure 34: DRAM signposts
+
+WHAT WE EXPECT
+
+1Q25 l DRAM inventory levels DDR5 inventories are now low
+
+We estimate that customer inventories for DRAM are c. 10 weeks for smartphone OEMs,
+
+12 weeks for PC OEMs, 13 weeks for hyperscale customers. Samsung DRAM finished
+
+products inventory days stood at 7.5 weeks the end of March, and for SK Hynix, forward
+
+finished products inventories were 5.5 weeks (incl. HBM). We believe SK Hynix' DDR5
+
+inventories are now 2 weeks only.
+
+2025-26 l Supply outlook Supply dynamics supportive 
+
+Stripping out HBM, we forecast DDR bit shipments in 2025 to grow c. 11% YoY. This will
+
+be insufficient to meet DDR demand during the course of 2025. This in part due to DRAM
+
+industry capacity allocated to DDR only modestly increasing in 2025 to 1.52m wpm (in
+
+4Q25E) from 1.49m in 4Q24, to then come down to 1.47m by 4Q26E. So far, DRAM capex
+
+indications for 2025 are not suggesting a meaningful step up. 
+
+2025-26 l HBM HBM demand forecasts coming down slightly
+
+We forecast HBM bit demand to reach 18.9bn Gb in 2025, up 105% YoY, and 29.1bn in
+
+2026, up 54% YoY. The delays in volume shipments of B200/GB200 servers do not seem
+
+to have materially affected HBM3E 8-Hi demand in the near term. SK Hynix started
+
+shipping HBM3E 12-Hi to Nvidia in 4Q24, well ahead of the expected ramp of the
+
+B300/GB300 from 3Q25 onwards. We expect Micron to start shipping to Nvidia in
+
+April/May. Samsung HBM4E 12 Hi re-design was completed in February, which may lead to
+
+qualification at key customers in 2Q25. As for HBM4, SK Hynix is expected to start
+
+production in early 3Q25, Samsung by 4Q25.
+
+2025-26 l Server DRAM demand Conventional server DRAM demand remains steady
+
+(DDR only - 30% of total bit 
+
+demand in 2025E)
+
+We forecast server units up 5% YoY in 2025 and 3% in 2026. We forecast server DDR
+
+demand to grow 21% YoY in 2025, and 19% in 2026. Once hyperscalers start to re-
+
+accelerate builds, we expect server DDR5 procurement to start to recover.
+
+2025-26 l Mobile DRAM demand Edge AI to gradually help mobile DRAM content growth
+
+(28% of total bit demand in 
+
+2025E)
+
+We forecast mobile DRAM bit end demand growth to be 12% YoY in 2025 and 10% in
+
+2026. We forecast smartphone units to be up 1% YoY in 2025 and flat in 2026. We have
+
+factored in a gradual spec-ing up of mid to high end smartphones to allow for edge gen
+
+AI. This leads us to forecast smartphone DRAM content to move up from 7.2GB in '24, to
+
+8.0GB in '25E and 9.0GB in '26E. We expect the iPhone 17 Pro/Pro Max to move to 12GB,
+
+and the other models to remain at 8GB, while several Android phones will use 16GB.
+
+2025-26 l China DRAM industry CXMT's competitive threat may be overstated 
+
+build-up CXMT's production capacity reached 170k wpm end of 2024, and should be close to 230k
+
+wpm end of '25. So far it has competed in the DDR4 market (19nm) and is now sampling
+
+to customers DDR5 (16nm). The density should not be comparable to incumbents' products
+
+- most of them using sub 15nm process tech. In addition, the ability of CXMT to ship DDR5
+
+in volumes will depend upon its ability to ramp 16nm production, which in turn, could be
+
+negatively affected by export controls.
+
+DATA RELEASE / EVENT DATE
+
+Source: Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 9
+
+Figure 35: NAND Flash signposts
+
+WHAT WE EXPECT
+
+1Q25 l NAND inventory levels NAND inventories have come down at customers, on the high side at suppliers 
+
+We estimate customers' NAND flash inventories are at 11 weeks for SSDs, 9 weeks at
+
+smartphone customers. Samsung's inventories of finished products were 7.5 weeks end of
+
+March and SK Hynix 10.5 weeks (forward).
+
+2025-26 l Supply outlook NAND manufacturers have swiftly cut down production this time 
+
+We do not see any evidence of wafer capacity addition (bar YMTC) in 2025. We believe
+
+Samsung pushed out NAND wafer capacity addition in P4. We note though that as
+
+Samsung converts the Xi'an fabs and P1 to 236L from 128L, its net wafer capacity will
+
+decline from a peak of 650k wpm in 1Q23 to 435k end of '25E. In addition, NAND flash
+
+makers started reducing production from December '24 onwards, including Samsung. This
+
+should help supply / demand in balance by 2Q25E. We expect those cuts to continue for
+
+longer consider end-demand uncertainty on the back of tariffs. 
+
+2025-26 l NAND flash demand Enterprise SSD demand may start to recover in 2Q25
+
+We forecast enterprise SSD bit demand to grow 20% YoY in 2025 and 28% in 2026. In the
+
+near term, enterprise SSD demand started to soften late 2024. Our industry checks point to
+
+a recovery starting at the earliest in 2Q25. Longer term, near-line SSD storage continues to
+
+be supported by AI inference deployment, and server SSD by the need to bring in NAND on
+
+AI servers for training larger LLMs. We are less positive on client (PC) SSD and mobile NAND
+
+demand, as growth in local storage is not a top priority for OEMs.
+
+2025-26 l China's NAND flash build up YMTC continues to gradually add capacity 
+
+YMTC has been facing the US restrictions for 128L equipment as well as servicing of the
+
+installed base, as it is on the Entity List. It is ramping 160L with a process flow reportedly not
+
+using US semis manufacturing equipment. But by doing so, production yields are we believe
+
+challenging. Total production wafer capacity was 130k wpm end of '24, and should reach
+
+160k end of '25E. 
+
+DATA RELEASE / EVENT DATE
+
+Source: Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 10
+
+Memory Semis Monthly UBS Research
+
+Figure 36: UBS DRAM supply/demand summary
+
+ 2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Revenues ($ mil) 54,948 17,796 22,677 25,339 28,585 94,398 25,705 30,541 34,685 37,153 128,083 34,610 35,940 40,053 45,491 156,094
+
+% QoQ -5.2% 27.4% 11.7% 12.8% -10.1% 18.8% 13.6% 7.1% -6.8% 3.8% 11.4% 13.6%
+
+% YoY -31.2% 73.8% 91.6% 79.8% 52.2% 71.8% 44.4% 34.7% 36.9% 30.0% 35.7% 34.6% 17.7% 15.5% 22.4% 21.9%
+
+Supply (Shipments Based) (M 1Gb) 213,341 61,331 65,981 66,182 66,234 259,727 64,936 73,362 79,922 84,391 302,611 81,932 85,778 92,033 96,804 356,548
+
+% QoQ -9.4% 7.6% 0.3% 0.1% -2.0% 13.0% 8.9% 5.6% -2.9% 4.7% 7.3% 5.2%
+
+% YoY 11.5% 49.7% 35.2% 18.4% -2.1% 21.7% 5.9% 11.2% 20.8% 27.4% 16.5% 26.2% 16.9% 15.2% 14.7% 17.8%
+
+Demand (End Consumption) (M 1Gb) 218,890 62,146 63,188 66,515 66,112 257,961 67,450 70,326 78,255 84,775 300,805 79,480 81,937 89,213 96,168 346,798
+
+% QoQ -1.8% 1.7% 5.3% -0.6% 2.0% 4.3% 11.3% 8.3% -6.2% 3.1% 8.9% 7.8%
+
+% YoY 11.6% 32.2% 24.5% 15.0% 4.4% 17.8% 8.5% 11.3% 17.6% 28.2% 16.6% 17.8% 16.5% 14.0% 13.4% 15.3%
+
+Demand ex-HBM (M 1Gb) 216,206 248,730 281,914 317,688
+
+% YoY 10.3% 15.0% 13.3% 12.7%
+
+Inventory adjustment -4,800 -200 5,400 1,100 1,800 8,100 -3,600 3,800 2,300 -300 2,200 1,700 3,700 3,500 2,400 11,300
+
+Inventory Adj. Demand (M 1Gb) 214,090 61,946 68,588 67,615 67,912 266,061 63,850 74,126 80,555 84,475 303,005 81,180 85,637 92,713 98,568 358,098
+
+% QoQ -10.4% 10.7% -1.4% 0.4% -6.0% 16.1% 8.7% 4.9% -3.9% 5.5% 8.3% 6.3%
+
+% YoY 14.7% 54.4% 41.3% 20.0% -1.7% 24.3% 3.1% 8.1% 19.1% 24.4% 13.9% 27.1% 15.5% 15.1% 16.7% 18.2%
+
+Wafer out (k wpm, 12" equi.) 1,423 1,408 1,505 1,599 1,686 1,550 1,729 1,777 1,818 1,852 1,794 1,858 1,876 1,889 1,893 1,879
+
+% QoQ 10.3% 6.9% 6.2% 5.4% 2.5% 2.8% 2.4% 1.8% 0.3% 1.0% 0.7% 0.3%
+
+% YoY -13.4% -12.1% 1.2% 20.4% 32.1% 8.9% 22.7% 18.0% 13.7% 9.8% 15.8% 7.5% 5.6% 3.9% 2.3% 4.7%
+
+% Sufficiency Ratio -0.3% -1.0% -3.8% -2.1% -2.5% -2.4% 1.7% -1.0% -0.8% -0.1% -0.1% 0.9% 0.2% -0.7% 0.0% -0.4%
+
+Blended ASP incl. HBM ($/Gb) 0.26 0.29 0.34 0.38 0.43 0.36 0.40 0.42 0.43 0.44 0.42 0.42 0.42 0.44 0.47 0.44
+
+% QoQ 4.6% 18.4% 11.4% 12.7% -8.3% 5.2% 4.2% 1.4% -4.0% -0.8% 3.9% 8.0%
+
+% YoY -38.3% 16.1% 41.7% 51.8% 55.6% 41.1% 36.4% 21.1% 13.4% 2.0% 16.5% 6.7% 0.6% 0.3% 6.7% 3.4%
+
+DDR ASP ($/Gb) 0.24 0.27 0.32 0.34 0.35 0.32 0.33 0.35 0.35 0.33 0.34 0.30 0.29 0.29 0.30 0.29
+
+% QoQ 13.9% 16.3% 5.9% 4.1% -6.2% 5.0% 2.0% -5.0% -10.0% -5.0% 0.0% 5.0%
+
+% YoY -42.5% 18.9% 44.5% 60.3% 46.0% 33.3% 20.3% 8.6% 4.6% -4.5% 6.5% -8.4% -17.2% -18.8% -10.2% -13.8%
+
+HBM ASP ($/Gb) 1.12 1.20 1.26 1.36 1.27 1.32 1.48 1.52 1.56 1.48 1.58 1.63 1.69 1.71 1.66
+
+% QoQ 7.4% 4.8% 8.0% -3.0% 11.6% 2.9% 2.8% 1.3% 3.2% 3.3% 1.0%
+
+% YoY 18.0% 22.6% 20.4% 14.5% 16.3% 19.6% 10.7% 11.1% 9.2% 11.8%
+
+Source: Company data, UBS estimates
+
+ 
+
+Figure 37: DRAM vendors' market share in bit shipments
+
+2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Samsung 45.0% 44.4% 43.3% 43.2% 38.0% 42.2% 39.4% 39.2% 39.5% 39.9% 39.5% 39.3% 39.1% 39.4% 37.9% 38.9%
+
+SK Hynix 30.0% 26.1% 29.6% 29.0% 30.4% 28.8% 28.9% 29.0% 29.0% 28.7% 28.9% 27.4% 28.0% 28.7% 30.9% 28.8%
+
+Micron 22.2% 25.0% 22.0% 21.9% 24.3% 23.3% 22.8% 23.1% 22.9% 22.8% 22.9% 24.2% 23.8% 22.6% 21.9% 23.1%
+
+Nanya Tech 1.4% 1.5% 1.3% 1.0% 0.9% 1.2% 0.9% 1.0% 1.2% 1.3% 1.1% 1.1% 1.0% 1.2% 1.3% 1.1%
+
+CXMT 1.0% 2.7% 3.5% 4.6% 6.1% 4.3% 7.7% 7.4% 7.1% 7.1% 7.3% 7.7% 7.9% 7.9% 7.9% 7.9%
+
+Others 0.4% 0.3% 0.3% 0.3% 0.3% 0.3% 0.3% 0.3% 0.3% 0.3% 0.3% 0.3% 0.2% 0.2% 0.2% 0.2%
+
+Total Supply 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+
+Source: Gartner, Company data, UBS estimates
+
+ 
+
+Figure 38: DRAM vendors' bit shipments QoQ and YoY growth 
+
+2023  
+
+YoY
+
+Q124  
+
+QoQ
+
+Q224 
+
+QoQ
+
+Q324 
+
+QoQ
+
+Q424 
+
+QoQ
+
+2024  
+
+YoY
+
+Q125  
+
+QoQ
+
+Q225E 
+
+QoQ
+
+Q325E 
+
+QoQ
+
+Q425E 
+
+QoQ
+
+2025E  
+
+YoY
+
+Q126E  
+
+QoQ
+
+Q226E 
+
+QoQ
+
+Q326E 
+
+QoQ
+
+Q426E 
+
+QoQ
+
+2026E  
+
+YoY
+
+Samsung 11.0% -15.0% 5.0% 0.0% -12.0% 14.1% 1.5% 12.5% 9.9% 6.5% 9.0% -4.2% 4.0% 8.2% 1.1% 16.0%
+
+SK Hynix 13.0% -15.0% 21.9% -1.6% 5.0% 17.1% -7.0% 13.4% 8.8% 4.8% 16.8% -7.5% 7.0% 10.0% 13.2% 17.5%
+
+Micron 9.7% 3.0% -5.6% 0.0% 11.0% 27.3% -8.0% 14.6% 8.0% 5.0% 14.7% 3.0% 3.0% 2.0% 2.0% 18.7%
+
+Nanya Tech -5.4% 1.0% -6.9% -23.0% -8.6% 0.6% 3.0% 23.0% 30.0% 9.0% 13.8% -15.0% -3.0% 20.0% 15.0% 18.9%
+
+CXMT 93.0% 101.3% 43.0% 29.9% 32.3% 429.0% 24.8% 8.3% 4.8% 5.1% 100.6% 6.0% 6.8% 7.6% 4.3% 26.5%
+
+Others 2.6% -7.3% 5.3% 2.5% 2.4% 1.9% -4.8% 2.5% 2.4% 2.4% 3.1% -2.3% 0.0% 2.4% 0.0% 2.4%
+
+Bit supply Growth 11.5% -9.4% 7.6% 0.3% 0.1% 21.7% -2.0% 13.0% 8.9% 5.6% 16.5% -2.9% 4.7% 7.3% 5.2% 17.8%
+
+Source: Gartner, Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 11
+
+Figure 39: DRAM vendors' wafers out (k wpm, 12 inch equivalent)
+
+2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Samsung 606 572 600 636 663 618 663 667 668 674 668 676 673 670 659 669
+
+SK Hynix 376 358 391 422 450 405 475 499 519 534 507 539 542 548 555 546
+
+Micron 281 302 293 296 317 302 315 313 311 309 312 307 313 311 309 310
+
+Nanya Tech 52 55 55 56 56 55 56 58 61 65 60 56 58 60 61 59
+
+CXMT 59 72 117 140 150 120 170 190 210 220 198 230 240 250 260 245
+
+Other 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50 50
+
+Total 1,423 1,408 1,505 1,599 1,686 1,550 1,729 1,777 1,818 1,852 1,794 1,858 1,876 1,889 1,893 1,879
+
+% YoY -13.4% -12.1% 1.2% 20.4% 32.1% 8.9% 22.7% 18.0% 13.7% 9.8% 15.8% 7.5% 5.6% 3.9% 2.3% 4.7%
+
+Source: Gartner, Company data, UBS estimates
+
+ 
+
+Figure 40: DRAM bit demand growth by application 
+
+2023  
+
+YoY
+
+Q124  
+
+QoQ
+
+Q224 
+
+QoQ
+
+Q324 
+
+QoQ
+
+Q424 
+
+QoQ
+
+2024  
+
+YoY
+
+Q125  
+
+QoQ
+
+Q225E 
+
+QoQ
+
+Q325E 
+
+QoQ
+
+Q425E 
+
+QoQ
+
+2025E  
+
+YoY
+
+Q126E  
+
+QoQ
+
+Q226E 
+
+QoQ
+
+Q326E 
+
+QoQ
+
+Q426E 
+
+QoQ
+
+2026E  
+
+YoY
+
+Total PC DRAM -7.5% -14.4% 5.6% 12.4% 1.5% 9.0% -7.7% 4.8% 10.6% 5.4% 10.7% -5.7% 4.6% 8.7% 2.9% 13.3%
+
+Desktops -1.4% -7.2% 4.8% 6.9% 10.3% 11.7% -6.1% 1.0% 6.7% 7.8% 11.9% -3.4% 5.5% 4.3% 5.4% 14.0%
+
+Notebooks -1.6% -12.9% 9.0% 16.2% 3.2% 16.7% -8.2% 5.4% 10.7% 6.3% 14.7% -5.7% 4.6% 9.9% 3.2% 14.9%
+
+Upgrade Modules -30.9% -30.0% -9.0% 1.1% -29.3% -26.6% -8.1% 12.2% 22.4% -8.3% -18.4% -13.4% 1.9% 12.0% -8.4% -3.5%
+
+Servers 8.2% 23.4% 3.2% 4.4% -5.6% 42.2% 18.4% 7.4% 7.1% 5.5% 29.5% -0.6% 6.7% 8.5% 8.6% 21.8%
+
+Graphics 13.3% -30.1% 13.1% -2.0% -10.7% -6.8% 13.0% -0.8% 3.9% 7.5% 9.3% -11.3% 10.9% 0.1% 1.6% 3.4%
+
+Game Consoles 25.4% -13.7% 4.9% 4.5% -5.9% 2.1% 2.2% 2.3% 4.2% -8.5% 2.6% 5.5% 2.3% 4.2% -8.5% 2.9%
+
+HDTVs 8.1% -22.6% 7.0% 12.0% 15.3% 12.8% -17.5% 1.9% 11.0% 14.7% 9.0% -19.0% 2.5% 16.1% 14.5% 8.2%
+
+Total Mobile DRAM 9.9% -7.9% 1.0% 13.9% 7.0% 19.0% -6.6% -2.7% 14.1% 8.3% 12.1% -6.8% -3.4% 11.8% 8.2% 10.2%
+
+Smartphones 10.9% -7.5% 0.0% 14.7% 7.3% 20.2% -6.0% -3.8% 15.2% 8.2% 12.8% -6.0% -4.3% 12.7% 8.2% 11.0%
+
+Apple 12.1% -30.7% -12.2% 23.5% 52.6% 22.7% -31.8% -14.4% 37.5% 58.8% 19.8% -30.8% -15.3% 26.7% 56.6% 21.5%
+
+Samsung 0.4% 26.3% -12.3% 13.2% -11.5% 14.2% 26.2% -12.2% 7.7% -6.4% 9.7% 22.0% -10.7% 12.9% -6.8% 11.8%
+
+Non-Apple/Samsung 14.7% -8.2% 8.4% 13.2% 1.6% 21.5% -5.1% 2.2% 12.4% -1.6% 11.7% -2.7% 1.6% 8.8% -2.2% 7.4%
+
+Tablet PCs 1.7% -13.8% 13.0% 6.0% 3.3% 7.4% -14.0% 12.0% 1.1% 8.9% 4.6% -16.9% 9.6% 1.4% 8.8% 1.0%
+
+Others 28.3% -7.4% -3.3% -7.3% -6.4% -1.0% -1.6% 10.4% 17.5% 15.3% 9.2% -13.1% 4.2% 5.9% 8.7% 15.3%
+
+Total Bit Demand 11.6% -1.8% 1.7% 5.3% -0.6% 17.8% 2.0% 4.3% 11.3% 8.3% 16.6% -6.2% 3.1% 8.9% 7.8% 15.3%
+
+Source: Gartner, Company data, UBS estimates
+
+ 
+
+Figure 41: DRAM content assumptions (MB/unit) by application 
+
+2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Total PC 10,302 11,127 11,443 11,924 12,488 11,761 12,688 12,939 13,201 13,509 13,101 13,911 14,387 14,854 15,362 14,642
+
+% YoY 16% 19% 12% 12% 15% 14% 14% 13% 11% 8% 11% 10% 11% 13% 14% 12%
+
+Desktops 10,091 10,990 11,290 11,790 12,295 11,609 12,495 12,695 12,995 13,195 12,855 13,595 14,095 14,595 15,095 14,353
+
+Notebooks 10,696 11,621 11,921 12,421 12,941 12,258 13,141 13,441 13,741 14,041 13,611 14,441 14,941 15,441 15,941 15,208
+
+Upgrade Modules 9,201 9,400 9,500 9,600 9,700 9,534 9,900 10,100 10,300 10,500 10,217 10,700 10,900 11,100 11,300 11,002
+
+Servers 624,497 729,451 774,451 820,551 870,826 795,937 919,826 962,326 1,007,326 1,050,429 986,088 1,090,429 1,130,429 1,186,429 1,243,636 1,164,829
+
+% YoY 17% 27% 30% 29% 27% 27% 26% 24% 23% 21% 24% 19% 17% 18% 18% 18%
+
+Smartphones 6,300 6,954 7,054 7,306 7,470 7,208 7,677 7,793 8,171 8,499 8,049 8,749 8,690 8,944 9,300 8,932
+
+% YoY 14% 17% 15% 14% 12% 14% 10% 10% 12% 14% 12% 14% 12% 9% 9% 11%
+
+Apple 5,725 6,800 7,000 7,300 7,600 7,228 7,600 7,700 8,940 9,590 8,611 9,690 9,690 10,400 11,200 10,366
+
+Samsung 6,859 7,839 7,635 8,047 7,946 7,869 8,619 8,553 8,849 8,817 8,707 9,696 9,658 9,949 9,974 9,820
+
+Non-Apple/Samsung 6,308 6,700 6,900 7,100 7,300 7,012 7,400 7,600 7,800 8,000 7,706 8,200 8,200 8,300 8,400 8,277
+
+Source: Gartner, Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 12
+
+Figure 42: UBS Server DRAM bottom-up model
+
+2019 2020 2021 2022 2023 2024 2025E 2026E
+
+Total Server shipments (K unit) 12,585 12,915 13,368 13,027 12,032 13,424 14,032 14,471
+
+% YoY -2.8% 2.6% 3.5% -2.6% -7.6% 11.6% 4.5% 3.1%
+
+Traditional enterprise 6,076 4,768 4,546 3,111 2,149 1,960 1,882 1,769
+
+% YoY -2.0% -21.5% -4.7% -31.6% -30.9% -8.8% -4.0% -6.0%
+
+% of total 48.3% 36.9% 34.0% 23.9% 17.9% 14.6% 13.4% 12.2%
+
+Hyperscalers 6,509 8,147 8,822 9,915 9,883 11,464 12,150 12,702
+
+% YoY -3.6% 25.2% 8.3% 12.4% -0.3% 16.0% 6.0% 4.5%
+
+% of total 51.7% 63.1% 66.0% 76.1% 82.1% 85.4% 86.6% 87.8%
+
+Standard servers 5,941 7,313 7,837 8,823 8,702 9,466 10,125 10,483
+
+% YoY -5.5% 23.1% 7.2% 12.6% -1.4% 8.8% 7.0% 3.5%
+
+% of total hyperscalers 91.3% 89.8% 88.8% 89.0% 88.0% 82.6% 83.3% 82.5%
+
+% of total servers 47.2% 56.6% 58.6% 67.7% 72.3% 70.5% 72.2% 72.4%
+
+AI Servers 300 520 630 730 811 1,614 1,625 1,798
+
+% YoY 50.0% 73.3% 21.2% 15.9% 11.1% 98.9% 0.7% 10.7%
+
+% of total hyperscalers 4.6% 6.4% 7.1% 7.4% 8.2% 14.1% 13.4% 14.2%
+
+% of total servers 2.4% 4.0% 4.7% 5.6% 6.7% 12.0% 11.6% 12.4%
+
+Database servers 267 314 356 363 370 385 400 420
+
+% YoY 3.0% 17.6% 13.2% 2.0% 2.0% 4.0% 4.0% 5.0%
+
+% of total hyperscalers 4.1% 3.9% 4.0% 3.7% 3.7% 3.4% 3.3% 3.3%
+
+% of total servers 2.1% 2.4% 2.7% 2.8% 3.1% 2.9% 2.9% 2.9%
+
+Avg. DRAM content (GB) 296 410 474 518 615 774 963 1,138
+
+% YoY 24.7% 38.2% 15.8% 9.3% 18.7% 25.9% 24.3% 18.1%
+
+Traditional enterprise 234 298 340 349 383 390 420 440
+
+% YoY 23.3% 27.5% 14.2% 2.6% 9.7% 1.8% 7.7% 4.8%
+
+Hyperscalers Blended 355 475 544 572 666 840 1,047 1,235
+
+% YoY 25.8% 33.8% 14.4% 5.1% 16.4% 26.2% 24.6% 17.9%
+
+Standard servers 323 432 484 508 547 570 620 670
+
+% YoY 24.5% 33.9% 12.2% 4.9% 7.7% 4.2% 8.8% 8.1%
+
+AI servers 560 680 770 850 1,467 2,220 3,486 4,324
+
+% YoY 19.1% 21.4% 13.2% 10.4% 72.6% 51.3% 57.0% 24.0%
+
+Total DRAM Demand (mn Gb) 29,850 42,341 50,745 54,033 59,216 83,166 108,097 131,687
+
+% YoY 21.1% 41.8% 19.8% 6.5% 9.6% 40.4% 30.0% 21.8%
+
+Total DRAM Demand ex-HBM (mn Gb) 29,850 42,341 50,745 54,033 56,532 73,935 89,206 102,577
+
+% YoY 21.1% 41.8% 19.8% 6.5% 4.6% 30.8% 20.7% 15.0%
+
+Traditional enterprise 11,355 11,359 12,367 8,687 6,584 6,115 6,322 6,226
+
+% YoY 20.8% 0.0% 8.9% -29.8% -24.2% -7.1% 3.4% -1.5%
+
+Hyperscalers 18,495 30,983 38,378 45,345 52,633 77,051 101,775 125,461
+
+% YoY 21.3% 67.5% 23.9% 18.2% 16.1% 46.4% 32.1% 23.3%
+
+Standard servers 15,335 25,264 30,373 35,855 38,080 43,163 50,220 56,191
+
+% YoY 17.6% 64.8% 20.2% 18.0% 6.2% 13.3% 16.3% 11.9%
+
+AI servers 1,344 2,829 3,881 4,964 9,522 28,655 45,313 62,212
+
+% YoY 78.7% 110.5% 37.2% 27.9% 91.8% 200.9% 58.1% 37.3%
+
+HBM DRAM Demand 2,684 9,231 18,891 29,110
+
+% YoY 244.0% 104.6% 54.1%
+
+DDR DRAM Demand 6,838 19,424 26,422 33,102
+
+% YoY 184.1% 36.0% 25.3%
+
+Database Servers 1,816 2,890 4,125 4,526 5,031 5,232 6,242 7,058
+
+% YoY 25.1% 59.1% 42.7% 9.7% 11.2% 4.0% 19.3% 13.1%
+
+Source: Dell’Oro Group, Gartner, Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 13
+
+Figure 43: UBS bottom-up server procurement model (K units)
+
+(K Units) 2021 2022 2023 2024 1Q25E 2Q25E 3Q25E 4Q25E 2025E 1Q26E 2Q26E 3Q26E 4Q26E 2026E
+
+Quarterly
+
+Alphabet 838 1,039 1,085 1,241 270 310 305 330 1,215 290 320 300 330 1,240
+
+AWS 1,797 2,237 2,131 2,622 650 660 690 690 2,690 640 660 720 730 2,750
+
+Microsoft 1,088 1,056 1,274 1,523 370 380 390 430 1,570 380 400 410 430 1,620
+
+Meta 1,817 2,192 2,027 2,252 550 550 560 580 2,240 530 550 570 590 2,240
+
+Baidu 108 71 70 47 8 11 10 12 41 9 12 11 12 44
+
+Alibaba 421 376 188 291 84 95 105 105 389 90 97 110 108 405
+
+Tencent 269 118 149 202 68 70 73 78 289 70 73 79 83 305
+
+ByteDance 223 358 550 761 220 230 250 260 960 240 280 290 305 1,115
+
+Total Top 8 6,560 7,448 7,473 8,939 2,220 2,306 2,383 2,485 9,394 2,249 2,392 2,490 2,588 9,719
+
+% YoY 11.4% 13.5% 0.3% 19.6% 2.5% 10.9% 15.9% -5.7% 5.1% 1.3% 3.7% 4.5% 4.1% 3.5%
+
+% QoQ -15.8% 3.9% 3.3% 4.3% -9.5% 6.4% 4.1% 3.9%
+
+Others 2,262 2,468 2,410 2,525 615 672 711 758 2,756 699 715 760 809 2,983
+
+Total hyperscale 8,822 9,915 9,883 11,464 2,835 2,978 3,094 3,243 12,150 2,948 3,107 3,250 3,397 12,702
+
+% YoY 8.3% 12.4% -0.3% 16.0% 4.7% 10.4% 10.4% -0.4% 6.0% 4.0% 4.3% 5.0% 4.7% 4.5%
+
+% QoQ -12.9% 5.0% 3.9% 4.8% -9.1% 5.4% 4.6% 4.5%
+
+YoY (%)
+
+Alphabet 8.8% 24.0% 4.4% 14.4% -17.9% -19.4% 18.5% 22.2% -2.1% 7.4% 3.2% -1.6% 0.0% 2.1%
+
+AWS 35.4% 24.5% -4.7% 23.0% 38.2% 40.5% -4.0% -28.3% 2.6% -1.5% 0.0% 4.3% 5.8% 2.2%
+
+Microsoft -0.1% -2.9% 20.6% 19.5% -14.6% 0.3% 18.4% 12.8% 3.1% 2.7% 5.3% 5.1% 0.0% 3.2%
+
+Meta 1.1% 20.7% -7.5% 11.1% -6.4% -4.0% 30.2% -12.3% -0.5% -3.6% 0.0% 1.8% 1.7% 0.0%
+
+Baidu 107.9% -34.0% -1.6% -32.5% -43.3% -13.1% -1.5% 15.3% -13.4% 12.5% 9.1% 10.0% 0.0% 7.3%
+
+Alibaba 7.5% -10.6% -50.2% 55.2% 22.4% 57.4% 49.4% 14.5% 33.7% 7.1% 2.1% 4.8% 2.9% 4.1%
+
+Tencent -17.9% -56.1% 25.9% 35.7% 46.4% 53.0% 13.4% 71.3% 43.0% 2.9% 4.3% 8.2% 6.4% 5.5%
+
+ByteDance 66.0% 60.6% 53.8% 38.4% 1.4% 48.9% 42.0% 21.6% 26.1% 9.1% 21.7% 16.0% 17.3% 16.1%
+
+Source: Dell’Oro Group, Company data, UBS estimates
+
+ 
+
+Figure 44: UBS NAND Flash supply/demand summary
+
+2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Revenues ($ mil) 31,585 12,019 13,831 14,622 13,886 54,359 10,925 12,583 13,787 13,326 50,621 10,701 10,348 11,299 12,342 44,689
+
+% QoQ 25.1% 15.1% 5.7% -5.0% -21.3% 15.2% 9.6% -3.3% -19.7% -3.3% 9.2% 9.2%
+
+% YoY -35.4% 76.4% 87.4% 87.8% 44.6% 72.1% -9.1% -9.0% -5.7% -4.0% -6.9% -2.1% -17.8% -18.0% -7.4% -11.7%
+
+Supply (Shipments Based) (M 1GB) 759,298 218,844 218,991 220,489 218,121 876,445 206,755 231,201 261,144 271,424 970,524 256,411 275,496 300,832 312,944 1,145,683
+
+% QoQ 1.7% 0.1% 0.7% -1.1% -5.2% 11.8% 13.0% 3.9% -5.5% 7.4% 9.2% 4.0%
+
+% YoY 17.2% 39.0% 17.5% 10.0% 1.4% 15.4% -5.5% 5.6% 18.4% 24.4% 10.7% 24.0% 19.2% 15.2% 15.3% 18.0%
+
+Demand (End Consumption) (M 1GB) 814,858 221,097 224,276 242,419 251,519 939,310 239,476 245,756 266,876 295,002 1,047,110 274,914 281,999 300,694 326,691 1,184,299
+
+% QoQ -7.6% 1.4% 8.1% 3.8% -4.8% 2.6% 8.6% 10.5% -6.8% 2.6% 6.6% 8.6%
+
+% YoY 21.2% 25.7% 21.2% 13.0% 5.1% 15.3% 8.3% 9.6% 10.1% 17.3% 11.5% 14.8% 14.7% 12.7% 10.7% 13.1%
+
+Inventory adjustment -57,500 8,600 1,500 -19,600 -35,000 -44,500 -39,500 -13,000 -7,500 -27,200 -87,200 -26,000 -12,000 0 -10,500 -48,500
+
+Inventory Adj. Demand (M 1GB) 757,358 229,697 225,776 222,819 216,519 894,810 199,976 232,756 259,376 267,802 959,910 248,914 269,999 300,694 316,191 1,135,799
+
+% QoQ 3.5% -1.7% -1.3% -2.8% -7.6% 16.4% 11.4% 3.2% -7.1% 8.5% 11.4% 5.2%
+
+% YoY 19.6% 50.7% 23.3% 11.4% -2.4% 18.1% -12.9% 3.1% 16.4% 23.7% 7.3% 24.5% 16.0% 15.9% 18.1% 18.3%
+
+Wafer out (k wpm, 12" equi.) 1,388 1,147 1,257 1,347 1,427 1,294 1,421 1,288 1,268 1,297 1,318 1,355 1,363 1,360 1,368 1,361
+
+% QoQ 2.6% 9.6% 7.1% 6.0% -0.4% -9.4% -1.5% 2.3% 4.4% 0.5% -0.2% 0.6%
+
+% YoY -20.1% -32.0% -14.3% 5.0% 27.7% -6.8% 23.9% 2.5% -5.8% -9.1% 1.9% -4.6% 5.8% 7.2% 5.4% 3.2%
+
+% Sufficiency Ratio 0.3% -4.7% -3.0% -1.0% 0.7% -2.1% 3.4% -0.7% 0.7% 1.4% 1.1% 3.0% 2.0% 0.0% -1.0% 0.9%
+
+NAND ASP ($/1GB) 0.04 0.05 0.06 0.07 0.06 0.06 0.05 0.05 0.05 0.05 0.05 0.04 0.04 0.04 0.04 0.04
+
+% QoQ 23.0% 15.0% 5.0% -4.0% -17.0% 3.0% -3.0% -7.0% -15.0% -10.0% 0.0% 5.0%
+
+% YoY -44.9% 26.8% 59.4% 70.8% 42.6% 49.1% -3.8% -13.8% -20.4% -22.9% -15.9% -21.0% -31.0% -28.9% -19.7% -25.2%
+
+Source: Company data, UBS estimates
+
+ 
+
+Figure 45: NAND Flash vendors market share in bit shipments
+
+2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Samsung 33.5% 36.4% 34.6% 32.6% 31.8% 33.8% 30.2% 31.1% 31.6% 31.0% 31.0% 29.3% 29.6% 30.1% 30.4% 29.9%
+
+Kioxia 15.4% 14.6% 16.4% 17.9% 17.2% 16.5% 17.2% 16.2% 16.4% 15.8% 16.4% 16.6% 16.5% 15.9% 15.3% 16.0%
+
+SanDisk 13.3% 11.3% 10.3% 11.6% 13.0% 11.6% 12.9% 12.0% 11.6% 12.0% 12.1% 12.5% 12.1% 11.7% 11.3% 11.9%
+
+SK Hynix 19.6% 18.4% 17.8% 15.0% 14.4% 16.4% 12.7% 14.0% 15.4% 17.0% 14.9% 14.4% 14.7% 14.6% 15.3% 14.8%
+
+Micron 11.9% 11.1% 12.1% 12.9% 12.6% 12.2% 13.8% 13.8% 11.8% 11.2% 12.5% 12.2% 12.2% 12.4% 12.2% 12.3%
+
+YMTC 5.5% 7.4% 8.0% 9.1% 10.0% 8.6% 12.3% 12.1% 12.3% 12.1% 12.2% 14.1% 14.1% 14.5% 14.9% 14.4%
+
+Total Bit Supply 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+
+Source: Gartner, Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 14
+
+Figure 46: NAND Flash bit shipments QoQ and YoY growth 
+
+2023  
+
+YoY
+
+Q124 
+
+QoQ
+
+Q224 
+
+QoQ
+
+Q324 
+
+QoQ
+
+Q424 
+
+QoQ
+
+2024  
+
+YoY
+
+Q125 
+
+QoQ
+
+Q225E 
+
+QoQ
+
+Q325E 
+
+QoQ
+
+Q425E 
+
+QoQ
+
+2025E  
+
+YoY
+
+Q126E 
+
+QoQ
+
+Q226E 
+
+QoQ
+
+Q326E 
+
+QoQ
+
+Q426E 
+
+QoQ
+
+2026E  
+
+YoY
+
+Samsung 19.3% -1.0% -5.0% -5.0% -3.5% 16.7% -10.0% 15.0% 14.9% 2.0% 1.5% -10.6% 8.2% 11.2% 5.0% 13.7%
+
+Kioxia 9.2% 12.5% 12.5% 10.0% -5.0% 23.8% -5.0% 5.0% 15.0% 0.0% 9.9% -1.0% 7.0% 5.0% 0.0% 15.6%
+
+SanDisk 18.9% -13.1% -9.3% 14.2% 10.6% 0.4% -6.0% 4.0% 9.0% 8.0% 15.8% -2.0% 4.0% 6.0% 0.0% 15.8%
+
+SK Hynix 19.1% 0.0% -3.2% -15.0% -5.0% -3.1% -16.8% 23.3% 24.7% 14.8% 0.8% -20.0% 9.1% 9.1% 8.5% 16.6%
+
+Micron 27.2% -2.5% 9.5% 7.0% -3.1% 18.4% 3.5% 12.0% -3.0% -2.0% 14.0% 3.0% 8.0% 11.0% 2.0% 15.6%
+
+YMTC 1.9% 49.1% 8.2% 13.9% 9.3% 81.1% 15.7% 10.6% 14.5% 2.7% 56.3% 10.0% 7.5% 11.6% 7.1% 39.6%
+
+Total Bit Supply 17.2% 1.7% 0.1% 0.7% -1.1% 15.4% -5.2% 11.8% 13.0% 3.9% 10.7% -5.5% 7.4% 9.2% 4.0% 18.0%
+
+Source: Gartner, Company data, UBS estimates
+
+ 
+
+Figure 47: NAND Flash vendors wafers out (k wpm, 12 inch equivalent) 
+
+2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Samsung 525 362 425 445 475 427 471 449 423 398 435 409 423 416 409 414
+
+Kioxia / SanDisk 442 400 400 430 450 420 470 400 400 441 428 480 470 460 450 465
+
+SK Hynix 205 166 182 220 242 202 218 189 185 181 193 176 170 174 189 177
+
+Micron 125 129 140 137 135 135 132 111 111 117 118 130 130 130 130 130
+
+YMTC 91 90 110 115 125 110 130 140 150 160 145 160 170 180 190 175
+
+Total 1,388 1,147 1,257 1,347 1,427 1,294 1,421 1,288 1,268 1,297 1,318 1,355 1,363 1,360 1,368 1,361
+
+% YoY -20.1% -32.0% -14.3% 5.0% 27.7% -6.8% 23.9% 2.5% -5.8% -9.1% 1.9% -4.6% 5.8% 7.2% 5.4% 3.2%
+
+Source: Gartner, Company data, UBS estimates
+
+ 
+
+Figure 48: NAND Flash bit demand growth by application
+
+2023  
+
+YoY
+
+Q124  
+
+QoQ
+
+Q224 
+
+QoQ
+
+Q324 
+
+QoQ
+
+Q424 
+
+QoQ
+
+2024  
+
+YoY
+
+Q125  
+
+QoQ
+
+Q225E 
+
+QoQ
+
+Q325E 
+
+QoQ
+
+Q425E 
+
+QoQ
+
+2025E  
+
+YoY
+
+Q126E  
+
+QoQ
+
+Q226E 
+
+QoQ
+
+Q326E 
+
+QoQ
+
+Q426E 
+
+QoQ
+
+2026E  
+
+YoY
+
+Total Embedded 22.3% -7.3% 1.5% 8.1% 4.0% 16.1% -4.4% 2.7% 8.7% 11.0% 12.4% -6.7% 2.6% 6.7% 8.8% 13.7%
+
+Smartphones 18.4% -14.6% -7.2% 20.6% 15.4% 14.0% -11.6% -10.1% 13.4% 17.0% 8.2% -12.6% -6.9% 11.8% 17.1% 6.3%
+
+iPhones 27.7% -30.1% -13.2% 31.0% 47.7% 18.4% -29.0% -16.4% 17.2% 48.1% 8.7% -30.8% -12.8% 22.1% 49.6% 6.6%
+
+Samsung -3.0% 35.0% -18.3% 15.0% -17.7% 10.3% 42.2% -15.0% 5.1% -10.0% 10.4% 32.6% -11.0% 2.2% -9.0% 8.9%
+
+Non- iPhone/Samsung 21.7% -13.0% 5.3% 14.4% -1.2% 11.1% -6.4% -0.5% 13.8% -0.5% 6.6% -5.1% 1.6% 7.5% -3.3% 4.6%
+
+Tablet PCs 9.2% -16.4% 25.0% 3.7% 5.2% 23.7% -17.6% 22.9% -4.0% 14.2% 8.9% -25.3% 22.4% -2.5% 13.9% 1.1%
+
+SSD-Total 25.8% -3.2% 3.2% 4.8% -1.1% 18.1% 0.4% 6.7% 9.0% 8.9% 15.6% -2.4% 5.1% 6.3% 5.7% 19.6%
+
+SSD (notebooks) 12.0% -14.1% 7.6% 13.0% 0.3% 11.3% -7.4% 5.5% 10.8% 6.5% 11.9% -7.2% 2.2% 7.5% 2.1% 9.6%
+
+SSD (servers) 5.4% 17.6% -1.3% 2.7% -9.7% 29.9% 16.6% 8.3% 7.8% 9.3% 23.4% -1.0% 7.4% 7.8% 7.9% 25.1%
+
+SSD (storage) 72.8% 0.3% 4.5% 4.3% 5.0% 37.9% -8.2% 7.5% 11.3% 14.4% 13.9% 5.3% 4.7% 4.6% 4.5% 33.2%
+
+SSD (others) 48.4% -14.5% 4.5% 0.8% 3.9% 3.9% -3.5% 5.4% 7.6% 7.0% 10.9% -5.0% 4.7% 4.6% 6.7% 12.9%
+
+Total Flash cards -4.5% -19.7% -0.7% 8.6% -7.4% -11.7% -21.4% -4.1% 3.4% -16.6% -27.2% -14.9% -3.6% 3.3% -12.2% -28.5%
+
+Mobile Phones - Flash cards -42.2% -10.4% -1.3% 4.4% 3.8% -1.7% -6.0% -1.4% 10.2% -2.7% 1.6% -1.6% -1.1% 8.4% -5.2% 2.8%
+
+Total Bit Demand 21.2% -7.6% 1.4% 8.1% 3.8% 15.3% -4.8% 2.6% 8.6% 10.5% 11.5% -6.8% 2.6% 6.6% 8.6% 13.1%
+
+Source: Gartner, Company data, UBS estimates
+
+ 
+
+Figure 49: NAND Flash content assumptions (GB/unit) by application
+
+ 2023 Q124 Q224 Q324 Q424 2024 Q125 Q225E Q325E Q425E 2025E Q126E Q226E Q326E Q426E 2026E
+
+Smartphones - Blended 168 173 170 195 206 187 197 187 193 217 199 207 200 203 232 211
+
+% YoY 26% 12% 12% 12% 9% 11% 13% 10% -1% 5% 7% 5% 7% 5% 7% 6%
+
+  iPhones 378 438 445 493 497 461 517 512 507 507 498 512 527 545 561 527
+
+  Samsung 176 206 187 201 184 195 225 216 218 209 217 250 248 231 226 239
+
+  Non- iPhone/Samsung 123 122 122 127 127 125 127 127 132 137 131 137 137 137 137 137
+
+SSD - Notebook PCs 597 630 621 660 679 648 689 694 713 739 710 743 751 764 783 761
+
+% YoY 23% 14% 9% 7% 6% 9% 9% 12% 8% 9% 10% 8% 8% 7% 6% 7%
+
+SSD- Servers 2,752 3,072 3,121 3,170 3,219 3,143 3,267 3,365 3,463 3,658 3,445 3,697 3,775 3,853 3,931 3,820
+
+% YoY 19% 24% 18% 12% 6% 14% 6% 8% 9% 14% 10% 13% 12% 11% 7% 11%
+
+SSD- Storage 7,759 8,755 8,779 8,804 8,901 8,812 9,194 9,487 9,780 10,073 9,661 10,269 10,415 10,562 10,708 10,494
+
+% YoY 38% 32% 20% 10% 2% 14% 5% 8% 11% 13% 10% 12% 10% 8% 6% 9%
+
+Source: Gartner, Company data, UBS estimates
+
+
+
+Memory Semis Monthly 1 May 2025 ab 15
+
+Figure 50: UBS Global Memory / Semicap valuation comparisons
+
+Current Price EV/Sales EV/EBITDA PE PBV
+
+Company name Rating Price Target '25E '26E '27E '25E '26E '27E '25E '26E '27E '25E '26E '27E
+
+Memory
+
+Micron Technology Buy US$76.88 US$92 2.5 2.1 1.9 5.1 4.1 3.4 10.5 8.1 6.1 1.64 1.42 1.21
+
+Nanya Tech Buy NT$36 NT$50 1.3 1.2 0.7 5.6 2.5 1.1 NM 9.2 3.3 0.68 0.63 0.54
+
+Samsung Electronics Buy Won55,500 Won65000 0.8 0.8 0.7 3.5 3.7 2.4 10.9 12.2 6.3 0.92 0.88 0.79
+
+SK Hynix Buy Won177,500 Won262000 1.6 1.4 1.1 2.8 2.6 1.8 4.4 4.6 2.8 1.30 1.07 0.82
+
+Average 1.6 1.4 1.1 4.3 3.2 2.2 8.6 8.5 4.6 1.14 1.00 0.84
+
+Semicap Equipment
+
+AccoTEST Neutral Rmb145.18 Rmb105 16.1 13.2 10.5 40.6 33.3 26.7 45.2 37.8 31.8 5.14 4.69 4.25
+
+Advantest Neutral ¥5,863 ¥6400 5.0 4.4 4.0 13.0 11.4 10.2 19.9 17.5 16.4 6.98 5.22 4.17
+
+AMEC Buy Rmb188.26 Rmb238 8.7 6.6 5.3 42.1 27.8 19.4 51.5 33.2 23.6 5.37 4.69 4.01
+
+Applied Materials Neutral (CBE) US$149.55 US$175 4.3 4.1 3.8 13.7 13.2 12.0 15.9 15.4 13.8 6.21 5.72 5.13
+
+ASMPT Buy HK$52.20 HK$77 1.3 1.1 1.0 10.0 6.1 5.0 32.0 15.0 11.7 1.38 1.30 1.23
+
+ASMI Neutral €425.50 €610 5.3 4.1 3.6 14.9 11.0 9.3 25.0 18.5 15.6 4.87 4.09 3.45
+
+ASML Neutral €589.80 €610 7.1 7.2 6.1 20.4 21.7 16.7 26.0 27.4 20.7 11.60 10.87 9.75
+
+BE Semiconductor Buy €96.84 €126.9 11.6 8.7 6.6 30.8 20.1 14.0 44.5 26.6 18.1 18.60 15.65 12.90
+
+Disco Neutral ¥27,620 ¥38600 6.6 6.1 5.7 14.4 12.7 11.8 23.5 21.0 19.9 5.46 4.87 4.35
+
+Eugene Technology Neutral Won34,000 Won47000 1.7 1.4 1.3 8.3 6.9 6.3 13.5 12.3 12.4 1.69 1.51 1.37
+
+KLA Corporation Neutral US$687.95 US$690 7.7 7.8 7.5 17.4 17.6 16.4 21.8 22.6 20.6 22.81 21.79 19.36
+
+LAM Research Buy US$70.90 US$95 4.9 4.6 3.9 14.5 13.4 11.2 17.6 16.2 13.1 9.27 8.88 8.28
+
+Lasertec Neutral ¥13,290 ¥14000 4.6 4.2 3.4 10.5 9.5 7.8 17.2 15.5 12.6 4.93 4.08 3.38
+
+NAURA Technology Buy Rmb450.96 Rmb545 6.0 4.7 3.9 24.3 17.8 14.1 31.7 23.7 19.4 5.50 4.59 3.85
+
+SCREEN Holdings Neutral ¥9,464 ¥11800 1.1 0.9 0.8 4.7 3.9 3.5 9.7 8.9 8.8 1.84 1.64 1.47
+
+Teradyne Buy US$74.89 US$110 3.9 3.0 2.6 16.0 11.0 8.9 20.5 14.0 11.3 4.09 3.80 3.54
+
+Tokyo Electron Neutral ¥21,225 ¥28000 3.7 3.5 3.1 11.6 10.9 9.0 18.2 17.9 14.9 4.39 3.91 3.46
+
+Wonik IPS Neutral Won22,700 Won27000 1.0 0.9 0.8 8.3 7.6 6.0 20.5 17.6 15.5 1.18 1.13 1.08
+
+Average 5.5 4.7 4.0 17.7 14.3 11.6 25.3 20.0 16.5 6.81 6.09 5.33
+
+Source: Company data, UBS estimates. Priced as of April 30, 2025
+
+
+
+Memory Semis Monthly 1 May 2025 ab 16
+
+Valuation Method and Risk Statement
+
+Investing in the technology sector involves a high degree of risk. Rapid technological changes, 
+increasing competition and exposure to macroeconomic cycles are among the many risks 
+faced by investors in technology stocks. Moreover, it is extremely difficult to project the 
+financial results of tech companies since their operating models are highly volatile and 
+unpredictable. Finally, valuing technology stocks can prove challenging, as neither traditional 
+nor non-traditional valuation measures have provided much insight into how these stocks 
+trade.
+
+Samsung: Roughly 1/3 of Samsung’s operating profit comes from mobile phones directly (and 
+more indirectly for components) where we see revenue growth for the industry decelerating 
+as the smartphone market starts to mature. The industry is characterized by product cycles, 
+intense competition and requires significant scale and ongoing expenses for marketing/ 
+promotional activities. Some of its divisions (Memory and Display Panels) operate in industries 
+which are cyclical and characterized by fluctuations in supply, demand and capital spending. 
+Both industries have commodity-like features – although it is to be noted that the DRAM 
+industry is now operating with significantly fewer players than before. Whilst overall cyclical 
+risks have decreased longer term for DRAM (our "Goldilocks scenario"), cyclical corrections 
+will likely occur. Consumer exposure overall at Samsung is universally high across products, 
+although well balanced in terms of geographies. Strength in the Korean Won vs. major 
+currencies can penalize earnings. Being a large component of the KOSPI, Samsung faces 
+country risks as well indirectly. Corporate governance risks re the Samsung group center 
+around some degree of opacity in decision-making, and limited consideration for shareholder 
+returns (this may change). On the flipside, Samsung Electronics is the "crown jewel" of the 
+group and its interests tend to supersede those of other Samsung companies. We value 
+Samsung Electronics ordinary shares at 1.04x NTM P/BV on the back of a LT ROE average 
+forecast of 8.9% and CoE of 8.5%. Our GDR price target comes from using a conversion ratio 
+of 25 from Samsung Electronics common shares (005930.KS) and USD/KRW FX1434.
+
+SK Hynix: Whilst overall cyclical risks have decreased longer term for DRAM (our "Goldilocks 
+scenario"), amidst significant consolidation (3 players, from 15 in 1998) and lower growth, 
+cyclical corrections will still occur as the sector retains commodity-like characteristics. The 
+NAND flash industry structure has not changed as dramatically, but the coming rollout of 3D 
+NAND flash manufacturing is restraining the players' willingness to add large increments of 
+capacity at 2D. That being said, both segments are sensitive in particular to smartphones/
+tablets demand, mix within those segments, and to a lesser extent enterprise spend 
+(enterprise solid state drives, servers). The industry also remains capital-intensive, and with 
+contract prices negotiated every 2 weeks to 3 months, cash flows can change quickly – so 
+adequate capitalization is required. Lastly, the industry may have to move to new memory 
+technologies longer term to supplement, if not replace, current silicon-based Flash and RAM 
+memory structures. We value SK Hynix with a target price-to-book multiple based on long-
+term average ROE vs. cost of equities.
+
+Micron: Memory industry is highly volatile. To arrive at our PT we use a valuation method 
+solely  based on P/TBV. Memory has been fairly correlated to global GDP. Therefore from a 
+macro perspective there could be potential downside to our PT should economic conditions 
+worsen and leading to demand destruction. Should ASP declines be more severe than our 
+expectations, there could be more downside in the stock. Scaling both DRAM and NAND is 
+highly complex and risks on the Technology front abound. There could be further downside 
+should technology migration be slower than we expect. On the upside, while we expect ASPs 
+to decline on account of incremental supply addition, any delays to the timelines could 
+moderate the growth of supply and create an upward bias to ASPs and MU. Other risks 
+include a faster than expected adoption of AI driving up memory content in servers and cars.
+
+Nanya Tech: We have a Buy rating and NT$50 price target based on 1.0x 2025 P/B (vs. its 1-2x 
+P/B range). Our target multiple is below its recent peak of 1.8x as we see the upcycle re-rating 
+catalyst is partially offset by China competition concern. Downside risks: slower than 
+expected memory pricing recovery, aggressive China expansion.
+
+
+
+Memory Semis Monthly 1 May 2025 ab 17
+
+Required Disclosures
+
+This document has been prepared by UBS Securities Pte. Ltd., an affiliate of UBS AG. UBS AG, its subsidiaries, branches and affiliates, 
+including former Credit Suisse AG and its subsidiaries, branches and affiliates are referred to herein as "UBS".
+
+For information on the ways in which UBS manages conflicts and maintains independence of its UBS Global Research product; 
+historical performance information; certain additional disclosures concerning UBS Global Research recommendations; and terms and 
+conditions for certain third party data used in research report, please visit https://www.ubs.com/disclosures. Unless otherwise 
+indicated, information and data in this report are based on company disclosures including but not limited to annual, interim, quarterly 
+reports and other company announcements. The figures contained in performance charts refer to the past; past performance is not a 
+reliable indicator of future results. Additional information will be made available upon request. UBS Securities Co. Limited is licensed to 
+conduct securities investment consultancy businesses by the China Securities Regulatory Commission. UBS acts or may act as principal 
+in the debt securities (or in related derivatives) that may be the subject of this report. This recommendation was finalized on: 01 May 
+2025 07:42 AM GMT. UBS has designated certain UBS Global Research department members as Derivatives Research Analysts where 
+those department members publish research principally on the analysis of the price or market for a derivative, and provide information 
+reasonably sufficient upon which to base a decision to enter into a derivatives transaction. Where Derivatives Research Analysts co-
+author research reports with Equity Research Analysts or Economists, the Derivatives Research Analyst is responsible for the derivatives 
+investment views, forecasts, and/or recommendations. Quantitative Research Review: UBS Global Research publishes a 
+quantitative assessment of its analysts' responses to certain questions about the likelihood of an occurrence of a number of short term 
+factors in a product known as the 'Quantitative Research Review'. Views contained in this assessment on a particular stock reflect only 
+the views on those short term factors which are a different timeframe to the 12-month timeframe reflected in any equity rating set out 
+in this note. For the latest responses, please see the Quantitative Research Review Addendum at the back of this report, where 
+applicable. For previous responses please make reference to (i) previous UBS Global Research reports; and (ii) where no applicable 
+research report was published that month, the Quantitative Research Review which can be found at https://neo.ubs.com/
+quantitative, or contact your UBS sales representative for access to the report or the Quantitative Research Team on ubs-quant-
+answers@ubs.com.  A consolidated report which contains all responses is also available and again you should contact your UBS sales 
+representative for details and pricing or the Quantitative Research team on the email above.
+
+Analyst Certification: 
+Each research analyst primarily responsible for the content of this research report, in whole or in part, certifies that with respect to each 
+security or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about 
+those securities or issuers and were prepared in an independent manner, including with respect to UBS, and (2) no part of his or her 
+compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by that research 
+analyst in the research report.
+
+UBS Global Research: Global Equity Rating Definitions
+
+12-Month Rating Definition Coverage1 IB Services2
+
+Buy FSR is > 6% above the MRA. 52% 24%
+
+Neutral FSR is between -6% and 6% of the MRA. 40% 20%
+
+Sell FSR is > 6% below the MRA. 8% 22%
+
+Short-Term Rating Definition Coverage3 IB Services4
+
+Buy Stock price expected to rise within three months from the time the 
+rating was assigned because of a specific catalyst or event. <1% <1%
+
+Sell Stock price expected to fall within three months from the time the 
+rating was assigned because of a specific catalyst or event. <1% <1%
+
+Source: UBS. Rating allocations are as of 31 March 2025.
+ 1:Percentage of companies under coverage globally within the 12-month rating category.
+ 2:Percentage of companies within the 12-month rating category for which investment banking (IB) services were provided within the 
+past 12 months.
+ 3:Percentage of companies under coverage globally within the Short-Term rating category.
+ 4:Percentage of companies within the Short-Term rating category for which investment banking (IB) services were provided within the 
+past 12 months.
+
+https://www.ubs.com/disclosures
+https://neo.ubs.com/quantitative
+https://neo.ubs.com/quantitative
+mailto:ubs-quant-answers@ubs.com
+mailto:ubs-quant-answers@ubs.com
+
+
+Memory Semis Monthly 1 May 2025 ab 18
+
+KEY DEFINITIONS: Forecast Stock Return (FSR) is defined as expected percentage price appreciation plus gross dividend yield over 
+the next 12 months. In some cases, this yield may be based on accrued dividends. Market Return Assumption (MRA) is defined as 
+the one-year local market interest rate plus 5% (a proxy for, and not a forecast of, the equity risk premium). Under Review (UR) 
+Stocks may be flagged as UR by the analyst, indicating that the stock's price target and/or rating are subject to possible change in the 
+near term, usually in response to an event that may affect the investment case or valuation. Short-Term Ratings reflect the expected 
+near-term (up to three months) performance of the stock and do not reflect any change in the fundamental view or investment case. 
+Equity Price Targets have an investment horizon of 12 months.
+
+EXCEPTIONS AND SPECIAL CASES: UK and European Investment Fund ratings and definitions are: Buy: Positive on factors 
+such as structure, management, performance record, discount; Neutral: Neutral on factors such as structure, management, 
+performance record, discount; Sell: Negative on factors such as structure, management, performance record, discount. Core 
+Banding Exceptions (CBE): Exceptions to the standard +/-6% bands may be granted by the Investment Review Consultation (IRC). 
+Factors considered by the IRC include the stock's volatility and the credit spread of the respective company's debt. As a result, stocks 
+deemed to be very high or low risk may be subject to higher or lower bands as they relate to the rating. When such exceptions apply, 
+they will be identified in the Company Disclosures table in the relevant research piece.
+
+Research analysts contributing to this report who are employed by any non-US affiliate of UBS Securities LLC are not registered/
+qualified as research analysts with FINRA. Such analysts may not be associated persons of UBS Securities LLC and therefore are not 
+subject to the FINRA restrictions on communications with a subject company, public appearances, and trading securities held by a 
+research analyst account. The name of each affiliate and analyst employed by that affiliate contributing to this report, if any, follows.
+
+UBS AG, Singapore Branch: Jimmy Yoon, Luke Yoo, Nicolas Gaudois.UBS AG London Branch: Francois-Xavier Bouvignies, 
+Madeleine Jenkins.UBS Securities Co. Limited: Jimmy Yu.UBS Securities Japan Co., Ltd.: Kenji Yasui, Sean Park.UBS Securities 
+LLC: Gianmarco Vella, Mayur Ramdhani, Timothy Arcuri.UBS Securities Pte. Ltd., Seoul Branch: Sanguk Kim.UBS Securities Pte. 
+Ltd., Taipei Branch: Haas Liu, Randy Abrams, Sunny Lin.
+
+Company Disclosures
+
+Company Name Reuters 12-month rating Price Price date
+
+Micron Technology Inc16,28 MU.O Buy US$76.95 30 Apr 2025
+
+Nanya Technology 2408.TW Buy NT$36.00 30 Apr 2025
+
+SK Hynix28,8 000660.KS Buy Won177,500 30 Apr 2025
+
+Samsung Electronics28,8 005930.KS Buy Won55,500 30 Apr 2025
+
+Source: UBS Global Research; LSEG Eikon. All prices as of local market close. Ratings in this table are the most current 
+published ratings prior to this report. They may be more recent than the stock pricing date.
+8. The equity analyst covering this company, a member of his or her team, or one of their household members has a 
+
+long common stock position in this company.
+16. UBS Securities LLC makes a market in the securities and/or ADRs of this company.
+28. UBS holds a long or short position of 0.5% or more of the listed shares of this company.
+
+Unless otherwise indicated, please refer to the Valuation and Risk sections within the body of this report. For a complete set of 
+disclosure statements associated with the companies discussed in this report, including information on valuation and risk, please 
+contact UBS Securities LLC, 1285 Avenue of Americas, New York, NY 10019, USA, Attention: Investment Research.
+
+
+
+Memory Semis Monthly 1 May 2025 ab 19
+
+Micron Technology Inc (US$)
+
+Price Target (US$) Stock Price (US$)
+
+0
+
+40
+
+80
+
+120
+
+160
+
+Buy
+
+Date Stock Price (US$) Price Target (US$) Rating
+
+2022-01-28 79.27 115.00 Buy
+2022-02-22 90.57 125.00 Buy
+2022-03-30 79.16 120.00 Buy
+2022-06-12 62.62 115.00 Buy
+2022-06-27 58.78 100.00 Buy
+2022-07-01 53.65 90.00 Buy
+2022-08-09 59.15 80.00 Buy
+2022-09-26 48.88 75.00 Buy
+2022-10-31 54.10 80.00 Buy
+2022-11-16 58.87 75.00 Buy
+2022-12-21 51.19 70.00 Buy
+2023-06-26 65.45 76.00 Buy
+2023-12-10 74.96 90.00 Buy
+2023-12-20 78.69 95.00 Buy
+2024-03-18 93.78 120.00 Buy
+2024-03-21 109.85 125.00 Buy
+2024-06-09 130.94 155.00 Buy
+2024-06-27 132.23 153.00 Buy
+2024-09-16 87.18 135.00 Buy
+2024-12-19 87.09 125.00 Buy
+2025-03-17 103.11 130.00 Buy
+2025-04-28 78.56 92.00 Buy
+
+Source: UBS Global Research; LSEG Eikon as of 30-Apr-2025. All prices as of local market close. Ratings as of date shown.
+
+
+
+Memory Semis Monthly 1 May 2025 ab 20
+
+Nanya Technology (NT$)
+
+Price Target (NT$) Stock Price (NT$)
+
+0
+
+18
+
+36
+
+54
+
+72
+
+90
+
+Buy
+
+No Rating
+
+Date Stock Price (NT$) Price Target (NT$) Rating
+
+2022-01-28 NaN - No Rating
+2023-11-16 67.20 85.00 Buy
+2024-07-10 72.30 83.00 Buy
+2025-01-14 26.65 50.00 Buy
+
+Source: UBS Global Research; LSEG Eikon as of 30-Apr-2025. All prices as of local market close. Ratings as of date shown.
+
+Samsung Electronics (Won)
+
+Price Target (Won) Stock Price (Won)
+
+0
+
+40000
+
+80000
+
+120000
+
+160000
+
+Buy
+
+Date Stock Price (Won) Price Target (Won) Rating
+
+2022-01-28 73300 105000 Buy
+2022-02-22 73400 113000 Buy
+2022-04-29 67400 108000 Buy
+2022-05-24 66500 103000 Buy
+2022-06-15 60700 100000 Buy
+2022-06-28 59400 92000 Buy
+2022-07-07 58200 88000 Buy
+2022-08-04 61500 81000 Buy
+2022-09-27 54200 77000 Buy
+2022-10-31 59400 80000 Buy
+2023-04-07 65000 85000 Buy
+2023-06-08 70900 91000 Buy
+
+
+
+Memory Semis Monthly 1 May 2025 ab 21
+
+Date Stock Price (Won) Price Target (Won) Rating
+
+2023-09-26 68600 97000 Buy
+2023-11-01 68600 100000 Buy
+2024-01-10 73600 104000 Buy
+2024-04-30 77500 107000 Buy
+2024-05-20 78900 116000 Buy
+2024-09-06 68900 104000 Buy
+2024-09-30 61500 97000 Buy
+2024-10-08 60300 95000 Buy
+2024-10-31 59200 72000 Buy
+2025-01-09 56100 66000 Buy
+2025-01-31 52400 64000 Buy
+2025-03-17 57600 66000 Buy
+2025-04-23 55700 65000 Buy
+
+Source: UBS Global Research; LSEG Eikon as of 30-Apr-2025. All prices as of local market close. Ratings as of date shown.
+
+SK Hynix (Won)
+
+Price Target (Won) Stock Price (Won)
+
+0
+
+60000
+
+120000
+
+180000
+
+240000
+
+300000
+
+Buy
+
+Date Stock Price (Won) Price Target (Won) Rating
+
+2022-01-28 120500 196000 Buy
+2022-02-22 128500 214000 Buy
+2022-04-27 108500 205000 Buy
+2022-05-24 108500 195000 Buy
+2022-06-28 95300 182000 Buy
+2022-08-04 97500 155000 Buy
+2022-09-27 82000 130000 Buy
+2022-10-31 82700 135000 Buy
+2023-01-09 86000 130000 Buy
+2023-06-08 109700 147000 Buy
+2023-09-26 115000 160000 Buy
+2023-11-01 120300 165000 Buy
+2024-01-10 133500 175000 Buy
+2024-03-19 160200 187000 Buy
+2024-04-25 170600 205000 Buy
+2024-05-20 190100 235000 Buy
+2024-06-25 225000 258000 Buy
+2024-08-01 193300 252000 Buy
+2024-09-06 156400 245000 Buy
+2024-09-30 174600 231000 Buy
+2024-10-31 186300 240000 Buy
+2024-11-28 161100 245000 Buy
+2025-01-23 219500 255000 Buy
+
+
+
+Memory Semis Monthly 1 May 2025 ab 22
+
+Date Stock Price (Won) Price Target (Won) Rating
+
+2025-03-03 190200 260000 Buy
+2025-03-17 206000 265000 Buy
+2025-04-01 197000 267000 Buy
+2025-04-24 178300 262000 Buy
+
+Source: UBS Global Research; LSEG Eikon as of 30-Apr-2025. All prices as of local market close. Ratings as of date shown.
+
+
+
+Memory Semis Monthly 1 May 2025 ab 23
+
+The Disclaimer relevant to Global Wealth Management clients follows the Global Research Disclaimer. The Disclaimer 
+relevant to Credit Suisse Wealth Management follows the Global Wealth Management Disclaimer.
+
+UBS Global Research Disclaimer
+This document has been prepared by UBS Securities Pte. Ltd., an affiliate of UBS AG. UBS AG, its subsidiaries, branches and affiliates, including former Credit 
+Suisse AG and its subsidiaries, branches and affiliates are referred to herein as "UBS".
+Any opinions expressed in this document may change without notice and are only current as of the date of publication. Different areas, groups, and personnel 
+within UBS may produce and distribute separate research products independently of each other. For example, research publications from UBS CIO are produced 
+by UBS Global Wealth Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems of each separate 
+research organization may differ, for example, in terms of investment recommendations, investment horizon, model assumptions, and valuation methods. As a 
+consequence, except for certain economic forecasts (for which UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price 
+targets, and valuations provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant research 
+product for the details as to their methodologies and rating system. Not all clients may have access to all products from every organization. Each research product 
+is subject to the policies and procedures of the organization that produces it.
+This document is provided solely to recipients who are expressly authorized by UBS to receive it. If you are not so authorized you must 
+immediately destroy the document.
+UBS Global Research is provided to our clients through UBS Neo, and in certain instances, UBS.com and any other system or distribution method specifically 
+identified in one or more communications distributed through UBS Neo or UBS.com (each a system) as an approved means for distributing UBS Global Research. 
+It may also be made available through third party vendors and distributed by UBS and/or third parties via e-mail or alternative electronic means.
+All UBS Global Research is available on UBS Neo. Please contact your UBS sales representative if you wish to discuss your access to UBS Neo. Where UBS Global 
+Research refers to "UBS Evidence Lab Inside" or has made use of data provided by UBS Evidence Lab and you would like to access that data please contact your 
+UBS sales representative. UBS Evidence Lab data is available on UBS Neo. The level and types of services provided by UBS Global Research and UBS Evidence Lab to 
+a client may vary depending upon various factors such as a client's individual preferences as to the frequency and manner of receiving communications, a client's 
+risk profile and investment focus and perspective (e.g., market wide, sector specific, long-term, short-term, etc.), the size and scope of the overall client 
+relationship with UBS Global Research and UBS Evidence Lab and legal and regulatory constraints. UBS HOLT is an offering of UBS Global Research. HOLT Lens is 
+a corporate performance platform offering that provides an objective accounting-led framework for comparing and valuing companies and is available to clients 
+of UBS Global Research; for further details and pricing please contact your UBS Sales representative. In particular, HOLT has a variety of warranted prices based on 
+the scenario chosen; please mail UBS Securities LLC, 1285 Avenue of Americas, New York, NY 10019, USA, Attention: Investment Research, if you are interested 
+in the warranted price on a particular company, again subject to commercial considerations. For all other HOLT specific disclaimers, please see https://
+www.ubs.com/disclosures.
+When you receive UBS Global Research through a system, your access and/or use of such UBS Global Research is subject to this UBS Global Research Disclaimer 
+and to the UBS Neo Platform Use Agreement (the "Neo Terms") together with any other relevant terms of use governing the applicable System.
+When you receive UBS Global Research via a third party vendor, e-mail or other electronic means, you agree that use shall be subject to this UBS Global Research 
+Disclaimer, the Neo Terms and where applicable the UBS Investment Bank terms of business (https://www.ubs.com/global/en/investment-bank/regulatory.html) 
+and to UBS's Terms of Use/Disclaimer (https://www.ubs.com/global/en/legalinfo2/disclaimer.html). In addition, you consent to UBS processing your personal data 
+and using cookies in accordance with our Privacy Statement (https://www.ubs.com/global/en/legalinfo2/privacy.html) and cookie notice (https://www.ubs.com/
+global/en/legal/privacy/users.html).
+If you receive UBS Global Research, whether through a System or by any other means, you agree that you shall not copy, revise, amend, create a 
+derivative work, provide to any third party, or in any way commercially exploit any UBS research provided via UBS Global Research or otherwise, 
+and that you shall not extract data from any research or estimates provided to you via UBS Global Research or otherwise, without the prior 
+written consent of UBS. 
+In certain circumstances (including for example, if you are an academic or a member of the media) you may receive UBS Global Research otherwise than in the 
+capacity of a client of UBS and you understand and agree that (i) the UBS Global Research is provided to you for information purposes only; (ii) for the purposes of 
+receiving it you are not intended to be and will not be treated as a “client” of UBS for any legal or regulatory purpose; (iii) the UBS Global Research must not be 
+relied on or acted upon for any purpose; and (iv) such content is subject to the relevant disclaimers that follow.
+This document is for distribution only as may be permitted by law. It is not directed to, or intended for distribution to or use by, any person or entity who is a citizen 
+or resident of or located in any locality, state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or 
+regulation or would subject UBS to any registration or licensing requirement within such jurisdiction.
+This document is a general communication and is educational in nature; it is not an advertisement nor is it a solicitation or an offer to buy or sell any financial 
+instruments or to participate in any particular trading strategy. Nothing in this document constitutes a representation that any investment strategy or 
+recommendation is suitable or appropriate to an investor’s individual circumstances or otherwise constitutes a personal recommendation. By providing this 
+document, none of UBS or its representatives has any responsibility or authority to provide or have provided investment advice in a fiduciary capacity or otherwise. 
+Investments involve risks, and investors should exercise prudence and their own judgment in making their investment decisions. None of UBS or its representatives 
+is suggesting that the recipient or any other person take a specific course of action or any action at all. The recipient should carefully read this document in its 
+entirety and not draw inferences or conclusions from the rating alone. By receiving this document, the recipient acknowledges and agrees with the intended 
+purpose described above and further disclaims any expectation or belief that the information constitutes investment advice to the recipient or otherwise purports 
+to meet the investment objectives of the recipient. The financial instruments described in the document may not be eligible for sale in all jurisdictions or to certain 
+categories of investors.
+Options, structured derivative products and futures (including OTC derivatives) are not suitable for all investors. Trading in these instruments is considered risky 
+and may be appropriate only for sophisticated investors. Prior to buying or selling an option, and for the complete risks relating to options, you must receive a 
+copy of "The Characteristics and Risks of Standardized Options." You may read the document at https://www.theocc.com/publications/risks/riskchap1.jsp or ask 
+your salesperson for a copy. Various theoretical explanations of the risks associated with these instruments have been published. Supporting documentation for 
+any claims, comparisons, recommendations, statistics or other technical data will be supplied upon request. Past performance is not necessarily indicative of 
+future results. Transaction costs may be significant in option strategies calling for multiple purchases and sales of options, such as spreads and straddles. Because 
+of the importance of tax considerations to many options transactions, the investor considering options should consult with his/her tax advisor as to how taxes 
+affect the outcome of contemplated options transactions.
+Mortgage and asset-backed securities may involve a high degree of risk and may be highly volatile in response to fluctuations in interest rates or other market 
+conditions. Foreign currency rates of exchange may adversely affect the value, price or income of any security or related instrument referred to in the document. 
+For investment advice, trade execution or other enquiries, clients should contact their local sales representative.
+UBS notes that no globally accepted framework or definition (legal, regulatory or otherwise) currently exists, nor is there a market consensus as to what 
+constitutes an “ESG” (Environmental, Social or Governance) or an equivalent-label, or as to what precise attributes are required for the Information (as defined 
+below) to be defined as ESG or equivalently-labelled. Any information, data or other content including from a third party source contained, referred to herein or 
+used for whatsoever purpose by UBS or a third party (“Information”), in relation to any actual or potential ESG objective, issue or consideration is not intended to 
+be relied upon for ESG classification, regulatory regime or industry initiative purposes (“ESG Regimes”). Nothing in these materials is intended to convey, suggest 
+or indicate that UBS considers or represents any product, service, person or body mentioned in these materials as meeting or qualifying for any ESG classification, 
+labelling or similar standards that may exist under the ESG Regimes. UBS has not conducted any assessment of compliance with ESG Regimes. Parties are 
+reminded to make their own assessments for these purposes.
+The value of any investment or income may go down as well as up, and investors may not get back the full (or any) amount invested. Past performance is not 
+necessarily a guide to future performance. Neither UBS nor any of its directors, employees or agents accepts any liability for any loss (including investment loss) or 
+damage arising out of the use of all or any of the Information.
+Prior to making any investment or financial decisions, any recipient of this document or the information should take steps to understand the risk and return of the 
+investment and seek individualized advice from his or her personal financial, legal, tax and other professional advisors that takes into account all the particular 
+facts and circumstances of his or her investment objectives.
+Any prices stated in this document are for information purposes only and do not represent valuations for individual securities or other financial instruments. There 
+is no representation that any transaction can or could have been effected at those prices, and any prices do not necessarily reflect UBS's internal books and 
+records or theoretical model-based valuations and may be based on certain assumptions. Different assumptions by UBS or any other source may yield substantially 
+different results.
+No representation or warranty, either expressed or implied, is provided in relation to the accuracy, completeness or reliability of the information contained in any 
+materials to which this document relates (the "Information"), except with respect to Information concerning UBS. The Information is not intended to be a 
+
+https://www.ubs.com/disclosures
+https://www.ubs.com/disclosures
+https://www.ubs.com/global/en/investment-bank/regulatory.html
+http://www.ubs.com/global/en/legalinfo2/disclaimer.html
+http://www.ubs.com/global/en/legalinfo2/privacy.html
+https://www.ubs.com/global/en/legal/privacy/users.html
+https://www.ubs.com/global/en/legal/privacy/users.html
+http://www.theocc.com/publications/risks/riskchap1.jsp
+
+
+Memory Semis Monthly 1 May 2025 ab 24
+
+complete statement or summary of the securities, markets or developments referred to in the document. UBS does not undertake to update or keep current the 
+Information. Any statements contained in this report attributed to a third party represent UBS's interpretation of the data, information and/or opinions provided 
+by that third party either publicly or through a subscription service, and such use and interpretation have not been reviewed by the third party. In no circumstances 
+may this document or any of the Information (including any forecast, value, index or other calculated amount ("Values")) be used for any of the following 
+purposes:
+(i) valuation or accounting purposes;
+(ii) to determine the amounts due or payable, the price or the value of any financial instrument or financial contract; or
+(iii) to measure the performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance of any Value or of 
+defining the asset allocation of portfolio or of computing performance fees.
+By receiving this document and the Information you will be deemed to represent and warrant to UBS that you will not use this document or any of the Information 
+for any of the above purposes or otherwise rely upon this document or any of the Information.
+UBS has policies and procedures, which include, without limitation, independence policies and permanent information barriers, that are intended, and upon 
+which UBS relies, to manage potential conflicts of interest and control the flow of information within divisions of UBS and among its subsidiaries, branches and 
+affiliates. For further information on the ways in which UBS Global Research manages conflicts and maintains independence of its research products, historical 
+performance information and certain additional disclosures concerning UBS Global Research recommendations, please visit https://www.ubs.com/disclosures.
+UBS Global Research will initiate, update and cease coverage solely at the discretion of UBS Global Research Management, which will also have sole discretion on 
+the timing and frequency of any published research product. The analysis contained in this document is based on numerous assumptions. All material information 
+in relation to published research reports, such as valuation methodology, risk statements, underlying assumptions (including sensitivity analysis of those 
+assumptions), ratings history etc. as required by the Market Abuse Regulation, can be found on UBS Neo. Different assumptions could result in materially different 
+results.
+UBS Global Research may utilise artificial intelligence tools (“AI Tools”) in the preparation of this document. Notwithstanding any such use of AI Tools, this 
+document has undergone human review.
+The analyst(s) responsible for the preparation of this document may interact with trading desk personnel, sales personnel and other parties for the purpose of 
+gathering, applying and interpreting market information. UBS relies on information barriers to control the flow of information contained in one or more areas 
+within UBS into other areas, units, groups or affiliates of UBS. The compensation of the analyst who prepared this document is determined exclusively by UBS 
+Global Research management and senior management (not including investment banking). Analyst compensation is not based on investment banking revenues; 
+however, compensation may relate to the revenues of UBS and/or its divisions as a whole, of which investment banking, sales and trading are a part, and UBS as 
+a whole.
+For financial instruments admitted to trading on an EU regulated market: UBS (excluding UBS Securities LLC) acts as a market maker or liquidity provider (in 
+accordance with the interpretation of these terms under English law or, if not carried out by UBS in the UK the law of the relevant jurisdiction in which UBS 
+determines it carries out the activity) in the financial instruments of the issuer save that where the activity of liquidity provider is carried out in accordance with the 
+definition given to it by the laws and regulations of any other EU jurisdictions, such information is separately disclosed in this document. For financial instruments 
+admitted to trading on a non-EU regulated market: UBS may act as a market maker save that where this activity is carried out in the US in accordance with the 
+definition given to it by the relevant laws and regulations, such activity will be specifically disclosed in this document. UBS may have issued a warrant the value of 
+which is based on one or more of the financial instruments referred to in the document. UBS and its affiliates and employees may have long or short positions, 
+trade as principal and buy and sell in instruments or derivatives identified herein; such transactions or positions may be inconsistent with the opinions expressed in 
+this document.
+Within the past 12 months UBS may have received or provided investment services and activities or ancillary services as per MiFID II which may have given rise to 
+a payment or promise of a payment in relation to these services from or to this company.
+Please note that all transactions conducted by UBS are consistent with sanctions regulations imposed by Switzerland, the European Union, the United Nations, the 
+United Kingdom and the United States, per UBS' global sanctions policy. UBS opinion as to future investment worthiness assumes no new sanctions are imposed.
+US persons are prohibited from purchasing or selling securities of certain companies designated as being associated with the Chinese Military in accordance with 
+the amended US Presidential Executive Order 13959.
+United Kingdom: This material is distributed by UBS AG, London Branch to persons who are eligible counterparties or professional clients. UBS AG, London 
+Branch is authorised by the Prudential Regulation Authority and subject to regulation by the Financial Conduct Authority and limited regulation by the Prudential 
+Regulation Authority. Europe: Except as otherwise specified herein, these materials are distributed by UBS Europe SE, a subsidiary of UBS AG, to persons who are 
+eligible counterparties or professional clients (as detailed in the Bundesanstalt fur Finanzdienstleistungsaufsicht (BaFin) Rules and according to MIFID) and are only 
+available to such persons. The information does not apply to, and should not be relied upon by, retail clients. UBS Europe SE is authorised by the European Central 
+Bank (ECB) and regulated by the BaFin and the ECB. Germany, Luxembourg, the Netherlands, Belgium and Ireland: Where an analyst of UBS Europe SE has 
+contributed to this document, the document is also deemed to have been prepared by UBS Europe SE. In all cases it is distributed by UBS Europe SE and UBS AG, 
+London Branch. Turkey: Distributed by UBS AG, London Branch. No information in this document is provided for the purpose of offering, marketing and sale by 
+any means of any capital market instruments and services in the Republic of Turkey. Therefore, this document may not be considered as an offer made or to be 
+made to residents of the Republic of Turkey. UBS AG, London Branch is not licensed by the Turkish Capital Market Board under the provisions of the Capital 
+Market Law (Law No. 6362). Accordingly, neither this document nor any other offering material related to the instruments/services may be utilized in connection 
+with providing any capital market services to persons within the Republic of Turkey without the prior approval of the Capital Market Board. However, according to 
+article 15 (d) (ii) of the Decree No. 32, there is no restriction on the purchase or sale of the securities abroad by residents of the Republic of Turkey. Poland: 
+Distributed by UBS Europe SE (spolka z ograniczona odpowiedzialnoscia) Oddzial w Polsce. Where an analyst of UBS Europe SE (spolka z ograniczona 
+odpowiedzialnoscia) Oddzial w Polsce has contributed to this document, the document is also deemed to have been prepared by UBS Europe SE (spolka z 
+ograniczona odpowiedzialnoscia) Oddzial w Polsce. Russia: Prepared and distributed by UBS Bank (OOO). Should not be construed as an individual Investment 
+Recommendation for the purpose of the Russian Law - Federal Law #39-FZ ON THE SECURITIES MARKET Articles 6.1-6.2.Switzerland: Distributed by UBS AG to 
+persons who are institutional investors only. UBS AG is regulated by the Swiss Financial Market Supervisory Authority (FINMA). Italy: Prepared by UBS Europe SE 
+and distributed by UBS Europe SE and UBS Europe SE, Italy Branch. Where an analyst of UBS Europe SE, Italy Branch has contributed to this document, the 
+document is also deemed to have been prepared by UBS Europe SE, Italy Branch. France: Prepared by UBS Europe SE and distributed by UBS Europe SE and UBS 
+Europe SE, France Branch. Where an analyst of UBS Europe SE, France Branch has contributed to this document, the document is also deemed to have been 
+prepared by UBS Europe SE, France Branch.  Spain: Prepared by UBS Europe SE and distributed by UBS Europe SE and UBS Europe SE, Spain Branch. Where an 
+analyst of UBS Europe SE, Spain Branch has contributed to this document, the document is also deemed to have been prepared by UBS Europe SE, Spain Branch.  
+Sweden: Prepared by UBS Europe SE and distributed by UBS Europe SE and UBS Europe SE, Sweden Branch. Where an analyst of UBS Europe SE, Sweden Branch 
+has contributed to this document, the document is also deemed to have been prepared by UBS Europe SE, Sweden Branch. South Africa: Distributed by UBS 
+South Africa (Pty) Limited (Registration No. 1995/011140/07), an authorised user of the JSE and an authorised Financial Services Provider (FSP 7328). Saudi 
+Arabia: This document has been issued by UBS AG (and/or any of its subsidiaries, branches or affiliates), a public company limited by shares, incorporated in 
+Switzerland with its registered offices at Aeschenvorstadt 1, CH-4051 Basel and Bahnhofstrasse 45, CH-8001 Zurich. This publication has been approved by UBS 
+Saudi Arabia (a subsidiary of UBS AG), a Saudi closed joint stock company incorporated in the Kingdom of Saudi Arabia under commercial register number 
+1010257812 having its registered office at Tatweer Towers, P.O. Box 75724, Riyadh 11588, Kingdom of Saudi Arabia. UBS Saudi Arabia is authorized and 
+regulated by the Capital Market Authority to conduct securities business under license number 08113-37. UAE / Dubai: The information distributed by UBS AG 
+Dubai Branch is only intended for Professional Clients and/or Market Counterparties, as classified under the DFSA rulebook. No other person should act upon this 
+material/communication. The information is not for further distribution within the United Arab Emirates. UBS AG Dubai Branch is regulated by the DFSA in the 
+DIFC. UBS Investment Bank is not licensed to provide banking services in the UAE by the Central Bank of the UAE, nor is it licensed by the UAE Securities and 
+Commodities Authority.  Israel: This Material is distributed by UBS AG, London Branch. UBS Securities Israel Ltd is a licensed Investment Marketer that is 
+supervised by the Israel Securities Authority (ISA). UBS AG, London Branch and its affiliates incorporated outside Israel are not licensed under the Israeli Advisory 
+Law. UBS may engage among others in issuance of Financial Assets or in distribution of Financial Assets of other issuers for fees or other benefits. UBS AG, London 
+Branch and its affiliates may prefer various Financial Assets to which they have or may have an Affiliation (as such term is defined under the Israeli Advisory Law). 
+Nothing in this Material should be considered as investment advice under the Israeli Advisory Law. This Material is being issued only to and/or is directed only at 
+persons who are Eligible Clients within the meaning of the Israeli Advisory Law, and this Material must not be furnished to, relied on or acted upon by any other 
+persons. United States: Distributed to US persons by either UBS Securities LLC or by UBS Financial Services Inc., subsidiaries of UBS AG; or by a group, subsidiary 
+or affiliate of UBS AG that is not registered as a US broker-dealer (a ‘non-US affiliate’) to major US institutional investors only. UBS Securities LLC or UBS Financial 
+Services Inc. accepts responsibility for the content of a report prepared by another non-US affiliate when distributed to US persons by UBS Securities LLC or UBS 
+Financial Services Inc. All transactions by a US person in the securities mentioned in this report must be effected through UBS Securities LLC or UBS Financial 
+Services Inc., and not through a non-US affiliate. UBS Securities LLC is not acting as a municipal advisor to any municipal entity or obligated person within the 
+meaning of Section 15B of the Securities Exchange Act (the "Municipal Advisor Rule"), and the opinions or views contained herein are not intended to be, and do 
+not constitute, advice within the meaning of the Municipal Advisor Rule. Canada: Distributed by UBS Securities Canada Inc., a registered investment dealer in 
+Canada and a Member-Canadian Investor Protection Fund, or by another affiliate of UBS AG that is registered to conduct business in Canada or is otherwise 
+exempt from registration. Brazil: Except as otherwise specified herein, this Material is prepared by UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários 
+
+https://www.ubs.com/disclosures
+
+
+Memory Semis Monthly 1 May 2025 ab 25
+
+S.A. (UBS Brasil CCTVM) to persons who are eligible investors residing in Brazil, which are considered to be Professional Investors (Investidores Profissionais), as 
+designated by the applicable regulation, mainly the CVM Resolution No. 30 from the 11th of May 2021 (determines the duty to verify the suitability of products, 
+services and transactions with regards to the client´s profile). UBS Brasil CCTVM is a subsidiary of UBS BB Servicos de Assessoria Financeira e Participacoes S.A. 
+(“UBS BB”). UBS BB is an association between UBS AG and Banco do Brasil (through its subsidiary BB – Banco de Investimentos S.A.), of which UBS AG is the 
+majority owner and which provides investment banking services and coverage in Brazil, Argentina, Chile, Paraguay, Peru and Uruguay. UBS Brasil CCTVM is 
+regulated by the Comissao de Valores Mobiliarios (CVM) and by the Central Bank of Brazil. Ombudsman: 0800-940-0266/ https://www.ubs.com/br/pt/ubsbb-
+investment-bank/ombudsman.html. UBS may hold relevant financial and commercial interest in relation to the company subject to this Research report. Hong 
+Kong: Distributed by UBS Securities Asia Limited. Please contact local licensed persons of UBS Securities Asia Limited in respect of any matters arising from, or in 
+connection with, the analysis or document Singapore: Distributed by UBS Securities Pte. Ltd. [Co. Reg. No.: 198500648C] or UBS AG, Singapore Branch. Please 
+contact UBS Securities Pte. Ltd., an exempt financial adviser under the Singapore Financial Advisers Act (Cap. 110); or UBS AG, Singapore Branch, an exempt 
+financial adviser under the Singapore Financial Advisers Act (Cap. 110) and a wholesale bank licensed under the Singapore Banking Act (Cap. 19) regulated by the 
+Monetary Authority of Singapore, in respect of any matters arising from, or in connection with, the analysis or document. The recipients of this document 
+represent and warrant that they are accredited and institutional investors as defined in the Securities and Futures Act (Cap. 289). Japan: Distributed by UBS 
+Securities Japan Co., Ltd. to professional investors (except as otherwise permitted). Where this report has been prepared by UBS Securities Japan Co., Ltd., UBS 
+Securities Japan Co., Ltd. is the author, publisher and distributor of the report. Distributed by UBS AG, Tokyo Branch to Professional Investors (except as otherwise 
+permitted) in relation to foreign exchange and other banking businesses when relevant. Australia: Clients of UBS AG: Distributed by UBS AG (ABN 47 088 129 
+613 and holder of Australian Financial Services License No. 231087). For all other recipients: Distributed by UBS Securities Australia Ltd (ABN 62 008 586 481 and 
+holder of Australian Financial Services License No. 231098). This document contains general information and/or general advice only and does not constitute 
+personal financial product advice. As such, the Information in this document has been prepared without taking into account any investor’s objectives, financial 
+situation or needs, and investors should, before acting on the Information, consider the appropriateness of the Information, having regard to their objectives, 
+financial situation and needs. If the Information contained in this document relates to the acquisition, or potential acquisition of a particular financial product by 
+a ‘Retail’ client as defined by section 761G of the Corporations Act 2001 where a Product Disclosure Statement would be required, the retail client should obtain 
+and consider the Product Disclosure Statement relating to the product before making any decision about whether to acquire the product. New Zealand: 
+Distributed by UBS New Zealand Ltd. UBS New Zealand Ltd is not a registered bank in New Zealand. You are being provided with this publication or material 
+because you have indicated to UBS that you are a “wholesale client” within the meaning of section 5C of the Financial Advisers Act 2008 of New Zealand 
+(Permitted Client). This publication or material is not intended for clients who are not Permitted Clients (non-permitted Clients). If you are a non-permitted Client 
+you must not rely on this publication or material. If despite this warning you nevertheless rely on this publication or material, you hereby (i) acknowledge that you 
+may not rely on the content of this publication or material and that any recommendations or opinions in such this publication or material are not made or 
+provided to you, and (ii) to the maximum extent permitted by law (a) indemnify UBS and its associates or related entities (and their respective Directors, officers, 
+agents and Advisors) (each a ‘Relevant Person’) for any loss, damage, liability or claim any of them may incur or suffer as a result of, or in connection with, your 
+unauthorised reliance on this publication or material and (b) waive any rights or remedies you may have against any Relevant Person for (or in respect of) any loss, 
+damage, liability or claim you may incur or suffer as a result of, or in connection with, your unauthorised reliance on this publication or material. Korea: 
+Distributed in Korea by UBS Securities Pte. Ltd., Seoul Branch. This report may have been edited or contributed to from time to time by affiliates of UBS Securities 
+Pte. Ltd., Seoul Branch. This material is intended for professional/institutional clients only and not for distribution to any retail clients. Malaysia: This material is 
+authorized to be distributed in Malaysia by UBS Securities Malaysia Sdn. Bhd (Capital Markets Services License No.: CMSL/A0063/2007). This material is intended 
+for professional/institutional clients only and not for distribution to any retail clients. India: Distributed by UBS Securities India Private Ltd. (Corporate Identity 
+Number U67120MH1996PTC097299) 2/F, 3 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra (East), Mumbai (India) 400051. Phone: 
++912261556000. It provides brokerage services bearing SEBI Registration Number: INZ000259830; Merchant Banking services bearing SEBI Registration 
+Number: INM000013101; and Research Analyst services bearing SEBI Registration Number: INH000001204. Name of Compliance Officer Mr. Parameshwaran 
+Shivaramakrishnan, Phone : +912261556151, Email : parameshwaran.s@ubs.com, Name of Grievance Officer Parameshwaran Shivaramakrishnan, Phone : 
++912261556151, Email: ol-ubs-sec-compliance@ubs.com Registration granted by SEBI, and certification from NISM in no way guarantee performance of the 
+intermediary or provide any assurance of returns to investors. UBS may have debt holdings or positions in the subject Indian company/companies. UBS may have 
+financial interests (e.g. loan/derivative products, rights to or interests in investments, etc.) in the subject Indian company / companies from time to time. Within the 
+past 12 months, UBS may have received compensation for non-investment banking securities-related services and/or non-securities services from the subject 
+Indian company/companies. The subject company/companies may have been a client/clients of UBS during the 12 months preceding the date of distribution of 
+the research report with respect to investment banking and/or non-investment banking securities-related services and/or non-securities services. With regard to 
+information on associates, please refer to the Annual Report at: https://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html Taiwan: 
+Except as otherwise specified herein, this material may not be distributed in Taiwan. Information and material on securities/instruments that are traded in a Taiwan 
+organized exchange is deemed to be issued and distributed by UBS Securities Pte. LTD., Taipei Branch, which is licensed and regulated by Taiwan Financial 
+Supervisory Commission. Save for securities/instruments that are traded in a Taiwan organized exchange, this material should not constitute "recommendation" 
+to clients or recipients in Taiwan for the covered companies or any companies mentioned in this document. No portion of the document may be reproduced or 
+quoted by the press or any other person without authorisation from UBS. Indonesia: This report is being distributed by PT UBS Sekuritas Indonesia and is 
+delivered by its licensed employee(s), including marketing/sales person, to its client. PT UBS Sekuritas Indonesia, having its registered office at Sequis Tower Level 
+22 unit 22-1,Jl.Jend. Sudirman, kav.71, SCBD lot 11B, Jakarta 12190. Indonesia, is a subsidiary company of UBS AG and licensed under Capital Market Law no. 8 
+year 1995, a holder of broker-dealer and underwriter licenses issued by the Capital Market and Financial Institution Supervisory Agency (now Otoritas Jasa 
+Keuangan/OJK). PT UBS Sekuritas Indonesia is also a member of Indonesia Stock Exchange and supervised by Otoritas Jasa Keuangan (OJK). Neither this report 
+nor any copy hereof may be distributed in Indonesia or to any Indonesian citizens except in compliance with applicable Indonesian capital market laws and 
+regulations. This report is not an offer of securities in Indonesia and may not be distributed within the territory of the Republic of Indonesia or to Indonesian 
+citizens in circumstance which constitutes an offering within the meaning of Indonesian capital market laws and regulations.
+The disclosures contained in research documents produced by UBS AG, London Branch or UBS Europe SE shall be governed by and construed in accordance with 
+English law.
+UBS specifically prohibits the redistribution of this document in whole or in part without the written permission of UBS and in any event UBS accepts no liability 
+whatsoever for any redistribution of this document or its contents or the actions of third parties in this respect. Images may depict objects or elements that are 
+protected by third party copyright, trademarks and other intellectual property rights. © UBS 2025. The key symbol and UBS are among the registered and 
+unregistered trademarks of UBS. All rights reserved.
+
+Global Wealth Management Disclaimer
+You receive this document in your capacity as a client of UBS Global Wealth Management. This publication has been distributed to you by UBS Switzerland AG (regulated by 
+FINMA in Switzerland) or its affiliates ("UBS") with whom you have a banking relationship with. The full name of the distributing affiliate and its competent authority can be 
+found in the country-specific disclaimer at the end of this document.
+
+The date and time of the first dissemination of this publication is the same as the date and time of its publication.
+
+Risk information:
+
+You agree that you shall not copy, revise, amend, create a derivative work, provide to any third party, or in any way commercially exploit any UBS research, and that you shall 
+not extract data from any research or estimates, without the prior written consent of UBS.
+
+This document is for distribution only as may be permitted by law. It is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident 
+of or located in any locality, state, country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or regulation or would subject 
+UBS to any registration or licensing requirement within such jurisdiction.
+
+This document is for your information only; it is not an advertisement nor is it a solicitation or an offer to buy or sell any financial instruments or to participate in any 
+particular trading strategy. Nothing in this document constitutes a representation that any investment strategy or recommendation is suitable or appropriate to an investor’s 
+individual circumstances or otherwise constitutes a personal recommendation. By providing this document, none of UBS or its representatives has any responsibility or 
+authority to provide or have provided investment advice in a fiduciary capacity or otherwise. Investments involve risks, and investors should exercise prudence and their own 
+judgment in making their investment decisions. None of UBS or its representatives is suggesting that the recipient or any other person take a specific course of action or any 
+action at all. By receiving this document, the recipient acknowledges and agrees with the intended purpose described above and further disclaims any expectation or belief 
+that the information constitutes investment advice to the recipient or otherwise purports to meet the investment objectives of the recipient. The financial instruments 
+described in the document may not be eligible for sale in all jurisdictions or to certain categories of investors.
+
+Options, derivative products and futures are not suitable for all investors, and trading in these instruments is considered risky. Mortgage and asset-backed securities may 
+involve a high degree of risk and may be highly volatile in response to fluctuations in interest rates or other market conditions. Foreign currency rates of exchange may 
+adversely affect the value, price or income of any security or related instrument referred to in the document. For investment advice, trade execution or other enquiries, clients 
+should contact their local sales representative.
+
+https://www.ubs.com/br/pt/ubsbb-investment-bank/ombudsman.html
+https://www.ubs.com/br/pt/ubsbb-investment-bank/ombudsman.html
+mailto:parameshwaran.s@ubs.com
+mailto:ol-ubs-sec-compliance@ubs.com
+http://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html
+
+
+Memory Semis Monthly 1 May 2025 ab 26
+
+The value of any investment or income may go down as well as up, and investors may not get back the full (or any) amount invested. Past performance is not necessarily a 
+guide to future performance. Neither UBS nor any of its directors, employees or agents accepts any liability for any loss (including investment loss) or damage arising out of 
+the use of all or any of the information (as defined below).
+
+Prior to making any investment or financial decisions, any recipient of this document or the information should take steps to understand the risk and return of the investment 
+and seek individualized advice from his or her personal financial, legal, tax and other professional advisors that takes into account all the particular facts and circumstances of 
+his or her investment objectives.
+
+Any prices stated in this document are for information purposes only and do not represent valuations for individual securities or other financial instruments. There is no 
+representation that any transaction can or could have been effected at those prices, and any prices do not necessarily reflect UBS's internal books and records or theoretical 
+model-based valuations and may be based on certain assumptions. Different assumptions by UBS or any other source may yield substantially different results.
+
+No representation or warranty, either expressed or implied, is provided in relation to the accuracy, completeness or reliability of the information contained in any materials to 
+which this document relates (the "Information"), except with respect to Information concerning UBS. The Information is not intended to be a complete statement or 
+summary of the securities, markets or developments referred to in the document. UBS does not undertake to update or keep current the Information. Any opinions expressed 
+in this document may change without notice and may differ or be contrary to opinions expressed by other business areas or groups, personnel or other representative of UBS. 
+Any statements contained in this report attributed to a third party represent UBS's interpretation of the data, information and/or opinions provided by that third party either 
+publicly or through a subscription service, and such use and interpretation have not been reviewed by the third party. In no circumstances may this document or any of the 
+Information (including any forecast, value, index or other calculated amount ("Values")) be used for any of the following purposes: (i) valuation or accounting purposes; (ii) to 
+determine the amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the performance of any financial instrument 
+including, without limitation, for the purpose of tracking the return or performance of any Value or of defining the asset allocation of portfolio or of computing performance 
+fees.
+
+By receiving this document and the Information you will be deemed to represent and warrant to UBS that you will not use this document or any of the Information for any of 
+the above purposes or otherwise rely upon this document or any of the Information.
+
+UBS has policies and procedures, which include, without limitation, independence policies and permanent information barriers, that are intended, and upon which UBS 
+relies, to manage potential conflicts of interest and control the flow of information within divisions of UBS (including between Global Wealth Management and UBS Global 
+Research) and among its subsidiaries, branches and affiliates. For further information on the ways in which UBS manages conflicts and maintains independence of its research 
+products, historical performance information and certain additional disclosures concerning UBS research recommendations, please visit https://www.ubs.com/research-
+methodology.
+
+Research will initiate, update and cease coverage solely at the discretion of research management, which will also have sole discretion on the timing and frequency of any 
+published research product. The analysis contained in this document is based on numerous assumptions. Different assumptions could result in materially different results.
+
+The analyst(s) responsible for the preparation of this document may interact with trading desk personnel, sales personnel and other parties for the purpose of gathering, 
+applying and interpreting market information. UBS relies on information barriers to control the flow of information contained in one or more areas within UBS into other 
+areas, units, groups or affiliates of UBS. The compensation of the analyst who prepared this document is determined exclusively by research management and senior 
+management (not including investment banking). Analyst compensation is not based on investment banking revenues; however, compensation may relate to the revenues of 
+UBS and/or its divisions as a whole, of which investment banking, sales and trading are a part, and UBS's subsidiaries, branches and affiliates as a whole.
+
+For financial instruments admitted to trading on an EU regulated market: UBS AG, its affiliates or subsidiaries (excluding UBS Securities LLC) acts as a market maker or 
+liquidity provider (in accordance with the interpretation of these terms in the UK) in the financial instruments of the issuer save that where the activity of liquidity provider is 
+carried out in accordance with the definition given to it by the laws and regulations of any other EU jurisdictions, such information is separately disclosed in this document. 
+For financial instruments admitted to trading on a non-EU regulated market: UBS may act as a market maker save that where this activity is carried out in the US in accordance 
+with the definition given to it by the relevant laws and regulations, such activity will be specifically disclosed in this document. UBS may have issued a warrant the value of 
+which is based on one or more of the financial instruments referred to in the document. UBS and its affiliates and employees may have long or short positions, trade as 
+principal and buy and sell in instruments or derivatives identified herein; such transactions or positions may be inconsistent with the opinions expressed in this document.
+
+Options and futures are not suitable for all investors, and trading in these instruments is considered risky and may be appropriate only for sophisticated investors. Prior to 
+buying or selling an option, and for the complete risks relating to options, you must receive a copy of "Characteristics and Risks of Standardized Options". You may read the 
+document at  https://www.theocc.com/about/publications/character-risks.jsp  or ask your financial advisor for a copy.
+
+Investing in structured investments involves significant risks. For a detailed discussion of the risks involved in investing in any particular structured investment, you must read 
+the relevant offering materials for that investment. Structured investments are unsecured obligations of a particular issuer with returns linked to the performance of an 
+underlying asset. Depending on the terms of the investment, investors could lose all or a substantial portion of their investment based on the performance of the underlying 
+asset. Investors could also lose their entire investment if the issuer becomes insolvent. UBS does not guarantee in any way the obligations or the financial condition of any 
+issuer or the accuracy of any financial information provided by any issuer. Structured investments are not traditional investments and investing in a structured investment is 
+not equivalent to investing directly in the underlying asset. Structured investments may have limited or no liquidity, and investors should be prepared to hold their investment 
+to maturity. The return of structured investments may be limited by a maximum gain, participation rate or other feature. Structured investments may include call features and, 
+if a structured investment is called early, investors would not earn any further return and may not be able to reinvest in similar investments with similar terms. Structured 
+investments include costs and fees which are generally embedded in the price of the investment. The tax treatment of a structured investment may be complex and may differ 
+from a direct investment in the underlying asset. UBS and its employees do not provide tax advice. Investors should consult their own tax advisor about their own tax situation 
+before investing in any securities.
+
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider and incorporate environmental, social and governance 
+(ESG) factors into investment process and portfolio construction. Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. 
+Incorporating ESG factors or Sustainable Investing considerations may inhibit the portfolio manager’s ability to participate in certain investment opportunities that otherwise 
+would be consistent with its investment objective and other principal investment strategies. The returns on a portfolio incorporating ESG factors or Sustainable Investing 
+considerations may be lower or higher than portfolios where ESG factors, exclusions, or other sustainability issues are not considered by the portfolio manager, and the 
+investment opportunities available to such portfolios may differ.
+
+Within the past 12 months UBS Switzerland AG, its affiliates or subsidiaries may have received or provided investment services and activities or ancillary services as per MiFID 
+II which may have given rise to a payment or promise of a payment in relation to these services from or to this company.
+
+Disclosures: If you require detailed information on disclosures of interest or conflict of interest as required by Market Abuse Regulation please contact the mailbox 
+MAR_disclosure_twopager@ubs.com. Please note that e-mail communication is unsecured.
+
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External Asset Manager or an External Financial 
+Consultant, UBS expressly prohibits that it is redistributed by the External Asset Manager or the External Financial Consultant and is made available to their clients and/or third 
+parties.
+
+Australia: This document is provided by UBS Switzerland AG. UBS Switzerland AG does not hold an Australian Financial Services Licence (AFSL) and relies on an exemption 
+to provide financial services to persons in Australia. This document is intended only for distribution to wholesale clients under the Corporations Act 2001 (Cth). UBS 
+Switzerland AG is a related body corporate of UBS AG, Australia Branch and UBS Securities Australia Limited. This document may be distributed to clients by those entities, 
+but it is provided by UBS Switzerland AG and is not provided under any of the other entities’ AFSL. The information in this document is general in nature and is not intended 
+to address the objectives, financial situation or needs of any particular individual or entity. Each recipient should consider their own objectives, financial situation or needs 
+before acting on the advice and obtain the relevant Product Disclosure Statement (if required) before making any decision whether to acquire any product. In Australia, UBS 
+entities, other than UBS AG, Australia Branch, are not authorized deposit-taking institutions for the purposes of the Banking Act 1959 (Cth.) and their obligations do not 
+represent deposits or other liabilities of UBS AG, Australia Branch. UBS AG, Australia Branch does not guarantee or otherwise provide assurance in respect of the obligations 
+of such UBS entities or the funds. An investor is exposed to investment risk including possible delays in repayment and loss of income and principal invested, as relevant. If you 
+do not wish to receive marketing materials from UBS, please contact your UBS representative or the contact details listed in the Australia Privacy Notice: https://
+www.ubs.com/global/en/legal/privacy.html. Your personal data will be processed in accordance with this notice. Bahrain: This report is distributed by UBS AG, Bahrain 
+Branch, authorized and regulated by the Central Bank of Bahrain (CBB) as an Investment Firm Category 2. Related financial services or products are only made available to 
+professional clients and Accredited Investors, as defined by the CBB, and are not intended for any other persons. CBB has not reviewed, nor has it approved, this document 
+or the marketing of any investment vehicle referred to herein in the Kingdom of Bahrain and is not responsible for the performance of any such investment vehicle. UBS AG, 
+Bahrain Branch is located at Level 21, East Tower, Bahrain World Trade Centre, Manama, Kingdom of Bahrain. Brazil: This report is only intended for Brazilian residents who 
+are directly purchasing or selling securities in the Brazil capital market through a local authorized institution. Canada: The information contained herein is not, and under no 
+circumstances is to be construed as, a prospectus, an advertisement, a public offering, an offer to sell securities described herein, solicitation of an offer to buy securities 
+described herein, in Canada or any province or territory thereof. Any offer or sale of the securities described herein in Canada will be made only under an exemption from the 
+requirements to file a prospectus with the relevant Canadian securities regulators and only by a dealer properly registered under applicable securities laws or, alternatively, 
+
+https://www.ubs.com/research-methodology
+https://www.ubs.com/research-methodology
+https://www.theocc.com/about/publications/character-risks.jsp
+mailto:MAR_disclosure_twopager@ubs.com
+https://www.ubs.com/global/en/legal/privacy.html
+https://www.ubs.com/global/en/legal/privacy.html
+
+
+Memory Semis Monthly 1 May 2025 ab 27
+
+pursuant to an exemption from the dealer registration requirement in the relevant province or territory of Canada in which such offer or sale is made. Under no circumstances 
+is the information contained herein to be construed as investment advice in any province or territory of Canada and is not tailored to the needs of the recipient. To the extent 
+that the information contained herein references securities of an issuer incorporated, formed or created under the laws of Canada or a province or territory of Canada, any 
+trades in such securities must be conducted through a dealer registered in Canada or, alternatively, pursuant to a dealer registration exemption. No securities commission or 
+similar regulatory authority in Canada has reviewed or in any way passed upon these materials, the information contained herein or the merits of the securities described 
+herein and any representation to the contrary is an offence. In Canada, this publication is distributed by UBS Investment Management Canada Inc. China: This report and any 
+offering material such as term sheet, research report, other product or service documentation or any other information (the "Material") sent with this report was done so as 
+a result of a request received by UBS from you and/or persons entitled to make the request on your behalf. Should you have received the material erroneously, UBS asks that 
+you kindly delete it and inform UBS immediately. This report is prepared by UBS Switzerland AG or its offshore subsidiary or affiliate (collectively as "UBS Offshore"). UBS 
+Offshore is an entity incorporated out of China and is not licensed, supervised or regulated in China to carry out banking or securities business. The recipient should not 
+contact the analysts or UBS Offshore which produced this report for advice as they are not licensed to provide securities investment advice in China. UBS Investment Bank 
+(including Research) has its own wholly independent research and views which at times may vary from the views of UBS Global Wealth Management. The recipient should 
+not use this document or otherwise rely on any of the information contained in this report in making investment decisions and UBS takes no responsibility in this regard. 
+Czech Republic: UBS is not a licensed bank in the Czech Republic and thus is not allowed to provide regulated banking or investment services in the Czech Republic. This 
+communication and/or material is distributed for marketing purposes and constitutes a "Commercial Message" under the laws of Czech Republic in relation to banking and/
+or investment services. Please notify UBS if you do not wish to receive any further correspondence. Denmark: This publication is not intended to constitute a public offer 
+under Danish law. It is distributed only for information purposes to clients of UBS Europe SE, Denmark Branch, filial af UBS Europe SE, with place of business at Sankt Annae 
+Plads 13, 1250 Copenhagen, Denmark, registered with the Danish Commerce and Companies Agency, under No. 38 17 24 33. UBS Europe SE, Denmark Branch, filial af UBS 
+Europe SE is subject to the joint supervision of the European Central Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services 
+Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin"), as well as of the Danish Financial Supervisory Authority (Finanstilsynet), to which this 
+publication has not been submitted for approval. UBS Europe SE is a credit institution constituted under German law in the form of a Societas Europaea, duly authorized by 
+BaFin. Egypt: Securities or other investment products are not being offered or sold by UBS to the public in Egypt and they have not been and will not be registered with the 
+Egyptian Financial Regulatory Authority (FRA). France: This publication is not intended to constitute a public offer under French law, it does not constitute a personal 
+recommendation as it is distributed only for information purposes to clients of UBS Europe SE Succursale de France (a branch of UBS Europe SE), having its registered office at 
+69 boulevard Haussmann 75008 Paris, registered with the “Registre du Commerce et des Sociétés” of Paris under N°844 425 629. UBS Europe SE Succursale de France is 
+subject to the joint supervision of the European Central Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services Supervisory Authority 
+(Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin"), as well as of the French "Autorité de contrôle prudentiel et de résolution" and "Autorité des marchés financiers", 
+to which this publication has not been submitted for approval. UBS Europe SE is a credit institution constituted under German law in the form of a Societas Europaea, duly 
+authorized by BaFin. Germany: This publication is not intended to constitute a public offer under German law. It is distributed only for information purposes to clients of UBS 
+Europe SE, Germany, with place of business at Bockenheimer Landstrasse 2-4, 60306 Frankfurt am Main. UBS Europe SE is a credit institution constituted under German law 
+in the form of a Societas Europaea, duly authorized by the German Federal Financial Services Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin") 
+and supervised jointly by the European Central Bank, the German Central Bank (Deutsche Bundesbank) and BaFin, to which this publication has not been submitted for 
+approval. Hong Kong SAR: This publication is distributed to clients of UBS AG Hong Kong Branch by UBS AG Hong Kong Branch, a licensed bank under the Hong Kong 
+Banking Ordinance and a registered institution under the Securities and Futures Ordinance. UBS AG Hong Kong Branch is incorporated in Switzerland with limited liability. 
+India: Distributed by UBS Securities India Private Ltd. (Corporate Identity Number U67120MH1996PTC097299) 2/F, 3 North Avenue, Maker Maxity, Bandra Kurla Complex, 
+Bandra (East), Mumbai (India) 400051. Phone: +912261556000. It provides brokerage services bearing SEBI Registration Number INZ000259830; Merchant Banking services 
+bearing SEBI Registration Number: INM000013101 and Research Analyst services bearing SEBI Registration Number: INH000001204. Name of Compliance Officer Mr. 
+Parameshwaran Shivaramakrishnan, Phone: +912261556151, Email: parameshwaran.s@ubs.com, Name of Grievance Officer Mr. Parameshwaran Shivaramakrishnan, 
+Phone: +912261556151, Email: ol-ubs-sec-compliance@ubs.com. Registration granted by SEBI and certification from NISM in no way guarantee performance of the 
+intermediary or provide any assurance of returns to investors. UBS AG, its affiliates or subsidiaries may have debt holdings or positions in the subject Indian company/
+companies. UBS AG, its affiliates or subsidiaries may have financial interests (e.g. like loan/derivative products, rights to or interests in investments, etc.) in the subject Indian 
+company/companies from time to time. Within the past 12 months, UBS AG, its affiliates or subsidiaries may have received compensation for non-investment banking 
+securities-related services and/or non-securities services from the subject Indian company/companies. The subject company/companies may have been a client/clients of UBS 
+AG, its affiliates or subsidiaries during the 12 months preceding the date of distribution of the research report with respect to investment banking and/or non-investment 
+banking securities-related services and/or non-securities services. With regard to information on associates, please refer to the Annual Report at: https://www.ubs.com/
+global/en/about_ubs/investor_relations/annualreporting.html. Indonesia: This communication and any offering material term sheet, research report, other product or 
+service documentation or any other information (the "Material") sent with this communication was done so as a result of a request received by UBS from you and/or persons 
+entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and inform UBS immediately. The 
+Material, where provided, was provided for your information only and is not to be further distributed without the consent of UBS. None of the Material has been registered 
+or filed under the prevailing laws and with any financial or regulatory authority in your jurisdiction. The Material may not have been approved, disapproved, endorsed, 
+registered or filed with any financial or regulatory authority in your jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or 
+to purchase any investment (including securities or products or futures contracts). The Material is neither an offer nor a solicitation to enter into any transaction or contract 
+(including futures contracts) nor is it an offer to buy or to sell any securities or products. The relevant investments will be subject to restrictions and obligations on transfer as 
+set forth in the Material, and by receiving the Material you undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you 
+understand and exercise due care and discretion in considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are 
+advised to seek independent professional advice in case of doubt. Any and all advice provided on and/or trades executed by UBS pursuant to the Material will only have been 
+provided upon your specific request or executed upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Israel: UBS is a premier 
+global financial firm offering wealth management, asset management and investment banking services from its headquarters in Switzerland and its operations in over 50 
+countries worldwide to individual, corporate and institutional investors. This publication is intended for information only and is not intended as an offer to buy or solicitation 
+of an offer. Furthermore, this publication is not intended as an investment advice. Nothing contrary to the above, no action has been, or will be, taken in Israel that would 
+permit an offering of the product(s) mentioned in this document or a distribution of this document to the public in Israel. In particular, this document has not been reviewed 
+or approved by the Israeli Securities Authority. The product(s) mentioned in this document is/are being offered to a limited number of sophisticated investors who qualify as 
+one of the investors listed in the first supplement to the Israeli Securities Law, 5728-1968. This document may not be reproduced or used for any other purpose, nor be 
+furnished to any other person other than those to whom copies have been sent. Anyone who purchases the product(s) mentioned herein shall do so for its own benefit and 
+for its own account and not with the aim or intention of distributing or offering the product(s) to other parties. Anyone who purchases the product(s) shall do so in 
+accordance with its own understanding and discretion and after it has received any relevant financial, legal, business, tax or other advice or opinion required by it in 
+connection with such purchase(s). The word "advice" and/or any of its equivalent terms shall be read and construed in conjunction with the definition of the term 
+"investment marketing" as defined under the Israeli Regulation of Investment Advice, Investment Marketing and Portfolio Management Law. The Swiss laws and regulations 
+require a number of mandatory disclosures to be made in independent financial research reports or recommendations. Pursuant to the Swiss Financial Market Infrastructure 
+Act and the Financial Market Infrastructure Ordinance-FINMA, banks must disclose the percentage of voting rights they hold in companies being researched, if these holdings 
+are equal to or exceed the statutory thresholds. In addition, the Directives on the Independence of Financial Research, issued by the Swiss Bankers Association, mandate a 
+number of disclosures, including the disclosure of potential conflicts of interest, the participation within previous 12 months in any securities issues on behalf of the company 
+being researched, as well as the fact that remuneration paid to the financial analysts is based generally upon the performance of (i) the new issues department or investment 
+banking; or (ii) securities trading performance (including proprietary trading) or sales. Italy: This publication is not intended to constitute a public offer under Italian law. It is 
+distributed only for information purposes to clients of UBS Europe SE, Succursale Italia, with place of business at Via del Vecchio Politecnico, 3-20121 Milano. UBS Europe SE, 
+Succursale Italia is subject to the joint supervision of the European Central Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services 
+Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, “BaFin”), as well as of the Bank of Italy (Banca d’Italia) and the Italian Financial Markets Supervisory 
+Authority (CONSOB - Commissione Nazionale per le Società e la Borsa), to which this publication has not been submitted for approval. UBS Europe SE is a credit institution 
+constituted under German law in the form of a Societas Europaea, duly authorized by BaFin. Jersey: UBS AG, Jersey Branch, is regulated and authorized by the Jersey 
+Financial Services Commission for the conduct of banking, funds and investment business. Where services are provided from outside Jersey, they will not be covered by the 
+Jersey regulatory regime. UBS AG, Jersey Branch is a branch of UBS AG a public company limited by shares, incorporated in Switzerland whose registered offices are at 
+Aeschenvorstadt 1, CH-4051 Basel and Bahnhofstrasse 45, CH 8001 Zurich. UBS AG, Jersey Branch's principal place of business is 1, IFC Jersey, St Helier, Jersey, JE2 3BX. 
+Luxembourg: This publication is not intended to constitute a public offer under Luxembourg law. It is distributed only for information purposes to clients of UBS Europe SE, 
+Luxembourg Branch ("UBS Luxembourg"), R.C.S. Luxembourg n° B209123, with registered office at 33A, Avenue J. F. Kennedy, L-1855 Luxembourg. UBS Europe SE is a 
+credit institution constituted under German law in the form of a Societas Europaea (HRB n° 107046), with registered office at Bockenheimer Landstrasse 2-4, D-60306 
+Frankfurt am Main, Germany, duly authorized by the German Federal Financial Services Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, "BaFin") and 
+subject to the joint prudential supervision of BaFin, the European Central Bank and the central bank of Germany (Deutsche Bundesbank). UBS Luxembourg is furthermore 
+supervised by the Luxembourg prudential supervisory authority (Commission de Surveillance du Secteur Financier), in its role as host member state authority. This publication 
+has not been submitted for approval to any public supervisory authority. Malaysia: This communication and any offering material term sheet, research report, other product 
+or service documentation or any other information (the "Material") sent with this communication was done so as a result of a request received by UBS from you and/or 
+persons entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and inform UBS 
+
+mailto:parameshwaran.s@ubs.com
+mailto:ol-ubs-sec-compliance@ubs.com
+https://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html
+https://www.ubs.com/global/en/about_ubs/investor_relations/annualreporting.html
+
+
+Memory Semis Monthly 1 May 2025 ab 28
+
+immediately. The Material, where provided, was provided for your information only and is not to be further distributed in whole or in part in or into your jurisdiction without 
+the consent of UBS. The Material may not have been reviewed, approved, disapproved, endorsed, registered or filed with any financial or regulatory authority in your 
+jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or to purchase any investment (including securities or derivatives 
+products). The Material is neither an offer nor a solicitation to enter into any transaction or contract (including future contracts) nor is it an offer to buy or to sell any securities 
+or derivatives products. The relevant investments will be subject to restrictions and obligations on transfer as set forth in the Material, and by receiving the Material you 
+undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you understand and exercise due care and discretion in 
+considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are advised to seek independent professional advice 
+in case of doubt. Any and all advice provided on and/or trades executed by UBS pursuant to the Material will only have been provided upon your specific request or executed 
+upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Mexico: This information is distributed by UBS Asesores México, S.A. de 
+C.V. ("UBS Asesores"), an affiliate of UBS Switzerland AG, incorporated as a non-independent investment advisor under the Mexican regulation due to the relation with a 
+Foreign Bank. UBS Asesores is registered under number 30060-001-(14115)-21/06/2016 and subject to the supervision of the Mexican Banking and Securities Commission 
+("CNBV") exclusively regarding the rendering of (i) portfolio management services, (ii) securities investment advisory services, analysis and issuance of individual investment 
+recommendations, and (iii) anti-money laundering and terrorism financing matters. This UBS publication or any material related thereto is addressed only to Sophisticated or 
+Institutional Investors located in Mexico. Research reports only reflect the views of the analysts responsible for the report. The compensation of the analyst(s) who prepared 
+this report is determined exclusively by research management and senior management of any entity of UBS Group to which such analyst(s) render(s) services. Monaco: This 
+document is not intended to constitute a public offering or a comparable solicitation under the Principality of Monaco laws, but might be made available for information 
+purposes to clients of UBS (Monaco) S.A., a regulated bank having its registered office at 2 avenue de Grande Bretagne 98000 Monaco operating under a banking license 
+granted by the “Autorité de Contrôle Prudentiel et de Résolution” (ACPR) and the Monegasque government which authorizes the provision of banking services in Monaco. 
+UBS (Monaco) S.A. is also licensed by the “Commission de Contrôle des Activités Financières” (CCAF) to provide investment services in Monaco. The latter has not approved 
+this publication. Philippines:  This communication was done so as a result of a request received by UBS from you and/or persons entitled to make the request on your behalf. 
+Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and inform UBS immediately. The Material, where provided, was provided for 
+your information only and is not to be further distributed in whole or in part in or into your jurisdiction without the consent of UBS. The Material may not have been reviewed, 
+approved, disapproved, endorsed, registered or filed with any financial or regulatory authority in your jurisdiction. UBS has not, by virtue of the Material, made available, 
+issued any invitation to subscribe for or to purchase any investment (including securities or derivatives products). The Material is neither an offer nor a solicitation to enter into 
+any transaction or contract (including future contracts) nor is it an offer to buy or to sell any securities or derivatives products. The relevant investments will be subject to 
+restrictions and obligations on transfer as set forth in the Material, and by receiving the Material you undertake to comply fully with such restrictions and obligations. You 
+should carefully study and ensure that you understand and exercise due care and discretion in considering your investment objective, risk appetite and personal 
+circumstances against the risk of the investment. You are advised to seek independent professional advice in case of doubt. Any and all advice provided on and/or trades 
+executed by UBS pursuant to the Material will only have been provided upon your specific request or executed upon your specific instructions, as the case may be, and may 
+be deemed as such by UBS and you. Portugal: UBS Switzerland AG is not licensed to conduct banking and financial activities in Portugal nor is UBS Switzerland AG 
+supervised by the portuguese regulators (Bank of Portugal "Banco de Portugal" and Portuguese Securities Exchange Commission "Comissão do Mercado de Valores 
+Mobiliários"). Qatar: UBS Qatar LLC is authorized by the Qatar Financial Centre Regulatory Authority, with QFC no. 01169, and has its registered office at 14th Floor, Burj 
+Alfardan Tower, Building 157, Street No. 301, Area No. 69, Al Majdami, Lusail, Qatar. UBS Qatar LLC neither offers any brokerage services nor executes any order with, for or 
+on behalf of its clients. A client order will have to be placed with, and executed by, UBS Switzerland AG in Switzerland or an affiliate of UBS Switzerland AG, that is domiciled 
+outside Qatar. It is in the sole discretion of UBS Switzerland AG in Switzerland or its affiliate to accept or reject an order and UBS Qatar LLC does not have authority to provide 
+a confirmation in this respect. UBS Qatar LLC may however communicate payment orders and investment instructions to UBS Switzerland AG in Switzerland for receipt, 
+acceptance and execution. UBS Qatar LLC is not authorized to act for and on behalf of UBS Switzerland AG or an affiliate of UBS Switzerland AG. This document and any 
+attachments hereto are intended for eligible counterparties and business customers only. Russia: This document or information contained therein is for information purposes 
+only and constitutes neither a public nor a private offering, is not an invitation to make offers, to sell, exchange or otherwise transfer any financial instruments in the Russian 
+Federation to or for the benefit of any Russian person or entity and does not constitute an advertisement or offering of securities in the Russian Federation within the 
+meaning of Russian securities laws. The information contained herein is not an “individual investment recommendation” as defined in Federal Law of 22 April 1996 No 39-FZ 
+"On Securities Market" (as amended) and the financial instruments and operations specified herein may not be suitable for your investment profile or your investment goals 
+or expectations. The determination of whether or not such financial instruments and operations are in your interests or are suitable for your investment goals, investment 
+horizon or the acceptable risk level is your responsibility. We assume no liability for any losses connected with making any such operations or investing into any such financial 
+instruments and we do not recommend to use such information as the only source of information for making an investment decision. Saudi Arabia: UBS Saudi Arabia is 
+authorised and regulated by the Capital Market Authority to conduct securities business under licence number 08113-37. Singapore: Where applicable, this material is 
+distributed in Singapore by UBS AG, Singapore Branch, which is licensed by the Monetary Authority of Singapore under the Banking Act 1970 to carry on banking business. 
+UBS AG is incorporated in Switzerland with limited liability. UBS AG has a branch registered in Singapore (UEN S98FC5560C). This material has been prepared and issued for 
+distribution in Singapore to institutional investors, accredited investors and expert investors (each as defined under the Financial Advisers Regulations (the “FAR”)) only. By 
+virtue of your status as an institutional investor, accredited investor, or expert investor, UBS AG is exempted from complying with certain requirements under the Financial 
+Advisers Act 2001 (the “FAA”), the FAR and the relevant Notices and Guidelines issued thereunder, in respect of any financial advisory service which UBS AG may provide to 
+you. These include exemptions from complying with: Section 34 of the FAA (pursuant to Regulation 33(1) of the FAR); Section 36 of the FAA (pursuant to Regulation 34(1) of 
+the FAR); and Section 45 of the FAA (pursuant to Regulation 35(1) of the FAR). Singapore recipients and clients of UBS AG, Singapore Branch should contact UBS AG, 
+Singapore Branch for any matters arising from, or in connection with, this material. Where applicable, this communication and any offering material term sheet, research 
+report, other product or service documentation or any other information (the "Material") sent with this communication was done so as a result of a request received by UBS 
+from you and/or persons entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and 
+inform UBS immediately. The Material, where provided, was provided for your information only and is not to be further distributed in whole or in part in or into your 
+jurisdiction without the consent of UBS. The Material may not have been reviewed, approved, disapproved or endorsed by any financial or regulatory authority in your 
+jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or to purchase any investment (including securities or products or 
+futures contracts). The Material is neither an offer nor a solicitation to enter into any transaction or contract (including future contracts) nor is it an offer to buy or to sell any 
+securities or products. The relevant investments will be subject to restrictions and obligations on transfer as set forth in the Material, and by receiving the Material you 
+undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you understand and exercise due care and discretion in 
+considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are advised to seek independent professional advice 
+in case of doubt. Any and all advice provided on and/or trades executed by UBS pursuant to the Material will only have been provided upon your specific request or executed 
+upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Spain: This report is distributed in Spain by UBS AG, Sucursal en España, 
+authorized under number 1460 in the Register by the Banco de España. Sweden: This publication is not intended to constitute a public offer under Swedish law. It is 
+distributed only for information purposes to clients of UBS Europe SE, Sweden Bankfilial, with place of business at Regeringsgatan 38, 11153 Stockholm, Sweden, registered 
+with the Swedish Companies Registration Office under Reg. No 516406-1011. UBS Europe SE, Sweden Bankfilial is subject to the joint supervision of the European Central 
+Bank, the German Central Bank (Deutsche Bundesbank), the German Federal Financial Services Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht, 
+"BaFin"), as well as of the Swedish supervisory authority (Finansinspektionen), to which this publication has not been submitted for approval. UBS Europe SE is a credit 
+institution constituted under German law in the form of a Societas Europaea, duly authorized by BaFin. Taiwan: This material is provided by UBS AG, Taipei Branch in 
+accordance with laws of Taiwan, in agreement with or at the request of clients/prospects.  Thailand: This communication and any offering material, term sheet, research 
+report, other product or service documentation or any other information (the "Material") sent with this communication were done so as a result of a request received by UBS 
+from you and/or persons entitled to make the request on your behalf. Should you have received the Material erroneously, UBS asks that you kindly delete the e-mail and 
+inform UBS immediately. The Material, where provided, was provided for your information only and is not to be further distributed in whole or in part in or into your 
+jurisdiction without the consent of UBS. The Material may not have been reviewed, approved, disapproved, endorsed, registered or filed with any financial or regulatory 
+authority in your jurisdiction. UBS has not, by virtue of the Material, made available, issued any invitation to subscribe for or to purchase any investment (including securities 
+or derivatives products). The Material is neither an offer nor a solicitation to enter into any transaction or contract (including future contracts) nor is it an offer to buy or to sell 
+any securities or derivatives products. The relevant investments will be subject to restrictions and obligations on transfer as set forth in the Material, and by receiving the 
+Material you undertake to comply fully with such restrictions and obligations. You should carefully study and ensure that you understand and exercise due care and discretion 
+in considering your investment objective, risk appetite and personal circumstances against the risk of the investment. You are advised to seek independent professional advice 
+in case of doubt. Any and all advice provided and/or trades executed by UBS pursuant to the Material will only have been provided upon your specific request or executed 
+upon your specific instructions, as the case may be, and may be deemed as such by UBS and you. Türkiye: The information in this document is not provided for the purpose 
+of offering, marketing or sale of any capital market instrument or service in the Republic of Türkiye. Therefore, this document may not be considered as an offer made, or to 
+be made, to residents of the Republic of Türkiye in the Republic of Türkiye. UBS Switzerland AG is not licensed by the Capital Markets Board of Türkiye (the CMB) under the 
+provisions of the Capital Market Law (Law No. 6362). Accordingly, neither this document nor any other offering material related to the instrument/service may be utilized in 
+connection with providing any capital market services to persons within the Republic of Türkiye without the prior approval of the CMB. However, according to article 15 (d) (ii) 
+of the Decree No. 32 residents of the Republic of Türkiye are allowed to purchase or sell the financial instruments traded in financial markets outside of the Republic of 
+Türkiye. Further to this, pursuant to article 9 of the Communiqué on Principles Regarding Investment Services, Activities and Ancillary Services No. III-37.1, investment services 
+provided abroad to residents of the Republic of Türkiye based on their own initiative are not restricted. United Arab Emirates (UAE) / DIFC: UBS is not a financial institution 
+licensed in the UAE by the Central Bank of the UAE nor by the Emirates’ Securities and Commodities Authority and does not undertake banking activities in the UAE. This 
+
+
+
+Memory Semis Monthly 1 May 2025 ab 29
+
+document is provided for your information only and does not constitute financial advice. DIFC: UBS AG Dubai Branch is licensed by the DFSA in the DIFC. This material is 
+strictly intended for Professional Clients and/or Market Counterparties only as classified under the DFSA rulebook. No other person should act upon this material. The 
+Investment Research is provided for information purposes only and is not a recommendation or offer to buy/sell/hold a particular investment. The investment research may be 
+out of date. You should seek investment advice before acting on the basis of the investment research. United Kingdom: This document is issued by UBS Wealth 
+Management, a division of UBS AG which is authorised and regulated by the Financial Market Supervisory Authority in Switzerland. In the United Kingdom, UBS AG is 
+authorised by the Prudential Regulation Authority and is subject to regulation by the Financial Conduct Authority and limited regulation by the Prudential Regulation 
+Authority. Details about the extent of regulation by the Prudential Regulation Authority are available from us on request. A member of the London Stock Exchange. This 
+publication is distributed to retail clients of UBS Wealth Management. Ukraine: UBS is not registered and licensed as a bank/financial institution under Ukrainian legislation 
+and does not provide banking and other financial services in Ukraine. UBS has not made, and will not make, any offer of the mentioned products to the public in Ukraine. No 
+action has been taken to authorize an offer of the mentioned products to the public in Ukraine and the distribution of this document shall not constitute financial services for 
+the purposes of the Law of Ukraine "On Financial Services and Financial Companies" dated 14 December 2021. Any offer of the mentioned products shall not constitute an 
+investment advice, public offer, circulation, transfer, safekeeping, holding or custody of securities in the territory of Ukraine. Accordingly, nothing in this document or any 
+other document, information or communication related to the mentioned products shall be interpreted as containing an offer, a public offer or invitation to offer or to a 
+public offer, or solicitation of securities in the territory of Ukraine or investment advice under Ukrainian law. Electronic communication must not be considered as an offer to 
+enter into an electronic agreement or other electronic instrument within the meaning of the Law of Ukraine "On Electronic Commerce" dated 3 September 2015. This 
+document is strictly for private use by its holder and may not be passed on to third parties or otherwise publicly distributed. USA: Distributed to US persons only by UBS 
+Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliários 
+Ltda., UBS Asesores México, S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd. and UBS Menkul Degerler AS are affiliates of 
+UBS AG.  UBS Financial Services Inc. accepts responsibility for the content of a report prepared by a non-US affiliate when it distributes reports to US persons. 
+All transactions by a US person in the securities mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and 
+not through a non-US affiliate. The contents of this report have not been and will not be approved by any securities or investment authority in the United 
+States or elsewhere. UBS Financial Services Inc. is not acting as a municipal advisor to any municipal entity or obligated person within the meaning of Section 
+15B of the Securities Exchange Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do not constitute, 
+advice within the meaning of the Municipal Advisor Rule.
+
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+Credit Suisse Wealth Management Disclaimer
+
+This disclaimer must be read in conjunction with “Risk information” and “Important Information About Sustainable Investing Strategies” sections of the Global Wealth 
+Management Disclaimer above. You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be processed in 
+accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit Suisse website https://www.credit-suisse.com. In order to provide 
+you with marketing materials concerning our products and services, UBS Group AG and its subsidiaries may process your basic personal data (i.e. contact details such as 
+name, e-mail address) until you notify us that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your Relationship 
+Manager.
+
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this report, this report is distributed by UBS Switzerland 
+AG, authorised and regulated by the Swiss Financial Market Supervisory Authority (FINMA). Brazil: This report is distributed in Brazil by Credit Suisse (Brasil) S.A. Corretora de 
+Títulos e Valores Mobiliários or its affiliates (“Credit Suisse”). Pursuant to CVM Resolution No. 20/2021, of February 25, 2021, the author(s) of the report hereby certify(ies) 
+that the views expressed in this report solely and exclusively reflect the personal opinions of the author(s) and have been prepared independently, including with respect to 
+Credit Suisse and other UBS Group entities. Part of the author(s)´s compensation is based on various factors, including the total revenues of the relevant UBS Group entity of 
+which they are in employment of, but no part of the compensation has been, is, or will be related to the specific recommendations or views expressed in this report. In 
+addition, Credit Suisse declares that: Credit Suisse has provided, and/or may in the future provide investment banking, brokerage, asset management, commercial banking 
+and other financial services to the subject company/companies or its affiliates, for which they have received or may receive customary fees and commissions, and which 
+constituted or may constitute relevant financial or commercial interests in relation to the subject company/companies or the subject securities. Japan: This report is solely 
+distributed in Japan by Credit Suisse Securities (Japan) Limited, Financial Instruments Dealer, Director-General of Kanto Local Finance Bureau (Kinsho) No. 66, a member of 
+the Japan Securities Dealers Association, Financial Futures Association of Japan, Japan Investment Advisers Association, and Type II Financial Instruments Firms Association or 
+UBS SuMi TRUST Wealth Management Co., Ltd, Financial Instruments Dealer, Director-General of Kanto Local Finance Bureau (Kinsho) No. 3233, a member of the Japan 
+Securities Dealers Association, Financial Futures Association of Japan, Japan Investment Advisers Association. Neither Credit Suisse Securities (Japan) Limited nor UBS SuMi 
+TRUST Wealth Management Co., Ltd will distribute or forward this report outside Japan. Mexico: This information is distributed by C. Suisse Asesoría México, S.A. de C.V. 
+("CS Asesores"), an affiliate of UBS Group AG, incorporated as a non-independent investment advisor under the Mexican regulation due to the relation with a Foreign Bank 
+and its indirect relation with Grupo Financiero Credit Suisse (México), S.A. de C.V. CS Asesores is registered under number 30070-001-(14208)-10/10/2016 and subject to 
+the supervision of the Mexican Banking and Securities Commission ("CNBV") exclusively regarding the rendering of (i) portfolio management services, (ii) securities 
+investment advisory services, analysis and issuance of individual investment recommendations, and (iii) anti-money laundering and terrorism financing matters. This 
+publication or any material related thereto is addressed only to Sophisticated or Institutional Investors located in Mexico. Research reports only reflect the views of the analysts 
+responsible for the report. The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior management of any 
+entity of UBS Group to which such analyst(s) render(s) services. Qatar: This information has been distributed by Credit Suisse (Qatar) L.L.C., which is duly authorized and 
+regulated by the Qatar Financial Centre Regulatory Authority (QFCRA) under QFC License No. 00005. All related financial products or services will only be available to 
+Business Customers or Market Counterparties (as defined by the QFCRA), including individuals, who have opted to be classified as a Business Customer, with net assets in 
+excess of QR 4 million, and who have sufficient financial knowledge, experience and understanding to participate in such products and/or services. Therefore this information 
+must not be delivered to, or relied on by, any other type of individual. Saudi Arabia: This information is being distributed by Credit Suisse Saudi Arabia (CR Number 
+1010228645), duly licensed and regulated by the Saudi Arabian Capital Market Authority pursuant to License Number 08104-37 dated 23/03/1429H corresponding to 
+21/03/2008AD. Credit Suisse Saudi Arabia’s principal place of business is at King Khaled Road, Laysen Valley, Building number 6, 12329-2376, Riyadh, Saudi Arabia. Website: 
+https://www.credit-suisse.com/sa/en/cssa.html. South Africa: This information is being distributed by Credit Suisse (UK) Limited which is registered as a financial services 
+provider with the Financial Sector Conduct Authority in South Africa with FSP number 48779. Türkiye: The investment information, comments and recommendations 
+contained herein are not within the scope of investment advisory activity. The investment advisory services are provided by the authorized institutions to the persons in a 
+customized manner taking into account the risk and return preferences of the persons. Whereas, the comments and advices included herein are of general nature. Therefore 
+recommendations may not be suitable for your financial status or risk and yield preferences. For this reason, making an investment decision only by relying on the information 
+given herein may not give rise to results that fit your expectations. This report is distributed by Credit Suisse Istanbul Menkul Degerler Anonim Sirketi, regulated by the Capital 
+Markets Board of Türkiye, with its registered address at Levazim Mahallesi, Koru Sokak No. 2 Zorlu Center Terasevler No. 61 34340 Besiktas/ Istanbul-Türkiye. United 
+Kingdom: This document is distributed by Credit Suisse (UK) Limited. Credit Suisse (UK) Limited, is authorized by the Prudential Regulation Authority and regulated by the 
+Financial Conduct Authority and the Prudential Regulation Authority. The registered address of Credit Suisse (UK) Limited is 5 Broadgate, London, EC2M 2QS.
+
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+ab
+
+https://www.credit-suisse.com
+

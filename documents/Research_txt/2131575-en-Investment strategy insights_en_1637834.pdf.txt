@@ -1,0 +1,480 @@
+
+25 April 2025, 08:46PM UTC
+Chief Investment Office GWM
+Investment Research
+
+What’s the right weight for US assets in a
+portfolio?
+Investment strategy insights
+ 
+ Authors: Kiran Ganesh, Strategist, UBS AG London Branch; Achim Peijan, Strategist, UBS Switzerland AG; Thomas Wacker, CFA, Head CIO Credit, UBS
+Switzerland AG; Justin Waring, Investment Strategist, CIO Americas, UBS Financial Services Inc. (UBS FS); Alan Zlatar, Head of Strategic Asset Allocation,
+UBS Switzerland AG; Vincent Heaney, Strategist, UBS AG London Branch; Matthew Carter, Strategist, UBS AG London Branch
+
+• Recent uncertainty around US tariffs, Fed
+independence, America’s global role, and US
+equities’ premium valuation to peers has led non-
+US investors to question “US exceptionalism” and
+reconsider their US asset exposure. The right
+allocation requires careful balance.
+
+• For equities, simple frameworks like market cap,
+GDP, or earnings weighting suggest US allocations
+from 25% to 60%. Diversification, home bias,
+and risk-return expectations complicate the true
+strategic weight. We outline some of the reasons
+why investors might adjust their long-term holdings.
+
+• In fixed income, non-US investors can blend home
+currency, EUR, and USD bonds, using hedging to
+manage currency risk. Selective currency hedging
+can enhance returns and reduce volatility but comes
+with costs and requires ongoing review.
+
+Source: Shutterstock
+
+ 
+Uncertainty around US tariff policy, the independence of the
+Federal Reserve, and the US’s international role have led
+investors to question the idea of “US exceptionalism.”
+
+Determining the right allocation to US stocks, bonds,
+and the US dollar is a central portfolio question for self-
+directed investors who do not delegate portfolio building
+and management to professional investors.
+
+The US remains the world’s largest economy and financial
+market, but recent volatility and shifting global dynamics
+have prompted many to reconsider their exposure.
+
+While the right answer is rarely “all in” or “all out,” finding
+the right balance requires understanding the role US assets
+play in a diversified portfolio, the frameworks for allocation,
+and the evolving risks and opportunities.
+
+This report provides a practical guide to help non-US
+investors make informed decisions about US asset weights,
+without prescribing a one-size-fits-all number.
+
+How to approach US equities
+Like with all asset classes, investors need to consider how
+much they wish to hold over many business cycles (also
+known as a strategic asset allocation) and whether they
+want to hold more or less of an asset to exploit current
+opportunities and risks (also known as a tactical asset
+allocation).
+
+At the time of writing, CIO holds an Attractive view on
+US equities in our tactical asset allocation. We expect the
+broad S&P 500 index to rise to 5,800 by the end of 2025
+as tariff uncertainty eases, the Fed cuts interest rates, and
+investors’ focus shifts toward the prospect of a rebound
+in US earnings growth in 2026. We believe that phasing
+
+This report has been prepared by UBS AG London Branch, UBS Switzerland AG, UBS Financial Services Inc. (UBS FS).
+Please see important disclaimers and disclosures at the end of the document.
+
+
+
+Investment strategy insights
+
+in or capital-preservation approaches can allow investors to
+benefit from medium-term growth while managing near-
+term timing risks.
+
+Historically, US exceptionalism has been a significant theme
+in financial markets borne out by performance.
+
+According to the Global Investment Returns Yearbook 2025,
+an investment of one dollar in US equities in 1900 would
+have grown to USD 2,911 in real (after inflation) terms by
+the end of 2024, compared to USD 194 for ex-US equities
+over the same period. From 2020 to 2024, US equities
+(MSCI USA) outperformed ex-US equities (MSCI AC World
+ex-US) by 72 percentage points, driven by a post-pandemic
+boom that saw nominal US GDP rise roughly 35% alongside
+strong corporate earnings growth and rapid technological
+advances.
+
+But recently US exceptionalism has been tested as investor
+uncertainty over US tariffs, Fed independence, America’s
+global role, and US equities’ premium valuation to peers
+have led to US asset underperformance or turbulence. At
+the time of writing, US equities have underperformed ex-
+US equities by around 15 percentage points year to date.
+The US dollar and US Treasuries have deviated from historical
+patterns and declined amid recent volatility. The relative
+steepening of the US Treasury yield curve indicates that
+investors are demanding an additional risk premium on
+longer-term US government debt.
+
+So, for those trying to find the right strategic allocation to US
+equities today, self-directed investors may want to consider
+the consequences of how challenges to US exceptionalism
+might impact methods for deciding on equity allocations.
+
+Market capitalization weighting allocates based on
+the size of each country’s stock market. The US
+currently accounts for about 60% of global equity market
+capitalization. This method is widely used by global
+benchmarks and passive funds, reflecting the dominance of
+US companies like Apple, Microsoft, and Amazon. However,
+it can lead to concentration risk, as the largest markets and
+sectors receive the most weight. In the event of the US’s pre-
+eminence being challenged, US equities may underperform
+non-US equities, meaning a declining share of market-cap-
+weighted indexes and a natural fall in US equity exposure.
+
+If stock allocations are based on GDP weighting, the US
+representing roughly 25% of global GDP would account for
+25% of a strategic allocation to stocks. While seemingly
+resulting in a more diversified portfolio than market cap
+methods, few investors allocate to stocks in this way given
+it fails to account for many large companies operating
+globally. Statistical evidence also shows a weak relationship
+
+between a country’s GDP and its stock market performance.
+For instance, China’s GDP is nearly as large as the US, but its
+stock market is much smaller and less accessible to foreign
+investors.
+
+Another seldom used methodology, earnings weighting,
+would invest based on company profits (earnings). Such an
+approach would treat every dollar of profit equally, leading
+to a more balanced allocation than market-cap weighting.
+However, it tends to overweight “value” companies and
+underweight high-growth firms, which often trade at
+higher valuations. In much of the post-financial crisis
+period, favoring value over growth would have foregone
+performance.
+
+Practically, many investors naturally allocate more to their
+home market—sometimes by 10–20 percentage points—
+due to tax incentives, lower costs, liability considerations,
+or greater familiarity. While this can increase comfort and
+“staying power,” it may reduce diversification.
+
+Self-directed investors can borrow ideas from professional
+portfolio builders to decide on their strategic weight to US
+equities. Money managers, in simple terms, use historical
+and expected data on economic, corporate, and valuation
+trends to produce risk and return assumptions for different
+capital market assets. They then look at how closely or
+divergently different asset returns have typically moved to
+understand how holding assets together in a portfolio may
+affect how much it swings (volatility). Finally, a variety of
+“optimizations” are applied to produce a model portfolio,
+depending on what an investor wants their portfolio to
+achieve. These range from equally weighted approaches to
+matching major stock indexes closely, through to boosting
+risk-adjusted returns and minimizing the likelihood of
+experiencing outsized market falls.
+
+Each standalone approach has its merits and pitfalls. While
+it’s beyond the scope of this paper to expand on this
+technical subject, we can show that CIO analysis of these
+different methods suggests a wide range of potential
+US equity exposures (MSCI USA) for a balanced investor.
+Using an approach biased toward historical returns and
+minimizing outsized losses would allocate nearly 40% of a
+balanced portfolio to US stocks. A simple “mean-variance”
+approach suggests an impractical zero allocation to US
+stocks because today’s elevated valuations compared to
+history are expected to weigh on future returns.
+
+For practical purposes, we believe that 50% of the equity
+allocation in a balanced portfolio to US stocks (25% of
+the entire overall portfolio) is the right long-term allocation.
+But we acknowledge that self-directed investors may seek a
+lower allocation if they expect lower US stock returns over
+
+2
+
+
+
+Investment strategy insights
+
+the next 10-15 years compared to other stock markets; if
+they expect US stock returns to be more choppy than other
+equity markets; or if they expect US equities to behave in a
+consistently different way to other equity markets (i.e., US
+equity returns become more sensitive to global growth or
+risk, also known as being a “higher beta market”).
+
+How to approach US dollar
+bonds
+Fixed income allocation is more nuanced, especially for non-
+US investors. The most relevant factor for bond returns
+is the currency of denomination, not the domicile of the
+issuer, and most larger companies issue bonds in various
+currencies.
+
+Most investors apply a home currency focus in bonds.
+While there typically is a liquid government bond market
+even in smaller currencies, diversifying within corporate
+bonds is often difficult, and secondary market liquidity can
+be low.
+
+Therefore, a blended approach with a home currency core
+and currency-hedged exposure to more diversified and
+liquid bond markets, such as the USD and EUR markets,
+can offer better risk-adjusted returns. In particular riskier
+segments of the bond market, like high yield and emerging
+markets bonds offer a broader diversification in USD than
+in EUR.
+
+For example, a Eurozone investor may keep their high grade
+and investment grade allocation in EUR-denominated bonds
+(which includes US companies issuing in the currency), but
+may use currency-hedged USD bonds for segments where
+the EUR market is small.
+
+For many non-US investors, especially those in Europe or
+Switzerland, holding a mix of currency-hedged USD and EUR
+bonds can enhance diversification and return potential.
+
+Yet unhedged USD bonds can introduce significant volatility
+for EUR- or CHF-based investors, as currency volatility
+materially exceeds bond volatility. In recent times, investor
+concerns over US policy have led to the US dollar losing
+ground against both the euro and Swiss franc. These
+movements would likely have dominated returns and risk
+for non-USD-based holders of USD bonds.
+
+Currency hedging can help align returns with domestic
+liabilities and reduce volatility. The cost of hedging
+depends on the short-term interest rate differential between
+currencies. When US rates are higher than EUR or CHF rates,
+hedging USD exposure reduces the carry yield advantage,
+
+but different monetary policy settings and changes in the
+shape of the yield curve can still result in different return
+outcomes compared to home currency bonds.
+
+Swiss franc investors face unique challenges. The Swiss bond
+market is relatively small and offers very low yields—Swiss
+government bonds have often yielded less than 1%, and
+sometimes even negative yields. As a result, CHF investors
+seeking higher returns often look to EUR or USD bonds.
+
+For CHF-based investors, a core allocation to high-quality
+Swiss bonds can provide stability and liquidity. Allocating a
+significant portion of the fixed income portfolio to foreign
+bonds in EUR or USD to achieve higher yields can cause
+outsized currency losses during episodes of Swiss franc
+strength. Hedging this risk removes the yield advantage.
+While being better diversified, such allocations typically
+contribute only moderate returns to the overall portfolio.
+
+For CHF investors, the optimal mix might be a core allocation
+to Swiss and EUR bonds (fully hedged), with a satellite
+allocation to USD bonds (fully hedged). This approach
+balances yield, diversification, and risk management.
+
+We also note a few important considerations when it comes
+to building strategic bond exposures:
+
+• For high-grade and investment-grade bonds, most
+returns come from the yield curve, which is determined
+by the currency of denomination and the prevailing
+interest rate and future monetary policy environment.
+
+• For high yield and emerging market bonds, credit
+spreads, issuer, and regional risk play a larger role in
+determining future returns.
+
+• If an investor’s home bond market is small, less liquid,
+or has less developed credit markets, consider a core
+allocation to USD or EUR bonds, hedging the currency
+risk.
+
+• Allocating to bonds by regional weights may fail to
+account for the fact that many investment-grade
+issuers are global companies and could result in a high
+allocation to more indebted countries in a portfolio.
+
+How to approach the US dollar
+Again acknowledging that this report talks about the
+long-term outlook rather than the short-run outlook (and
+repeating that CIO holds a tactical, six- to twelve-month
+Neutral view on the US dollar), it is important to consider
+different strategic approaches to holding the US dollar.
+
+3
+
+
+
+Investment strategy insights
+
+Hedging all foreign currency exposure eliminates currency
+risk, aligning portfolio returns with domestic expenses.
+Historical studies (such as the Global Investment Returns
+Yearbook) show that fully hedged portfolios often have
+better risk-adjusted returns in domestic currency. However,
+hedging can be costly or complex, especially for less liquid
+currencies.
+
+Leaving currency exposure unhedged reduces costs and
+complexity but increases portfolio volatility that is not
+normally well compensated from a return perspective.
+For non-US investors, this can mean a USD weight of
+30-70%, depending on the equity and bond allocation.
+Unhedged exposure may suit globally mobile investors or
+those benchmarking against global indices.
+
+A pragmatic approach is to hedge selectively—hedging
+major exposures but leaving some currencies unhedged if
+costs are high or if the foreign currency is undervalued. For
+example, some investors may choose to hedge US dollar
+exposure but leave Japanese yen exposure unhedged if the
+yen appears cheap.
+
+In recent times, the US dollar has not behaved as a
+traditional “safe haven” as some investor fears that US
+exceptionalism is fading and recession and fiscal risks rising
+have led the dollar to weaken even as US equities fell.
+
+So, for some non-US investors, currency hedging some
+or all of their exposure to US equities may now offer
+both return enhancement and reduced volatility, a marked
+departure from recent years when hedging the USD was less
+favorable. By locking in exchange rates, foreign investors can
+potentially preserve gains that might otherwise be eroded by
+persistent currency depreciation or enduringly higher USD
+volatility, while mitigating abrupt market swings.
+
+Conversely, US investors may find that holding international
+equities without a hedge may be more beneficial if they
+believe that US policy uncertainties and fiscal vulnerabilities
+look set to continue.
+
+In many cases, currency hedging can stabilize portfolio
+performance by locking in exchange rates. For foreign
+investors in US equities, hedged positions can protect
+against USD weakness and avoid abrupt currency-driven
+losses. Meanwhile, hedging international equities can shield
+US investors from rapid swings in non-dollar currencies,
+potentially lowering overall volatility. Over time, effective
+hedging may raise risk-adjusted returns by minimizing
+exchange rate noise, allowing the underlying equity
+fundamentals to drive performance. However, hedging
+strategies typically come with costs, such as forward
+premiums or option expenses, which can significantly
+
+reduce net returns compared to the foreign market’s local
+currency return.
+
+4
+
+
+
+Investment strategy insights
+
+Appendix
+
+Risk Information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of
+using different assumptions and/or criteria. UBS may utilise artificial intelligence tools (“AI Tools”) in the preparation of this
+document. Notwithstanding any such use of AI Tools, this document has undergone human review.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+
+5
+
+
+
+Investment strategy insights
+
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: This document is not intended for distribution into the US and / or to US persons.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website. In order to provide you with marketing materials concerning our products and services, UBS Group AG and
+its subsidiaries may process your basic personal data (i.e. contact details such as name, e-mail address) until you notify us
+that you no longer wish to receive them. You can optout from receiving these materials at any time by informing your
+Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version A/2025. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+6
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+

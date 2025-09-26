@@ -1,0 +1,583 @@
+
+17 April 2025, 01:26PM UTC
+Chief Investment Office GWM
+Investment Research
+
+What the proposed Mar-a-Lago Accord could
+mean for investors
+Bond markets
+ 
+ Authors: Thomas Wacker, CFA, Head CIO Credit, UBS Switzerland AG; Kurt Reiman, Head of Fixed Income, Americas, UBS Financial Services Inc. (UBS
+FS); Dominic Schnider, CFA, CAIA, Strategist, UBS Switzerland AG; Paul Donovan, Chief Economist, UBS GWM, UBS AG London Branch
+
+• The longer-term ambitions outlined in the so-called
+“Mar-a-Lago Accord” proposals aim to maintain the
+US dollar’s dominance while weakening its value
+and lowering Treasury yields across the curve by
+withholding interest from and issuing ultra-long-
+dated debt to foreign official sector holders.
+
+• Most countries are, in our view, unlikely to sign such
+an accord, but it may be imposed on those that
+rely on the US for defense. We think the proposed
+actions of the accord would likely undermine the
+credibility of the dollar as a reserve asset, could
+cause spikes in yields of longer-dated Treasuries, and
+benefit other high-quality government bonds, safe-
+haven currencies, and gold.
+
+• While the US administration has not signaled its
+intention to implement these ideas, in this note, we
+try to quantify the possible contribution to lowering
+fiscal deficits and restoring the sustainability of
+the US government debt path. We would consider
+changes to our asset allocation in case some of those
+ideas gain traction.
+
+Source: Getty
+
+ 
+The aims of the accord
+The global consensus underpinning the liberal world order
+—a multilateral, rules-based system promoting international
+trade and capital flows, and aimed at preventing the worst
+atrocities of the early 20th century—is increasingly at risk.
+The US, a chief architect of this consensus, was seen as the
+dominant superpower able to ensure that countries played
+by the rules. Many within the US now question whether
+this framework still serves America's economic and national
+security interests. The current administration seeks strong
+economic and security alliances with those countries that
+align themselves with the US. It expects balanced trade and
+a vibrant manufacturing sector, and a shared commitment
+to global security where countries address the security
+threats in their own backyards.
+
+The “Mar-a-Lago Accord” is an extension of the evolution
+in thinking by certain individuals within the Trump
+administration about America's role in the world. It’s
+generally understood to be based on a set of proposals
+that seek to preserve the US dollar’s global dominance
+while also weakening its value. Maintaining the US dollar’s
+dominance as the principal reserve currency and medium
+of exchange is paramount because it enables the US to
+project its power through global payments systems.[1]
+But the US dollar’s dominance also has a downside—its
+persistent overvaluation. As the theory goes, the resulting
+currency strength hollows out the US manufacturing
+base and the country’s competitiveness, which could
+potentially undermine America’s strategic capability and
+military preparedness.
+
+This report has been prepared by UBS Switzerland AG, UBS Financial Services Inc. (UBS FS), UBS AG London Branch.
+Please see important disclaimers and disclosures at the end of the document.
+
+https://www.hudsonbaycapital.com/documents/FG/hudsonbay/research/638199_A_Users_Guide_to_Restructuring_the_Global_Trading_System.pdf?pdf
+
+
+Bond markets
+
+Adherents of these proposals claim that foreign countries
+have artificially weakened their currencies versus the US
+dollar to achieve export advantages in a wide range of
+products, which further reinforces US deindustrialization
+and widens the US trade deficit, creating large capital
+account surpluses held primarily in the form of US
+Treasury securities. Countries that participate in the Mar-
+a-Lago Accord would potentially be given some form of
+tariff relief[2] and security guarantees in exchange for
+their willingness to commit to the dollar’s dominance
+in global payments, accept Treasury debt swaps, lower
+interest payments on their Treasury holdings, and ultimately
+contribute to a weaker US dollar.
+
+While the US administration has provided few official
+details on what an eventual Mar-a-Lago Accord would
+include, officials within the administration are focused
+on currency adjustments and debt exchanges to address
+the structural twin federal budget and trade deficits.
+Therefore, we believe it is important to consider potential
+outcomes and assess possible investment consequences to
+support investment decisions in an environment where fiscal
+dynamics, global trade, and security questions are becoming
+more intertwined.
+
+In addition to challenges around its implementation,
+negotiations for such a new accord would be difficult, in
+our view. While the Plaza Accord of 1985 featured the
+G5 countries and the Louvre Accord of 1987 the G6, they
+included central bank representatives who were able to
+take binding decisions. The current range of “relevant”
+countries would need to be wider, and ECB representatives,
+for example, do not hold the power to decide over foreign
+currency reserves held at the national central banks of euro
+member countries.
+
+[1] As an example, the Society for Worldwide Interbank
+Financial Telecommunication (SWIFT) payments platform—
+together with US and allies’ backing—voted to restrict seven
+Russian banks from accessing the US dollar payments system
+after Russia’s invasion of Ukraine in 2022. In addition, the
+US together with the rest of the G7 and the European Union
+froze USD 300 billion of Russian central bank assets to inflict
+a financial penalty on the Russian government.
+[2] It’s important to note the ordering: tariffs announced
+and implemented first to then be able to generate the
+leverage in negotiations to achieve concessions to alter the
+international financial system and the government’s debt
+profile. Tariffs are used to generate government revenue,
+but these can be relaxed or removed altogether in exchange
+for reduced interest expenses. Either way, the idea is to
+reduce the deficit.
+
+Revisiting the US structural budget deficit
+As we wrote in our December 2024 paper on “Taxes,
+spending, debt, and deficits under Trump 2.0,” achieving
+a substantial reduction in the fiscal deficit, which stood at
+USD 2.2 trillion—or 7.6% of GDP—in 2024, is a critical
+yet difficult goal for many within the administration and
+Congress. The income generated from higher tariffs would
+likely prove insufficient to make a serious dent in the budget,
+to say nothing of the numerous counter-forces involved.
+For example, restoring US domestic production would lower
+imports and the tariff revenue. And tariffs that are too high
+would weigh on trade flows while risking a broad economic
+downturn, which would only worsen the budget deficit
+through higher social spending and lower economic activity.
+The administration objects to raising revenue through higher
+taxes, and efforts to materially curb current spending are
+unlikely to generate sufficient savings to balance the budget
+and would weigh on economic growth if taken to an
+extreme.
+
+As interest on US government debt is now the single
+largest line item—at over 13% of general government
+revenues in 2024—in the budget and is growing as existing
+bonds mature, attention has shifted to potential ways
+to reduce the cost of debt. Because of the US dollar’s
+reserve currency status, Treasury yields are arguably already
+lower than they would otherwise be. The proposed Mar-a-
+Lago Accord would put an additional burden of reducing
+interest expenses on foreign official holders. Several recent
+statements from members of the US administration stressed
+the importance of low long-term bond yields for achieving
+its economic and policy goals.
+
+In our past reports on debt sustainability, we outlined four
+ways to reduce government debt:
+
+1. economic growth through high productivity,
+
+2. fiscal austerity,
+
+3. financial repression, and
+
+4. default / debt restructuring.
+
+Regarding the first option, we believe that the US could
+slowly grow out of its debt if it manages to constrain its
+fiscal deficit to about 3.0-3.5% of GDP, which means it has
+to resort to the other three options if the government wants
+to stop the rise in the debt ratio.
+
+With regard to the second option, cutting back the size of
+government institutions under initiatives of the Department
+of Government Efficiency (DOGE) is the only example of
+fiscal austerity, and we have yet to see its effects in hard
+numbers. Breakdowns of current government spending
+
+2
+
+https://www.brookings.edu/articles/payment-systems-changing-role-from-economic-growth-to-the-new-foreign-policy-lever/
+https://secure.ubs.com/public/api/v2/investment-content/documents/svSNUyQKy5ON995Bnrdhww?apikey=1AS8wxGGWLjxy6J92ees52Uz5ZrWmy6m
+
+
+Bond markets
+
+—total nondefense discretionary spending was USD 1tr
+in 2024—suggest that even sharp cuts there can only
+shave off a small portion of the overall deficit. According
+to the Congressional Budget Office (CBO), the federal
+government’s 2.3mn workers were employed at a cost of
+USD 271bn in 2022 (about 1% of GDP), so even massive
+layoffs can only generate moderate cost savings relative to
+a USD 2.2tr fiscal deficit.
+
+The ongoing budget process may deliver further spending
+cuts, but also revenue cuts, and it is yet unclear to what
+extent it will reduce the fiscal deficit. In its 25 March update,
+Moody’s projected the federal government deficit to widen
+“to about 8.5% of GDP by 2035 from around 6.3% in 2025,
+driven by increased interest payments and health-related
+entitlement costs.” This would result in a rise of the federal
+government debt ratio to 130% of GDP from close to 100%
+this year. The general government debt ratio, including state
+and municipal debt, which is what most other countries
+typically report, stood at 121% of GDP by the end of 2024.
+
+Moody’s forecasts include an extension of the 2017 Tax
+Cuts and Jobs Act and no material additional tax cuts
+(like proposed corporate tax reductions and exclusion from
+taxes of overtime and tipped income as well as social
+security benefits). Also, it includes only small spending
+cuts, reflecting an expectation for no bipartisan support for
+entitlement reform.
+
+Another avenue for financial repression
+A long-term ambition in the proposed Mar-a-Lago Accord
+is to devalue the USD, ideally by having foreign reserve
+holders sell US dollar assets in exchange for their national
+currencies. Selling pressure on US Treasuries and rising
+yields are a notable risk, endangering the administration's
+ambition to also achieve lower Treasury yields. Therefore,
+several proposals clearly fall into the wider definition of
+financial repression—i.e., measures where the government
+uses its regulatory and political powers to constrain or lower
+the cost of its debt.
+
+Key proposals include withholding part of the interest on
+Treasuries and issuing so-called century bonds or even
+perpetual bonds to certain foreign official sector holders.
+The authors justify paying less or no interest to those
+bondholders as compensation for the US providing a safe
+reserve asset and access to its security umbrella. From a
+credit perspective, it is foreign financial repression. It can
+be viewed as an extension of traditional domestic financial
+repression, which the US has used in the past, whereby
+certain regulated entities are required to hold large amounts
+of Treasuries on their balance sheet or where reference
+interest rates are being capped in a way that results in
+negative real interest rates. Typically, financial repression
+
+works best if supported by the central bank. A likely change
+in leadership at the Fed in 2026 could raise support for
+possible efforts by the Treasury to engage in financial
+repression.
+
+Withholding interest / charging a fee
+The paper suggests the US may use the International
+Emergency Economic Powers Act (IEEPA) from 1977 to make
+foreign reserve accumulation less attractive by “imposing a
+user fee on foreign official holders of Treasury securities,”
+by withholding part of the coupon payments. Even if only
+applied to certain official sector creditors, such a measure
+would likely scare many private holders of Treasuries. And
+if it’s applied to existing bonds, it could even cross the line
+to be considered an event of default. Disguising it as a fee
+instead of a non-payment of the full interest when due
+would still likely be captured by rating agencies’ definition of
+a default. For example, Moody’s states as one of four events
+constituting a default: “a change in the payment terms of
+a credit agreement or indenture imposed by a third party
+such as the sovereign that results in a diminished financial
+obligation, such as a forced currency re-denomination or a
+forced change in some other aspect of the original promise,
+such as indexation or maturity.”
+
+A possible alternative would be to include such “fee”
+provisions only into newly issued Treasuries, so that investors
+know the terms ahead of purchase. However, this could lead
+to a perceived seniority of older bonds over those with the
+interest withholding / fee provision, most likely leading to
+different yields as investors who are (currently) not targeted
+by the fee would still prefer the old bonds.
+
+Figure 1 - Breakdown of USD 36tr in US
+government debt
+
+Source: Bloomberg, IMF, as of 14 April 2025.
+
+3
+
+
+
+Bond markets
+
+From a fiscal perspective, the share of Treasuries from which
+interest would be partially withheld would need to be
+sufficiently large to have any meaningful impact on the
+budget. There are USD 19.8tr of nominal bonds, USD 2.0tr
+of inflation-linked Treasuries outstanding, and USD 6.5tr of
+Treasury bills (see Fig. 1). US Treasury data from January
+suggests that a total of USD 8.5tr are held by foreigners, of
+which USD 3.4tr are Treasury bonds and notes held by the
+foreign official sector (see Fig. 2). Withholding one percent
+of interest from all of them would reduce spending by USD
+34bn, or 0.3% of this year’s expected general government
+revenues, amounting to 0.11% of GDP. Of course, the
+government could apply higher or different fees to different
+countries, but the overall coupon due on the bonds would
+act as a cap for this approach.
+
+Figure 2 - Holders of US Treasury securities (USD
+28tr)
+
+Source: US Treasury, as of 31 January 2025.
+
+Also, the administration could consider extending the fee
+beyond the official sector—targeting the USD 8.5tr instead
+of only the USD 3.4tr held by the official sector. Doing
+so would also address the issue that some countries hold
+Treasuries through funds domiciled in other countries, which
+is not captured by the Treasury data used in Figures 2
+and 3. This would likely result in severe turmoil in global
+bond markets and while it could reduce foreign holdings
+of Treasuries, it could also challenge the US dollar's reserve
+asset status, as investors would diversify into alternative
+assets (like other government bonds and gold) much like
+they did after Russia's central bank assets were frozen.
+
+Century bonds
+A second proposal is to issue a special type of long-
+term bond only to official sector holders that the US
+administration intends to effectively charge for providing a
+safe reserve asset and protection under its security umbrella
+
+(see Fig. 3). These replacement bonds could have long
+tenors, like 100 years or even perpetual structures, and carry
+very low or nonexistent coupons. Currently, a large share of
+foreign official sector holdings are in short-dated bonds.
+
+Figure 3 - Foreign holders of Treasury securities by
+economy (USD bn)
+
+Source: US Treasury, as of 31 January 2025. Treasury International Capital
+System data does not identify the ultimate owner, for example of bonds
+held by investment funds.
+
+To illustrate the economic costs that affected governments
+would need to accept, and the likely political pressure
+required for them to buy such bonds at par value (100), note
+that a 30-year zero coupon Treasury would have a fair cash
+price of 24 at a current market yield of 4.8%. For a 100-
+year zero coupon note, a fair price (using the same yield,
+as there is no Treasury bond beyond 30 years) would be 9.
+Given tariffs are paid by US consumers of imports, accepting
+the economic impact of tariffs can be preferable to a foreign
+country, depending on the amount of century bonds it
+would be asked to hold and the relevance of protection
+through the US security umbrella.
+
+By issuing a separate type of bonds bilaterally to specific
+countries, there would be no direct credit implications for
+the other Treasury securities outstanding. If such investors
+gradually swap from existing Treasuries to century bonds,
+the pool of Treasuries would shrink accordingly (ignoring
+new issuance to finance persistent deficits). Therefore, this
+form of financial repression contains somewhat less risk of
+scaring private holders of existing Treasuries, but can of
+course still lead to concerns about further unorthodox bond
+market measures.
+
+From a credit perspective, lengthening the funding profile
+and reducing the fiscal sensitivity to swings in interest rates
+would be a positive. The extent of the impact would depend
+
+4
+
+
+
+Bond markets
+
+on the amount of debt being swapped into such century
+bonds relative to the overall debt burden. In the unlikely
+“best case,” where all of the USD 3.4tr of Treasuries held by
+foreign official holders (equivalent to 15% of the Treasury
+market volume) would be swapped, the US may save about
+USD 100bn in annual interest expenses—about 1% of this
+year’s expected general government revenues, or 0.33% of
+GDP. As a reminder, the US spent 13.7% of revenues on
+debt service in 2024 (see Fig. 4).
+
+Figure 4 - US general government debt costs have
+increased
+
+Source: UBS, IMF, as of 14 April 2025
+
+Market implications
+We think the measures suggested would likely result in
+heightened uncertainty about the safe-haven status of
+Treasuries, but they would likely help the US government
+mitigate part of its fiscal pressures. Returning to a
+sustainable debt path still requires Congress to legislate
+measures to meaningfully reduce the budget deficit. As a
+result, we would expect yields of longer-dated Treasuries
+to remain vulnerable to spikes as foreign investors diversify
+their safe assets or reserve holdings into other high-
+quality government bonds, and as US investors reduce
+their allocations over fears of financial repression leading
+to negative real yields. Such episodes can be countered
+by further financial repression, lowering yields again. Aside
+from a generally higher term premium, we would also
+expect heightened volatility, reducing the risk-adjusted
+appeal of longer-dated bonds compared to shorter tenors.
+
+The USD’s rich valuation when looking back over the last
+50 years, with sizeable twin deficits and elevated investment
+positions by foreign investors in the US, suggests that an
+adjustment to a lower USD equilibrium would unlikely be
+very gradual, especially against highly liquid G10 and safe
+haven currencies. Mean reverting to a longer-term average
+—trade weighted—would initially mean mid-teen downside
+for the USD from current levels. A resetting of the USD
+
+would likely come with a shift higher in currency market
+volatility over a longer period as well. Potentially larger
+currency trends and higher volatility would speak in favor of
+more active currency management (hedging activity).
+
+Figure 5 - In real trade-weighted terms, the USD
+stands at lofty levels
+Monthly data
+
+Source: UBS, Bloomberg, as of 14 April 2025
+
+The knock-on effect of the USD getting reset wouldn’t just
+impact currency markets. Commodity markets are generally
+quoted in USD but mainly produced and consumed outside
+the US. Over time, a larger USD decline would speak for
+higher commodity prices. Moreover, concerns over the safe-
+haven status of US Treasuries would likely continue to play in
+favor of commodities such as precious metals, mainly gold.
+We have already seen investors allocating more to gold in
+an effort to reduce USD exposure and reap the potential
+gains of gold's diversification benefits. This has pushed gold
+to elevated levels from a production cost perspective while
+providing price support for the broader sector.
+
+5
+
+
+
+Bond markets
+
+Figure 6 - Gold prices have skyrocketed in nominal
+and real terms already
+Monthly data, values in USD/oz
+
+Source: UBS, Bloomberg, as of 14 April 2025
+
+6
+
+
+
+Bond markets
+
+Appendix
+
+Risk information
+UBS Chief Investment Office's ("CIO") investment views are prepared and published by the Global Wealth Management
+business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates ("UBS"), part of UBS Group AG ("UBS
+Group"). UBS Group includes former Credit Suisse AG, its subsidiaries, branches and affiliates. Additional disclaimer relevant
+to Credit Suisse Wealth Management follows at the end of this section.
+The investment views have been prepared in accordance with legal requirements designed to promote the independence
+of investment research.
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, to buy or sell
+any investment or other specific product. The analysis contained herein does not constitute a personal recommendation or
+take into account the particular investment objectives, investment strategies, financial situation and needs of any specific
+recipient. It is based on numerous assumptions. Different assumptions could result in materially different results. Certain
+services and products are subject to legal restrictions and cannot be offered worldwide on an unrestricted basis and/or may
+not be eligible for sale to all investors. All information and opinions expressed in this document were obtained from sources
+believed to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accuracy
+or completeness (other than disclosures relating to UBS). All information and opinions as well as any forecasts, estimates
+and market prices indicated are current as of the date of this report, and are subject to change without notice. Opinions
+expressed herein may differ or be contrary to those expressed by other business areas or divisions of UBS as a result of using
+different assumptions and/or criteria.
+In no circumstances may this document or any of the information (including any forecast, value, index or other calculated
+amount ("Values")) be used for any of the following purposes (i) valuation or accounting purposes; (ii) to determine the
+amounts due or payable, the price or the value of any financial instrument or financial contract; or (iii) to measure the
+performance of any financial instrument including, without limitation, for the purpose of tracking the return or performance
+of any Value or of defining the asset allocation of portfolio or of computing performance fees. By receiving this document
+and the information you will be deemed to represent and warrant to UBS that you will not use this document or otherwise
+rely on any of the information for any of the above purposes. UBS and any of its directors or employees may be entitled at
+any time to hold long or short positions in investment instruments referred to herein, carry out transactions involving relevant
+investment instruments in the capacity of principal or agent, or provide any other services or have officers, who serve as
+directors, either to/for the issuer, the investment instrument itself or to/for any company commercially or financially affiliated
+to such issuers. At any time, investment decisions (including whether to buy, sell or hold securities) made by UBS and its
+employees may differ from or be contrary to the opinions expressed in UBS research publications. Some investments may not
+be readily realizable since the market in the securities is illiquid and therefore valuing the investment and identifying the risk
+to which you are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and options trading
+is not suitable for every investor as there is a substantial risk of loss, and losses in excess of an initial investment may occur.
+Past performance of an investment is no guarantee for its future performance. Additional information will be made available
+upon request. Some investments may be subject to sudden and large falls in value and on realization you may receive back
+less than you invested or may be required to pay more. Changes in foreign exchange rates may have an adverse effect on
+the price, value or income of an investment. The analyst(s) responsible for the preparation of this report may interact with
+trading desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and interpreting
+market information.
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research products
+independently of each other. For example, research publications from CIO are produced by UBS Global Wealth
+Management. UBS Global Research is produced by UBS Investment Bank. Research methodologies and rating systems
+of each separate research organization may differ, for example, in terms of investment recommendations, investment
+horizon, model assumptions, and valuation methods. As a consequence, except for certain economic forecasts (for which
+UBS CIO and UBS Global Research may collaborate), investment recommendations, ratings, price targets, and valuations
+provided by each of the separate research organizations may be different, or inconsistent. You should refer to each relevant
+research product for the details as to their methodologies and rating system. Not all clients may have access to all products
+from every organization. Each research product is subject to the policies and procedures of the organization that produces it.
+The compensation of the analyst(s) who prepared this report is determined exclusively by research management and senior
+management (not including investment banking). Analyst compensation is not based on investment banking, sales and
+trading or principal trading revenues, however, compensation may relate to the revenues of UBS Group as a whole, of which
+investment banking, sales and trading and principal trading are a part.
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does not provide
+legal or tax advice and makes no representations as to the tax treatment of assets or the investment returns thereon both in
+general or with reference to specific client's circumstances and needs. We are of necessity unable to take into account the
+
+7
+
+
+
+Bond markets
+
+particular investment objectives, financial situation and needs of our individual clients and we would recommend that you
+take financial and/or tax advice as to the implications (including tax) of investing in any of the products mentioned herein.
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise agreed in writing
+UBS expressly prohibits the distribution and transfer of this material to third parties for any reason. UBS accepts no liability
+whatsoever for any claims or lawsuits from any third parties arising from the use or distribution of this material. This report
+is for distribution only under such circumstances as may be permitted by applicable law. For information on the ways in
+which CIO manages conflicts and maintains independence of its investment views and publication offering, and research
+and rating methodologies, please visit www.ubs.com/research-methodology. Additional information on the relevant authors
+of this publication and other CIO publication(s) referenced in this report; and copies of any past reports on this topic; are
+available upon request from your client advisor.
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to consider
+and incorporate environmental, social and governance (ESG) factors into investment process and portfolio construction.
+Strategies across geographies approach ESG analysis and incorporate the findings in a variety of ways. Incorporating ESG
+factors or Sustainable Investing considerations may inhibit UBS’s ability to participate in or to advise on certain investment
+opportunities that otherwise would be consistent with the Client’s investment objectives. The returns on a portfolio
+incorporating ESG factors or Sustainable Investing considerations may be lower or higher than portfolios where ESG factors,
+exclusions, or other sustainability issues are not considered by UBS, and the investment opportunities available to such
+portfolios may differ.
+External Asset Managers / External Financial Consultants: In case this research or publication is provided to an External
+Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is redistributed by the External Asset
+Manager or the External Financial Consultant and is made available to their clients and/or third parties.
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS AG. UBS
+Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios Ltda, UBS Asesores Mexico,
+S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Management Israel Ltd and UBS Menkul Degerler
+AS are affiliates of UBS AG. UBS Financial Services Inc. accepts responsibility for the content of a report prepared
+by a non-US affiliate when it distributes reports to US persons. All transactions by a US person in the securities
+mentioned in this report should be effected through a US-registered broker dealer affiliated with UBS, and not
+through a non-US affiliate. The contents of this report have not been and will not be approved by any securities
+or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not acting as a municipal
+advisor to any municipal entity or obligated person within the meaning of Section 15B of the Securities Exchange
+Act (the "Municipal Advisor Rule") and the opinions or views contained herein are not intended to be, and do
+not constitute, advice within the meaning of the Municipal Advisor Rule.
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full disclaimer.
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal data will be
+processed in accordance with the Credit Suisse privacy statement accessible at your domicile through the official Credit
+Suisse website https://www.credit-suisse.com. In order to provide you with marketing materials concerning our products
+and services, UBS Group AG and its subsidiaries may process your basic personal data (i.e. contact details such as name, e-
+mail address) until you notify us that you no longer wish to receive them. You can optout from receiving these materials at
+any time by informing your Relationship Manager.
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are receiving this
+report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss Financial Market Supervisory
+Authority (FINMA).
+Version D/2024. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All rights reserved.
+
+8
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/country-disclaimer-gr.html
+https://www.credit-suisse.com/
+

@@ -1,0 +1,939 @@
+
+The first 100 days
+POTUS 47: Trump 2.0, 
+tariffs, and the road ahead
+
+30 April 2025 
+Chief Investment Office GWM
+Investment Research
+
+G
+et
+
+ty
+ Im
+
+ag
+es
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+
+
+POTUS 47   |   The first 100 days   |   2
+
+US presidents are always in a race against the clock to advance their policies. The wide-reach-
+ing and consequential policy actions taken during President Trump’s first 100 days in office un-
+derscore an even greater sense of urgency. His reelection as the oldest president to be inaugu-
+rated—and only the second to be elected to a nonconsecutive term—presented him with a 
+rare second chance to deliver on a mandate that may have seemed impossibly out of reach af-
+ter losing the 2020 presidential election and surviving an assassination attempt during the 
+2024 election campaign. Concerns that the 2026 midterm elections could threaten the current 
+narrow Republican majorities in Congress may be yet another factor driving the rapid rollout of 
+his policy agenda.
+
+President Trump has signed more than 140 executive orders in his first 100 days in office—
+more than any recent president—with an aim to reform the government bureaucracy, reshape 
+global trading relationships and foreign policy, reverse many of the actions of the prior admin-
+istration, and restore power to the executive branch. Congressional Republicans have shown 
+little interest in checking the president’s ambitious agenda as they rapidly advance his signa-
+ture legislation to extend the 2017 tax cuts. The courts have acted selectively to slow or halt 
+some of the orders. More legal challenges are in the queue but face an uncertain outcome. 
+
+President Trump returned to the Oval Office with the US economy operating at full employ-
+ment and US stock indexes charting new record highs, partly on hopes of tax relief and dereg-
+ulation. Instead, the uncertainty caused by the Trump administration’s chaotic tariff announce-
+ments, government spending cuts, and immigration moves have dented his own job approval 
+ratings, worsened the near-term economic outlook, raised business uncertainty, lifted inflation 
+forecasts, and caused upheaval in stock, bond, and currency markets.
+
+In this edition of POTUS 47, “The first 100 days,” we offer our perspective on a range of policy 
+developments and advice for how to manage the elevated volatility that will likely persist 
+throughout much of this administration. We also present ideas to harness structural and tacti-
+cal opportunities that exist today because of the rise in volatility. 
+
+Editorial
+
+Editor-in-chief
+Kurt Reiman
+
+Authors
+Solita Marcelli
+Kurt Reiman
+
+Contributors
+Tiffany Agard
+Shawn Awan
+Jason Draho
+Leslie Falconio
+Paul Hsiao
+David Lefkowitz
+Brian Rose
+Justin Waring
+Jacqueline Wilchek
+
+POTUS 47: Investing under Trump 2.0
+
+Visit ubs.com/potus47, a dedicated website 
+tracking ongoing policy developments and the 
+implications for the economy and financial 
+markets. 
+
+Explore the POTUS 47 hub   
+
+Editor
+Jess Hoeffner
+
+Design
+John Choi
+
+Project management
+John Collura
+Cheryl Seligman
+
+This report has been prepared 
+by UBS Financial Services Inc.
+Please see important disclaim-
+ers and disclosures at the end 
+of this document.
+
+Solita Marcelli
+Chief Investment Officer Americas
+Global Wealth Management
+
+Kurt Reiman
+Head of Fixed Income, CIO Americas
+Global Wealth Management
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/potus-47.html?campID=DS-POTUS47-GLOBAL-ENG-ANY-POTUS47-ANY-ANY-ANY-ANY-ANY-ANY&ANY
+https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/potus-47.html?campID=DS-POTUS47-GLOBAL-ENG-ANY-POTUS47-ANY-ANY-ANY-ANY-ANY-ANY&ANY
+
+
+POTUS 47   |   The first 100 days   |   3
+
+According to a survey of polls by Real Clear Politics, President Trump’s approval rating has 
+fallen to 45% from 52% in mid January and is headed toward the average of his first term. 
+Trump assumed office with the second-lowest approval rating among recent presidents, ex-
+ceeding only the 2017 low at the start of his first term. Presidential job approval usually fades 
+after an initial wave of post-election enthusiasm, but voter opinions have soured faster than 
+usual during the first 100 days of Trump’s second term. Likewise, a majority of Americans now 
+disapprove of the president’s handling of the job, up from 40% on Inauguration Day. Ameri-
+cans also assign him mixed grades on a range of issues that voters say factored into their deci-
+sion and his election win. The same survey of polls shows that support for his strict immigra-
+tion stance has weakened, and most Americans disapprove of his handling of the economy 
+(55%) and inflation (59%).
+
+Unsurprisingly, opinions about President Trump’s job performance differ widely depending on 
+the respondents’ political party affiliation. According to a Pew Research Center report, Demo-
+crats express far more disapproval of Trump’s job performance (93%) and actions on a range 
+of issues than Republicans approve (75%).
+
+16-Apr22-Jan 5-Feb 19-Feb 5-Mar 19-Mar 2-Apr
+
+54
+
+52
+
+48
+
+40
+
+44
+
+50
+
+42
+
+46
+
+President Trump’s job approval has slipped but remains well above first-term
+average
+
+Figure 1
+
+Approval Average first-term approval
+Disapproval
+
+Source: Real Clear Politics, Bloomberg, UBS as of 29 April 2025
+
+President Trump job approval poll average, in %, inauguration day–present
+
+Presidential job approval
+
+President Trump has governed primarily through executive order during his first 100 days in of-
+fice, having signed more executive orders than any recent president, while signing the fewest 
+bills into law (5) at this point in the presidency. The executive orders signed thus far cover a 
+wide range of policy areas, from immigration to education to energy production to trade. The 
+advantage of executive orders is their speed and force when directing agencies of the federal 
+government to carry out existing statutes. That said, further court challenges could render cer-
+tain executive orders illegal if they were found to be either contrary to, or overly broad inter-
+pretations of, existing statutes. To become policy, Congress would have to enact legislation.
+
+Narrow majorities in both the House and Senate, as well as an intense Republican effort to 
+pass a reconciliation bill before the 4 July recess that lifts the debt limit, extends many of the 
+expiring individual income tax provisions in the 2017 Tax Cuts and Jobs Act, and raises spend-
+ing on defense and border security priorities, may also explain why fewer new laws have been 
+passed compared to during previous new administrations.
+
+Few legislative wins but the most executive orders during first 100 days of
+Trump’s second term
+
+Figure 2
+
+Number of laws and executive orders passed during the first 100 days of a new administration
+
+Source: Punchbowl News, Federal Register, UBS as of 28 April 2025
+
+Eisenhower
+
+Biden
+
+Trump I
+
+Obama
+
+Bush, George W.
+
+Clinton
+
+Bush, George H. W.
+
+Reagan
+
+Carter
+
+Nixon
+
+Kennedy
+
+Trump II
+
+20 80600 100 120 14040
+
+Executive orders
+Laws
+
+Laws and executive orders
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating
+https://www.pewresearch.org/politics/2025/04/23/trumps-job-rating-drops-key-policies-draw-majority-disapproval-as-he-nears-100-days/
+https://www.whitehouse.gov/presidential-actions/executive-orders/
+
+
+POTUS 47   |   The first 100 days   |   4
+
+The effective tariff rate measures the average tariff rate applied across all goods (customs du-
+ties divided by imports). The tariffs announced this year have lifted the effective tariff rate to 
+roughly 25% based on 2024 import volumes from just 2.5%. This tariff rate is higher than the 
+1930s Smoot-Hawley tariffs, yet the average conceals wide geographic variability. North Amer-
+ican trading partners escaped the worst outcomes, whereas China’s tariff rate at over 100% is 
+so high that it makes trade virtually uneconomical. In our view, the effective tariff rate will 
+likely settle closer to 15% by year-end, but this is predicated on a substantial rollback in the 
+tariffs on China—an outcome which is hard to forecast given the nature of the conflict.
+
+The Peterson Institute for International Economics estimates that the economic damage caused 
+by these higher effective tariff rates reduces the potential revenue that would otherwise have 
+been available at lower tariff levels. The highest tariffs in more than a century—and their un-
+predictability—risk choking off imports and economic activity, which limits the potential reve-
+nue that could be used to offset the cost and deficit impact of extending the 2017 tax cuts. 
+Higher tariffs amid a declining US dollar also put upward pressure on inflation, further raising 
+the long-term cost of financing debt.
+
+20031821 1852
+
+1913: Underwood Tariff Act
+
+1930: Smoot-Hawley Tariff
+
+1995: US enters
+World Trade Organization
+
+1934: Reciprocal Tariff Act
+
+1947: US enters General Agreement on
+Tariffs and Trade
+
+1883 1911 1942 1972
+
+60
+
+40
+
+0
+
+20
+
+50
+
+10
+
+30
+
+Latest escalation lis tariffs to levels eclipsing the 1930s
+
+Figure 3
+
+Source: US International Trade Commission, “Historical Statistics of the United States, Colonial Times to 1970,” UBS as of 23 April 2025
+
+US effective tariff rate, duties collected as a share of total imports, in %, 1821–present
+
+Effective tariff rate
+
+Roughly 15% of the executive orders announced so far during President Trump’s second term 
+are tied to tariffs, an area where presidents have historically been granted broad authority from 
+Congress. However, President Trump has made heavy use of the International Economic Emer-
+gency Powers Act (IEEPA)—a statute that has not previously been used to levy tariffs and is cur-
+rently facing a growing docket of lawsuits—to justify the tariffs. Even if the courts were to 
+block or enjoin the IEEPA tariffs, the administration could revive them using other statutes, such 
+as Section 232 of the Trade Expansion Act of 1962 or Section 301 of the Trade Act of 1974. 
+
+Trade policy uncertainty will likely remain elevated even as it fades from these extremes. Once 
+the first trade deal is announced, it could set a benchmark that helps guide expectations for 
+other deals. We should expect the administration to reach agreements to lower certain tariffs 
+and businesses to adapt to a new, higher level of tariffs. However, the administration will also 
+announce the results of Section 232 investigations into pharmaceutical and semiconductor 
+trade before year-end and may raise the rhetoric if exporting nations prove inflexible on impor-
+tant trade policy goals.
+
+20202015 20251985 1990 1995 2000 2005 2010
+
+4500
+
+4000
+
+3500
+
+3000
+
+5000
+
+2000
+
+0
+
+1000
+
+2500
+
+500
+
+1500
+
+Unease over the magnitude and breadth of tariff increases highest in decades
+
+Figure 4
+
+Source: Baker, Bloom & Davis, Bloomberg, UBS as of 23 April 2025
+
+US trade policy uncertainty index, 1985–present
+
+Trade policy uncertainty
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+https://www.piie.com/publications/piie-briefings/2025/us-revenue-implications-president-trumps-2025-tariffs
+
+
+POTUS 47   |   The first 100 days   |   5
+
+Despite the widespread media coverage of government layoffs and spending cuts, federal 
+spending has actually climbed at a slightly faster pace during the first four months of 2025 
+than it did in 2024. One of the largest components of federal spending—interest payments on 
+Treasury securities—is running at an annualized USD 60 billion higher than this time in 2024. 
+This growth is poised to continue because of the rising debt stock and because newly issued 
+Treasury notes and bonds command a higher interest rate than most of the maturing debt se-
+curities they replace.
+
+Whether spending actually declines in future years will depend on the result of ongoing legal 
+battles over how the executive branch executes budgets passed by Congress, as well as the 
+reconciliation bill coursing its way through Congress, where cuts are focused on social pro-
+grams and certain provisions of the Inflation Reduction Act. The bill also proposes billions in 
+new spending for border security and defense, as well as more limited revenue generation if 
+lower tax rates are extended or even reduced further. Federal deficits as a share of GDP were 
+double 2015 levels at the start of Trump’s second term and will likely rise further without other 
+revenue offsets like tariff revenue. 
+
+NovOctSepAugJul DecJan Feb Mar Apr May Jun
+
+7
+
+8
+
+6
+
+4
+
+0
+
+2
+
+5
+
+1
+
+3
+
+Federal spending in 2025 exceeds 2024 despite widespread coverage of
+firings and cuts
+
+Figure 5
+
+2024
+2025 year to date
+
+Source: The Hamilton Project, Department of the Treasury, UBS as of 23 April 2025
+
+Daily US federal government expenditures, in USD trillions, 2024 and 2025 year to date
+
+Government spending
+
+The number of encounters along the southern border has fallen sharply since President Trump 
+took office in January. Declaring a national emergency along the southern border to justify im-
+posing 25% tariffs on Mexico through IEEPA likely prompted Mexican officials to toughen bor-
+der security as part of efforts to negotiate exemptions. As a result of these and other actions, 
+we anticipate much lower levels of undocumented immigration. Moreover, President Trump 
+has a desire to boost the pace of deportations, and it seems likely that legal immigration will 
+slow. Since there is a lag between immigrants entering the country and starting to work, we 
+expect the lack of immigrant labor supply will restrain overall job growth beginning in the sec-
+ond half of 2025.
+
+The level of border security funding in the reconciliation package will likely influence the 
+amount of deportations over the balance of President Trump’s term. Whether a fall in net mi-
+gration creates worker shortages in certain economic sectors will depend in part on the de-
+mand for labor in a slowing economy. It will likely be difficult to find replacements for workers 
+who are deported. Tariffs are already poised to place upward pressure on inflation; labor 
+shortages would be a further complicating factor.
+
+20242023 20252017 2018 2019 2020 2021 2022
+
+300
+
+350
+
+200
+
+0
+
+100
+
+250
+
+50
+
+150
+
+Encounters at the southern US border have ground to a halt under Trump 2.0
+
+Figure 6
+
+Source: U.S. Customs and Border Protection, UBS as of 21 April 2025
+
+Southwest land border encounters, in thousands of individuals, 2022–present
+
+Immigration
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+
+
+POTUS 47   |   The first 100 days   |   6
+
+The University of Michigan’s consumer sentiment index measures Americans’ perceptions of 
+the economy and their own personal financial situation. Since 2006, the survey reports senti-
+ment by political affiliation. Republican and Democratic sentiment often follows US political 
+outcomes, with Americans feeling more confident when their party is in power than when the 
+opposing party is in control and shifting sharply when the White House flips from one 
+party to the other.
+
+Sentiment shifts since the 2024 election have taken a remarkably similar path. Democrats have 
+become much more pessimistic on both growth and inflation under Trump 2.0 and more so 
+than ever before, whereas Republicans are more optimistic than they were under President 
+Biden despite the overall decline in consumer sentiment to levels last seen during the 2022 
+inflation surge and the 2008 global financial crisis.
+
+Pessimism abounds in other surveys as well. According to the American Association of Individ-
+ual Investors, only 21.9% of investors believe the S&P 500 will rise in the next six months. His-
+torically, this level of extreme pessimism has been a contrarian indicator. After past readings of 
+this magnitude, the S&P 500 delivered a positive one-year return 90% of the time, with an 
+average gain of 19.7%, since this weekly survey began in 1987.
+
+202220202018 20242006 2008
+
+2008: Pres. Barack
+Obama elected
+
+2012: Pres. Obama
+re-elected
+
+2016: Pres. Donald
+Trump elected
+
+2020: Pres. Joe
+Biden elected
+
+2024: Pres. Donald
+Trump re-elected
+
+2010 2012 2014 2016
+
+140
+
+120
+
+80
+
+0
+
+40
+
+100
+
+20
+
+60
+
+A worsening mood among Democrats has pulled overall consumer sentiment
+lower in 2025
+
+Figure 7
+
+Overall
+
+Source: University of Michigan, UBS as of April 2025
+
+Consumer sentiment, overall and separated by political party affiliation, 2006–present
+
+Republican
+Democratic
+
+Consumer confidence
+
+Tariffs are stagflationary, and policy uncertainty weighs on economic activity. According to sur-
+veyed economists, Bloomberg’s median forecast for US GDP growth in 2025 has fallen from 
+2.1% at the start of the year to 1.4% as of late April. Consumer prices are now projected to 
+rise by 3.2% in 2025, up from an expected 2.5% increase at the start of the year. We believe 
+tariffs and broader policy uncertainty are likely to have a relatively larger impact on the US 
+economy than on most other large global economies. We now expect US economic growth of 
+1.5% in 2025 versus the more than 2.0% growth we expected earlier this year. We expect 
+growth of 0.7% for the Eurozone in 2025 (around 0.2 ppt weaker than when we entered the 
+year) and below 4% for China (roughly 0.5 ppt weaker).
+
+We believe the Fed will cut interest rates by 75-100 basis points beginning in September when 
+the labor market is likely to show weakness. But in the near term, the Fed’s policy flexibility ap-
+pears to be more limited, as it has to balance growth concerns against the risk of a resurgence 
+in inflation. This tension in its policy mandate provoked the president to threaten once again to 
+remove Chair Jerome Powell, only to walk it back amid the ensuing financial market volatility. 
+
+Mar-25 Apr-25Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25
+
+3.5
+
+3.0
+
+2.0
+
+0.0
+
+1.0
+
+2.5
+
+0.5
+
+1.5
+
+2025 forecast revisions show higher inflation and lower economic activity
+
+Figure 8
+
+2025 GDP
+2025 CPI
+
+Source: Bloomberg, UBS as of 29 April 2025
+
+Bloomberg median 2025 US GDP and CPI forecasts, in %, September 2024–present
+
+US economy
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+
+
+POTUS 47   |   The first 100 days   |   7
+
+We believe the Trump administration changing its tariff stance in response to equity and bond 
+market turbulence indicates some sensitivity to market stress, which points to the existence of 
+a “Trump put” in some form. With many countries expressing a desire to negotiate with the 
+US on tariff policy, and the Trump administration now somewhat pressured to demonstrate 
+“success,” we expect a variety of deals or sector carveouts to materialize within the 90-day 
+pause period, which could also be extended if needed to provide more time for negotiations. 
+Since Inauguration Day, US stocks have underperformed non-US developed stocks—an un-
+usual development over the past decade—amid increased policy uncertainty and tariffs, high-
+lighting the value of geographic diversification amid this recent episode of elevated volatility. 
+
+The S&P 500 has also performed well historically after periods of elevated market volatility. 
+While each case is different, based on data going back to 1990, levels of the VIX above 40 
+(the index reached a high of 60 in early April) have been followed on average by one-year re-
+turns of more than 30% on the S&P 500. We expect the S&P 500 to rise to 5,800 by the end 
+of 2025 as tariff uncertainty eases, the Fed likely cuts interest rates, and investors’ focus shifts 
+toward the prospect of a rebound in US earnings growth in 2026. We believe that phasing-in 
+or capital preservation approaches can allow investors to benefit from medium-term growth 
+while managing near-term timing risks.
+
+202320212019
+
+US underperforming
+
+20172015
+
+20
+
+10
+
+0
+
+–5
+
+–10
+
+–15
+
+–20
+
+15
+
+5
+
+US equities lagged ex-US developed markets amid policy uncertainty
+
+Figure 9
+
+Source: MSCI, Bloomberg, UBS as of 29 April 2025
+
+MSCI US less MSCI Developed ex-US, 90-day rolling returns in %, 2015–present
+
+2025
+
+Equities
+
+The relationship between the US dollar and 10-year Treasury yields suddenly broke down 
+when President Trump announced universal and reciprocal tariffs in early April. The yield on 
+10-year and 30-year Treasuries rose sharply and the US dollar weakened, stoking concern that 
+foreign investors were shunning US assets. With bond yields relatively high, the yield curve 
+steeper, and economic growth likely to slow, we see an opportunity for investors to switch 
+cash into high-quality bonds and diversified fixed income portfolios to lock in yields, dampen 
+overall portfolio volatility, and provide additional robust income. In our base case, we see the 
+10-year Treasury yield at 4.0% by year-end and believe it could fall to 2.5% in a hard 
+landing scenario.
+
+After its notable recent selloff, the US dollar may stabilize in the near term, in our view, espe-
+cially with the Fed sounding caution on rate cuts at the same time as other central banks are 
+cutting rates in response to the deteriorating growth outlook. Gold has been the standout 
+performer year to date. While our year-end forecast stands at USD 3,500/oz, further US politi-
+cal uncertainty could lead to greater demand for perceived “safe havens” and support a move 
+to our upside risk case of USD 3,800/oz.
+
+20252022 2023 2024
+
+6
+
+5
+
+1
+
+3
+
+2
+
+4
+
+115
+
+110
+
+90
+
+100
+
+95
+
+105
+
+US dollar and 10-year Treasury note yields part ways
+
+Figure 10
+
+10-year US Treasury yield (lhs)
+Trade-weighted US dollar index (rhs)
+
+Source: Bloomberg, UBS as of 29 April 2025
+
+10-year US Treasury yield and trade-weighted US dollar index, 2022–present
+
+Rates and currencies
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+
+
+POTUS 47   |   The first 100 days   |   8
+
+The first 100 days of Donald Trump’s second term have been marked by heightened political 
+uncertainty, shifting trade policies, and unsettling market responses. We advise investors to 
+consider strategies that can help portfolios navigate future political risks while taking advan-
+tage of volatility.
+
+Manage volatility. For investors concerned about the near-term risks and looking to hedge 
+portfolios against potential further downside.
+
+• Navigate political risks: Gold remains near record highs, reaffirming its value as a hedge 
+amid ongoing geopolitical and political risks. With our price target raised to USD 3,500/oz 
+through early 2026, we see gold well supported by “safe haven” demand and structural 
+buying. We favor using dips as buying opportunities or entering defensively to protect gains. 
+For investors seeking to preserve gains while retaining upside, capital preservation strategies 
+can also be applied in equities. Silver, meanwhile, offers a complementary play, with invest-
+ment demand expected to support prices alongside gold. 
+
+15-Apr01-Apr18-Mar04-Mar18-Feb04-Feb21-Jan 29-Apr
+
+80
+
+70
+
+60
+
+50
+
+40
+
+0
+
+20
+
+10
+
+30
+
+140
+
+120
+
+100
+
+160
+
+80
+
+0
+
+40
+
+20
+
+60
+
+Volatility has moderated from its recent peak but is higher than before
+Inauguration Day
+
+Figure 11
+
+VIX (lhs)
+MOVE (rhs)
+
+Source: Bloomberg, UBS as of 29 April 2025
+
+Equity (VIX) and bond (MOVE) market volatility indices, 21 January 2025–present
+
+Conclusion
+
+• Seek durable income: Despite the significant increase in downside risks to growth, bond 
+yields have remained elevated. We believe this creates an opportunity for investors to seek 
+durable portfolio income. High grade and investment grade bonds offer attractive risk-re-
+ward and can help hedge against market downturns. Much wider credit spreads are improv-
+ing the outlook for riskier credit; however, with economic visibility low, we prefer diversified 
+portfolio income strategies—including senior loans, private credit, equity income, and higher 
+quality credit.
+
+Look through volatility. For investors who were underinvested going into the sell-off and/or 
+are willing to take on near-term risk for likely long-term reward.
+
+• Phase into equities: While we expect near-term volatility to remain high, we anticipate eq-
+uities will rise by year-end as the Trump administration strikes deals to reduce tariffs, and as 
+likely rate cuts and potential fiscal support improve investor sentiment. Investors can navi-
+gate near-term volatility and position for longer-term upside by phasing into US equities or 
+balanced portfolios, or by utilizing capital preservation strategies.
+
+Take advantage of volatility. For investors unsure about the near term but looking to utilize 
+high levels of volatility to earn additional portfolio income.
+
+• Seek sell-off opportunities: Recent volatility has created select attractive opportunities at 
+the single stock and market level. Various companies with strong long-term prospects are 
+now trading at more attractive valuations. In the US, we have identified 20 companies across 
+sectors that are higher quality, have solid business models, and offer good long-term value. 
+In Europe, our “Six ways to invest in Europe” list focuses on defensive champions benefiting 
+from market volatility, higher defense spending, and fiscal stimulus. In Asia, we favor 
+India and Taiwan.
+
+Transformational Innovation Opportunities (TRIOs). We continue to see strong long-term 
+potential in our TRIOs: Artificial intelligence, Longevity, and Power and resources. While com-
+panies exposed to each of these ideas have been caught up in near-term derisking, we expect 
+structural trends to be the biggest drivers over the long term, and the recent sell-off provides a 
+potential opportunity for investors to build structural exposure.
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+
+
+POTUS 47   |   The first 100 days   |   9
+
+UBS Chief Investment Office’s (“CIO”) investment views are prepared and published by the Global Wealth 
+Management business of UBS Switzerland AG (regulated by FINMA in Switzerland) or its affiliates (“UBS”), 
+part of UBS Group AG (“UBS Group”). UBS Group includes former Credit Suisse AG, its subsidiaries, branches 
+and affiliates. Additional disclaimer relevant to Credit Suisse Wealth Management follows at the end of this 
+section.
+The investment views have been prepared in accordance with legal requirements designed to promote the 
+independence of investment research.
+
+Generic investment research – Risk information:
+This publication is for your information only and is not intended as an offer, or a solicitation of an offer, 
+to buy or sell any investment or other specific product. The analysis contained herein does not constitute a 
+personal recommendation or take into account the particular investment objectives, investment strategies, 
+financial situation and needs of any specific recipient. It is based on numerous assumptions. Different 
+assumptions could result in materially different results. Certain services and products are subject to legal 
+restrictions and cannot be offered worldwide on an unrestricted basis and/or may not be eligible for sale to 
+all investors. All information and opinions expressed in this document were obtained from sources believed 
+to be reliable and in good faith, but no representation or warranty, express or implied, is made as to its accu-
+racy or completeness (other than disclosures relating to UBS). All information and opinions as well as any 
+forecasts, estimates and market prices indicated are current as of the date of this report, and are subject to 
+change without notice. Opinions expressed herein may differ or be contrary to those expressed by other 
+business areas or divisions of UBS as a result of using different assumptions and/or criteria.
+
+In no circumstances may this document or any of the information (including any forecast, value, index or 
+other calculated amount (“Values”)) be used for any of the following purposes (i) valuation or accounting 
+purposes; (ii) to determine the amounts due or payable, the price or the value of any financial instrument or 
+financial contract; or (iii) to measure the performance of any financial instrument including, without limita-
+tion, for the purpose of tracking the return or performance of any Value or of defining the asset allocation 
+of portfolio or of computing performance fees. By receiving this document and the information you will be 
+deemed to represent and warrant to UBS that you will not use this document or otherwise rely on any of the 
+information for any of the above purposes. UBS and any of its directors or employees may be entitled at any 
+time to hold long or short positions in investment instruments referred to herein, carry out transactions 
+involving relevant investment instruments in the capacity of principal or agent, or provide any other services 
+or have officers, who serve as directors, either to/for the issuer, the investment instrument itself or to/for any 
+company commercially or financially affiliated to such issuers. At any time, investment decisions (including 
+whether to buy, sell or hold securities) made by UBS and its employees may differ from or be contrary to the 
+opinions expressed in UBS research publications. Some investments may not be readily realizable since the 
+market in the securities is illiquid and therefore valuing the investment and identifying the risk to which you 
+are exposed may be difficult to quantify. UBS relies on information barriers to control the flow of information 
+contained in one or more areas within UBS, into other areas, units, divisions or affiliates of UBS. Futures and 
+
+options trading is not suitable for every investor as there is a substantial risk of loss, and losses in excess of 
+an initial investment may occur. Past performance of an investment is no guarantee for its future perfor-
+mance. Additional information will be made available upon request. Some investments may be subject to 
+sudden and large falls in value and on realization you may receive back less than you invested or may be 
+required to pay more. Changes in foreign exchange rates may have an adverse effect on the price, value or 
+income of an investment. The analyst(s) responsible for the preparation of this report may interact with trad-
+ing desk personnel, sales personnel and other constituencies for the purpose of gathering, synthesizing and 
+interpreting market information.
+
+Different areas, groups, and personnel within UBS Group may produce and distribute separate research 
+products independently of each other. For example, research publications from CIO are produced by UBS 
+Global Wealth Management. UBS Global Research is produced by UBS Investment Bank. Research meth-
+odologies and rating systems of each separate research organization may differ, for example, in 
+terms of investment recommendations, investment horizon, model assumptions, and valuation methods. As 
+a consequence, except for certain economic forecasts (for which UBS CIO and UBS Global Research may 
+collaborate), investment recommendations, ratings, price targets, and valuations provided by each of the 
+separate research organizations may be different, or inconsistent. You should refer to each relevant research 
+product for the details as to their methodologies and rating system. Not all clients may have access to all 
+products from every organization. Each research product is subject to the policies and procedures of the 
+organization that produces it. 
+The compensation of the analyst(s) who prepared this report is determined exclusively by research manage-
+ment and senior management (not including investment banking). Analyst compensation is not based on 
+investment banking, sales and trading or principal trading revenues, however, compensation may relate to 
+the revenues of UBS Group as a whole, of which investment banking, sales and trading and principal trading 
+are a part.
+
+Tax treatment depends on the individual circumstances and may be subject to change in the future. UBS does 
+not provide legal or tax advice and makes no representations as to the tax treatment of assets or the invest-
+ment returns thereon both in general or with reference to specific client’s circumstances and needs. We are 
+of necessity unable to take into account the particular investment objectives, financial situation and needs of 
+our individual clients and we would recommend that you take financial and/or tax advice as to the implica-
+tions (including tax) of investing in any of the products mentioned herein.
+
+This material may not be reproduced or copies circulated without prior authority of UBS. Unless otherwise 
+agreed in writing UBS expressly prohibits the distribution and transfer of this material to third parties for any 
+reason. UBS accepts no liability whatsoever for any claims or lawsuits from any third parties arising from the 
+use or distribution of this material. This report is for distribution only under such circumstances as may be 
+permitted by applicable law. For information on the ways in which CIO manages conflicts and maintains 
+independence of its investment views and publication offering, and research and rating methodologies, 
+
+Disclaimer
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+
+
+POTUS 47   |   The first 100 days   |   10
+
+please visit www.ubs.com/research-methodology. Additional information on the relevant authors of this 
+publication and other CIO publication(s) referenced in this report; and copies of any past reports on this 
+topic; are available upon request from your client advisor.
+
+Important Information About Sustainable Investing Strategies: Sustainable investing strategies aim to 
+consider and incorporate environmental, social and governance (ESG) factors into investment process and 
+portfolio construction. Strategies across geographies approach ESG analysis and incorporate the findings in 
+a variety of ways. Incorporating ESG factors or Sustainable Investing considerations may inhibit UBS’s ability 
+to participate in or to advise on certain investment opportunities that otherwise would be consistent with the 
+Client’s investment objectives. The returns on a portfolio incorporating ESG factors or Sustainable Investing 
+considerations may be lower or higher than portfolios where ESG factors, exclusions, or other sustainability 
+issues are not considered by UBS, and the investment opportunities available to such portfolios may differ.
+
+External Asset Managers / External Financial Consultants: In case this research or publication is pro-
+vided to an External Asset Manager or an External Financial Consultant, UBS expressly prohibits that it is 
+redistributed by the External Asset Manager or the External Financial Consultant and is made available to 
+their clients and/or third parties.
+
+USA: Distributed to US persons only by UBS Financial Services Inc. or UBS Securities LLC, subsidiaries of UBS 
+AG. UBS Switzerland AG, UBS Europe SE, UBS Bank, S.A., UBS Brasil Administradora de Valores Mobiliarios 
+Ltda, UBS Asesores Mexico, S.A. de C.V., UBS SuMi TRUST Wealth Management Co., Ltd., UBS Wealth Man-
+agement Israel Ltd and UBS Menkul Degerler AS are affiliates of UBS AG. UBS Financial Services Inc. 
+accepts responsibility for the content of a report prepared by a non-US affiliate when it distributes 
+reports to US persons. All transactions by a US person in the securities mentioned in this report 
+should be effected through a US-registered broker dealer affiliated with UBS, and not through a 
+non-US affiliate. The contents of this report have not been and will not be approved by any secu-
+
+rities or investment authority in the United States or elsewhere. UBS Financial Services Inc. is not 
+acting as a municipal advisor to any municipal entity or obligated person within the meaning of 
+Section 15B of the Securities Exchange Act (the “Municipal Advisor Rule”) and the opinions or 
+views contained herein are not intended to be, and do not constitute, advice within the meaning 
+of the Municipal Advisor Rule.
+
+For country information, please visit ubs.com/cio-country-disclaimer-gr or ask your client advisor for the full 
+disclaimer.
+
+Additional Disclaimer relevant to Credit Suisse Wealth Management
+You receive this document in your capacity as a client of Credit Suisse Wealth Management. Your personal 
+data will be processed in accordance with the Credit Suisse privacy statement accessible at your domicile 
+through the official Credit Suisse website https://www.credit-suisse.com. In order to provide you with mar-
+keting materials concerning our products and services, UBS Group AG and its subsidiaries may process your 
+basic personal data (i.e. contact details such as name, e-mail address) until you notify us that you no longer 
+wish to receive them. You can optout from receiving these materials at any time by informing your Relation-
+ship Manager.
+
+Except as otherwise specified herein and/or depending on the local Credit Suisse entity from which you are 
+receiving this report, this report is distributed by UBS Switzerland AG, authorised and regulated by the Swiss 
+Financial Market Supervisory Authority (FINMA).
+
+Version D/2024. CIO82652744
+© UBS 2025. The key symbol and UBS are among the registered and unregistered trademarks of UBS. All 
+rights reserved.
+
+1638105_a0f6dc06-c173-4bbc-a55b-d2aa969f6e80.pdf
+
+http://www.ubs.com/research-methodology
+https://www.ubs.com/global/en/wealth-management/chief-investment-office/country-disclaimer-gr.html
+https://www.credit-suisse.com
+
