@@ -1,0 +1,508 @@
+ab 30 April 2025
+Global Research
+
+Clearwater Analytics Holdings Inc
+Admirable Acquisitions and Achievable  Targets
+
+Bottom Line
+Following a Q1 beat and what appear more than achievable targets, we expect CWAN 
+stock to be paced by investor confidence in integration of $1.5b Enfusion, $560m 
+Beacon [both closed Apr-25] and $125m Bistro  deals and confidence in  consolidated 
+2025 guide. Clearwater offered a purposeful three-phase integration strategy and 
+expressed  confidence in 20% revenue growth while expanding margins—targeting 
++50bps gross margin and +200bps adj. EBITDA margin—annually. This could be 
+achieved by  reaccelerating Enfusion revenue growth  to 20% in two years from ~13% 
+today amid cross-selling  to Clearwater's ~1.5k client base and  synergies. First G&A and  
+additional efficiencies as  a comprehensive  platform is further integrated and go to 
+market strategy unified between Clearwater and the acquisitions. Our consolidated   
+estimates suggest neutral 2025 EPS impact and 2026 accretion, as we remain  
+constructive on its end-to-end  aspirations. While we monitor execution risk from 
+multiple integrations, our confidence rests with top tier management  and opportunistic 
+transactions  creating  front-to-back capabilities serving private/public assets across 
+various geographies—remain Buy with unchanged $35 price target. 
+
+Results [Q1]: BEAT
+� Revenue: $126.9m [vs. UBSe/St.: $125.0m/$125.1m, guided to $125m].
+
+� EBITDA: $45.1m [vs. UBSe/St.: $41.5m /$41.5m, guided to $41.5m].
+
+Guidance [Q2 ex-Enfusion and Beacon]: BEAT
+� Revenue: $129m [vs. UBSe/St.: $124.4m/$128.7m].
+
+� EBITDA: $45m [vs. UBSe/St.: $41.1m/$43.3m].
+
+Guidance [2025, including Enfusion and Beacon]: BEAT
+� Revenue: $720m-$728m [vs. UBSe/St.: $540.0m/$539.9m excl. acquisitions].
+
+� EBITDA: $230m-235m   [vs. UBSe/St.: $185.0m/$183.8m excl. acquisitions].
+
+UBSe revenue [25-26E incorporating Enfusion and Beacon]:
+�  FY25E to $724m [from $540m], FY26E  at $910m [from $630m].
+
+Valuation:
+$35 PT [unchanged]—Buy, 9x  [from 12x] 2027E EV/Sales. Two-year multiple based 
+on FY27E, rolled forward by Cost of Equity to derive one-year price target—its growth, 
+margin structure, TAM, and retention outpace enterprise/SaaS comps.  
+
+Highlights (US$m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Revenues 303 368 452 724 910 1,095 1,315 1,570
+EBIT (UBS) 76 96 133 123 156 238 341 454
+Net earnings (UBS) 57 85 126 177 252 325 432 546
+EPS (UBS, diluted) (US$) 0.23 0.34 0.49 0.60 0.80 1.00 1.30 1.60
+DPS (net) (US$) 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Net (debt) / cash 174 167 123 (395) (113) 259 743 1,342
+
+Profitability/valuation 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+EBIT (UBS) margin % 25.0 26.1 29.5 17.0 17.2 21.7 26.0 28.9
+ROIC (EBIT) % 67.4 47.1 23.2 7.6 6.9 11.3 17.7 25.9
+EV/EBITDA (UBS core) x 35.7 31.4 29.3 20.2 15.5 11.4 8.9 5.7
+P/E (UBS, diluted) x 73.4 52.3 44.8 37.7 28.4 22.7 17.5 14.2
+Equity FCF (UBS) yield % 1.6 2.3 1.8 3.2 6.2 8.1 10.6 13.1
+Dividend yield (net) % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Source: Company accounts, LSEG Eikon, UBS estimates. Metrics marked as (UBS) have had analyst adjustments applied. Valuations: based on an average share price that year, (E): based on a share 
+price of US$ 22.74 on 30-Apr-2025
+
+This report has been prepared by UBS Securities LLC. ANALYST CERTIFICATION AND REQUIRED DISCLOSURES, including 
+information on the Quantitative Research Review published by UBS, begin on page 6.  UBS does and seeks to do 
+business with companies covered in its research reports. As a result, investors should be aware that the firm may have a conflict of 
+interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their 
+investment decision.
+
+Equities
+
+Americas
+
+Software
+
+12-month rating Buy
+
+12m price target US$35.00
+
+Price (30 Apr 2025) US$22.74
+
+RIC: CWAN.N BBG: CWAN US
+
+Trading data and key metrics
+
+52-wk range US$32.79-17.18
+
+Market cap. US$4.57b
+
+Shares o/s 201m (COM)
+
+Free float 97%
+
+Avg. daily volume ('000) 873
+
+Avg. daily value (m) US$23.2
+
+Common s/h equity (12/25E) US$1.95b
+
+P/BV (12/25E) 2.9x
+
+Net debt to EBITDA (12/25E) 1.7x
+
+From To % ch Cons.
+
+EPS (UBS, diluted) (USD)
+12/25E
+
+Q1 0.15 0.13 -7 0.12
+Q2E 0.12 0.12 -3 0.13
+Q3E 0.15 0.16 9 0.14
+Q4E 0.18 0.19 2 0.15
+12/25E 0.60 0.60 1 0.54
+12/26E 0.75 0.80 7 0.66
+12/27E 0.90 1.00 11 0.72
+
+Kevin McVeigh
+Analyst
+
+                            kevin.mcveigh@ubs.com                        
++1-212-882 0081
+
+Bruna Werneck
+Associate Analyst
+
+                            bruna.werneck@ubs.com                        
++1-212-882 5955
+
+Marc Vitenzon
+Associate Analyst
+
+                            marc.vitenzon@ubs.com                        
++1-212-713 2656
+
+                            
+
+mailto:kevin.mcveigh@ubs.com
+mailto:bruna.werneck@ubs.com
+mailto:marc.vitenzon@ubs.com
+
+
+Clearwater Analytics Holdings Inc 30 April 2025 ab 2
+
+Clearwater Analytics Holdings Inc (CWAN.N)
+
+Income Statement (US$m) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+Revenues 303 368 452 724 60.2 910 25.7 1,095 1,315 1,570
+Gross profit 228 282 354 559 58.1 708 26.7 857 1,036 1,238
+EBITDA (UBS) 81 106 146 233 60.0 311 33.5 396 503 618
+Depreciation & amortisation (5) (10) (12) (110) NM (155) -40.7 (158) (161) (164)
+EBIT (UBS) 76 96 133 123 -7.9 156 27.1 238 341 454
+Associates & investment income 0 0 0 0 - 0 - 0 0 0
+Other non-operating income 0 0 0 0 - 0 - 0 0 0
+Net interest 1 6 9 (3) - (10) -222.0 (10) (8) (8)
+Exceptionals (incl goodwill) 0 0 0 0 - 0 - 0 0 0
+Pre-tax profit 77 102 142 120 -15.7 146 22.0 228 333 446
+Tax 0 0 0 0 - 0 - 0 0 0
+Profit after tax 77 102 142 120 -15.7 146 22.0 228 333 446
+Preference dividends 0 0 0 0 - 0 - 0 0 0
+Minorities 0 0 0 0 - 0 - 0 0 0
+Extraordinary items (84) (125) 294 (173) - (153) 11.4 (149) (149) (143)
+Net earnings (local GAAP) (7) (23) 436 (53) - (7) 87.0 79 185 303
+Net earnings (UBS) 57 85 126 177 40.8 252 42.0 325 432 546
+Tax rate (%) 0.0 0.0 0.0 0.0 - 0.0 - 0.0 0.0 0.0
+
+Per Share (US$) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+EPS (UBS, diluted) 0.23 0.34 0.49 0.60 23.2 0.80 32.7 1.00 1.30 1.60
+EPS (local GAAP, diluted) (0.03) (0.09) 1.69 (0.18) - (0.02) 87.9 0.24 0.56 0.89
+EPS (UBS, basic) 0.31 0.44 0.63 0.79 26.0 0.99 26.0 1.24 1.59 1.95
+DPS (net) (US$) 0.00 0.00 0.00 0.00 - 0.00 - 0.00 0.00 0.00
+Cash EPS (UBS, diluted) 1 0.25 0.38 0.54 0.98 82.1 1.29 32.3 1.49 1.78 2.09
+Book value per share 1.77 2.04 5.12 7.86 53.3 8.04 2.3 8.52 9.36 10.58
+Average shares (diluted) 252 253 257 294 14.3 314 7.0 324 333 341
+
+Balance Sheet (US$m) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+Cash and equivalents 251 222 177 404 127.7 679 68.1 1,042 1,518 2,110
+Other current assets 107 194 207 209 0.6 230 10.1 246 246 246
+Total current assets 357 416 385 612 59.2 908 48.3 1,288 1,764 2,356
+Net tangible fixed assets 15 15 15 12 -19.9 8 -29.5 9 8 8
+Net intangible fixed assets 0 0 0 0 - 0 - 0 0 0
+Investments / other assets 112 127 770 2,220 188.3 2,052 -7.6 1,879 1,704 1,526
+Total assets 484 559 1,170 2,844 143.2 2,969 4.4 3,176 3,476 3,889
+Trade payables & other ST liabilities 58 71 66 76 15.4 84 10.1 90 90 90
+Short term debt 9 9 11 11 2.1 11 0.0 11 11 11
+Total current liabilities 67 81 77 87 13.5 95 8.8 101 101 101
+Long term debt 68 46 43 788 NM 780 -1.0 772 764 756
+Other long term liabilities 11 22 19 17 -9.6 17 0.1 22 27 32
+Preferred shares 0 0 0 0 - 0 - 0 0 0
+Total liabilities (incl pref shares) 145 149 139 893 NM 892 0.0 895 892 889
+Common s/h equity 338 410 1,030 1,951 89.4 2,077 6.4 2,281 2,584 3,000
+Minority interests 0 0 0 0 - 0 - 0 0 0
+Total liabilities & equity 484 559 1,170 2,844 143.2 2,969 4.4 3,176 3,476 3,889
+
+Cash Flow (US$m) 12/22 12/23 12/24 12/25E %ch 12/26E %ch 12/27E 12/28E 12/29E
+Net income (before pref divs) (7) (23) 436 (53) - (7) 87.0 79 185 303
+Depreciation & amortisation 5 10 12 110 NM 155 40.7 158 161 164
+Net change in working capital (29) (22) (4) (77) NM (30) 61.6 (22) (12) (12)
+Other operating 89 120 (361) 177 - 176 -0.5 172 166 160
+Operating cash flow 58 85 83 157 90.4 295 87.3 388 500 615
+Tangible capital expenditure (8) (6) (5) (9) -76.2 (12) -29.5 (16) (16) (16)
+Intangible capital expenditure 0 0 0 0 - 0 - 0 0 0
+Net (acquisitions) & disposals 0 0 0 0 - 0 - 0 0 0
+Other investing (69) (89) (50) (1,399) NM 0 - 0 0 0
+Investing cash flow (77) (95) (56) (1,408) NM (12) 99.1 (16) (16) (16)
+Equity dividends paid 0 0 0 0 - 0 - 0 0 0
+Share issues / (buybacks) 0 0 0 0 - 0 - 0 0 0
+Other financing 19 (17) (59) (27) 54.9 0 - 0 0 0
+Change in debt & pref shares (3) (3) (3) 1,495 - (8) - (8) (8) (8)
+Financing cash flow 16 (19) (62) 1,468 - (8) - (8) (8) (8)
+Cash flow inc/(dec) in cash (2) (29) (35) 217 - 275 26.4 364 476 591
+FX / non cash items (2) 1 (10) 9 - 0 - 0 0 0
+Balance sheet inc/(dec) in cash (4) (29) (44) 227 - 275 21.4 364 476 591
+Source: Company accounts, UBS estimates. (UBS) metrics use reported figures which have been adjusted by UBS analysts.1 Cash EPS (UBS, diluted) is calculated using UBS net income adding back depreciation 
+and amortization.
+
+
+
+Clearwater Analytics Holdings Inc 30 April 2025 ab 3
+
+Clearwater Analytics Holdings Inc (CWAN.N)
+
+Valuation (x) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+P/E (local GAAP, diluted) NM NM 12.9 NM NM NM 40.9 25.6
+P/E (UBS, diluted) 73.4 52.3 44.8 37.7 28.4 22.7 17.5 14.2
+P/CEPS 49.4 36.3 31.9 17.8 14.2 12.4 10.4 9.0
+Equity FCF (UBS) yield % 1.6 2.3 1.8 3.2 6.2 8.1 10.6 13.1
+Dividend yield (net) % 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+P/BV 9.4 8.7 4.3 2.9 2.8 2.7 2.4 2.1
+EV/revenues (core) 9.5 9.0 9.4 6.5 5.3 4.1 3.4 2.2
+EV/EBITDA (UBS core) 35.7 31.4 29.3 20.2 15.5 11.4 8.9 5.7
+EV/EBIT (core) 38.1 34.6 31.9 38.3 30.9 18.9 13.2 7.8
+EV/OpFCF (core) 64.6 42.7 31.2 32.0 17.9 12.6 9.5 6.0
+EV/op. invested capital 25.7 16.3 7.4 2.9 2.1 2.1 2.3 2.0
+
+Enterprise value (US$m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Market cap. 3,082 3,495 4,408 4,572 4,572 4,572 4,572 4,572
+Net debt (cash) (187) (170) (145) 136 254 (73) (73) (1,043)
+Buy out of minorities 0 0 0 0 0 0 0 0
+Pension provisions/other 0 0 0 0 0 0 0 0
+Total enterprise value 2,895 3,324 4,263 4,708 4,826 4,499 4,499 3,529
+Non core assets 0 0 0 0 0 0 0 0
+Core enterprise value 2,895 3,324 4,263 4,708 4,826 4,499 4,499 3,529
+
+Growth (%) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Revenue 20.4 21.3 22.7 60.2 25.7 20.3 20.1 19.4
+EBITDA (UBS) 11.5 30.5 37.6 60.0 33.5 27.3 26.9 23.0
+EBIT (UBS) 9.7 26.3 39.1 (7.9) 27.1 52.3 43.5 32.9
+EPS (UBS, diluted) - 48.7 45.2 23.2 32.7 25.1 29.7 23.3
+Net DPS - - - - - - - -
+
+Margins & Profitability (%) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Gross profit margin NM NM NM NM NM NM NM NM
+EBITDA margin 26.7 28.8 32.2 32.2 34.2 36.2 38.2 39.4
+EBIT (UBS) margin 25.0 26.1 29.5 17.0 17.2 21.7 26.0 28.9
+Net earnings (UBS) margin 18.8 23.2 27.9 24.5 27.7 29.7 32.9 34.8
+ROIC (EBIT) 67.4 47.1 23.2 7.6 6.9 11.3 17.7 25.9
+ROIC post tax 67.4 47.1 23.2 7.6 6.9 11.3 17.7 25.9
+ROE (UBS) 19.0 22.8 17.5 11.9 12.5 14.9 17.8 19.5
+
+Capital structure & Coverage (x) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Net debt / EBITDA (2.1) (1.6) (0.8) 1.7 0.4 (0.7) (1.5) (2.2)
+Net debt / total equity % (51.5) (40.7) (11.9) 20.3 5.4 (11.4) (28.8) (44.8)
+Net debt / (net debt + total equity) % NM (68.6) (13.6) 16.8 5.1 (12.8) (40.4) (81.0)
+Net debt/EV % (6.5) (5.1) (3.4) 2.9 5.3 (1.6) (11.1) (29.5)
+Capex / depreciation % 151.0 56.6 43.2 8.4 7.7 10.1 9.9 9.7
+Capex / revenue % 2.6 1.5 1.2 1.3 1.3 1.5 1.2 1.0
+EBIT / net interest - - - 39.6 15.6 23.8 42.7 56.7
+Dividend cover (UBS) - - - - - - - -
+Div. payout ratio (UBS) % - - - - - - - -
+
+Revenues by division (US$m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Others 303 368 452 724 910 1,095 1,315 1,570
+Total 303 368 452 724 910 1,095 1,315 1,570
+
+EBIT (UBS) by division (US$m) 12/22 12/23 12/24 12/25E 12/26E 12/27E 12/28E 12/29E
+Others 76 96 133 123 156 238 341 454
+Total 76 96 133 123 156 238 341 454
+Source: Company accounts, UBS estimates. (UBS) metrics use reported figures which have been adjusted by UBS analysts.
+
+
+
+Clearwater Analytics Holdings Inc 30 April 2025 ab 4
+
+Forecast returns
+
+Forecast price appreciation 53.9%
+
+Forecast dividend yield 0.0%
+
+Forecast stock return 53.9%
+
+Market return assumption 8.6%
+
+Forecast excess return 45.3%
+
+Company Description
+
+Clearwater Analytics Holdings, Inc. is the leading provider of investment portfolio accounting 
+SaaS software for reporting, reconciliation, and analytics services for institutional investors. Its 
+products include automated data aggregation and validation, investment accounting, and 
+integrated reporting tools. The company was founded in 2004 by David Boren, Michael 
+Boren, and Douglas Bates and is headquartered in Boise, ID.
+
+Valuation Method and Risk Statement
+
+Valuation 2 year multiple based on FY27 estimates, rolled forward by Cost of Equity to derive 
+1 year price target. Its growth, margin structure, TAM, and retention outpace enterprise/SaaS 
+comps. An above-average peer group multiple looks fair, in our view, as growth and margins 
+outpace peers on cloud-native, multi-tenant SaaS offering. Limited history since IPO was in 
+2021. Risks—competition, execution with existing clients, M&A.
+
+
+
+Clearwater Analytics Holdings Inc 30 April 2025 ab 5
+
+Quantitative Research Review
+
+UBS Global Research publishes a quantitative assessment of its analysts' responses to certain questions about the likelihood of an occurrence 
+of a number of short term factors in a product known as the 'Quantitative Research Review'.  The views for this month can be found below. 
+Views contained in this assessment on a particular stock reflect only the views on those short term factors which are a different timeframe to 
+the 12-month timeframe reflected in any equity rating set out in this note.  For previous responses please make reference to (i) previous UBS 
+Global Research reports; and (ii) where no applicable research report was published that month, the Quantitative Research Review which can 
+be found at https://neo.ubs.com/quantitative, or contact your UBS sales representative for access to the report or the Quantitative Research 
+Team on ubs-quant-answers@ubs.com. A consolidated report which contains all responses is also available and again you should contact your 
+UBS sales representative for details and pricing or the Quantitative Research Team on the email above.
+
+                        Clearwater Analytics Holdings Inc                     
+
+Question Response
+
+1. Is the industry structure facing the firm likely to improve or deteriorate over the 
+next six months? Rate on a scale of 1-5 (1 = getting worse, 3 = no change, 5 = 
+getting better, N/A = no view)
+
+                                    3                             
+
+2. Is the regulatory/government environment facing the firm likely to improve or 
+deteriorate over the next six months? Rate on a scale of 1-5 (1 = getting tougher 
+3 = no change, 5 = getting better, N/A = no view)
+
+                                    2                             
+
+3. Over the last 3-6 months in broad terms have things been improving/no 
+change/getting worse for this stock? Rate on a scale of 1-5 (1 = getting a lot 
+worse, 3 = not much change, 5 = getting a lot better, N/A = no view)
+
+                                    3                             
+
+4. Relative to the current CONSENSUS EPS forecast, is the next company EPS 
+update likely to lead to:  (1 = negative surprise vs consensus, 3 = in-line with 
+consensus, 5 = positive surprise vs consensus expectations, N/A = no view)
+
+                                    3                             
+
+5. What’s driving the difference?                                                                  
+
+6. Relative to YOUR current earnings forecast, is there relatively greater risk at the 
+next earnings result of:(1 = downside skew risk to earnings, 3 = equal upside or 
+downside risk to earnings, 5 = upside skew risk to earnings, N/A = no view)
+
+                                    3                             
+
+7. What’s driving the difference?                                                                  
+
+8. Is there an upcoming catalyst for the company over the next three months?                                                                  
+
+9. Is there an actual or approximate date for the catalyst?                                                                  
+
+10. Is the catalyst date an actual or approximate date?                                                                  
+
+11. What is the catalyst?                                                                  
+
+https://neo.ubs.com/quantitative
+mailto:ubs-quant-answers@ubs.com
+
+
+Clearwater Analytics Holdings Inc 30 April 2025 ab 6
+
+Required Disclosures
+
+This document has been prepared by UBS Securities LLC, an affiliate of UBS AG. UBS AG, its subsidiaries, branches and affiliates, 
+including former Credit Suisse AG and its subsidiaries, branches and affiliates are referred to herein as "UBS".
+
+For information on the ways in which UBS manages conflicts and maintains independence of its UBS Global Research product; 
+historical performance information; certain additional disclosures concerning UBS Global Research recommendations; and terms and 
+conditions for certain third party data used in research report, please visit https://www.ubs.com/disclosures. Unless otherwise 
+indicated, information and data in this report are based on company disclosures including but not limited to annual, interim, quarterly 
+reports and other company announcements. The figures contained in performance charts refer to the past; past performance is not a 
+reliable indicator of future results. Additional information will be made available upon request. UBS Securities Co. Limited is licensed to 
+conduct securities investment consultancy businesses by the China Securities Regulatory Commission. UBS acts or may act as principal 
+in the debt securities (or in related derivatives) that may be the subject of this report. This recommendation was finalized on: 01 May 
+2025 02:46 AM GMT. UBS has designated certain UBS Global Research department members as Derivatives Research Analysts where 
+those department members publish research principally on the analysis of the price or market for a derivative, and provide information 
+reasonably sufficient upon which to base a decision to enter into a derivatives transaction. Where Derivatives Research Analysts co-
+author research reports with Equity Research Analysts or Economists, the Derivatives Research Analyst is responsible for the derivatives 
+investment views, forecasts, and/or recommendations. Quantitative Research Review: UBS Global Research publishes a 
+quantitative assessment of its analysts' responses to certain questions about the likelihood of an occurrence of a number of short term 
+factors in a product known as the 'Quantitative Research Review'. Views contained in this assessment on a particular stock reflect only 
+the views on those short term factors which are a different timeframe to the 12-month timeframe reflected in any equity rating set out 
+in this note. For the latest responses, please see the Quantitative Research Review Addendum at the back of this report, where 
+applicable. For previous responses please make reference to (i) previous UBS Global Research reports; and (ii) where no applicable 
+research report was published that month, the Quantitative Research Review which can be found at https://neo.ubs.com/
+quantitative, or contact your UBS sales representative for access to the report or the Quantitative Research Team on ubs-quant-
+answers@ubs.com.  A consolidated report which contains all responses is also available and again you should contact your UBS sales 
+representative for details and pricing or the Quantitative Research team on the email above.
+
+Analyst Certification: 
+Each research analyst primarily responsible for the content of this research report, in whole or in part, certifies that with respect to each 
+security or issuer that the analyst covered in this report: (1) all of the views expressed accurately reflect his or her personal views about 
+those securities or issuers and were prepared in an independent manner, including with respect to UBS, and (2) no part of his or her 
+compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by that research 
+analyst in the research report.
+
+UBS Global Research: Global Equity Rating Definitions
+
+12-Month Rating Definition Coverage1 IB Services2
+
+Buy FSR is > 6% above the MRA. 52% 24%
+
+Neutral FSR is between -6% and 6% of the MRA. 40% 20%
+
+Sell FSR is > 6% below the MRA. 8% 22%
+
+Short-Term Rating Definition Coverage3 IB Services4
+
+Buy Stock price expected to rise within three months from the time the 
+rating was assigned because of a specific catalyst or event. <1% <1%
+
+Sell Stock price expected to fall within three months from the time the 
+rating was assigned because of a specific catalyst or event. <1% <1%
+
+Source: UBS. Rating allocations are as of 31 March 2025.
+ 1:Percentage of companies under coverage globally within the 12-month rating category.
+ 2:Percentage of companies within the 12-month rating category for which investment banking (IB) services were provided within the 
+past 12 months.
+ 3:Percentage of companies under coverage globally within the Short-Term rating category.
+ 4:Percentage of companies within the Short-Term rating category for which investment banking (IB) services were provided within the 
+past 12 months.
+
+https://www.ubs.com/disclosures
+https://neo.ubs.com/quantitative
+https://neo.ubs.com/quantitative
+mailto:ubs-quant-answers@ubs.com
+mailto:ubs-quant-answers@ubs.com
+
+
+Clearwater Analytics Holdings Inc 30 April 2025 ab 7
+
+KEY DEFINITIONS: Forecast Stock Return (FSR) is defined as expected percentage price appreciation plus gross dividend yield over 
+the next 12 months. In some cases, this yield may be based on accrued dividends. Market Return Assumption (MRA) is defined as 
+the one-year local market interest rate plus 5% (a proxy for, and not a forecast of, the equity risk premium). Under Review (UR) 
+Stocks may be flagged as UR by the analyst, indicating that the stock's price target and/or rating are subject to possible change in the 
+near term, usually in response to an event that may affect the investment case or valuation. Short-Term Ratings reflect the expected 
+near-term (up to three months) performance of the stock and do not reflect any change in the fundamental view or investment case. 
+Equity Price Targets have an investment horizon of 12 months.
+
+EXCEPTIONS AND SPECIAL CASES: UK and European Investment Fund ratings and definitions are: Buy: Positive on factors 
+such as structure, management, performance record, discount; Neutral: Neutral on factors such as structure, management, 
+performance record, discount; Sell: Negative on factors such as structure, management, performance record, discount. Core 
+Banding Exceptions (CBE): Exceptions to the standard +/-6% bands may be granted by the Investment Review Consultation (IRC). 
+Factors considered by the IRC include the stock's volatility and the credit spread of the respective company's debt. As a result, stocks 
+deemed to be very high or low risk may be subject to higher or lower bands as they relate to the rating. When such exceptions apply, 
+they will be identified in the Company Disclosures table in the relevant research piece.
+
+Research analysts contributing to this report who are employed by any non-US affiliate of UBS Securities LLC are not registered/
+qualified as research analysts with FINRA. Such analysts may not be associated persons of UBS Securities LLC and therefore are not 
+subject to the FINRA restrictions on communications with a subject company, public appearances, and trading securities held by a 
+research analyst account. The name of each affiliate and analyst employed by that affiliate contributing to this report, if any, follows.
+
+UBS Securities LLC: Bruna Werneck, Kevin McVeigh, Marc Vitenzon, Olivia Lin.
+
+Company Disclosures
+
+Company Name Reuters 12-month rating Price Price date
+
+Clearwater Analytics Holdings Inc16,28 CWAN.N Buy US$22.74 30 Apr 2025
+
+Source: UBS Global Research; LSEG Eikon. All prices as of local market close. Ratings in this table are the most current 
+published ratings prior to this report. They may be more recent than the stock pricing date.
+16. UBS Securities LLC makes a market in the securities and/or ADRs of this company.
+28. UBS holds a long or short position of 0.5% or more of the listed shares of this company.
+
+Unless otherwise indicated, please refer to the Valuation and Risk sections within the body of this report. For a complete set of 
+disclosure statements associated with the companies discussed in this report, including information on valuation and risk, please 
+contact UBS Securities LLC, 1285 Avenue of Americas, New York, NY 10019, USA, Attention: Investment Research.
+
+Clearwater Analytics Holdings Inc (US$)
+
+Price Target (US$) Stock Price (US$)
+
+0
+
+8
+
+16
+
+24
+
+32
+
+40
+
+Buy
+
+No Rating
+
+Date Stock Price (US$) Price Target (US$) Rating
